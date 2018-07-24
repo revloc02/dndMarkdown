@@ -1,4 +1,4 @@
-# A Deeper Darkness
+# D&D 5e: Colver House Rules
 
 <div style='margin-top:25px'></div>
 <div class='wide'>
@@ -105,7 +105,7 @@ Magic is...well, magical. Cantrips are fairly common, but anything above that be
 * Levels 4-6 are uncommon. Many of the leaders across the land are in this category.
 * Levels 7-8 are rare. This consists of the greatest leaders.
 * Levels 9-10 are very rare. Only the most powerful kings and great arch-mages are this level.
-* Levels 10+ are only known in legends. Campaign NPCs with class levels will not exist in this category. PC adversaries will be monsters with a high CR.
+* Levels 10+ are only known in legends. Campaign humanoid NPCs with class levels will not exist in this category. PC adversaries will be monsters with a high CR.
 
 A town militia would be run by a 1st or 2nd level Fighter and be full of peasants. City guards would be 3rd level max, with a Captain that is 3rd to 5th level. Renowned heroes or Kings would be 8th level, some would be as high as 10th level. The local wizard studying in his tower would be a 6th to 10th level character. Most people are just people and anyone who has some class levels it is usually or 1 to 3 levels.
 
@@ -500,15 +500,18 @@ Roll ability scores in order (Str, Dex, Con, Int, Wis, Cha) by using the followi
 <div class='classTable'>
 
 ##### Peasant Pre-Levels
-| XP  | Pre-Level | HD  | Proficiency Bonus | New Features |
-|:---:|:-----:|:---:|:--------------:|:-----------:|
-| 0   | A     | 1d4 | +0  | none |
-| 150 | B     | 2d4 | +0  | Class Skill and benign Class Feature |
-| 250 | C     | 3d4 | +1  | Class Weapon or Cantrip, and 1 Saving Throw |
+| XP   | Pre-Level | HD  | Proficiency Bonus | New Features |
+|:----:|:-----:|:---:|:--------------:|:-----------:|
+| -450 | A     | 1d4 | +0  | none |
+| -400 | B     | 2d4 | +0  | 1 Class Skill, and Class Armor or Tool proficiency |
+| -250 | C     | 3d4 | +1  | 1 Class Weapon or Cantrip, and 1 Class Saving Throw |
 
 </div>
 
 ### Level Advancement
+
+To advance from level A to B is 50 XP, from B to C is 150 XP, and from C to level 1 is 250 XP.
+
 Once you advance through the pre-levels move on to 1st level.
 At 1st Level:
 * **Keep pre-level HPs:** Do not take max HPs for level 1, rather roll the dice normally plus CON and add on to pre-level HPs.
@@ -517,8 +520,38 @@ At 1st Level:
 
 As you continue advance levels do not take any Ability Score Improvements . These will be facilitated generously by the DM during game play.
 
-Pre-levels will never count towards any features or abilities that use levels as part of the calculation. 
+Pre-levels will never count towards any features or abilities that use levels as part of the calculation.
 
+### DM Notes
+
+* Make the players aware that their characters are very fragile, one successful attack against them could be the end. Running away, and player creativity and inginuity should be top prioities for encounters.
+* Look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI.
+* Create as many opportunities as possible for non-lethal dice rolls. Here are some examples:
+   * Make a Dex (Sleight of Hand) check to steal some Dire Platypus eggs for food
+   * Make a Int (History) check to see if anyone knows anything about the ruins of a razed settlement
+   * Make a Cha (Intimidation) check to chase away the owlbear cubs
+   * Make a Wis (Animal Handling) check to ride the horse
+   * ...and so forth
+* Have the characters "earn" the mechanical features from the Background they choose as a part of downtime activities. They should probably have all of these by level 3.
+* Characters should earn about 3 ASIs per pre-level, and through level 6, and then about 2 per level after that. The DM can choose to give any ASI upon character level up.
+___
+##### Guideline for ASI 
+| Level | ~Ability Score Total |
+|:-----:|:-----:|
+| A     | 48 |
+| B     | 51 |
+| C     | 54 |
+| 1     | 57 |
+| 2     | 60 |
+| 3     | 63 |
+| 4     | 66 |
+| 5     | 69 |
+| 6     | 72 |
+| 10    | 80 |
+| 15    | 90 |
+| 20    | 100 |
+
+   
 
 
 \pagebreakNum
@@ -654,8 +687,8 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 38 | Intellectual bully |
 | 39 | Makes allusions to events from history or mythology without bothering to explain them |
 | 40 | Hates a particular terrain type and complains loudly while within that terrain |
-| 41 | ===Constantly ask questions about things that are outside its vision |
-| 42 | ======Makes a list of things for its wearer or wielder to accomplish each day |
+| 41 | Constantly ask questions about things that are irrelevant, even to bad guys |
+| 42 | Makes a list of things to accomplish each day |
 | 43 | Cannot keep a secret |
 | 44 | Seems slightly surprised when anyone else has a good idea or does something productive |
 | 45 | Often whines |
@@ -670,7 +703,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 51 | Makes animal noises when feeling threatened or excited |
 | 52 | A lover or literature and poetry, it takes any opportunity to spout of a line or two of prose or verse |
 | 53 | Very superstitious |
-| 54 | Spurs on its wielder or wearer to brave or foolhardy acts |
+| 54 | Spurs on its party members to brave or foolhardy acts |
 | 55 | Never uses one word when 10 | will do |
 | 56 | Constantly asks to be destroyed, but panics if taken seriously |
 | 57 | Always has a reason why something will not work |
@@ -712,11 +745,11 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 93 | Diagnoses everyone with a mania, fixation, or curse, but is often wrong |
 | 94 | Explains simple things that don’t need explanations |
 | 95 | Constantly wishing for the end of the situation |
-| 96 | Believe it is a trapped god |
+| 96 | [][][][]Believe it is a trapped god |
 | 97 | Has an imaginary ethereal friend |
 | 98 | Is afraid of the dark |
-| 99 | Admonishes people for using profanity |
-| 100 | On edge and nervous when things seem to go well |
+| 99 | Chastizes people for using profanity |
+| 100 | On edge and nervous when things seem to be going too well |
 
 
 
@@ -1048,6 +1081,7 @@ As evidenced by Mearls' Greyhawk Initiative, [I'm not the only one who feels tha
 \pagebreakNum
 
 # Appendix A: Glossary
+* **ASI:** Ability Score Improvement. Any increase to an Ability Score of 1 or more points.
 * **Bloodied:** When a creature reaches half its hit points or less it has the Bloodied condition. *Narratively this means that the creature has more than battle fatigue and superficial cuts and bruises, they are wounded in a way that is serious and their life blood is beginning to flow out.*
 * **DMG:** Dungeons Master's Guide.
 * **HBR:** Home Brew Rules. This refers to home brew rules that are included in this document.
