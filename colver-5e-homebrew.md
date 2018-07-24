@@ -479,6 +479,13 @@ By choosing an ancestry, you are not determining your parentage, but what racial
 
 ***Ability Score Increases.*** As a result of this more flexible approach to race, all racial Ability Score Increases may be distributed to ability scores of your choice. For example, choosing a Half-Orc ancestry allows you to increase one ability score of your choice by 2, and one ability score by 1. These must be different ability scores.
 
+
+
+\pagebreakNum
+
+
+
+
 ## Alternate: Pre-Levels
 
 The concept of pre-levels is adding one or more character levels before level 1. In general abilities and resources that a character has at level one would then be divided among the pre-levels to attain a gradual progression.
@@ -494,8 +501,6 @@ Do not choose a class, you are a peasant. But do choose a Target Class, an Aptit
 ### Determine Ability Scores
 
 Roll ability scores in order (Str, Dex, Con, Int, Wis, Cha) by using the following formula: 8 + 1d4 - 1d4 (average 8). Alternatively you can roll 7 + 2d4 - 2d4 (average 7, but greater potential).
-
-\columnbreak
 
 <div class='classTable'>
 
@@ -522,6 +527,8 @@ As you continue advance levels do not take any Ability Score Improvements . Thes
 
 Pre-levels will never count towards any features or abilities that use levels as part of the calculation.
 
+\columnbreak
+
 ### DM Notes
 
 * Make the players aware that their characters are very fragile, one successful attack against them could be the end. Running away, and player creativity and inginuity should be top prioities for encounters.
@@ -534,9 +541,9 @@ Pre-levels will never count towards any features or abilities that use levels as
    * ...and so forth
 * Have the characters "earn" the mechanical features from the Background they choose as a part of downtime activities. They should probably have all of these by level 3.
 * Characters should earn about 3 ASIs per pre-level, and through level 6, and then about 2 per level after that. The DM can choose to give any ASI upon character level up.
-___
+
 ##### Guideline for ASI 
-| Level | ~Ability Score Total |
+| Level | Appox. Ability Score Total |
 |:-----:|:-----:|
 | A     | 48 |
 | B     | 51 |
@@ -640,7 +647,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 <style>
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p12 table {
+.phb#p14 table {
     font-size: 7.5pt;
 }
 </style>
