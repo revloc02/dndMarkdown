@@ -146,7 +146,9 @@ In their dark, quiet caves, stone giants wordlessly chip away at **elaborate car
 * **Ordning:** Strength and forgecraft skill
 
 ___
-**Master Crafters and Organized Warriors:** Fire are ruthless militaristic brutes whose mastery of **metalwork** is legendary. Fire giant fortresses are built around and inside volcanoes or near magma-filled caverns. The blistering heat of their homes fuels the fire giants’ forges, and causes the iron of their fortress walls to glow a comforting orange. In lands far removed from volcanic heat, fire giants mine coal to burn. Traditional **smithies** occupy places of honor.
+**Master Crafters and Organized Warriors:** Fire Giants are ruthless militaristic brutes whose mastery of **metalwork** is legendary. Fire giant fortresses are built around and inside volcanoes or near magma-filled caverns. The blistering heat of their homes fuels the fire giants’ forges, and causes the iron of their fortress walls to glow a comforting orange. Fire giant crafters work through insight and experience rather than the frivolousness of writing or arithmetic. Traditional smithies occupy places of honor.
+
+From birth, a fire giant is taught to embrace a legacy of **war**. At the cradle, its parents chant songs of battle. Enemies make the mistake of underestimating fire giants based on their brutish manner, learning too late that these giants live for combat and can be shrewd tacticians.
 
 ### Cloud Giant
 
@@ -158,13 +160,9 @@ ___
 * **Ordning:** Treasure, wealth, and gifts to other cloud giants
 
 ___
-**Aloof Spellcasters:** Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
+**Aloof Spellcasters:** Cloud giants live **extravagant** lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue. Better spellcasters than most other giants, some cloud giants can control weather, bring storms, and steer the wind.
 
-Better spellcasters than most other giants, some cloud giants can control weather, bring storms, and steer the wind almost as well as their cousins, the storm giants.
-
-Cloud giants are spread to the winds, encompassing vast areas of the world. In times of need, scattered cloud giant families band together as a unified clan. However, they can seldom do so quickly.
-
-Attuned to the magic of their airy domains, cloud giants are able to turn into mist and create clouds of billowing fog. They dwell in castles on high mountain peaks, or on the solid clouds that once held their fiefs. Still gracing the skies on occasion, these magic clouds are a lasting remnant of the giants’ lost empires.
+Cloud giants are spread to the winds, encompassing vast areas of the world. Attuned to the magic of their airy domains, cloud giants are able to turn into mist and create clouds of billowing fog. They dwell in **castles** on high mountain peaks, or on the solid clouds that once held their fiefs. Still gracing the skies on occasion, these magic clouds are a lasting remnant of the giants’ lost empires.
 
 ### Storm Giant
 
@@ -176,6 +174,8 @@ Attuned to the magic of their airy domains, cloud giants are able to turn into m
 * **Ordning:** They don’t compete for status in the ordning
 
 ___
-**Contemplative Seers:** Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes. Some rare storm giants are violet-skinned, with deep violet or blue-black hair and silvery gray or purple eyes. They are benevolent and wise unless angered, in response to which the fury of a storm giant can affect the fate of thousands. Storm giants live in isolated refuges so far above the surface of the world or below the sea that they are beyond the reach of most other creatures. Some make their abodes in cloud-top castles so high that flying dragons appear as specks below. Others live atop mountain peaks that pierce the clouds. Some occupy palaces covered with algae and coral at the bottom of the ocean, or grim fortresses in undersea rifts.
+**Contemplative Seers:** Storm Giants have pale purple-gray skin and hair, and glittering emerald eyes. They are **benevolent and wise** unless angered, in response to which the fury of a storm giant can affect the fate of thousands. Storm giants live in isolated refuges so far above the surface of the world or below the sea that they are beyond the reach of most other creatures.
+
+Storm giants recall the glory of ancient giant empires and they live out the centuries of their existence in contemplative seclusion, watching for signs, symbols, and omens of Annam’s favor. By reading omens and prophesying, storm giants learn of vast secrets previously unknown and **troves of lore** utterly forgotten.
 
 <div class='footnote'>Giants</div>
