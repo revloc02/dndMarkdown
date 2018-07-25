@@ -1,12 +1,15 @@
 # Alignment
+
 ___
 Broadly describes moral and personal attitudes of creatures. For PCs alignment is descriptive not prescriptive.
 
 #### Lawful-Neutral-Chaotic Axis
-Attitudes toward society and order
+Attitudes toward society and order. Lawful creatures respect authority, honor tradition, and follow the law. Chaotic creatures follow their consciences regardless of the law, resent being told what to do, and favor new ideas over old cultural traditions.
 
 #### Good-Neutral-Evil Axis
-Morality
+Morality. Good creatures protect innocent life and keep their word. Evil disregards life and will lie, cheat, and steal without conscience.
+
+<img src='https://i.imgur.com/dWXbtL0.png' style='position:absolute;top:309px;left:50px;width:350px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%)opacity(15%);' />
 
 ### Lawful Good
 * Creatures can be counted on to do the right thing and follow rules as expected by society.
@@ -43,6 +46,8 @@ Morality
 * label - reasoning
 * example D&D creature(s)
 * example pop culture personality
+
+<img src='https://i.imgur.com/ZOUjaYg.png' style='position:absolute;top:128px;right:50px;width:350px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%)opacity(10%);' />
 
 ### Lawful Evil
 * Creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order.
