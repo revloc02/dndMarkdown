@@ -1,12 +1,18 @@
 # Metallic Dragons
 
+___
+Metallic dragons seek to **preserve and protect**, viewing themselves as one powerful race among the many races that have a place in the world.
+
 #### Brass Dragon
 
 <img src='https://www.gmbinder.com/images/zcrKpTe.png' style='position:absolute;top:0px;right:0px;width:408px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);' />
 
-The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
+* **Alignment**: Chaotic Good
+* **Habitat:** Deserts, hot and dry climates; love sunlight
+* **Breath Weapon:** Fire or sleep
 
-A brass dragon engages in conversations with thousands of creatures throughout its long life, accumulating useful information which it will gladly share for gifts of treasure. If an intelligent creature tries to leave a brass dragon’s presence without engaging in conversation, the dragon follows it. If the creature attempts to escape by magic or force, the dragon might respond with a fit of pique, using its sleep gas to incapacitate the creature. When it wakes, the creature finds itself pinned to the ground by giant claws or buried up to its neck in the sand while the dragon’s thirst for small talk is slaked.
+___
+**Very Gregarious:** A brass dragon engages in conversations with thousands of creatures throughout its long life, accumulating useful information which it will gladly share for gifts of treasure. If an intelligent creature tries to leave a brass dragon’s presence without engaging in conversation, the dragon follows it. If the creature attempts to escape by magic or force, the dragon might respond with a fit of pique, using its sleep gas to incapacitate the creature. When it wakes, the creature finds itself pinned to the ground by giant claws or buried up to its neck in the sand while the dragon’s thirst for small talk is slaked.
 
 A brass dragon’s desert lair is typically a ruin, canyon, or cave network with ceiling holes to allow for sunlight.
 
@@ -14,7 +20,8 @@ A brass dragon’s desert lair is typically a ruin, canyon, or cave network with
 
 <img src='https://www.gmbinder.com/images/bINmjwn.png' style='position:absolute;top:300px;right:-20px;width:448px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
-Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
+___
+**Incorrigible Pranksters, Joke Tellers, and Riddlers:** that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
 
 A copper dragon appreciates wit, a good joke, humorous story, or riddle. A copper dragon becomes annoyed with any creature that doesn’t laugh at its jokes or accept its tricks with good humor.
 
