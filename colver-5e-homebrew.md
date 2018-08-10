@@ -325,39 +325,46 @@ Occasionally while dipping into your vitality you will experience a surge of inv
 
 # Pool Inspiration
 
-Using these rules, Inspiration is a resource shared between the characters of the party. Inspiration is awarded to a player or character as per RAW, but the point of Inspiration goes into a party Pool of Inspiration that can be used by all of the players whenever they want. This encourages the party to work together as a team. Ideally Inspiration points in the pool should be represented by some physical object such as poker chips, tokens, or counter beads, and kept where all can view and utilize the pool.
+Using these rules, Inspiration is a resource shared between the characters of the party. When Inspiration is awarded to a character (as per RAW), the point of Inspiration goes into a party Pool of Inspiration that can be used by all of the players whenever they want or as agreed upon by the group. This encourages the party to work together as a team.
 
-The limit as to how much Inspiration can be in the pool is up to the DM. A rough rule of thumb could be 2 or 3 times the number of characters in the party.
+Ideally Inspiration points in the pool should be represented at the table by some physical object such as poker chips, tokens, or counter beads, and kept where all can view and utilize the pool.
+
+The limit as to how much Inspiration can be in the pool is up to the DM. A rough rule of thumb is 1 to 3 times the number of characters in the party.
 
 ___
 > ##### Summary
 > Inspiration is a resource shared by the entire party, and the pool of Inspiration can hold several points of Inspiration.
 
+## Acquiring Inspiration
+
+* **Momentum:**
+As motivation to have players experience more encounters in a game day the DM can reward a number of Inspiration points equal to the encounter number for that day. E.g. characters receive 1 Inspiration to their pool after the first encounter of the day, 2 Inspiration after the second, 3 after the third, and so forth.
+
 ## Spending Inspiration
 
-When a player spends Inspiration from the Pool typically they should narrate how their character's actions are inspired or inspiring.
+When a player spends Inspiration from the Pool typically they should narrate how their character's actions are inspired, inspiring or heroic.
 
 * ***Advantage/Disadvantage:***
-Must be declared before any creature makes an attack roll, saving throw, or ability check. That creature then rolls with Advantage or Disadvantage at the bidder's choosing.
-* ***Act Out of Turn:*** Take your turn immediately. Treat this as a readied action, moving your initiative to just before the currently acting creature.
+Must be declared before any creature makes an attack roll, saving throw, or ability check. That creature then rolls with Advantage or Disadvantage at the player's choosing.
+* ***Act Out of Turn:*** Take your turn immediately (i.e. out of inititive order). Treat this as a readied action, moving your initiative for this round to just before the currently acting creature.
 * ***Extra Action:***
-On your turn to gain an additional Move, Action, Bonus Action, Interaction, or Reaction this turn.
-* ***Recall:***
-You may recall a spell you have already cast or to gain another use of a special ability that is otherwise limited. This should only be used on spells and abilities possessed by your character that recharge on a daily basis.
+Gain an additional Move, Action, Bonus Action, Interaction, or Reaction this turn.
 * ***Reroll:***
-You may reroll any one d20 roll you just made. You must take the results of the second roll, even if it is worse.
-* ***Remove Exhaustion***
+You may reroll any one roll you just made. You must take the results of the second roll, even if it is worse.
+* ***Recall (Spell-Level/2 Inspiration):***
+You may recall a spell you have already cast at the cost of 1 Inspiration for every 2 spell levels rounding up. 1st or 2nd level spells cost 1 Inspiration to recall, 3rd and 4th cost 2 Inspiration, and so forth up to 9th level spells costing 5 Inspirtaion to recall. Additionally, Recall can be used to gain another use of a special ability that is otherwise limited. This should only be used on feats and abilities possessed by your character that recharge on a daily basis. The DM will determine the approximate equivalent spell level for the ability so Inspiration cost can be determined.
+* ***Remove Exhaustion (3 Inspiration):***
 You may remove one level of Exhaustion from a character.
 
 \columnbreak
 
 * ***Revelation:***
-If you feel stuck at one point in the adventure, you can spend a hero point and petition the GM for a hint about what to do next. If the GM feels that there is no information to be gained, the hero point is not spent.
-* ***Stunt (2 Inspiration).***
-Player may modify an action by declaring that action a Stunt. Must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. For example, sprinting an extra 10 feet in a direction, extending the range of a spell a small amount, or specifically targeting an enemies weak point, etc. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect, such as blinding, deafening, moving a creature up to 5 feet in a direction, knocking a creature prone, or more. Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. If the stunt turns out to be a particularly spectacular success (because of dice rolls) the DM may choose refund one Inspiration point.
-* ***Cheat Death (2 Inspiration):***
+If you feel stuck at one point in the adventure, you can spend a hero point and petition the DM for a hint about what to do next. If the DM feels that there is no information to be gained, the Inspiration point is not spent.
+* ***Stunt (2 Inspiration):***
+Player may modify an action by declaring that action a Stunt. Must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. For example, sprinting an extra 10 feet in a direction, extending the range of a spell a small amount, or specifically targeting an enemies weak point, etc. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect, such as blinding, deafening, moving a creature up to 5 feet in a direction, knocking a creature prone, disarming, or more. Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. If the stunt turns out to be a particularly spectacular success (because of dice rolls) the DM may choose refund one Inspiration point.
+* ***Cheat Death (4 Inspiration):***
 How this plays out is up to the DM, but generally the character is left alive, with 1 hit point, Unconscious, but stable. For example, a character is about to be slain by a critical hit from an arrow. If the character spends 2 Inspiration points, the DM decides that the arrow pierced the character’s holy symbol, reducing the damage enough to prevent him from being killed, and that he made his stabilization roll at the end of his turn. The character can spend Inspiration points in this way to prevent the death of a familiar, animal companion, eidolon, or special mount, but not another character or NPC.
-* ***Special (Inspiration costs varies):***
+* **Special (Inspiration costs varies):**
 You can petition the GM to attempt nearly anything that would normally be almost impossible. Such uses are not guaranteed and should be considered carefully by the DM. Possibilities include casting a single spell that is one level higher than you could normally cast (or a 1st-level spell if you are not a spellcaster), making an attack that blinds a foe or bypasses its damage reduction entirely, or attempting to use Diplomacy to convince a raging dragon to give up its attack. Regardless of the desired action, the attempt should be accompanied by a difficult check or penalty on the attack roll. No additional attempts may be made for such a special action by the character or his allies regardless of the amount of Inspiration points available, and the cost is determined by the DM.
 
 <img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:-10px;right:0px;width:820px; mix-blend-mode:multiply;' />
