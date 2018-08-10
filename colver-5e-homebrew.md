@@ -337,6 +337,8 @@ ___
 
 ## Acquiring Inspiration
 
+* **Momentum:**
+As motivation to have players experience more encounters in a game day the DM can reward a number of Inspiration points equal to the encounter number for that day. E.g. characters receive 1 Inspiration to their pool after the first encounter of the day, 2 Inspiration after the second, 3 after the third, and so forth.
 
 ## Spending Inspiration
 
