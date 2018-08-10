@@ -83,11 +83,11 @@ Extensive notes on thought process, as well as tips for using these rules in you
 </div>
 <div style='margin-top:200px;'></div>
 
-# Campaign World
+# Campaign World Setting
 
 The world in which you play is
 
-## Low but Epic Fantasy
+## Low Magic but Epic Fantasy
 
 ### Adventurers are Rare
 
@@ -428,9 +428,9 @@ Each round consists of the following phases that are progressed through in the f
 
 ### Enemy Planning Phase
 
-During this phase, the DM examines the battlefield and declares the intentions of the creatures under his control. This description should be as short as possible. "The Skeletons are going to focus on taking out the Warlock", "The Dragon is going to ignore the party and attack the church", "The Bandits are going to try to block your escape, while the archers pepper you from out of range", "The Rogue is looking to get out of danger, it's unclear what his intentions are", etc.
+During this phase, the DM examines the battlefield and indicates the apparent intent of the creatures under his control. This description should be brief, "The Skeletons are going to focus on taking out the Warlock," or "The Dragon is going to ignore the party and attack the church," or "The Bandits are going to try to block your escape, while the archers pepper you from out of range," or "The Rogue is looking to get out of danger, it's unclear what his intentions are," etc.
 
-What is happening is that the players are reading the battlefield and assessing the current situation. This allows them to make educated decisions and have the opportunity to thwart the enemy's plans.
+This models what the players are reading from the battlefield and their assessment of the current situation. This allows them to make educated decisions and have the opportunity to thwart the enemy's plans.
 
 ### Player Planning Phase
 
@@ -444,7 +444,7 @@ Each player and enemy simultaneously rolls initiative. Players roll the largest 
 
 The DM begins by announcing "Initiative Count 1" to the table. If there are any creatures that rolled a 1 for their Initiative are then able to act. If there are any ties, the creature with the highest Passive Initiative goes first.
 
-After all creatures on Initiative Count 1 act, the DM continues counting. "Initiative Count 2", "Initiative Count 3", etc. This process continues until all creatures have acted.
+After all creatures on Initiative Count 1 act, the DM continues counting, "Initiative Count 2", "Initiative Count 3", etc. This process continues until all creatures have acted.
 
 ### End Phase
 
@@ -469,7 +469,7 @@ Adventurers are exceptional specimens, and they have the talent to prove it. All
 
 ### Advantage on HP rolls
 
-Whenever you go up a level and are rolling for HPs, roll with advantage with your DM. (Depending on your results the DM may choose to give you another additional roll.)
+Whenever you go up a level and are rolling for HPs, roll with advantage with your DM. (Depending on your results the DM may choose to give you another additional reroll.)
 
 ### Optional: Ancestry
  
