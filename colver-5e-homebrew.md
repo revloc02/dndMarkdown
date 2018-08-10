@@ -252,7 +252,7 @@ Levels of Exhaustion can be removed in the following ways:
 - Potion of Vitality: removes all exhaustion (RAW)
 - Finishing a long rest reduces a creature's exhaustion level by one, provided that the creature has also ingested some food and drink (RAW)
 - You may spend two HD to reduce Exhaustion by one level (HBR)
-- You may spend one Inspiration to reduce Exhaustion by one level (HBR)
+- You may spend Inspiration (see Pool Inspiration) to reduce Exhaustion (HBR)
 
 
 
@@ -361,7 +361,7 @@ You may remove one level of Exhaustion from a character.
 * ***Revelation:***
 If you feel stuck at one point in the adventure, you can spend a hero point and petition the DM for a hint about what to do next. If the DM feels that there is no information to be gained, the Inspiration point is not spent.
 * ***Stunt (2 Inspiration):***
-Player may modify an action by declaring that action a Stunt. Must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. For example, sprinting an extra 10 feet in a direction, extending the range of a spell a small amount, or specifically targeting an enemies weak point, etc. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect, such as blinding, deafening, moving a creature up to 5 feet in a direction, knocking a creature prone, disarming, or more. Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. If the stunt turns out to be a particularly spectacular success (because of dice rolls) the DM may choose refund one Inspiration point.
+Player may modify an action by declaring that action a Stunt. Must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. For example, sprinting an extra 10 feet in a direction, extending the range of a spell a small amount, or specifically targeting an enemies weak point, etc. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect, such as blinding, deafening, moving a creature up to 5 feet in a direction, knocking a creature prone, disarming, cleaving, or more. Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. If the stunt turns out to be a particularly spectacular success (because of favorable dice rolls) the DM may choose refund one Inspiration point.
 * ***Cheat Death (4 Inspiration):***
 How this plays out is up to the DM, but generally the character is left alive, with 1 hit point, Unconscious, but stable. For example, a character is about to be slain by a critical hit from an arrow. If the character spends 2 Inspiration points, the DM decides that the arrow pierced the character’s holy symbol, reducing the damage enough to prevent him from being killed, and that he made his stabilization roll at the end of his turn. The character can spend Inspiration points in this way to prevent the death of a familiar, animal companion, eidolon, or special mount, but not another character or NPC.
 * **Special (Inspiration costs varies):**
@@ -455,7 +455,7 @@ After all creatures on Initiative Count 1 act, the DM continues counting, "Initi
 
 ### End Phase
 
-Anything that needs to be resolved at the end of a round of combat, such as status effects or magic durations resolve now.
+Anything that needs to be resolved at the end of a round of combat. This includes status effects or magic durations.
 
 <img src='https://www.gmbinder.com/images/I1dFekv.png' style='position:absolute;bottom:0px;left:20px;width: 790px; mix-blend-mode:multiply;' />
 
@@ -572,36 +572,38 @@ Pre-levels will never count towards any features or abilities that use levels as
 
 
 
-## Describe Your Character
+## Character Depth
 
 Be sure to go through _Chapter 4: Personality and Background_ of the PHB and flesh out your character. **This does not all need to be done before you begin playing**, but it should be done at some point early in your character's career. Be sure not to skip over anything. Determine your _Height and Weight_, and _Other Physical Characteristics_. Select an _Alignment_. Choose a _Background_ and _Personal Characteristics_.
 
 > ##### Note About Alignment 
 > Alignment is descriptive not prescriptive.
 
-As you work on that, also consider the following elements of your character. In order to be truly effective **this should be written down** on your character sheet. Take time to do that.
+As you work on that, also consider the following elements of your character. In order to be truly effective **this should be written down** on your character sheet. Take time to do that. Feel free to make changes or adjustments to these character depth details as you go along so that they are more congruent (they match with each other).
 
 ### Personality Quirks
 
-Personality Quirks add much flavor to a character and are meant to be mechanically benign. Give your character one to three Personality Quirks. Either choose or roll 1-3 times on the Personality Quirks Table, or make up your own personality quirk(s).
+Personality Quirks are unusual characteristics, weird behaviors, or peculiar habits that add much flavor to a character and are meant to be mechanically benign. Give your character one to three Personality Quirks. Either choose or roll 1-3 times on the Personality Quirks Table, or make up your own personality quirk(s).
 
 ### Character History
 
-Tell your character's story.
+Tell your character's story. Here's some questions to get you started:
 * What are the important details from your past?
 * Where did you grow up or where are you from?
 * What is your family like and who are the members of it?
 * What relationships do you have and with whom?
-* What was your occupation or your father's occupation?
+* What was your occupation and/or hobby? What is your father's occupation?
 * What are some of the interesting things that have happened to you in your life?
-* How did you discover your special abilities (from your Class)?
+* How did you discover your special powers (from your Class)?
 * How did you obtain some of the skills and abilities you are proficient in?
 * You got an extra feat, how did you learn that ability?
 * What are the explanations of your Personality traits, ideals, bonds, and flaws?
 * What are some of your past accomplishments?
 * Who are people that have influenced you, or that you looked up to?
 * Do you have a title, reputation, or position?
-* What problems are you dealing with?
+* What are some things that you dislike or that really bother you?
+* What personal problems are you dealing with?
+* Do you have other character flaws or shortcomings?
 * What are your aspirations, dreams, or goals?
 
 As you play this game some of the answers to these questions may change. Flesh them out as your character gains experiences and builds character. You may not have the details for some of the answers now, but as they come continue to write them down.
@@ -616,7 +618,7 @@ Why are you an adventurer? Here are some ideas:
    * A missing family heirloom
    * An artifact
    * Trying to figure out who you are
-   * Understanding of why you have special abilities
+   * Understanding of why you have special powers
 * Quest:
    * Destroy something evil
    * Performing a task for the king, chief, or leader
@@ -645,6 +647,8 @@ Think about what you, as the player, want to do with your character over a long 
 * As a player, what are you trying to do in the world on a grand scale?
 
 Examples: rule a dominion as king or emperor, create a major artifact, explore worlds beyond this world, become a demigod, discover lost magical secrets, destroy some great specific evil, get fabulously rich and retire, build a great city or empire
+
+Remember to adjust and add to these details as you go on your adventure. Talk to the DM if you feel you need to make some changes so they better fit you and your character.
 
 
 
@@ -691,7 +695,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 28 | Has a particular core belief, a rather odd one, and steadfastly looks at everything through the lens of that opinion |
 | 29 | Likes to count things and has fun with numbers |
 | 30 | Always tries to find compromise |
-| 31 | Is always talking to itself |
+| 31 | Is always talking to self |
 | 32 | Very bad liar |
 | 33 | Asks rude questions without realizing they cause offense |
 | 34 | Grumbles and complains about its form and plight |
@@ -721,22 +725,22 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 55 | Never uses one word when 10 | will do |
 | 56 | Constantly asks to be destroyed, but panics if taken seriously |
 | 57 | Always has a reason why something will not work |
-| 58 | [][][][]Claims to be in love with the bearer |
+| 58 | Goes crazy whenever a certain word is uttered |
 | 59 | Tells boring stories about something mundane |
 | 60 | Constantly suggests ways to make activities more “fun” and “exciting” |
 | 61 | Collects words from languages it doesn’t know, and uses them in place of words in the language it most commonly uses |
 | 62 | Dotes on others |
-| 63 | Often ignores its wearer or wielder |
-| 64 | Loathes itself |
-| 65 | Occasionally chants annoying little rhymes |
-| 66 | Acts as if it is friends with, but obviously hates, its wearer or wielder |
+| 63 | Often ignores others |
+| 64 | Loathes self |
+| 65 | Often chants annoying little rhymes |
+| 66 | Constantly making loud bodily noises |
 | 67 | Openly scornful of organized religion and believes gods are selfish liars |
 | 68 | Gets angrier and more determined with each setback |
 | 69 | Thinks most objects are intelligent items |
 | 70 | Lacks a moral compass when making plans and often proposes horrific solutions to minor problems |
-| 71 | [][][][]Falls quiet for stretches where it will not talk to anyone for days |
+| 71 | Often uses vocabulary incorrectly |
 | 72 | Believes it is losing its mind |
-| 73 | Constantly name-drops a famous past bearer |
+| 73 | Constantly name-drops |
 | 74 | Has terrible syntax and diction |
 | 75 | Never tires of learning new and interesting bits of information |
 | 76 | Complains about smells that no one else notices |
@@ -754,12 +758,12 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 88 | Is a little unhinged |
 | 89 | Questions others about their background in order to determine if they are “suitable” |
 | 90 | Is often confused by the deeds of others and regularly asks about the reason for certain actions |
-| 91 | [][][][]Very jealous and possessive about its wielder or wearer |
-| 92 | Continually mentions a heroic battle it participated in and how nothing else compares |
+| 91 | Very jealous and possessive |
+| 92 | Continually mentions a heroic event he participated in and how nothing else compares |
 | 93 | Diagnoses everyone with a mania, fixation, or curse, but is often wrong |
 | 94 | Explains simple things that don’t need explanations |
 | 95 | Constantly wishing for the end of the situation |
-| 96 | [][][][]Believe it is a trapped god |
+| 96 | Cannot resist shopping opportunities (even without spending money) |
 | 97 | Has an imaginary ethereal friend |
 | 98 | Is afraid of the dark |
 | 99 | Chastizes people for using profanity |
@@ -774,7 +778,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 <div class='partpage-dmg'>
 
 # PART 4
-##### GM Notes
+##### DM Notes
 
 </div>
 
@@ -835,7 +839,7 @@ During the session:
 ___
 Between sessions:
 * **Record the session**
-* Prepare the first round or two of an upcoming battle
+* **Prepare spells and special abilities** for the first round or two of an upcoming battle 
 
 
 \pagebreakNum
