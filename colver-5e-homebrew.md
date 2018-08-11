@@ -436,9 +436,13 @@ Each round consists of the following phases that are progressed through in the f
 
 ### Enemy Planning Phase
 
-During this phase, the DM examines the battlefield and indicates the apparent intent of the creatures under his control. This description should be brief, "The Skeletons are going to focus on taking out the Warlock," or "The Dragon is going to ignore the party and attack the church," or "The Bandits are going to try to block your escape, while the archers pepper you from out of range," or "The Rogue is looking to get out of danger, it's unclear what his intentions are," etc.
+During this phase, the DM examines the battlefield and indicates the apparent intent of the creatures under his control. This description should be brief, "The Skeletons all turn their attention on the Warlock," or "The Dragon looks like he's going to ignore the party and attack the church," or "The Bandits are shifting as if to try to block your escape, while the archers continue to pepper you from out of range," or "The Rogue is looking to get out of danger, it's unclear what his intentions are," etc.
 
-This models what the players are reading from the battlefield and their assessment of the current situation. This allows them to make educated decisions and have the opportunity to thwart the enemy's plans.
+<div class='descriptive'>
+
+**Note:** This is not meant to be a free Insight check, rather it presents a stage in each round that prompts the DM to create drama and intesity. It is a catalyst for narrative flavor to dovetail in the midst of D&D's Combat game play. "The dragon is drawing a deep breath," or "The knave looks around for an escape route, as if he's about to bolt." Here surprising twists can be revealed, or DM hints can be dropped i.e. the party is in over their heads. It isn't that this couldn't otherwise be done, rather it is a gaming mechanic that allows the characters to make educated decisions during their planning phase. Ultimately it is about telling a story together.
+
+</div>
 
 ### Player Planning Phase
 
@@ -585,7 +589,7 @@ As you work on that, also consider the following elements of your character. In 
 
 #### Personality Quirks
 
-Personality Quirks are unusual characteristics, weird behaviors, or peculiar habits that add much flavor to a character and are meant to be mechanically benign. Give your character one to three Personality Quirks. Either choose or roll 1-3 times on the Personality Quirks Table, or make up your own personality quirk(s).
+Personality Quirks are unusual characteristics, weird behaviors, or peculiar habits that add much flavor to a character and are meant to be mechanically benign. Give your character one to three Personality Quirks. Either choose or roll 1-3 times on the Personality Quirk Table (see the next page), or make up your own personality quirk(s).
 
 #### Character History
 
