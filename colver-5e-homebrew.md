@@ -243,6 +243,8 @@ If you take any damage while you are **Dying**, you suffer **+1 Exhaustion** lev
 
 Effects that stabalize a **Dying** creature now do so by healing for one hit point. Stabalization via first aid can be done on any creature you can touch and requires a successful Wisdom (Medicine) check with a DC of 10 + targets exhaustion level.
 
+#### Optional: Dying Survivor Injury
+
 Creatures that have been stabalized from **Dying** have been at deaths door. Thats a very traumatic situation. It may be appropriate to roll on the "Lingering Injuries Table" (DMG ch9) for the creature. 
 
 #### A Note on Exhaustion Removal
@@ -253,6 +255,27 @@ Levels of Exhaustion can be removed in the following ways:
 - Finishing a long rest reduces a creature's exhaustion level by one, provided that the creature has also ingested some food and drink (RAW)
 - You may spend two HD to reduce Exhaustion by one level (HBR)
 - You may spend Inspiration (see Pool Inspiration) to reduce Exhaustion (HBR)
+
+
+
+\pagebreakNum
+
+
+
+### Healer's Kit
+The Healer's Kit is intended to help stabilize dying players. This variant uses part of the Healer Feat to help make it useful, while keeping the idea of the medic patching someone up to get them out of harm's way.
+
+> ##### Healer's Kit (Variant)
+> This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit on a creature on Death's Door. That creature gains 1 Hit Point.
+
+\columnbreak
+
+### Healer Feat
+The Healer Feat is intended to make Healing Kits more useful. This variant is based on [a blog post by Chris Perkins](https://scruffygrognard.wordpress.com/2015/05/25/fixing-the-medicine-skill-healers-kit-and-healer-feat-dd-5th-edition/comment-page-1/).
+> ##### Healer (Variant)
+> * You have advantage on all Wisdom (Medicine) checks.
+> * When you use a healer’s kit on a creature On Death's Door, that creature also regains 1d6+4 hit points.
+> * As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest.
 
 
 
@@ -422,11 +445,11 @@ If it takes damage from multiple sources, such as an arrow and a dragon’s brea
 
  </div>
 
-<img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:-10px;right:0px;width:820px; mix-blend-mode:multiply;' />
+<img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:-10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
 
 \pagebreakNum
 
-<img src='http://tinyimg.io/i/zTQxE4v.png' style='position:absolute;top:60px;right:0px;width:820px; mix-blend-mode:multiply;' />
+<img src='https://www.gmbinder.com/images/u07lcKh.png' style='position:absolute;top:60px;right:0px;width:820px; mix-blend-mode:multiply;' />
 
 \pagebreakNum
 
@@ -462,7 +485,7 @@ After all creatures on Initiative Count 1 act, the DM continues counting, "Initi
 
 Anything that needs to be resolved at the end of a round of combat. This includes status effects or magic durations.
 
-<img src='https://www.gmbinder.com/images/I1dFekv.png' style='position:absolute;bottom:0px;left:20px;width: 790px; mix-blend-mode:multiply;' />
+<img src='https://www.gmbinder.com/images/I1dFekv.png' style='position:absolute;bottom:10px;right:15px;width:780px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />
 
 
 
@@ -667,7 +690,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 <style>
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p14 table {
+.phb#p15 table {
     font-size: 7.5pt;
 }
 </style>
@@ -851,205 +874,10 @@ Between sessions:
 * **Prepare spells and special abilities** for the first round or two of an upcoming battle 
 
 
-\pagebreakNum
-
-# On Death's Door: Use in your game
-The *Death's Door* variant rules are designed to allow the players to participate in combat after they drop to 0, and to feel the stress of 'Fight or Flight'. While players will actually be slightly more difficult to kill, it creates the feeling of just barely surviving deadly situations.
-
-### NPCs and Death
-Most DMs have a monster die the instant it drops to 0 hit points, rather than having it  make death saving throws, which means most creatures are assumed to require 0 Death Points to perish. If a typical monster gains 1 Death Point by any means, they die.
-
-Mighty villains and special nonplayer characters are common exceptions; the DM might have them be on Death's Door and follow the same rules as player characters. At the DM's discretion, they may need to accumulate 1-4 Death Points before perishing. 
-
-### Knocking a Creature Unconscious
-
-If the attack would deal the final Death Point that would kill a creature, the attacker can declare the attack to be non-lethal and knock them out instead.
-
-## Rules Conflicts
-
-These rules by and large do not interfere with other systems and mechanics in the rules of Dungeons and Dragons. The very few exceptions I've found are listed below. 
-
-### Dying and Stabilizing
-These variant rules eliminate the concept of 'dying' and 'stabilizing'.
-
-Mechanically speaking, in the vanilla rules the 'dying' status has always felt like a character has received a "Schodinger's Mortal Wound". They may or may not be actually dying, and a player who is holding in their guts needs only a Goodberry to be back in the fray. Not only that, but it's not fun as a player to have your turn skipped. 
-
-### Healer's Kit
-The Healer's Kit is intended to help stabilize dying players. This variant uses part of the Healer Feat to help make it useful, while keeping the idea of the medic patching someone up to get them out of harm's way.
-
-> ##### Healer's Kit (Variant)
-> This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit on a creature on Death's Door. That creature gains 1 Hit Point.
-
-\columnbreak
-
-### Healer Feat
-The Healer Feat is intended to make Healing Kits more useful. This variant is based on [a blog post by Chris Perkins](https://scruffygrognard.wordpress.com/2015/05/25/fixing-the-medicine-skill-healers-kit-and-healer-feat-dd-5th-edition/comment-page-1/).
-> ##### Healer (Variant)
-> * You have advantage on all Wisdom (Medicine) checks.
-> * When you use a healer’s kit on a creature On Death's Door, that creature also regains 1d6+4 hit points.
-> * As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest.
-
-### Spare the Dying
-
-The cantrip *Spare the Dying* is intended to help stabilize dying creatures. However, these variant rules eliminate the 'dying' condition.
-
-The original spell is intended to let players help an ally who is already in a dire situation. This alternative is intended to keep the spirit of the original spell and keeping its balance, while working within the new framework. 
-
-#### Rally the Dying
-*Necromancy cantrip*
-___
-- **Casting Time:** 1 reaction
-- **Range:** 60 feet
-- **Components:** V
-- **Duration:** Instantaneous
-
-You boost the life spark of one creature you can see within range that is making a Death Saving Throw. That creature has Advantage on that Death Saving Throw.
-
-### Rage Beyond Death
-The Path of the Zealot Barbarian from Xanathar's Guide to Everything gains the Rage Beyond Death ability at 14th level. Here's how to adapt it to your game.
-
-#### Rage Beyond Death
-Beginning at 14th level, the divine power that fuels your rage allows you to shrug off fatal blows.
-
-While you're raging, having 0 hit points and being on Death's Door does not give you three levels of temporary Exhaustion. You still must make death saving throws, and you suffer the normal effects of taking damage while at 0 hit points. However, if you would die due to accumulating Death Points, you don't die until your rage ends. If you end your rage with 1 or more Hit Points, remove one Death Point.
 
 \pagebreakNum
 
-# On Death's Door: Variant Rules
-___
-Listed below are a couple of variant rules that you might employ depending on the style of game you want to run.
 
-## Death Points
-___
-
-How a player gets rid of Death Points makes a big difference in the way the threat that Death Points represent are viewed. Here are three simple tweaks you can make to better suit your game style. 
-
-##### Variant: Lingering Injuries
-
-You remove one Death Point at the end of a Long Rest.
-
-##### Variant: Heroic
-
-During a short rest, you may expend a Hit Die to remove one Death Point. All Death Points are removed at the end of a long rest.
-
-##### Variant: Unstoppable
-
-You remove all Death Points at the end of a Short or Long Rest.
-
-
-## Optional Creature Attacks & Abilities
-
-Certain creatures such as a Bodak, Catoblepas, Death Knight, or others may have abilities that give players Death Points.
-
-This can be dramatic - imagine a Banshee's wail giving all players who hear it a Death Point as their heart skips a beat, threatening to stop in their chests. If you wish to give a monster an attack that inflicts Death Points, be careful not to make it disproportionately powerful. It should be considered approximately equivalent to granting a dangerous status effect or granting a level of Exhaustion, and should be treated with care not to make it too easy for an enemy to give a large number of Death Points in a short amount of time.
-
-## Knocking Players Unconscious
-___
->***Sandman.*** When this creature reduces a target to 0 hp, they may choose to knock their target unconscious.
-
-This is a passive ability that should be used sparingly as it bypasses Death Points. Players being knocked unconscious is generally not fun and these rules exist to avoid that situation. However, I can understand the DM's desire to have a creature knock a player unconscious for dramatic purposes, to be kidnapped, or for other nefarious reasons. In such a situation, a DM may want to give a creature this ability. Consider however, that if you are using these rules and you want the ability to knock players unconscious, On Death's Door may not be a good fit for your table.
-
-## Spell Variants
-
-The following spell variants are recommended modifications, but not required for play.
-
-### Greater Restoration
-
-Greater Restoration is modified so that in addition to all it's previous effects, it is also able to remove death points. This is the only feature, aside from a *wish* spell that can remove death points during combat. However, if you've managed to get a 5th level spell slot, you've earned it.
-
-#### Greater Restoration
-*5th level abjuration*
-___
-- **Casting Time:** 1 action
-- **Range:** Touch
-- **Components:** V, S, M (diamond dust worth at least 100 gp, which the spell consumes)
-- **Duration:** Instantaneous
-
-You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target’s exhaustion level by one, remove one death point, or end one of the following effects on the target:
-
-* One effect that charmed or petrified the target
-* One curse, including the target’s attunement to a cursed magic item
-* Any reduction to one of the target’s ability scores
-*  One effect reducing the target’s hit point maximum
-
-### Revivify
-
-Revivify is modified so that while it can bring the dead back from life, it's primary function is to heal a mortal wound. Subtle distinction, but for me it improves the flavor.
-
-#### Revivify
-*3rd level necromancy*
-___
-- **Casting Time:** 1 action
-- **Range:** Touch
-- **Components:** V, S, M (diamonds worth 300 gp, which the spell consumes)
-- **Duration:** Instantaneous
-
-You touch a creature that was mortally wounded within the last minute. That creature is healed, or returns to life with 1 hit point. This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts.
-
-\pagebreakNum
-
-# Pool Inspiration: Thought Process
-___
-## Inspirations
-* **FATE**
-* **Powered by the Apocalypse**
-* **Noir World**
-* **Blades in the Dark**
-
-### FATE Points 
-
-In the game FATE, there is a resource called [FATE Points](https://fate-srd.com/fate-core/fate-point-economy "title"), which are the primary mechanical inspiration for these rules, though I do take a different approach to the point economy.
-
-In FATE, there are four ways that FATE Points can be spent:
-
-* **Invoke an Aspect**
-* **Power a Stunt**
-* **Refuse a Compel**
-* **Declare a Story Detail**
-
-I'll now outline the four ways that I have proposed for spending Inspiration Tokens, and how they should hopefully accomplish similar goals.
-
-##### Advantage or Disadvantage
-
-This one is the most simple and straightforward. In the base rules for 5e, Inspiration grants Advantage on a dice roll, so leaving that functionality intact seemed to be the most logical course of action. It also ties into Power a Stunt, and gives players and DMs the ability to bend luck in their favor.
-
-##### Stunt
-
-Ties into both "Invoke an Aspect" and "Power a Stunt", as well as the idea of the Called Shot. Stunts are a concept that I have long wished for in 5e, as the ability to have an attack go above and beyond the norm at a critical juncture is great drama for both players and DM.
-
-I feel that every DM has been in a situation where the player has declared an amazing stunt where something other then just damage should occur. Picking up a foe and throwing them into another bad guy, ripping the arm off a skeleton, blinding a cyclops, etc. This then puts the DM in an awkward situation.
-
-They can either follow the narrative of what the player does, or declare that the rules must be followed as written. Yes, a player can use a shove action to either push or knock down a foe, but that's just not the same and it lacks the drama of slamming an enemy through a wall.
-
-This is further complicated by the very few enemies that have called shot mechanics built into them. The Hydra has special rules for cutting off a head, but it is the only enemy that you can target in such a way, and one of the only enemies that provides a path to victory other than "reduce to 0 hp".
-
-I would argue that subclasses like the Battlemaster Figher, and the Sorcerer's Metamagic has been too selfish in the ability to meaningfully modify their attacks. These rules are not meant to render these abilities redundant, but to spread the love a bit. By giving this possibility to all classes (and all monsters!) , it makes the game more dynamic overall. 
-
-##### Compel an Aspect
-
-Lifted straight from FATE, but applied only to characters. The phrasing is left deliberately broad. It is meant to include not just ideals, bonds, and flaws, though those are the most obvious, but also backgrounds, madness and other sanity effects, cursed items, paladin oaths, warlock patrons, and more. It is not intended to give the DM the power to force players to do their bidding, but to encourage the parts of their characters that are already there. More then that, it also lets the players realize that they can ask the DM to invoke an aspect on themselves to gain a powerful resource by acting in character.
-
-NPCs do not have Aspects, as there is not a lot of play space that would be opened up that was not covered by standard roleplaying, Charisma checks, and Narrative Control
-
-For more great reference, check out the FATE SRD pages on [Your Character Idea](https://fate-srd.com/fate-core/your-character-idea "Character Idea"), [Making a Good Aspect](https://fate-srd.com/fate-core/making-good-aspect "Good Aspects"), and [The Phase Trio](https://fate-srd.com/fate-core/phase-trio "Phase Trio")
-
-##### Narrative Control
-
-Functionally very similar to FATE's "Declare a Story Detail", as well as "Invoke an Aspect" this option provides everyone at the table the opportunity to direct where the game should go.
-
-[Previously, I used a Inspiration Deck.](https://drive.google.com/file/d/0B7dSqOD0xzM4OHozM3NDYmZPb0E/view?usp=sharing "Inspiration Deck") A big reason why it has been popular is the card "Narrative Control." While it's been successful with my players, as the DM I have often wished that I had a similar ability. It is true that the DM has control over the story, but it is extremely easy for the players to lose focus. While this is part of the fun, the most efficient path is not necessarily the most dramatic or the most fun.
-
-By giving this tool to both the players AND the DM, it makes the story less about what happens at the table an more about what everyone *wants* to have happen at the table. In theory, this tool should help introduce an equilibrium to the narrative and help ensure that the game being played is the game that everyone *wants* to play.
-
-### The Economy
-
-The Inspiration Pool is my own twist on the FATE point system. The concept is simple: when you choose to exert your influence, you empower the other side to do the same back to you. While I considered more finite economies, the push and pull of this system is extremely appealing to me. Players know that while you're going to get yourself out of trouble *this time*, you're setting yourself up for more trouble in the future. And DMs can nudge the story in directions they want, knowing they are empowering their players to be even more heroic. It also removes the burden of adjudicating who earns inspiration from the DM.
-
-### Conclusion
-
-[I'm not the only one who finds Inspiration as presented by the game to be lackluster.](https://theangrygm.com/take-the-suck-out-of-inspiration/ "Angry GM - Take the Suck out of Inspiration") I also find all of my tabletop RPGs to be more satisfying when they allow the players to help shape the story. For me, these rules provide a simple way to introduce a lot of additional mechanical and narrative complexity to the game while adding very few actual rules.
-
-\pagebreakNum
 
 # Dynamic Initiative: Thought Process 
 
@@ -1134,16 +962,16 @@ As evidenced by Mearls' Greyhawk Initiative, [I'm not the only one who feels tha
  
  <div class='back-cover-header'>
  
-  A Deeper Darkness
+  Colver House Rules
  </div>
  
  <div class='back-cover-text'>
  
-A Deeper Darkness is a rules compendium designed to create a mechanical framework for 5e that is more suited to player driven action, giving players more interesting storytelling options and mechanical choices both in combat and out. These rules work best in for dangerous dark fantasy where players are pushed to their limits, and use their wits to barely survive by the skin of their teeth. 
+A rules compendium designed to create a mechanical framework for 5e that is more suited to player driven action, giving players more interesting storytelling options and mechanical choices both in combat and out. These rules work best in for dangerous fantasy where characters are pushed to their limits, and players use their wits, creativity, and inginuity. 
 
 All copyrights reserved for WotC and various artists. 
 
-Contact: bucceriadam@gmail.com
+Contact: forestcolver@gmail.com
  </div>
  
  <div class='back-cover-diamond' style='top: 679px;'></div>
@@ -1182,7 +1010,7 @@ Contact: bucceriadam@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.2
+  Version 0.0.1
 
  </div>
  
