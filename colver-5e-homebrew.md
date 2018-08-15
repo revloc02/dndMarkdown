@@ -691,6 +691,10 @@ Why are you an adventurer? Here are some ideas:
 ___
 What were the events that happened leading up to your character's Call to Adventure?
 
+#### Party Connections
+
+It is not necessary to find connections between the characters in the party, but doing so makes the game rich and meaningful. See if you can find ways the characters in the group are connected, and even better to intertwine their backgrounds.
+
 #### Dynamic History
 
 Remember to adjust and add to these details as you go on your adventure. Talk to the DM if you feel you need to make some changes so they better fit you and your character.
