@@ -241,7 +241,7 @@ If you take any damage while you are **Dying**, you suffer **+1 Exhaustion** lev
 
 #### Stabilizing a Dying Creature.
 
-Effects that stabalize a **Dying** creature now do so by healing for one hit point. Stabalization via first aid can be done on any creature you can touch and requires a successful Wisdom (Medicine) check with a DC of 10 + targets exhaustion level.
+Effects that stabalize a **Dying** creature now do so by healing for one hit point. Stabalization via first aid can be done on any creature you can touch and requires an action and a successful Wisdom (Medicine) check with a DC of 10 + targets exhaustion level.
 
 #### Optional: Dying Survivor Injury
 
@@ -262,37 +262,39 @@ Levels of Exhaustion can be removed in the following ways:
 
 
 
-## Fixing Medicine
+## Medicine and Healer
 
-Reading the PHB, it’s pretty clear that the Medicine skill does nothing to aid in the treatment of wounds, ailments, or diseases.  As written, it only allows for stabilizing dying creatures and for diagnosing illnesses. Here are my slight changes to Medicine (and associated changes to the healer’s kit and Healer feat):
+These rules make the Medicine skill, the Healer's Kit, and the Healer Feat more useful.
 
 ### Medicine Skill
 
 Here are the uses of the Medicine Skill:
-* Diagnose an illnesses, this is typically a role playing check (RAW)
-* A Medicine check, DC 10 + Exhaustion Level, lets you try to stabilize a dying companion (HBR)
-* A Medicine check, DC 15 + Exhaustion Level, and the use of a Healer's Kit, will heal 1d4 hit points on a character once per short rest (HBR)
-* A Medicine check, DC 20 + Exhaustion Level, by any character, allows one, and only one, extra level of Exhaustion to be removed during a long rest
-* Evaluate others wounds, this is typically a role playing check (HBR)
-* Examine corpses in order determine the cause of death, this is typically a role playing check (HBR)
-* Provide long-term care to poisoned or diseased creatures.  When a poisoned or diseased creature is cared for by someone proficient in the Medicine skill (see _Downtime: Recuperating,_ PHB, p. 187), they make their recuperation saving throws with advantage (HBR)
+* Diagnose an illnesses, this is typically a role playing check (RAW).
+* As an action, a Medicine check, DC 10 + Exhaustion Level, will stabilize a dying character (HBR).
+* As an action, a Medicine check, DC 15 + Exhaustion Level, and one use of a Healer's Kit, will heal 1d4 hit points during a short rest on a character once per short rest (HBR).
+* As an action, a Medicine check, DC 20 + Exhaustion Level, will remove one extra level of Exhaustion during a long rest from a character once per long rest (HBR).
+* Evaluate others wounds, this is typically a role playing check (HBR).
+* Examine corpses in order determine the cause of death, this is typically a role playing check (HBR).
+* Provide long-term care to poisoned or diseased creatures.  When a poisoned or diseased creature is cared for by someone proficient in the Medicine skill (see _Downtime: Recuperating,_ PHB, p. 187), they make their recuperation saving throws with advantage (HBR).
 
 ### Healer’s Kit
 
 Here are the uses of a Healer's Kit:
-* This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check. (RAW)
-* If you expend one use of a healer’s kit to treat a poisoned or diseased creature, they make their recuperation saving throw (see Downtime: Recuperating on page 187 of the Player’s Handbook) with advantage. (HBR)
+* As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check (RAW).
+* If you expend one use of a healer’s kit to treat a poisoned or diseased creature (see _Downtime: Recuperating_ PHB p, 187), they make their recuperation saving throw with advantage (HBR).
 
 ### Healer Feat
 
 You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
-* You have advantage on all Medicine checks (HBR)
-* When you use a healer’s kit to stabilize a dying creature, that creature also regains 1d6+4 hit points (HBR)
-* As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest (RAW)
+* You have advantage on all Medicine checks (HBR).
+* When you use a healer’s kit to stabilize a dying creature, that creature also regains 1d6+4 hit points (HBR).
+* As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest (RAW).
 
 ### Downtime Recuperating
 
 You can use downtime between adventures to recover from a debilitating injury, disease, or poison.  After three days of downtime spent recuperating, you can make a DC 15 Constitution saving throw.  If you are treated by someone proficient in the Medicine skills, you have advantage on this saving throw.  On a successful save, you can choose one of the following results:
+* End one effect on you that prevents you from regaining hit points.
+* For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
 
 ##### Sources
 Rules based on [a blog post by Chris Perkins](https://scruffygrognard.wordpress.com/2015/05/25/fixing-the-medicine-skill-healers-kit-and-healer-feat-dd-5th-edition/comment-page-1/).
