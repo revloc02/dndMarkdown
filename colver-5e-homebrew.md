@@ -3,85 +3,31 @@
 <div style='margin-top:25px'></div>
 <div class='wide'>
 
-##### A collection of alternative rules for player driven dark fantasy in D&D 5E
-<br></br>
- 
-## [Part 1: Preamble](#part-1-preamble)
+##### A collection of home brew rules for player driven grittier fantasy in D&D 5E
 
-## [Part 2: Additional Rules](#part-2-additional-rules)
-####       [Epic 6](#epic-6)
-####       [On Death's Door](#on-deaths-door)
-####       [Pool Inspiration](#pool-inspiration)
-####       [Dynamic Initiative](#dynamic-initiative-combat)
-## [Part 3: Life and Death](#part-3-life-and-death)
-####       [Character Creation](#character-creation)
-####       [The End of the Road](#the-end-of-the-road)
-## [Part 4: GM Notes](#part-4-gm-notes)
+## [Campaign World Setting](#campaign-world-setting)
+## [Dying](#dying)
+####   [Medicine and Healer](#medicine-and-healer)
+## [Recovery Dice](#recovery-dice)
+## [Pool Inspiration](#pool-inspiration)
+## [Dynamic Initiative](#dynamic-initiative)
+## [Character Creation](#character-creation)
+####       [Optional: Pre-Levels](#character-creation-optional-pre-levels)
+####       [Character Depth](#character-depth)
+## [DM Notes](#dm-notes)
 ## [Credits](#dynamic-initiative-thought-process-credits)
 
 </div>
 
 <div class='footnote'>All copyrights reserved for WotC and various artists, without who this would not be possible.</div>
 
-\pagebreakNum
-
-<div class='partpage-dmg'>
-
-# PART 1
-##### Preamble
-
-</div>
-
-<div style='margin-top:300px;'></div>
-
-# 
-
-A Deeper Darkness is a rules compendium created with the goal of creating a more oppressive and gritty feeling in your D&D game. Using these rules, players should be pushed to the breaking point, while also being empowered to take control of their own fates. If the idea of giving the players lots of power to influence the game and narrative scares you, these rules are probably not suited to your tastes.
-
-##### Epic 6
-
-Epic 6 shifts the game into a lower-magic setting. But by giving the players numerous ways to break through the level 6 ceiling, it helps tailor the game what the players want. If they desire more power, they must seek it, and be willing to pay the price for it.
-
-It also slows down the pace of the game to allow a less compressed timescale. An adventurer's career should be measured in months and years, not days and weeks.
 
 
-##### On Death's Door
-
-Empowers players to make combat more thrilling. By removing the unconscious state and replacing it with the option of fight or flight, players have more agency in battle.
-
-##### Pool Inspiration
-
-Inspiration changes from a simple reward offered at whim to a collaborative resource that is always dynamic. Using **aspects**, players are able to reward themselves for acting in character and pursuing their own goals. Using narrative control, both players and the DM are able to exert their will for how they think a scene should play out. And both players and DM are able to alter the battlefield in dynamic ways using advantage/disadvantage and stunts.
-
-\columnbreak
-
-##### Dynamic Initiative
-
-A more streamlined interpretation of Greyhawk Initiative that emphasizes speed and simplicity. Dynamic Initiative makes the speed of your actions a consideration, and ensures the landscape of the battle is always changing.
-
-##### Character Creation Options
-
-These tweaks shift the focus of racial features from nature to nurture, and strive to acknowledge that how you are raised is as important as what you are. All characters are also given a feat at level 1, to make the game more dynamic and to help make the players more survivable in a dangerous world. Lastly, players choose aspects, which create a reward structure for roleplaying.
-
-##### The End of the Road
-
-Death is a difficult part of the game, but these rules help put players in the mindset that death is not only possible, but can be fun and dramatic. Players are encouraged to make a will to sort out their affairs, and their compatriots gain benefits from carrying out their last rites.
-
-##### GM Notes
-
-Extensive notes on thought process, as well as tips for using these rules in your games and clarifications on rules conflicts.
-
-<img src='https://www.gmbinder.com/images/Q0RCIyi.png' style='position:absolute;bottom:-20px;left:0px;width:820px' />
 
 \pagebreakNum
 
-<div class='partpage-dmg'>
 
-# PART 2
-##### Additional Rules
 
-</div>
-<div style='margin-top:200px;'></div>
 
 # Campaign World Setting
 
@@ -215,11 +161,11 @@ ___
 > - **Stabilized:** actions to stabilize **restore 1 HP**
 > - **First Aid:** Medicine check to stabilize any creature you can touch **DC = 10 + targets exhaustion level**
 
-## Dropping to 0 Hit Points
+### Dropping to 0 Hit Points
 
 When a character drops to 0 hit points, he or she gains the **Dying** condition, concentration is broken, and they gain 1 level of Exhaustion. Note that the _Instant Death_ (PHB, p. 197) rules still apply as per RAW when massive damage is taken.
 
-## Dying Condition
+### Dying Condition
 
 _The Dying condition indicates a character is on their way to death and grants multiple rounds to either stop the death or go out with a bang. Urgency is created without removing the characters ability to do something about it. In combination with existing rules about removing level of exhaustion this creates a scenario where the closer a character gets to death the longer it takes for him to recover from the shock of that situation—potentially multiple days to remove all levels of Exhaustion. During that time the character will have some disadvantage on checks and reduced speed (as per the exhaustion levels) and this represents a bit of shell shock or PTSD being suffered by the character._
 
@@ -281,7 +227,7 @@ Here are the uses of the Medicine Skill:
 
 Here are the uses of a Healer's Kit:
 * As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check (RAW).
-* If you expend one use of a healer’s kit to treat a poisoned or diseased creature (see _Downtime: Recuperating_ PHB p, 187), they make their recuperation saving throw with advantage (HBR).
+* If you expend one use of a healer’s kit to treat a poisoned or diseased creature (see _Downtime: Recuperating,_ PHB p, 187), they make their recuperation saving throw with advantage (HBR).
 
 ### Healer Feat
 
@@ -305,17 +251,15 @@ Rules based on [a blog post by Chris Perkins](https://scruffygrognard.wordpress.
 
 
 
-# H-Dice
-
-    in order for this to work you need to be pushing for 6-8 encounters between long rests.
-    also worth noting is the existing rule that state characters can only benefit from 1 long rest every 24 hours
+## Recovery Dice
 
 > #### Goals:
 > - give more uses for Hit Dice, staying on brand
 > - prevent a full character reset during long rest
 > - provide collaboration, interesting player choice
+_Hit Dice is such a bad name, what does that even mean? Recovery Dice means that after combat you can recover some of the hit points you lost from the fatigue suffered from the intensity of a life or death battle._
 
-A character already has a pool of Hit Point Dice (Hit Dice or HD) that represents general vitality. The amount and size of the dice is determined by the class levels the character has progressed to. The PHB describes a mechanic in which a character can spend one or more Hit Dice at the end of a short rest to regain hit points. This represents a character being rejuvenated from a rest. The sections below clarify some points on Hit Die and provide more ways to use them that are centered around vitality, endurance, and stress.
+These are slightly adjusted rules for Hit Dice. Hit points represent both a character's life blood and their general vitality. Healing does not always necessarily mean the closing and mending of wounds and injuries. The loss of hit points can also mean fatigue and thus healing can represent rejuvenation.
 
 > #### Summary:
 > - Spending HD is 1HD+CON (exploding)
@@ -325,12 +269,17 @@ A character already has a pool of Hit Point Dice (Hit Dice or HD) that represent
 > - Use a Reaction to spend HD for bonus to as attack, save, or check
 > - Can spend HD to assist another creature
 
+### Spending a Recovery Die
 
-## Spending a Hit Die
+As is described in the PHB, Each Hit Die in the characters pool is either available or spent. To spend a Recovery Die roll a characters available Hit Die and add their Constitution modifier. This total number will be applied to the purpose of spending the die. This Hit Die is now considered spent.
 
-As is described in the PHB, Each Hit Die in the characters pool is either available or spent. To spend a Hit Die roll a characters available Hit Die and add their Constitution modifier. This total number will be applied to the purpose of spending the die. This Hit Die is now considered spent.
+<div class='descriptive'>
 
-## Resting Up
+**DM Note:** It is expected that you should be pushing for 6-8 encounters between long rests. Also worth noting is the existing _Long Rest_ rule that states characters can only benefit from 1 long rest every 24 hours (PHB p. 186).
+
+</div>
+
+### Long Rest
 
 At the end of a long rest, a character **does not** automatically regain any lost hit points. At the end of a short or long rest, a character can spend one or more Hit Dice to regain hit points. After a long rest, a character regains all spent Hit Dice.
 
@@ -338,7 +287,7 @@ Removing a full character health reset introduces more grit into the game. Chara
 
 _**Example:** Wendy is a level 5 Wizard. She has a total of 5d6 Hit Dice. Currently they are all available. The party just survived a few encounters, in which she got a bit beat up, and is now taking a short rest. Alice is spending the time bandaging wounds. At the end of the short rest she spends a Hit Die (1HD+CON) to regain hit points. It was a low roll so she decides to spend another. Much better. After regaining the hit points she is feeling more confident for the next encounter. Wendy now has two spent hit dice and three available hit dice. If all goes well in the next encounter she plans to spend the final three Hit Dice after her long rest._
 
-## Push Yourself
+### Push Yourself
 
 You can use your Reaction to Push Yourself. Spend a Hit Die to grant a bonus to an attack roll, saving throw, or ability check possibly turning a failure into a success.
 
@@ -346,7 +295,7 @@ You are pushing your character's limits thus incurring some stress to vitality. 
 
 _**Example:** Bob the Barbarian is in front line combat against a hoard of lizard folk. Bob uses Action Surge for more attacks in an attempt to finally defeat the lizard king. On his last blow Bob rolls a 2. Sure that he was a single hit away from victory he decides to use his Reaction to push himself. He spends a Hit Die (1HD+CON) getting 13 which he adds to the attack roll making it 15 total. A hit! The lizard king in fact is defeated and the other lizard folk run away on their turn. Bob is unable to take attacks of opportunity on them this round because his Reaction was spent, and it was worth it._
 
-## Assisting your Allys
+### Assisting your Allys
 
 In an attempt to encourage group collaboration, reliance, and planning you can spend Hit Dice to assist any other creature. When spending Hit Dice to regain hit points during a rest you may only benefit a single creature that your character can touch for some time. Activities of this nature may include applying pressure, wrapping wounds, removing a spear head from their buttock, or a good pep talk.
 
@@ -357,10 +306,6 @@ This turns all the individual Hit Dice pools into one large party pool that the 
 _**Example:** Carla is a Cleric in a bad spot. The red wizard just threw a fireball at her and Frank the Fighter. If she does not succeed at this saving throw she may drop to 0 hit points which would be bad for the entire party. She rolled very low. A Cleric Hit Die is 1d8 and Carla's Constitution modifier is +1. A Fighter Hit Die is 1d10 and Franks Constitution modifier is +3. Frank knows that he has a greater chance of helping Carla and he happens to still have his Reaction available. He Pushes Himself using his Reaction to spend a Hit Die granting Carla a bonus to her Dexterity save. It worked, she made her save and only took half of the damage. In narrative, as the fireball comes crashing down Frank covers Carla shielding her from much of the blast. Its now Franks turn and he uses his Bonus Action to use Second Wind. Everybody is going to make it._
 
 _In another example, Pat the Paladin recently fell into a pit of lava. At the end of the parties long rest Pat spent his last two Hit Dice but the healing came out pretty low. Pat is very concerned about the hag they need to visit tomorrow and he doesn't want to be low on health._
-
-## Invigoration
-
-Occasionally while dipping into your vitality you will experience a surge of invigoration. When you roll the maximum value while spending a Hit Die you can immediately remove 1 level of exhaustion from yourself.
 
 
 
@@ -543,7 +488,7 @@ By choosing an ancestry, you are not determining your parentage, but what racial
 
 
 
-## Alternate: Pre-Levels
+## Optional: Pre-Levels
 
 The concept of pre-levels is adding one or more character levels before level 1. In general, abilities and feats that a character class has at level 1, would then be divided among the pre-levels to generate a gradual progression leading up to level 1.
 
@@ -712,7 +657,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 <style>
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p15 table {
+.phb#p14 table {
     font-size: 7.5pt;
 }
 </style>
@@ -829,19 +774,10 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 
 
-<div class='partpage-dmg'>
 
-# PART 4
-##### DM Notes
-
-</div>
-
-<div style='margin-top:300px;'></div>
-
-#
-
+# DM Notes
 These rules taken in aggregate are intended to work together to create a specific type of game. Rules influence and shape behavior, and as a result work best when they are working in harmony with the DM's and the player's expectations.
-#
+
 ## Guidelines for Play
 
 #### Embrace Aspects
@@ -869,7 +805,7 @@ These rules are designed to put agency in the character's hands, and give them t
 
 Players are going to be able to ruin your beautiful plans in all kinds of new ways. They're players. It's what they do. Be loose, be flexible, and always respect their agency.
 
-## Rapid Fire House Rules
+## Random House Rules
 
 #### Critial Hits
 
@@ -961,6 +897,7 @@ As evidenced by Mearls' Greyhawk Initiative, [I'm not the only one who feels tha
 * **ASI:** Ability Score Improvement. Any increase to an Ability Score of 1 or more points.
 * **Bloodied:** When a creature reaches half its hit points or less it has the Bloodied condition. *Narratively this means that the creature has more than battle fatigue and superficial cuts and bruises, they are wounded in a way that is serious and their life blood is beginning to flow out.*
 * **DMG:** Dungeons Master's Guide.
+* **Exploding:** Or Exploding Dice. This typically means that whenever the highest value on a die is rolled you can roll it again and sum the second result with the first. This continues indefinitely as long as the highest result continues to be rolled. Also worth noting is that a die can explode on any of its values, for example exploding on a 1, and thus rerolling and summing all consecutive results as long as they continue to be 1s. If the exploding value is not noted then by default it is the die's highest result that explodes.
 * **HBR:** Home Brew Rules. This refers to home brew rules that are included in this document.
 * **NPC:** Non-Player Character. A character that is typically controlled by the DM. Sometimes a player may control an NPC, but this a usually temporary. An NPC's inclusion in the party is almost never permanent.
 * **PC:** Player Character, a player's character. A character that is owned, run, and controlled by a player.
