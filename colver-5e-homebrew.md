@@ -253,10 +253,6 @@ Rules based on [a blog post by Chris Perkins](https://scruffygrognard.wordpress.
 
 ## Recovery Dice
 
-> #### Goals:
-> - give more uses for Hit Dice, staying on brand
-> - prevent a full character reset during long rest
-> - provide collaboration, interesting player choice
 _Hit Dice is such a bad name, what does that even mean? Recovery Dice means that after combat you can recover some of the hit points you lost from the fatigue suffered from the intensity of a life or death battle._
 
 These are slightly adjusted rules for Hit Dice. Hit points represent both a character's life blood and their general vitality. Healing does not always necessarily mean the closing and mending of wounds and injuries. The loss of hit points can also mean fatigue and thus healing can represent rejuvenation.
@@ -271,7 +267,7 @@ These are slightly adjusted rules for Hit Dice. Hit points represent both a char
 
 ### Spending a Recovery Die
 
-As is described in the PHB, Each Hit Die in the characters pool is either available or spent. To spend a Recovery Die roll a characters available Hit Die and add their Constitution modifier. This total number will be applied to the purpose of spending the die. This Hit Die is now considered spent.
+As is described in the PHB, Each Hit Die in the characters pool is either available or spent. To spend a Recovery Die roll a characters available Recovery Die and add their Constitution modifier. This total number will be applied to the purpose of spending the die. This Recovery Die is now considered spent.
 
 <div class='descriptive'>
 
@@ -281,31 +277,36 @@ As is described in the PHB, Each Hit Die in the characters pool is either availa
 
 ### Long Rest
 
-At the end of a long rest, a character **does not** automatically regain any lost hit points. At the end of a short or long rest, a character can spend one or more Hit Dice to regain hit points. After a long rest, a character regains all spent Hit Dice.
+At the end of a long rest, a character **does not** automatically regain any lost hit points. At the end of a short or long rest, a character can spend one or more Recovery Dice to regain hit points. After a long rest, a character regains all spent Recovery Dice.
 
-Removing a full character health reset introduces more grit into the game. Characters should consider the lasting consequences of their decisions instead of mearly surviving the day. Thus the Hit Dice at the beginning of the day represent all the natural healing and vitality for the entire day regardless of the length of the rest.
+Removing a full character health reset introduces more grit into the game. Characters should consider the lasting consequences of their decisions instead of mearly surviving the day. Thus the Recovery Dice at the beginning of the day represent all the natural healing and vitality for the entire day regardless of the length of the rest.
 
-_**Example:** Wendy is a level 5 Wizard. She has a total of 5d6 Hit Dice. Currently they are all available. The party just survived a few encounters, in which she got a bit beat up, and is now taking a short rest. Alice is spending the time bandaging wounds. At the end of the short rest she spends a Hit Die (1HD+CON) to regain hit points. It was a low roll so she decides to spend another. Much better. After regaining the hit points she is feeling more confident for the next encounter. Wendy now has two spent hit dice and three available hit dice. If all goes well in the next encounter she plans to spend the final three Hit Dice after her long rest._
+_**Example:** Wendy is a level 5 Wizard. She has a total of 5d6 Recovery Dice. Currently they are all available. The party just survived a few encounters, in which she got a bit beat up, and is now taking a short rest. Alice is spending the time bandaging wounds. At the end of the short rest she spends a Recovery Die (1HD+CON) to regain hit points. It was a low roll so she decides to spend another. Much better. After regaining the hit points she is feeling more confident for the next encounter. Wendy now has two spent Recovery Dice and three available Recovery Dice. If all goes well in the next encounter she plans to spend the final three Recovery Dice after her long rest._
 
 ### Push Yourself
 
-You can use your Reaction to Push Yourself. Spend a Hit Die to grant a bonus to an attack roll, saving throw, or ability check possibly turning a failure into a success.
+You can use your Reaction to Push Yourself. Spend a Recovery Die to grant a bonus to an attack roll, saving throw, or ability check possibly turning a failure into a success.
 
 You are pushing your character's limits thus incurring some stress to vitality. The added stress limits your ability to quickly be rejuvenated later.
 
-_**Example:** Bob the Barbarian is in front line combat against a hoard of lizard folk. Bob uses Action Surge for more attacks in an attempt to finally defeat the lizard king. On his last blow Bob rolls a 2. Sure that he was a single hit away from victory he decides to use his Reaction to push himself. He spends a Hit Die (1HD+CON) getting 13 which he adds to the attack roll making it 15 total. A hit! The lizard king in fact is defeated and the other lizard folk run away on their turn. Bob is unable to take attacks of opportunity on them this round because his Reaction was spent, and it was worth it._
+_**Example:** Bob the Barbarian is in front line combat against a hoard of lizard folk. Bob uses Action Surge for more attacks in an attempt to finally defeat the lizard king. On his last blow Bob rolls a 2. Sure that he was a single hit away from victory he decides to use his Reaction to push himself. He spends a Recovery Die (1HD+CON) getting 13 which he adds to the attack roll making it 15 total. A hit! The lizard king in fact is defeated and the other lizard folk run away on their turn. Bob is unable to take attacks of opportunity on them this round because his Reaction was spent, and it was worth it._
 
 ### Assisting your Allys
 
-In an attempt to encourage group collaboration, reliance, and planning you can spend Hit Dice to assist any other creature. When spending Hit Dice to regain hit points during a rest you may only benefit a single creature that your character can touch for some time. Activities of this nature may include applying pressure, wrapping wounds, removing a spear head from their buttock, or a good pep talk.
+In an attempt to encourage group collaboration, reliance, and planning you can spend Recovery Dice to assist any other creature. When spending Recovery Dice to regain hit points during a rest you may only benefit a single creature that your character can touch for some time. Activities of this nature may include applying pressure, wrapping wounds, removing a spear head from their buttock, or a good pep talk.
 
 This assistance includes Pushing Yourself to assist others during encounters. 
 
-This turns all the individual Hit Dice pools into one large party pool that the players can plan around. 
+This turns all the individual Recovery Dice pools into one large party pool that the players can plan around. 
 
-_**Example:** Carla is a Cleric in a bad spot. The red wizard just threw a fireball at her and Frank the Fighter. If she does not succeed at this saving throw she may drop to 0 hit points which would be bad for the entire party. She rolled very low. A Cleric Hit Die is 1d8 and Carla's Constitution modifier is +1. A Fighter Hit Die is 1d10 and Franks Constitution modifier is +3. Frank knows that he has a greater chance of helping Carla and he happens to still have his Reaction available. He Pushes Himself using his Reaction to spend a Hit Die granting Carla a bonus to her Dexterity save. It worked, she made her save and only took half of the damage. In narrative, as the fireball comes crashing down Frank covers Carla shielding her from much of the blast. Its now Franks turn and he uses his Bonus Action to use Second Wind. Everybody is going to make it._
+_**Example:** Carla is a Cleric in a bad spot. The red wizard just threw a fireball at her and Frank the Fighter. If she does not succeed at this saving throw she may drop to 0 hit points which would be bad for the entire party. She rolled very low. A Cleric Recovery Die is 1d8 and Carla's Constitution modifier is +1. A Fighter Recovery Die is 1d10 and Franks Constitution modifier is +3. Frank knows that he has a greater chance of helping Carla and he happens to still have his Reaction available. He Pushes Himself using his Reaction to spend a Recovery Die granting Carla a bonus to her Dexterity save. It worked, she made her save and only took half of the damage. In narrative, as the fireball comes crashing down Frank covers Carla shielding her from much of the blast. Its now Franks turn and he uses his Bonus Action to use Second Wind. Everybody is going to make it._
 
-_In another example, Pat the Paladin recently fell into a pit of lava. At the end of the parties long rest Pat spent his last two Hit Dice but the healing came out pretty low. Pat is very concerned about the hag they need to visit tomorrow and he doesn't want to be low on health._
+_In another example, Pat the Paladin recently fell into a pit of lava. At the end of the parties long rest Pat spent his last two Recovery Dice but the healing came out pretty low. Pat is very concerned about the hag they need to visit tomorrow and he doesn't want to be low on health._
+
+> #### Recovery Dice Goals:
+> - Provide collaboration, interesting player choice
+> - Prevent a full character reset during long rest
+> - Give more uses for Hit Dice but still keeping the theme
 
 
 
