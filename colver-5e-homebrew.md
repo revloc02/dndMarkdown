@@ -802,19 +802,15 @@ Players are not able to take a long rest while out in the wilderness. This can m
 
 Limitations can be fun. Consider introducing Healer's Kit Dependency, and being strict with encumbrance, resource management, light sources, and other mechanics to make your players feel like they need to battle for every inch of ground against the darkness.
 
-#### Don't Hold Back
-
-These rules are designed to put agency in the character's hands, and give them tools to bend their luck. As a result, present challenges worthy of them. As a DM, you are empowered to pit the characters against overwhelming odds. Make them sweat, make them bleed, and make their eventual triumph all the sweeter.
-
-#### Kill your Darlings
-
-Players are going to be able to ruin your beautiful plans in all kinds of new ways. They're players. It's what they do. Be loose, be flexible, and always respect their agency.
-
 ## Random House Rules
+
+#### Entertainment = Bonus
+
+Any time a player describes or role-plays what their character is doing is a way that is entertaining to everyone at the table, they get a +1 bonus to whatever dice they are rolling to do it.
 
 #### Critial Hits
 
-Whenever a character scores a critical hit they do maximum damage plus one extra die.
+Whenever a character scores a critical hit they do maximum damage plus one extra damage die.
 
 #### Drinking Potions
 
