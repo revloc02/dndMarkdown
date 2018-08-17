@@ -78,10 +78,6 @@ While these magics may be available to players, it is not quick, easy, or cheap.
 
 As a result of the slower resting, there is a greater emphasis on downtime. Players should be encouraged to establish a home base, carouse the city at night, and build connections in new locations.
 
-#### Leveling Up
-
-Players may hit a milestone or gain enough experience to reach the next level, however they only gain a level at the end of a Long Rest. This again increases the focus on downtime.
-
 #### Feats, Boons, and Blessings
 
 After reaching level 6, players may still reach milestones while adventuring. At the DM's discretion, in place of awarding further levels, they may grant additional Feats, Boons or Blessings. Players may also specifically train or go questing to specifically gain new Feats, Boons, or Blessings.
@@ -814,7 +810,11 @@ Whenever a character scores a critical hit they do maximum damage plus one extra
 
 #### Drinking Potions
 
-Potions are small and can be quaffed as a Bonus Action.
+Potions are small and can be quaffed as a Bonus Action, but administering a potion to another character is an action.
+
+#### Leveling Up
+
+Characters only gain a level after spending downtime training or studying before they gain the benefits of a new level (this must also include a Long Rest). To attain the next level a character must train for a number of days equal to the desired level multiplied by 2 (level x 2 days), and must spend gold equal to the desired level multiplied by 10 (level x 10 gp). So a 4th level character desiring to become 5th level must train for 10 days and spend 50 gp.
 
 ## DM Tips
 
