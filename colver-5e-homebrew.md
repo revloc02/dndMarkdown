@@ -312,20 +312,55 @@ _In another example, Pat the Paladin recently fell into a pit of lava. At the en
 
 # Pool Inspiration
 
-Using these rules, Inspiration is a resource shared between the characters of the party. When Inspiration is awarded to a character (as per RAW), the point of Inspiration goes into a party Pool of Inspiration that can be used by all of the players whenever they want or as agreed upon by the group. This encourages the party to work together as a team.
+Using these rules, Inspiration is a resource shared between the characters of the party. When Inspiration is awarded to a character, the point of Inspiration goes into a party Pool of Inspiration that can be used by any of the players whenever they want or as agreed upon by the group. This encourages the party to work together as a team.
 
 Ideally Inspiration points in the pool should be represented at the table by some physical object such as poker chips, tokens, or counter beads, and kept where all can view and utilize the pool.
 
 The limit as to how much Inspiration can be in the pool is up to the DM. A rough rule of thumb is 1 to 3 times the number of characters in the party.
 
-___
-> ##### Summary
-> Inspiration is a resource shared by the entire party, and the pool of Inspiration can hold several points of Inspiration.
-
 ## Acquiring Inspiration
 
+### Player Request
+
+Inspiration can be obtained by the characters by doing any of the following:
+* Invoking any of their **Personal Characteristics** including **Traits** (Aspects)
+* Acting **heroically** or taking a significant **risk**
+* Being **creative** or clever or **ingenious**
+
+A player announces their intent to get Inspiration by doing one of these actions, i.e. they lobby for Inpiration. This is negotiated with the DM. The player should narrate how their character is performing the deed, and should attempt to make their case more compelling with thrilling drama.  If the act is intense enough, the DM can even occasionally grant 2 Inspiration for the activity.
+
+### Momentum
+
 * **Momentum:**
-As motivation to have players experience more encounters in a game day the DM can reward a number of Inspiration points equal to the encounter number for that day. E.g. characters receive 1 Inspiration to their pool after the first encounter of the day, 2 Inspiration after the second, 3 after the third, and so forth.
+As motivation to have the party experience more encounters in a game day, the DM can reward the group, after an encounter, a number of Inspiration points equal to that encounter number for this day. E.g. the party receive 1 Inspiration to their pool after the first encounter of the day, 2 Inspiration after the second, 3 after the third, and so forth.
+
+### DM Decision
+
+The DM can give out Inspiration whenever he wants for any reason.
+
+\columnbreak
+
+> ##### Summary
+> * Inspiration is a resource shared by the entire party
+> * The Pool of Inspiration can hold lots of points
+> * Inspiration is also obtained by
+>   * Invoking **Character Traits**
+>   * **Heroic risks**
+>   * **Ingenuity**
+>   * **Momentum** - more encounters in a game day
+> * Inspiration can be used to:
+>   * Get **Advantage/Disadvantage**
+>   * **Act Out of Turn**
+>   * Take an **Extra Action**
+>   * **Reroll**
+>   * Get **Revelation**
+>   * Do a **Stunt**
+>   * **Remove Exhaustion**
+>   * **Cheat Death**
+>   * **Recall** a Spell or Special Ability
+>   * Something **Special**
+
+\pagebreakNum
 
 ## Spending Inspiration
 
@@ -341,17 +376,14 @@ Gain an additional Move, Action, Bonus Action, Interaction, or Reaction this tur
 You may reroll any one roll you just made. You must take the results of the second roll, even if it is worse.
 * **Revelation:**
 If you feel stuck at one point in the adventure, you can spend a hero point and petition the DM for a hint about what to do next. If the DM feels that there is no information to be gained, the Inspiration point is not spent.
-* **Remove Exhaustion (3 Inspiration):**
-You may remove one level of Exhaustion from a character.
-
-\columnbreak
-
-* **Recall (Spell-Level/2 Inspiration):**
-You may recall a spell you have already cast at the cost of 1 Inspiration for every 2 spell levels rounding up. 1st or 2nd level spells cost 1 Inspiration to recall, 3rd and 4th cost 2 Inspiration, and so forth up to 9th level spells costing 5 Inspirtaion to recall. Additionally, Recall can be used to gain another use of a special ability that is otherwise limited. This should only be used on feats and abilities possessed by your character that recharge on a daily basis. The DM will determine the approximate equivalent spell level for the ability so Inspiration cost can be determined.
 * **Stunt (2 Inspiration):**
 Player may modify an action by declaring that action a Stunt. Must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. For example, sprinting an extra 10 feet in a direction, extending the range of a spell a small amount, or specifically targeting an enemies weak point, etc. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect, such as: blinding, deafening, moving a creature up to 5 feet in a direction, knocking a creature prone, disarming, cleaving, kicking, tumbling, or more. Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. If the stunt turns out to be a particularly spectacular success (because of favorable dice rolls) the DM may choose refund one Inspiration point.
+* **Remove Exhaustion (3 Inspiration):**
+You may remove one level of Exhaustion from a character.
 * **Cheat Death (4 Inspiration):**
 How this plays out is up to the DM, but generally the character is left alive, with 1 hit point, Unconscious, but stable. For example, a character is about to be slain by a critical hit from an arrow. If the character spends 2 Inspiration points, the DM decides that the arrow pierced the character’s holy symbol, reducing the damage enough to prevent him from being killed, and that he made his stabilization roll at the end of his turn. The character can spend Inspiration points in this way to prevent the death of a familiar, animal companion, eidolon, or special mount, but not another character or NPC.
+* **Recall (Spell-Level/2 Inspiration):**
+You may recall a spell you have already cast at the cost of 1 Inspiration for every 2 spell levels rounding up. 1st or 2nd level spells cost 1 Inspiration to recall, 3rd and 4th cost 2 Inspiration, and so forth up to 9th level spells costing 5 Inspirtaion to recall. Additionally, Recall can be used to gain another use of a special ability that is otherwise limited. This should only be used on feats and abilities possessed by your character that recharge on a daily basis. The DM will determine the approximate equivalent spell level for the ability so Inspiration cost can be determined.
 * **Special (Inspiration costs varies):**
 You can petition the GM to attempt nearly anything that would normally be almost impossible. Such uses are not guaranteed and should be considered carefully by the DM. Possibilities include casting a single spell that is one level higher than you could normally cast (or a 1st-level spell if you are not a spellcaster), making an attack that blinds a foe or bypasses its damage reduction entirely, or attempting to use Diplomacy to convince a raging dragon to give up its attack. Regardless of the desired action, the attempt should be accompanied by a difficult check or penalty on the attack roll. No additional attempts may be made for such a special action by the character or his allies regardless of the amount of Inspiration points available, and the cost is determined by the DM.
 
@@ -819,13 +851,14 @@ Characters only gain a level after spending downtime training or studying before
 ## DM Tips
 
 During the session:
-* Let the players be **clever** and/or creative.
+* Encourage the players be **clever** and/or creative.
 * As often as possible describe additional **senses** besides sight (hearing, smell, taste, touch, and inner-feelings).
 * Often **narrate** enemy or player actions, again use the six senses. (Matt Mercer)
 * Frequently ask the **players describe** what happened, especially for extreme (1s or 20s, min or max) dice rolls.
 * Do **cut scenes** where you tell the players (not the characters) what the bad guys are doing even though their characters realistically couldn’t know this. It makes for a great story. (Matt Colville)
 * Constantly **create interesting choices**, even menial ones, i.e. "...from the decending stairs you smell a rank, musty odor and from the east corridor your torches are beginning to flicker from a slight breeze."
 * Look for opportunity to have characters **build character** and have them write it down. (Whenever there is more than one crit or fail in a row, this is an opportunity to start an aspect.)
+* **Compel characters to invoke Personal Characteristics** and give them Inspiration for doing so.
 
 ___
 Between sessions:
