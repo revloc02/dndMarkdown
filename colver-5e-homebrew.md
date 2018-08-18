@@ -336,7 +336,7 @@ As motivation to have the party experience more encounters in a game day, the DM
 
 ### DM Decision
 
-The DM can give out Inspiration whenever he wants for any reason.
+The DM can give out Inspiration whenever he wants for any reason. The DM should also freely compel players to invoke Personality Traits on their characters.
 
 \columnbreak
 
@@ -809,7 +809,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 
 # DM Notes
-These rules taken in aggregate are intended to work together to create a specific type of game. Rules influence and shape behavior, and as a result work best when they are working in harmony with the DM's and the player's expectations.
+Always remember that the Dungeon Master as absolute power.
 
 ## Guidelines for Play
 
@@ -855,10 +855,10 @@ During the session:
 * As often as possible describe additional **senses** besides sight (hearing, smell, taste, touch, and inner-feelings).
 * Often **narrate** enemy or player actions, again use the six senses. (Matt Mercer)
 * Frequently ask the **players describe** what happened, especially for extreme (1s or 20s, min or max) dice rolls.
-* Do **cut scenes** where you tell the players (not the characters) what the bad guys are doing even though their characters realistically couldn’t know this. It makes for a great story. (Matt Colville)
+* Do **cut scenes** where you tell the players (not the characters) what the bad guys are doing even though their characters realistically couldn’t know this. It makes for a great story (Matt Colville). This should _**never**_ be something that takes away player or character agency.
 * Constantly **create interesting choices**, even menial ones, i.e. "...from the decending stairs you smell a rank, musty odor and from the east corridor your torches are beginning to flicker from a slight breeze."
 * Look for opportunity to have characters **build character** and have them write it down. (Whenever there is more than one crit or fail in a row, this is an opportunity to start an aspect.)
-* **Compel characters to invoke Personal Characteristics** and give them Inspiration for doing so.
+* Frequently **compel characters to invoke Personal Characteristics** and give them Inspiration for doing so.
 
 ___
 Between sessions:
