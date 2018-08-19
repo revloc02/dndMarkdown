@@ -394,21 +394,21 @@ You can petition the GM to attempt nearly anything that would normally be almost
 Dynamic Initiative is an initiative variant with the goal of creating extra layers of choice in combat by making different actions take different speeds, while being as quick and painless as possible. The rules of Dynamic Initiative are meant to be intuitive and simple, but here are the specific details of how the rules function.
 
 ### Overview
-The	Dynamic initiative variant institutes the following rules, which replace the standard initiative system.
+The Dynamic initiative variant institutes the following rules, which replace the standard initiative system.
 
 ***Variable Turn Order:*** Each round a new initiative is rolled for every creature involved in the battle. Thus, order in which creatures take their turns changes from round to round, making it impossible to predict how events in combat will unfold.
 
-***Duration Rounds:*** Because combat order is variable from round to round, durations of spell effects and abilities are organized into rounds. Rather than effects ending during a specific creature’s turn, they last until the end of the round.
+***Durations:*** Any effect that normally lasts until the end of a creature's turn instead lasts until the end of the round during which that turn takes place. Similarly, any effect that normally lasts until the start of a creature's turn now lasts until the start of the round during which that turn takes place.
 
-This rule avoids situations where a spell caster casts a spell, which lasts until their next turn, at the end of round one, and then rolling the best initiative for round two and having the spell end before the benefits were reaped.
+This rule avoids situations where a spell caster casts a spell that lasts until their next turn, at the end of round one, and then because of Variable Turn Order rolls the best initiative for round two, and having the spell end before the benefits were reaped.
 
 ***Dexterity:*** Dexterity no long modifies the initiative roll. The Bard's _Jack of all Trades_ ability also not long affects initiative rolls. The _Alert_ feat allows you to roll your initiative dice with Advantage.
 
-***Initiative Dice:*** Rather than making a d20 roll for initiative, refer to the Dynamic Initiative dice chart to determine which die or dice you should use for Initiative. If you roll more than one initiative die, you add the results together to determine your initiative. The number and type of initiative dice you roll depend on the types of activities you want your character to undertake during the next round.
-
 ***Initiative Count:*** With this variant Dynamic Initiative, initiative runs from low to high, with the best initiative score being a 1. A creature cannot have an Initiative Score lower than 1.
 
-***Tie Breakers:*** Each creature determines their new Passive Initiative score. Passive Initiative is equal to a creature's Dexterity Ability Score OR their Intelligence Ability Score (NOT their Ability Score Modifier). The creature with the higher Passive Initiative score gets to choose whether win the tie and act first. In the event that the Passive Initiative scores are also tied, the creatures act simultaneously.
+***Initiative Dice:*** Rather than making a d20 roll for initiative, refer to the Dynamic Initiative dice chart to determine which die or dice you should use for Initiative. If you roll more than one initiative die, you add the results together to determine your initiative. The number and type of initiative dice you roll depend on the types of activities you want your character to undertake during the next round.
+
+***Tie Breakers:*** The creature with the higher Dexterity Ability Score (NOT their Ability Score Modifier) gets to choose whether to go before or after the other creature(s) it tied with. In the event that the Dexterity Scores are also tied, the creatures act simultaneously.
 
 \columnbreak
 
