@@ -323,7 +323,7 @@ The limit as to how much Inspiration can be in the pool is up to the DM. A rough
 ### Player Request
 
 Inspiration can be obtained by the characters by doing any of the following:
-* Invoking any of their **Personal Characteristics** including **Traits** (Aspects)
+* Invoking any of their **Personal Characteristics** or **Aspects**
 * Acting **heroically** or taking a significant **risk**
 * Being **creative** or clever or **ingenious**
 
@@ -344,7 +344,7 @@ The DM can give out Inspiration whenever he wants for any reason. The DM should 
 > * Inspiration is a resource shared by the entire party
 > * The Pool of Inspiration can hold lots of points
 > * Inspiration is also obtained by
->   * Invoking **Character Traits**
+>   * Invoking **Personal Characteristics**
 >   * **Heroic risks**
 >   * **Ingenuity**
 >   * **Momentum** - more encounters in a game day
@@ -592,6 +592,98 @@ Pre-levels will never count towards any features or abilities that use levels as
 | 20    | 100 |
 
    
+
+
+\pagebreakNum
+
+
+## Personal Characteristics
+
+### Standard
+
+* **Personality Traits** describe the things your character likes, past accomplishments, things your character dislikes or fears, your character’s self-attitude or mannerisms
+* **Ideals** are things that you believe in most strongly, the fundamental moral and ethical principles that compel you to act as you do. Ideals encompass everything from your life goals to your core belief system. What are the principles that you will never betray? What would prompt you to make sacrifices? What drives you to act and guides your goals and ambitions? What is the single most important thing you strive for?
+* **Bonds** are character’s connections to people, places, and events in the world. They tie you to things from your background. They might inspire you to heights of heroism, or lead you to act against your own best interests if they are threatened. They can work very much like ideals, driving a character’s motivations and goals. Whom do you care most about? To what place do you feel a special connection? What is your most treasured possession?
+* **Flaws** are some vice, compulsion, fear, or weakness—in particular, anything that someone else could exploit to bring you to ruin or cause you to act against your best interests. What enrages you? What’s the one person, concept, or event that you are terrified of? What are your vices?
+
+### Aspects
+
+An Aspect is a phrase that defines a truth about a character. A good aspect should:
+* have both positive and negative elements
+* reveal something about the character, something they may not even know
+* be worded so that it can be invoked
+
+#### Example Aspects
+
+* A Wall is Just a Door That Doesn't Know It
+* Absent minded
+* Addicted
+* Agile as a cat... but twice as curious.
+* All for One and One for All
+* Always Guilty
+* Always in debt
+* Always Surviving, Never Living
+* Artist
+* Attacking is the best defense
+* Believer
+* Bloodline, (royal / racial / divine / unusual / immortal)
+* Born in the Saddle
+* Butt Ugly
+* CHARGE!
+* Cowardly
+* Crazy
+* Cursed with Beauty
+* Depressed
+* Enamored with (race)
+* Farmboy
+* Greedy
+* Grumpy
+* Has visions
+* Hiding Something
+* High Opinion of Myself
+* Hoarder
+* How Can I Resist?
+* I can please everyone, all of the time.
+* Impetuous
+* Innocent
+* Insufferable Optimist
+* It's All in the Reflexes
+* I've Never Had Friends Before
+* Kleptomaniac
+* Knight in Shining Armor
+* Life of the Party
+* Mamma's Boy
+* My Family is More Precious Than Gold
+* Mysterious
+* Never surrender
+* Never trust a (race)
+* Nothing Ever Goes As Planned
+* Overly Frugal
+* Paranoid
+* Physical Deformity
+* Picked This Up Earlier, Thought It Might Come In Handy
+* Popular
+* Price on My Head
+* Prophetic
+* Rascal
+* Rule Breaker
+* Rustic
+* Scarred
+* Scholarly
+* Sharpshooter
+* Smart Aleck
+* Street Waif
+* Sworn to Avenge My Father's Death
+* The One Who Lived.
+* Things Are Not What They Seem
+* Too Nosy
+* Too smart for his own good.
+* Unusual Eyes / Hair / Other Physical Attribute
+* Very Religious
+* Very Well-mannered
+* Way Overconfident
+* Whiner
+
 
 
 \pagebreakNum
