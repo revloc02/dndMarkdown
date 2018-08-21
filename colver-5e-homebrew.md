@@ -336,7 +336,8 @@ As motivation to have the party experience more encounters in a game day, the DM
 
 ### DM Decision
 
-The DM can give out Inspiration whenever he wants for any reason. The DM should also freely compel players to invoke Personality Traits on their characters.
+* The DM should also freely compel players to invoke Personality Traits on their characters.
+* The DM can give out Inspiration whenever he wants for any reason.
 
 \columnbreak
 
@@ -347,7 +348,7 @@ The DM can give out Inspiration whenever he wants for any reason. The DM should 
 >   * Invoking **Personal Characteristics**
 >   * **Heroic risks**
 >   * **Ingenuity**
->   * **Momentum** - more encounters in a game day
+>   * **Momentum** - more encounters per day
 > * Inspiration can be used to:
 >   * Get **Advantage/Disadvantage**
 >   * **Act Out of Turn**
@@ -368,20 +369,20 @@ When a player spends Inspiration from the Pool typically they should narrate how
 
 * **Advantage/Disadvantage:**
 Must be declared before any creature makes an attack roll, saving throw, or ability check. That creature then rolls with Advantage or Disadvantage at the player's choosing.
-* **Act Out of Turn:**
-Take your turn immediately (i.e. out of inititive order). Treat this as a readied action, moving your initiative for this round to just before the currently acting creature.
-* **Extra Action:**
-Gain an additional Move, Action, Bonus Action, Interaction, or Reaction this turn.
 * **Reroll:**
 You may reroll any one roll you just made. You must take the results of the second roll, even if it is worse.
-* **Revelation:**
-If you feel stuck at one point in the adventure, you can spend a hero point and petition the DM for a hint about what to do next. If the DM feels that there is no information to be gained, the Inspiration point is not spent.
+* **Act Out of Turn:**
+Take your turn immediately (i.e. out of inititive order). Treat this as a readied action, moving your initiative for this round to just before the currently acting creature.
 * **Stunt (2 Inspiration):**
 Player may modify an action by declaring that action a Stunt. Must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. For example, sprinting an extra 10 feet in a direction, extending the range of a spell a small amount, or specifically targeting an enemies weak point, etc. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect, such as: blinding, deafening, moving a creature up to 5 feet in a direction, knocking a creature prone, disarming, cleaving, kicking, tumbling, or more. Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. If the stunt turns out to be a particularly spectacular success (because of favorable dice rolls) the DM may choose refund one Inspiration point.
-* **Remove Exhaustion (3 Inspiration):**
+* **Revelation (2+ Inspiration):**
+If you feel stuck at one point in the adventure, you can spend 2 Inspiration (or more, DM's fiat) and petition the DM for a hint about what to do next. If the DM feels that there is no information to be gained, the Inspiration point is not spent.
+* **Extra Action (3 Inspiration):**
+Gain an additional Move, Action, Bonus Action, Interaction, or Reaction this turn.
+* **Remove Exhaustion (4 Inspiration):**
 You may remove one level of Exhaustion from a character.
-* **Cheat Death (4 Inspiration):**
-How this plays out is up to the DM, but generally the character is left alive, with 1 hit point, Unconscious, but stable. For example, a character is about to be slain by a critical hit from an arrow. If the character spends 2 Inspiration points, the DM decides that the arrow pierced the character’s holy symbol, reducing the damage enough to prevent him from being killed, and that he made his stabilization roll at the end of his turn. The character can spend Inspiration points in this way to prevent the death of a familiar, animal companion, eidolon, or special mount, but not another character or NPC.
+* **Cheat Death (5+ Inspiration):**
+How this plays out is up to the DM, but generally the character is left alive, with 1 hit point, Unconscious, but stable. For example, a character is about to be slain by a critical hit from an arrow. If the character spends the required Inspiration points, the DM decides that the arrow pierced the character’s holy symbol, reducing the damage enough to prevent him from being killed, and that he made his stabilization roll at the end of his turn. The character can spend Inspiration points in this way to prevent the death of a familiar, animal companion, eidolon, or special mount, but not another character or NPC.
 * **Recall (Spell-Levelx2 Inspiration):**
 You may recall a spell you have already cast at the cost of 2 Inspiration for every spell level. 1st spells cost 2 Inspiration to recall, 2nd cost 4 Inspiration, and so forth up to 9th level spells costing 18 Inspirtaion to recall. Additionally, Recall can be used to gain another use of a special ability that is otherwise limited. This should only be used on feats and abilities possessed by your character that recharge on a daily basis. The DM will determine the approximate equivalent spell level for the ability so Inspiration cost can be calculated.
 * **Special (Inspiration costs varies):**
