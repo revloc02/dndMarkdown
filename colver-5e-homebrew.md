@@ -254,12 +254,12 @@ _Hit Dice is such a bad name, what does that even mean? Recovery Dice means that
 These are slightly adjusted rules for Hit Dice. Hit points represent both a character's life blood and their general vitality. Healing does not always necessarily mean the closing and mending of wounds and injuries. The loss of hit points can also mean fatigue and thus healing can represent rejuvenation.
 
 > #### Summary:
-> - Spending HD is 1HD+CON (exploding)
-> - After long rest characters no longer get full heal
-> - After long rest characters regain all spent HD
-> - After short or long rest spend HD to regain hit points, repeated as needed on same creature
-> - Use a Reaction to spend HD for bonus to as attack, save, or check
-> - Can spend HD to assist another creature
+> - Spending HD is **1HD+CON (exploding)**
+> - After **long rest** characters do **not** get a **full heal**
+> - After **long rest** characters **regain all HD**
+> - During short or long rest **spend HD to regain hit points**
+> - Use a **Reaction** to **spend HD for bonus** to as attack, save, or check
+> - Can spend **HD to assist** another creature
 
 ### Spending a Recovery Die
 
@@ -472,7 +472,7 @@ Now that the players have a broad idea of what the enemy is planning, they come 
 
 Each player and enemy simultaneously rolls initiative. Players roll the largest dice corresponding to their actions. Low numbers go first.
 
-### Resolve Actions
+### Resolve Actions Phase
 
 The DM begins by announcing "Initiative Count 1" to the table. If there are any creatures that rolled a 1 for their Initiative are then able to act. If there are any ties, the creature with the highest Passive Initiative goes first.
 
@@ -902,7 +902,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 
 # DM Notes
-Always remember that the Dungeon Master as absolute power.
+Always remember that the Dungeon Master has absolute power.
 
 ## Guidelines for Play
 
@@ -919,27 +919,27 @@ Give your players plenty of downtime between adventures, and allow that downtime
 
 Players are not able to take a long rest while out in the wilderness. This can make long journeys tense, and a real drain on resources. Consider making perilous journeys part of your game.
 
-#### Scarcity 
-
-Limitations can be fun. Consider introducing Healer's Kit Dependency, and being strict with encumbrance, resource management, light sources, and other mechanics to make your players feel like they need to battle for every inch of ground against the darkness.
-
 ## Random House Rules
 
 #### Entertainment = Bonus
 
-Any time a player describes or role-plays what their character is doing in a way that is entertaining to everyone at the table, they get a +1 bonus to whatever dice they are rolling to do it.
+Any time a player describes or role-plays what their character is doing in a way that is **entertaining** to everyone at the table, they get a **+1 bonus** to whatever dice they are rolling to do it.
 
 #### Critial Hits
 
-Whenever a character scores a critical hit they do maximum damage plus one extra roll of the damage dice.
+Whenever a character scores a critical hit they do **maximum damage plus one extra** roll of the **damage dice**.
 
 #### Drinking Potions
 
-Potions are small and can be quaffed as a Bonus Action. But administering a potion to another character is an action.
+**Potions** are small and can be quaffed as a **Bonus Action**. But administering a potion to another character is an action.
+
+\columnbreak
 
 #### Leveling Up
 
-Characters only gain a level after spending downtime training or studying before they gain the benefits of a new level (this must also include a Long Rest). To attain the next level a character must train for a number of days equal to the desired level multiplied by 2 (level x 2 days), and must spend gold equal to the desired level multiplied by 10 (level x 10 gp). So a 4th level character desiring to become 5th level must train for 10 days and spend 50 gp.
+**Level-Up Cost = level x 2 days** & **level x 10 gp**
+
+Characters only gain a level after spending downtime training or studying before they gain the benefits of a new level (this must also include a Long Rest). To attain the next level a character must train for a number of days equal to the desired level multiplied by 2, and must spend gold equal to the desired level multiplied by 10. So a 4th level character desiring to become 5th level must train for 10 days and spend 50 gp.
 
 ## DM Tips
 
