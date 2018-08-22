@@ -47,17 +47,17 @@ Magic is...well, magical. Cantrips are fairly common, but anything above that be
 
 ### Class Levels are Uncommon
 
-* Levels 1-3 are fairly common. Lots of folks across the land can level-up from training or defending theirs homes from time to time.
-* Levels 4-6 are uncommon. Many of the leaders across the land are in this category.
-* Levels 7-8 are rare. This consists of the greatest leaders.
-* Levels 9-10 are very rare. Only the most powerful kings and great arch-mages are this level.
-* Levels 10+ are only known in legends. Campaign humanoid NPCs with class levels will not exist in this category. PC adversaries will be monsters with a high CR.
+* Levels 1-3 are fairly common. Lots of folks across the land can level-up from training or defending their homes and cities from time to time.
+* Levels 4-6 are uncommon. Many of the leaders, from Captain of the Guard to the Guild Leader to the local fuedal lord, are in this category.
+* Levels 7-8 are rare. This consists of the greatest heroes, generals, and feudal leaders.
+* Levels 9-10 are very rare. Only the most powerful kings and greatest arch-mages attain this level.
+* Levels 10+ are only known in legends. Campaign humanoid NPCs with class levels will not exist in this category, thus PC adversaries will be high CR monsters.
 
-A town militia would be run by a 1st or 2nd level Fighter and be full of peasants. City guards would be 3rd level max, with a Captain that is 3rd to 5th level. Renowned heroes or Kings would be 8th level, some would be as high as 10th level. The local wizard studying in his tower would be a 6th to 10th level character. Most people are just people and anyone who has some class levels it is usually or 1 to 3 levels.
+A town militia would consist of a bunch of peasants run by a 1st or 2nd level Fighter. City guards would be no more than 3rd level, with a Captain that is 3rd to 5th level. Renowned heroes, a king's Champion, or feudal lords would be 8th level, some might be as high as 10th level but that would be fairly unique. The great and powerful wizard studying in his tower would be 6th to 10th level. Achilles, Aragorn, Conan, and Drizzt are examples of legendary characters that might be 10th level as they are powerful, competent, and heroic, but not invincible. Most people are just people and anyone who has some class levels usually have only 1 to 3 levels.
+
+But none of this prevents any player character from attaining any levels all the way to 20th, or beyond if the DM has parameters for it.
 
 ### Epic levels are Very Rare
-
-To use other fantasy stories as examples, Aragorn, Legolas, Gimli, Conan the Barbarian, Geralt, Jamie Lannister are all approximately level 10 characters. Powerful, competent, and heroic, but not invincible. Without going through extraordinary means or making bargains with greater powers, level 10 represents your character at their most capable.
 
 Epic 10 is suited to lower-magic and grittier campaign settings and worlds. "Low Fantasy" is a relative term - the Continent from the Witcher is probably the best point of reference.
 
