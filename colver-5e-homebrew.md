@@ -45,6 +45,8 @@ Magic is...well, magical. Cantrips are fairly common, but anything above that be
 
 ### Magic Items are Very Rare
 
+There is no such thing as a magic shop. Sometimes it is possible to find someone who sells some potions, and there is the occasional odd sale of a common (speaking relatively) magic item.
+
 ### Class Levels are Uncommon
 
 * Levels 1-3 are fairly common. Lots of folks across the land can level-up from training or defending their homes and cities from time to time.
@@ -57,11 +59,9 @@ A town militia would consist of a bunch of peasants run by a 1st or 2nd level Fi
 
 But none of this prevents any player character from attaining any levels all the way to 20th, or beyond if the DM has parameters for it.
 
-### Epic levels are Very Rare
+### Epic 10
 
-Epic 10 is suited to lower-magic and grittier campaign settings and worlds. "Low Fantasy" is a relative term - the Continent from the Witcher is probably the best point of reference.
-
-The point of Epic 10 is not to limit the players, but to limit the world around them. Players are clever, ambitious, and always surprising. Players will find ways to circumvent any limitation or obstacle in front of them.
+This essentially outlines what is called Epic 10. In other words, the pinnacle of human achievement a person can reach by ordinary means is level 10. The point of Epic 10 is not to limit the players, but to limit the world around them. Players are clever, ambitious, and always surprising. Players will find ways to circumvent any limitation or obstacle in front of them.
 
 However, in an Epic 10 world, there is no magic higher than level 5. This means teleportation is limited, resurrection is much harder to find, advanced scrying is restricted, wishes are extremely rare, and many other powerful spells are unavailable through conventional means.
 
@@ -72,23 +72,6 @@ Magic more powerful than level 5 spells are still possible and still exist in th
 Frequently, it takes a coven of witches, a circle of druids, or an order of wizards weeks of planning, preparation and concentration to perform more powerful magics.
 
 While these magics may be available to players, it is not quick, easy, or cheap. Commissioning a high-level spell is like embarking on a construction project, with all the complications that go with it.
-
-
-#### Downtime
-
-As a result of the slower resting, there is a greater emphasis on downtime. Players should be encouraged to establish a home base, carouse the city at night, and build connections in new locations.
-
-#### Feats, Boons, and Blessings
-
-After reaching level 6, players may still reach milestones while adventuring. At the DM's discretion, in place of awarding further levels, they may grant additional Feats, Boons or Blessings. Players may also specifically train or go questing to specifically gain new Feats, Boons, or Blessings.
-
-### Beyond Level 6
-
-While the rules state that level 6 is the default level cap, that cap is not set in stone. Rules are made to be broken.
-
-Fiction is full of stories of those who reached the peaks of human achievement and still wanted more. The Lich is the quintessential example. Faced with the fragility of mortality and the limitations of their own magical ability, the Lich goes to extreme measures to break those barriers that hold back those with weaker stomachs and fewer ambitions.
-
-Great power awaits those who dare to seek it.
 
 
 
@@ -114,6 +97,10 @@ At the end of a short rest, a character regains 1 Hit Die. A character can’t b
 A long rest is a period of extended downtime, at least 24 hours long. A long rest can only be taken in a safe location, where characters have access to plentiful food, water, and comfort. A long rest cannot be attempted while in the wilderness, while sleeping on dirt or stone, or while wearing armor. Characters must be in a location where they do not feel the need to keep watch or constantly be on guard. 
 
 At the end of a long rest, a character regains all lost hit points, and regains all spent Hit Dice. A character must have at least 1 hit point at the start of the rest to gain its benefits.
+
+#### Downtime
+
+As a result of the slower resting, there is a greater emphasis on downtime. Players should be encouraged to establish a home base, carouse the city at night, and build connections in new locations.
 
 #### Level Advancement Downtime Training
 
