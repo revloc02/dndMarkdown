@@ -351,11 +351,11 @@ As motivation to have the party experience more encounters in a game day, the DM
 >   * **Momentum** - more encounters per day
 > * Inspiration can be used to:
 >   * Get **Advantage/Disadvantage**
->   * **Act Out of Turn**
->   * Take an **Extra Action**
 >   * **Reroll**
->   * Get **Revelation**
+>   * **Act Out of Turn**
 >   * Do a **Stunt**
+>   * Get **Revelation**
+>   * Take an **Extra Action**
 >   * **Remove Exhaustion**
 >   * **Cheat Death**
 >   * **Recall** a Spell or Special Ability
@@ -783,7 +783,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 <style>
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p14 table {
+.phb#p16 table {
     font-size: 7.5pt;
 }
 </style>
@@ -927,15 +927,15 @@ Limitations can be fun. Consider introducing Healer's Kit Dependency, and being 
 
 #### Entertainment = Bonus
 
-Any time a player describes or role-plays what their character is doing is a way that is entertaining to everyone at the table, they get a +1 bonus to whatever dice they are rolling to do it.
+Any time a player describes or role-plays what their character is doing in a way that is entertaining to everyone at the table, they get a +1 bonus to whatever dice they are rolling to do it.
 
 #### Critial Hits
 
-Whenever a character scores a critical hit they do maximum damage plus one extra damage die.
+Whenever a character scores a critical hit they do maximum damage plus one extra roll of the damage dice.
 
 #### Drinking Potions
 
-Potions are small and can be quaffed as a Bonus Action, but administering a potion to another character is an action.
+Potions are small and can be quaffed as a Bonus Action. But administering a potion to another character is an action.
 
 #### Leveling Up
 
@@ -950,7 +950,7 @@ During the session:
 * Frequently ask the **players describe** what happened, especially for extreme (1s or 20s, min or max) dice rolls.
 * Do **cut scenes** where you tell the players (not the characters) what the bad guys are doing even though their characters realistically couldn’t know this. It makes for a great story (Matt Colville). This should _**never**_ be something that takes away player or character agency.
 * Constantly **create interesting choices**, even menial ones, i.e. "...from the decending stairs you smell a rank, musty odor and from the east corridor your torches are beginning to flicker from a slight breeze."
-* Look for opportunity to have characters **build character** and have them write it down. (Whenever there is more than one crit or fail in a row, this is an opportunity to start an aspect.)
+* Look for opportunities to have characters **build character** and have them write it down. (Whenever there is more than one crit or fail in a row, this is an opportunity to start an aspect.)
 * Frequently **compel characters to invoke Personal Characteristics** and give them Inspiration for doing so.
 
 ___
