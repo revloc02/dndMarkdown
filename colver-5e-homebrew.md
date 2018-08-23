@@ -128,8 +128,7 @@ Once the training is completed the player must roll to advance the level. The DC
 
 These rules replace Death Saving Throws. Falling unconscious and rolling one die every turn to see if the player will continue playing is actually not that fun. Allowing the character continued freedom to act and make interesting choices is engaging to the player, which are all three good things. This makes for a slightly grittier game, but not as unforgiving as 1e rules where 0 HPs means immediate death. These rules also add some realism without adding a lot of complexity.
 
-___
-> ##### Summary
+> #### Dying Summary
 > - Death Saving Throws are no longer used
 > - **Drop to 0 HP:**
 >   - Gain the **Dying** condition
@@ -148,7 +147,7 @@ ___
 
 When a character drops to 0 hit points, he or she gains the **Dying** condition, concentration is broken, and they gain 1 level of Exhaustion. Note that the _Instant Death_ (PHB, p. 197) rules still apply as per RAW when massive damage is taken.
 
-### Dying Condition
+## Dying Condition
 
 _The Dying condition indicates a character is on their way to death and grants multiple rounds to either stop the death or go out with a bang. Urgency is created without removing the characters ability to do something about it. In combination with existing rules about removing level of exhaustion this creates a scenario where the closer a character gets to death the longer it takes for him to recover from the shock of that situation—potentially multiple days to remove all levels of Exhaustion. During that time the character will have some disadvantage on checks and reduced speed (as per the exhaustion levels) and this represents a bit of shell shock or PTSD being suffered by the character._
 
@@ -160,29 +159,28 @@ The **Dying** condition causes the creature to suffer **+1 Exhaustion** level 1)
 
 Exhaustion gained from **Dying** does not end when the **Dying** condition is lost unless the healing method specifically describes also removing levels of exhaustion. Exhaustion gained from **Dying** is like all other exhaustion. As per RAW if a creature gains the sixth level of exhaustion it is dead. See _Exhaustion_ in _Conditions_ (PHB p. 291) for complete information.
 
-#### Falling Prone Instead
+### Falling Prone Instead
 
 When the **Dying** condition imposes suffering **+1 Exhaustion** levels the player may choose that their character instead falls prone. This option is only available if the character has not already been prone this turn.
 
-#### Damage while Dying.
+### Damage while Dying.
 
 If you take any damage while you are **Dying**, you suffer **+1 Exhaustion** level. If the damage equals or exceeds your hit point maximum, you suffer instant death.
 
-#### Stabilizing a Dying Creature.
+### Stabilizing a Dying Creature.
 
 Effects that stabalize a **Dying** creature now do so by healing for one hit point. Stabalization via first aid can be done on any creature you can touch and requires an action and a successful Wisdom (Medicine) check with a DC of 10 + targets exhaustion level.
 
-#### Optional: Dying Survivor Injury
+### Optional: Dying Survivor Injury
 
 Creatures that have been stabalized from **Dying** have been at deaths door. Thats a very traumatic situation. It may be appropriate to roll on the "Lingering Injuries Table" (DMG ch9) for the creature. 
 
-#### A Note on Exhaustion Removal
+## Note: Exhaustion Removal
 Levels of Exhaustion can be removed in the following ways:
 
 - Greater Restoration spell reduces the target's exhaustion level by one (RAW)
 - Potion of Vitality: removes all exhaustion (RAW)
 - Finishing a long rest reduces a creature's exhaustion level by one, provided that the creature has also ingested some food and drink (RAW)
-- You may spend two HD to reduce Exhaustion by one level (HBR)
 - You may spend Inspiration (see Pool Inspiration) to reduce Exhaustion (HBR)
 
 
@@ -218,6 +216,8 @@ You are an able physician, allowing you to mend wounds quickly and get your alli
 * You have advantage on all Medicine checks (HBR).
 * When you use a healer’s kit to stabilize a dying creature, that creature also regains 1d6+4 hit points (HBR).
 * As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest (RAW).
+
+\columnbreak
 
 ### Downtime Recuperating
 
