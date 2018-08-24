@@ -397,6 +397,12 @@ This rule avoids situations where a spell caster casts a spell that lasts until 
 
 ***Tie Breakers:*** The creature with the higher Dexterity Ability Score (NOT their Ability Score Modifier) gets to choose whether to go before or after the other creature(s) it tied with. In the event that the Dexterity Scores are also tied, the creatures act simultaneously.
 
+#### Surprise
+A surprised creature adds +10 to its initiative result and cannot take Reactions while it is surprised. A creature is surprised until the end of the round during which it is surprised.
+
+#### Creatures Unable to Act
+Any creature that is unable to take actions (most likely because it is incapacitated) does not roll initiative. Any effects that such creatures must resolve, such as death saving throws, are resolved at the end of the round.
+
 \columnbreak
 
 ### Changing Initiative
@@ -430,6 +436,10 @@ If it takes damage from multiple sources, such as an arrow and a dragon’s brea
 
 <img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:-10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
 
+### Monster Initiative
+
+The DM will use the creature Hit Die size as the Initiative die. No matter the action the creature is going to take, they simply roll that one die. Intuitively, this means that the bigger and more powerful the monster, the slower they tend to act in Initiative. The DM should make adjustments as desired (zombies should probably have a negative modifier, a Coatul should get a bonus) and you're done.
+
 \pagebreakNum
 
 <img src='https://www.gmbinder.com/images/u07lcKh.png' style='position:absolute;top:60px;right:0px;width:820px; mix-blend-mode:multiply;' />
@@ -442,7 +452,7 @@ Each round consists of the following phases that are progressed through in the f
 
 ### Enemy Planning Phase
 
-During this phase, the DM examines the battlefield and indicates the apparent intent of the creatures under his control. This description should be brief and dramatic, "The gaping skeletons all turn their silent attention on the Warlock," or "The devious dragon looks like he's going to ignore the party and attack the church," or "The bandits are shifting as if to try to block your escape, while the archers continue to pepper you from out of range," etc.
+During this phase, the DM examines the battlefield and **indicates the apparent intent of the creatures** under his control. This description should be brief and dramatic, "The gaping skeletons all turn their silent attention on the Warlock," or "The devious dragon looks like he's going to ignore the party and attack the church," or "The bandits are shifting as if to try to block your escape, while the archers continue to pepper you from out of range," etc.
 
 <div class='descriptive'>
 
@@ -452,21 +462,19 @@ During this phase, the DM examines the battlefield and indicates the apparent in
 
 ### Player Planning Phase
 
-Now that the players have a broad idea of what the enemy is planning, they come up with a plan themselves, and declare their own intentions. At this stage, actions do not need any more detail than what is needed to determine the initiative roll. Working together is encouraged.
+Now that the players have a broad idea of what the enemy is planning, they come up with a plan themselves, and **declare their own intentions**. At this stage, actions do not need any more detail than what is needed to determine the initiative roll. Working together is encouraged.
 
 ### Roll Initiative Phase
 
-Each player and enemy simultaneously rolls initiative. Players roll the largest dice corresponding to their actions. Low numbers go first.
+Each player and enemy simultaneously **rolls initiative**. Players roll the largest dice corresponding to their actions. Low numbers go first.
 
 ### Resolve Actions Phase
 
-The DM begins by announcing "Initiative Count 1" to the table. If there are any creatures that rolled a 1 for their Initiative are then able to act. If there are any ties, the creature with the highest Passive Initiative goes first.
-
-After all creatures on Initiative Count 1 act, the DM continues counting, "Initiative Count 2", "Initiative Count 3", etc. This process continues until all creatures have acted.
+Each creature **takes its turn** in order. The DM begins by announcing "Initiative Count 1" to the table, if there are any creatures that rolled a 1 for their Initiative are then able to act. If there are any ties, the creature with the highest Dexterity Score goes first. After all creatures on Initiative Count 1 act, the DM continues counting, "Initiative Count 2", "Initiative Count 3", etc. This process continues until all creatures have acted.
 
 ### End Phase
 
-Anything that needs to be resolved at the end of a round of combat. This includes status effects or magic durations.
+Anything that needs to be **resolved at the end of a round** of combat including status effects or magic durations.
 
 <img src='https://www.gmbinder.com/images/I1dFekv.png' style='position:absolute;bottom:10px;right:15px;width:780px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />
 
