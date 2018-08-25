@@ -376,52 +376,47 @@ You can petition the GM to attempt nearly anything that would normally be almost
 
 \pagebreakNum
 
-# Dynamic Initiative
+## Dynamic Initiative
 
 Dynamic Initiative is an initiative variant with the goal of creating extra layers of choice in combat by making different actions take different speeds, while being as quick and painless as possible. The rules of Dynamic Initiative are meant to be intuitive and simple, but here are the specific details of how the rules function.
 
-### Overview
+### PC Initiative
+
 The Dynamic initiative variant institutes the following rules, which replace the standard initiative system.
 
-***Variable Turn Order:*** Each round a new initiative is rolled for every creature involved in the battle. Thus, order in which creatures take their turns changes from round to round, making it impossible to predict how events in combat will unfold.
+#### Overview
 
-***Durations:*** Any effect that normally lasts until the end of a creature's turn instead lasts until the end of the round during which that turn takes place. Similarly, any effect that normally lasts until the start of a creature's turn now lasts until the start of the round during which that turn takes place.
+**Variable Turn Order:** Each round a new initiative is rolled for every creature involved in the battle. Thus, order in which creatures take their turns changes from round to round, making it impossible to predict how events in combat will unfold.
 
-This rule avoids situations where a spell caster casts a spell that lasts until their next turn, at the end of round one, and then because of Variable Turn Order rolls the best initiative for round two, and having the spell end before the benefits were reaped.
+**Initiative Dice:** Rather than making a d20 roll for initiative, refer to the Dynamic Initiative dice chart to determine which die or dice you should use for Initiative. If you roll more than one initiative die, you add the results together to determine your initiative. The number and type of initiative dice you roll depend on the types of activities you want your character to undertake during the next round.
 
-***Dexterity:*** Dexterity no long modifies the initiative roll. The Bard's _Jack of all Trades_ ability also not long affects initiative rolls. The _Alert_ feat allows you to roll your initiative dice with Advantage.
+**Initiative Count:** With this variant Dynamic Initiative, initiative runs from low to high, with the best initiative score being a 1.
 
-***Initiative Count:*** With this variant Dynamic Initiative, initiative runs from low to high, with the best initiative score being a 1. A creature cannot have an Initiative Score lower than 1.
+**Tie Breakers:** The creature with the higher Dexterity Ability Score (NOT their Ability Score Modifier) gets to choose whether to go before or after the other creature(s) it tied with. In the event that the Dexterity Scores are also tied, the creatures act simultaneously.
 
-***Initiative Dice:*** Rather than making a d20 roll for initiative, refer to the Dynamic Initiative dice chart to determine which die or dice you should use for Initiative. If you roll more than one initiative die, you add the results together to determine your initiative. The number and type of initiative dice you roll depend on the types of activities you want your character to undertake during the next round.
+**Durations:** Any effect that normally lasts until the end of a creature's turn instead lasts until the end of the round during which that turn takes place. Similarly, any effect that normally lasts until the start of a creature's turn now lasts until the start of the round during which that turn takes place. (This rule avoids situations where a spell that lasts until the next turn cast at the end of round one, only lasting until the beginning of round two, and having the spell end before the benefits were reaped.)
 
-***Tie Breakers:*** The creature with the higher Dexterity Ability Score (NOT their Ability Score Modifier) gets to choose whether to go before or after the other creature(s) it tied with. In the event that the Dexterity Scores are also tied, the creatures act simultaneously.
+#### Initiative Modifiers
 
-#### Surprise
-A surprised creature adds +10 to its initiative result and cannot take Reactions while it is surprised. A creature is surprised until the end of the round during which it is surprised.
+**Dexterity:** Dexterity no longer modifies the initiative roll. The Bard's _Jack of all Trades_ ability also not long affects initiative rolls. The _Alert_ feat allows you to roll your initiative dice with Advantage.
 
-#### Creatures Unable to Act
-Any creature that is unable to take actions (most likely because it is incapacitated) does not roll initiative. Any effects that such creatures must resolve, such as death saving throws, are resolved at the end of the round.
+**Bonuses or Penalties:** Though this system does not apply a creature’s Dexterity modifier to its initiative rolls, other effects can alter initiative. If an effect grants you a bonus to your initiative, such as the Alert feat, reduce the size of one die you roll for initiative by one size, so that a d6 becomes a d4, a d4 becomes a d3, and so on.
 
-\columnbreak
+In the case of a penalty to your initiative, you apply the reverse process, increasing the size of one die rolled instead.
 
-### Changing Initiative
+**Advantage or Disadvantage:** If an effect would grant you advantage or disadvantage on your initiative roll under the standard system, you apply that to the largest initiative die you roll (or to one of those initiative dice if you roll more than one of the same type). Roll the initiative die twice, using the lowest roll if you have advantage or the highest roll if you have disadvantage.
 
-***Delaying.*** You cannot use the _Ready Action_ under these rules, but you can instead choose to delay your turn. Instead of taking your turn on your initiative count, you simply act on a later initiative count, before or after other creatures as you choose.
+**Surprise:** A surprised creature adds +10 to its initiative result and cannot take Reactions while it is surprised. A creature is surprised until the end of the round during which it is surprised.
 
-If two creatures who have delayed their actions both want to act at the same time, the creature with the highest Passive Initiative score get to choose who goes first.
+#### Other Rules
 
-***Changing your Action.*** If your turn comes around and you discover that the battlefield has changed, you may wish to take a different action. Roll new Initiative Dice in accordance to what you want to do. This number is then added to your current Initiative Score, and becomes your new Initiative Score.
+**Creatures Unable to Act:** Any creature that is unable to take actions (most likely because it is incapacitated) does not roll initiative. Any effects that such creatures must resolve, such as death saving throws, are resolved at the end of the round.
 
-### Actions that do not contribute to Initiative
+**Delaying.** You cannot use the _Ready Action_ under these rules, but you can instead choose to delay your turn. Instead of taking your turn on your initiative count, you simply act on a later initiative count, before or after other creatures as you choose.
 
-These rules are designed so that players need only roll once to determine their Initiative scores, without additional modifiers. Therefore they only roll once, according to the action they are attempting to take with the largest size Initiative Dice. 
+**Changing your Action.** If your turn comes around and you discover that the battlefield has changed, you may wish to take a different action. Roll new Initiative Dice in accordance to what you want to do. This number is then added to your current Initiative Score, and becomes your new Initiative Score.
 
-***Movement.*** Moving during your turn does not contribute to your Initiative Score. If you are *only* moving during your turn, and not taking any other Actions, your initiative score is 1.
-
-***Bonus Action:*** Does not contribute to Initiative Score.
-
-***Reaction:*** Does not contribute to Initiative Score.
+**Actions not contributing to Initiative:** If you are *only* moving during your turn, and not taking any other Actions, your initiative score is 1. **Bonus Action:** Does not contribute to Initiative Score. **Reaction:** Does not contribute to Initiative Score.
 
 <div class='descriptive'>
  
