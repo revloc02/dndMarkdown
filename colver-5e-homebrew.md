@@ -31,9 +31,7 @@
 
 # Campaign World Setting
 
-The world in which you play is
-
-## Low Magic but Epic Fantasy
+The world in which you play is low magic but epic fantasy. What does that mean? It means, that magic and magic items are rare and special, but the player characters are also rare and special. They are the heroes and will rise as such, and eventually become as epic and legendary as the players can imagine.
 
 ### Adventurers are Rare
 
