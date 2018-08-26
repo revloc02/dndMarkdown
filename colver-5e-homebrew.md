@@ -943,66 +943,7 @@ During the session:
 ___
 Between sessions:
 * **Record the session**
-* **Prepare spells and special abilities** for the first round or two of an upcoming battle 
-
-
-
-\pagebreakNum
-
-
-
-# Dynamic Initiative: Thought Process 
-
-Initiative never quite sat well with me. There are a number of fundamental assumptions that I dislike about Initiative as written, and in the way that it influences play. However, the Initiative variant rules outlined in the DMG (pg 270-271) were either unwieldy or reduced strategic possibilities. I wanted an option that offered depth, without complexity.
-
-One of the biggest problems I have with vanilla Initiative is the feeling that a call for initiative is a switch from the "Role Playing Game" to the "Combat Game". Switching into and out of combat can be clunky and rigid. Players may be in the middle of a combat when a surprising twist happens. Perhaps the bad guy isn't a bad guy at all! Suddenly this combat turns into a hostage situation! The players realize they are in way over their head, it's time to run! In these situations, it can be hard to break initiative order - both as a psychological barrier (We are in the "Combat Game", we must resolve this situation with combat) and as a mechanical barrier (what is the mechanical process of transitioning from a combat to a chase scene?).
-
-My initial solution to this problem was dividing combat into rounds, and introducing the "Planning Phase", where players as a team decided their combat strategy. This worked reasonably well, and was an overall improvement to the vanilla Initiative rules, and I would recommend giving it a try in your game if you haven't.
-
-However it felt like it was a half measure. The players having a planning phase makes much more sense if the plan they have is informed. To put it another way, the rules don't allow for a situation where the bad guy is going to take an action, and the players can choose to either prevent him from acting or take cover to avoid damage.
-
-Imagine a situation that we have seen a million times before in films. A dragon is drawing in a deep breath preparing to destroy the foolish mortals in front of him. The Heroes, knowing the deadly dragonfire is coming, scramble for cover. How can we translate this into gameplay?
-
-### Greyhawk Initiative
-
-Mike Mearls [Greyhawk Initiative](https://media.wizards.com/2017/dnd/downloads/UAGreyhawkInitiative.pdf "title") caused an interesting stir in the D&D community. 
-
-The mission statement of the rules have been copied below.
-
-<div class='descriptive'>
- 
- ##### Why Experiment with Initiative?
-The Greyhawk initiative variant takes a different approach. These rules add complexity, but with the goal of introducing more drama to combat. The order of actions changes during combat, making it impossible to depend on creatures acting in a consistent pattern. Moreover, this initiative system requires a certain amount of strategizing between players ahead of each round’s action.
-
-If adding chaos and unpredictability to combat sounds like fun, you might like these rules. 
- </div>
-
-I love this mission statement, and feel it addresses many of my perceived flaws with vanilla initiative. However, the overall conclusion by the D&D community was that Greyhawk Initiative was interesting, but flawed. Some of the objections were:
-
-* Slowed down play too much
-* Too complicated
-* Too much math
-* Too many dice being rolled
-* Rolling dice for movement felt bad
-* Dexterity no longer impacted Initiative speed
-
-Dynamic Initiative is my attempt to keep the strengths of Greyhawk Initiative, while removing its weaknesses.
-
-Removing dice rolling for movement was an easy first step. Reducing the number of dice rolled to only one (two max) immediately makes the system much more simple and streamlined.
-
-However, this created a narrow range of possible initiative numbers, meaning that having a tied initiative score became extremely common. But by having your Dexterity Ability Score become the tiebreaker, it provided a speedy way to resolve ties while also making Dexterity relevant to speed. From there, making the small change from Dexterity Ability Score to Passive Initiative also allowed features that can modify Initiative, such as the Alert feat, Guidance spell, or a Bard's Jack of All Trades to continue to function. Simply add those numbers to your Passive Initiative score.
-
-### DMing with Dynamic Initiative
-
-Making all of these strategic decisions as the Dungeon Master seems daunting. A DM already has so much to keep track of, remembering what action each creature is doing, combined with what die size to use seems overwhelming. Fortunately there is an incredibly simple workaround.
-
-By using Hit Die size as a guide, it became extremely easy to assign Initiative Die by size of creature. No matter the action the creature is going to take, they simply roll that one die. Intuitively, this means that the bigger and more powerful the monster, the slower they tend to act in Initiative. Adjust Passive Initiative score as desired (zombies should probably have a negative modifier, a Coatul should get a bonus) and you're done.
-
-For actually tracking each creature, I like to have an index card with each monster or group of monsters labeled with their name and Passive Initiative score. I roll the Initiative Die for the entire group, and leave the die on each label. At that point, I have the initiative of all my combatants easily readable at a glance.
-
-### Conclusion
-
-As evidenced by Mearls' Greyhawk Initiative, [I'm not the only one who feels that vanilla initiative is a bit boring and could have additional layers of strategy](https://www.youtube.com/watch?v=pOz35qLj_8c "title"). For me, this allows the maximum amount of strategy with the minimum amount of bookkeeping.
+* **Prepare spells and special abilities** for the first round or two of an upcoming battle
 
 
 \pagebreakNum
@@ -1105,19 +1046,14 @@ Contact: forestcolver@gmail.com
 
  ##### Art Credits
  
- * Cover: "First Circle" by Shahab Alizadeh
  * Preamble: Artwork by Vuk Kostic (aka Chevsy on DeviantArt)
  * On Death's Door: Artist unknown
  * Pool Inspiration: Artwork by [Jamie Jones](https://www.artpad.org/ "title")
  * Dynamic Initiative: Artwork by [Eva Widermann](https://www.eva-widermann.de/ "title")
- * The End of the Road: Artwork by [KzcJimmy](https://www.pixiv.net/member.php?id=1055664 "title")
  
  ##### Special Thanks
 
- * /u/kyllebylle on Reddit for helping proofread and critique these rules.
- * /u/Drizzimus on Reddit, AKA DM Bahamut, for the initial spark for Dynamic Initiative
- * /u/giffyglyph on Reddit for his amazing [Darker Dungeons](https://drive.google.com/file/d/15S61Yf2XZCkUimLQEEAyvb5facZXYpL7/view "title") compendium
- * Mike Mearls, as this would not exist without Greyhawk Initiative sparking my imagination
+ * to myself for all the proofreading and for generally being awesome
 
  ##### Printer Friendly Version
  
