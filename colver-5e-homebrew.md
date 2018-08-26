@@ -43,9 +43,17 @@ Magic is...well, magical. Cantrips are fairly common, but anything above that be
 
 ### Magic Items are Very Rare
 
-There is no such thing as a magic shop. Sometimes it is possible to find someone who sells some potions, and there is the occasional odd sale of a common (speaking relatively) magic item.
+There is no such thing as a magic shop. Sometimes it is possible to find someone who sells some potions, and there is the occasional odd sale of a common (speaking relatively) magic item, but generally magic items, although real, are very rare.
+
+<div class='descriptive'>
+
+**DM Note:** This isn't about changing the way treasure is doled out to the party, rather it is much more about the world around them. The PCs are the heroes of the story, so they are going to find wonderful treasures, even a lot of magic items, but this is very unusual in the world.
+
+</div>
 
 ### Class Levels are Uncommon
+
+There are NPCs with Class levels, but these are rather uncommon, and are usually the leaders of the world who have some experience.
 
 * Levels 1-3 are fairly common. Lots of folks across the land can level-up from training or defending their homes and cities from time to time.
 * Levels 4-6 are uncommon. Many of the leaders, from Captain of the Guard to the Guild Leader to the local fuedal lord, are in this category.
