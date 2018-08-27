@@ -1,7 +1,7 @@
 # Alignment
 
 ___
-Broadly describes moral and personal attitudes of creatures. For PCs alignment is descriptive not prescriptive.
+Alignment is a shorthand for a given character's (or religion's, society's, organization's, etc.) moral and ethical outlook on life, the universe and everything. Broadly describes moral and personal attitudes of creatures. For PCs alignment is descriptive not prescriptive.
 
 #### Lawful-Neutral-Chaotic Axis
 Attitudes toward society and order. Lawful creatures respect authority, honor tradition, and follow the law. Chaotic creatures follow their consciences regardless of the law, resent being told what to do, and favor new ideas over old cultural traditions.
@@ -9,12 +9,12 @@ Attitudes toward society and order. Lawful creatures respect authority, honor tr
 #### Good-Neutral-Evil Axis
 Morality. Good creatures protect innocent life and keep their word. Evil disregards life and will lie, cheat, and steal without conscience.
 
-<img src='https://i.imgur.com/dWXbtL0.png' style='position:absolute;top:309px;left:50px;width:350px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%)opacity(15%);' />
+<img src='https://www.gmbinder.com/images/dWXbtL0.png' style='position:absolute;top:309px;left:50px;width:350px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%)opacity(15%);' />
 
 ### Lawful Good
 * Creatures can be counted on to do the right thing and follow rules as expected by society.
 * Knight, **Saint** - Follows a strict moral code and always fights evil
-* D&D Creature: **Gold Dragon**
+* D&D Creature: **Gold Dragon**, celestials
 * Pop Culture: **Superman**
 
 ### Neutral Good
@@ -26,13 +26,13 @@ Morality. Good creatures protect innocent life and keep their word. Evil disrega
 ### Chaotic Good
 * Creatures act as their conscience directs, with little regard for what others expect including the law.
 * **Outlaw** - Fights the system to do what is right
-* D&D Creature: 
+* D&D Creature: fey
 * Pop Culture: **Robin Hood**
 
 ### Lawful Neutral
 * individuals act in accordance with law, tradition, or personal codes
 * **Judge** - Believes so strongly in justice will carry out any order, "I AM the law"
-* D&D Creature: 
+* D&D Creature: modrons
 * Pop Culture: **Judge Dredd**, Inspector Javert
 
 ### True Neutral
@@ -44,10 +44,10 @@ Morality. Good creatures protect innocent life and keep their word. Evil disrega
 ### Chaotic Neutral
 * creatures follow their whims, holding their personal freedom above all else
 * label - reasoning
-* example D&D creature(s)
+* D&D Creature: animals
 * example pop culture personality
 
-<img src='https://i.imgur.com/ZOUjaYg.png' style='position:absolute;top:128px;right:50px;width:350px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%)opacity(10%);' />
+<img src='https://www.gmbinder.com/images/ZOUjaYg.png' style='position:absolute;top:128px;right:50px;width:350px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%)opacity(10%);' />
 
 ### Lawful Evil
 * Creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order.
@@ -64,5 +64,9 @@ Morality. Good creatures protect innocent life and keep their word. Evil disrega
 ### Chaotic Evil
 * Creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust.
 * **Psychopath** - Exists purely to destroy, revels in acts of evil
-* D&D Creature: **Demons**
+* D&D Creature: **Demons**, Red Dragon
 * Pop Culture: **Joker**
+
+##### References
+
+Additional exhaustive information can be found [here.](https://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterAlignment "TV Tropes")
