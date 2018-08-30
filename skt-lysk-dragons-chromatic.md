@@ -4,7 +4,7 @@ Aggressive, gluttonous, and vain, chromatic dragons are dark sages and powerful 
 
 #### White Dragon
 
-<img src='https://www.gmbinder.com/images/d0DGCTS.jpg' style='position:absolute;top:-10px;right:-40px;width:430px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/d0DGCTS.jpg' style='position:absolute;top:-10px;right:-40px;width:430px; mix-blend-mode:multiply;filter:brightness(100%)saturate(90%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 <img
    src='https://www.gmbinder.com/images/IQENPZX.png'
@@ -32,7 +32,7 @@ Aggressive, gluttonous, and vain, chromatic dragons are dark sages and powerful 
 
 #### Black Dragon
 
-<img src='https://www.gmbinder.com/images/VTC6F68.png' style='position:absolute;top:360px;right:0px;width:450px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);' />
+<img src='https://www.gmbinder.com/images/VTC6F68.png' style='position:absolute;top:360px;right:0px;width:450px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
 
 * **Alignment**: Chaotic Evil
 * **Habitat:** Fetid swamps and crumbling ruins
@@ -42,7 +42,7 @@ Aggressive, gluttonous, and vain, chromatic dragons are dark sages and powerful 
 
 #### Green Dragon
 
-<img src='https://www.gmbinder.com/images/Z2jNd1T.jpg' style='position:absolute;bottom:10px;right:0px;width:420px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);' />
+<img src='https://www.gmbinder.com/images/Z2jNd1T.jpg' style='position:absolute;bottom:10px;right:0px;width:420px; mix-blend-mode:multiply;filter:brightness(120%)saturate(130%);' />
 
 * **Alignment**: Lawful Evil
 * **Habitat:** forests
