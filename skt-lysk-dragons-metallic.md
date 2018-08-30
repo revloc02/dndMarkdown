@@ -1,7 +1,7 @@
 # Metallic Dragons
 
 ___
-Metallic dragons seek to **preserve and protect**, viewing themselves as one powerful race among the many races that have a place in the world.
+Metallic dragons seek to **preserve and protect**, viewing themselves as one powerful race among the many races that have a place in the world. They are presented here in order from the least powerful to the most.
 
 #### Brass Dragon
 
