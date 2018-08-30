@@ -15,13 +15,13 @@ Morality. Good creatures protect innocent life and keep their word. Evil disrega
 * Creatures can be counted on to do the right thing and follow rules as expected by society.
 * Knight, **Saint** - Follows a strict moral code and always fights evil
 * D&D Creature: **Gold Dragon**, celestials
-* Pop Culture: **Superman**
+* Pop Culture: **Superman**, Captain America, Data
 
 ### Neutral Good
 * Folk do the best they can to help others according to their needs.
 * label - reasoning
 * D&D Creature: 
-* Pop Culture: **Spider-Man**
+* Pop Culture: **Spider-Man**, Gandalf, Harry Potter
 
 ### Chaotic Good
 * Creatures act as their conscience directs, with little regard for what others expect including the law.
@@ -30,22 +30,22 @@ Morality. Good creatures protect innocent life and keep their word. Evil disrega
 * Pop Culture: **Robin Hood**
 
 ### Lawful Neutral
-* individuals act in accordance with law, tradition, or personal codes
+* Individuals act in accordance with law, tradition, or personal codes
 * **Judge** - Believes so strongly in justice will carry out any order, "I AM the law"
 * D&D Creature: modrons
 * Pop Culture: **Judge Dredd**, Inspector Javert
 
 ### True Neutral
-* is the alignment of those who prefer to steer clear of moral questions and don’t take sides, doing what seems best at the time
+* Creatures who prefer to steer clear of moral questions and don’t take sides, doing what seems best at the time
 * label - reasoning
-* example D&D creature(s)
-* example pop culture personality
+* example animals
+* example **Treebeard**
 
 ### Chaotic Neutral
-* creatures follow their whims, holding their personal freedom above all else
-* label - reasoning
-* D&D Creature: animals
-* example pop culture personality
+* Creatures are interested in fulfilling their desires, and in pursuing their own interests, holding their personal freedom above all else
+* **Hedonist** or Lunatic - The ultimate free spirits that don't care so much about morality
+* D&D Creature: Slaadi, pirates, mad hermit
+* Pop Culture: **Captain Jack Sparrow** Conan
 
 <img src='https://www.gmbinder.com/images/ZOUjaYg.png' style='position:absolute;top:128px;right:50px;width:350px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%)opacity(10%);' />
 
@@ -59,7 +59,7 @@ Morality. Good creatures protect innocent life and keep their word. Evil disrega
 * Creatures do whatever they can get away with, without compassion or qualms.
 * label - reasoning
 * D&D Creature: Daemons
-* Pop Culture: 
+* Pop Culture: **Lex Luthor** Scar Voldemort
 
 ### Chaotic Evil
 * Creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust.
