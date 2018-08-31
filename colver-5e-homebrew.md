@@ -418,11 +418,13 @@ In the case of a penalty to your initiative, you apply the reverse process, incr
 
 **Creatures Unable to Act:** Any creature that is unable to take actions (most likely because it is incapacitated) does not roll initiative. Any effects that such creatures must resolve, such as death saving throws, are resolved at the end of the round.
 
-**Delaying.** You cannot use the _Ready Action_ under these rules, but you can instead choose to delay your turn. Instead of taking your turn on your initiative count, you simply act on a later initiative count, before or after other creatures as you choose.
+**Delaying:** You cannot use the _Ready Action_ under these rules, but you can instead choose to delay your turn. Instead of taking your turn on your initiative count, you simply act on a later initiative count, before or after other creatures as you choose.
+
+**Multiple Actions:** If an effect grants you an additional action without the use of a bonus action (like Fighter's Action Surge), choose which action you will do first and roll the appropriate initiative dice for each action except apply a +10 to the second actions's initiative roll. The creature will perform each action on the appropriate initiative count.
 
 **Changing your Action.** If your turn comes around and you discover that the battlefield has changed, you may wish to take a different action. Roll new Initiative Dice in accordance to what you want to do. This number is then added to your current Initiative Score, and becomes your new Initiative Score.
 
-**Actions not contributing to Initiative:** If you are *only* moving during your turn, and not taking any other Actions, your initiative score is 1. **Bonus Action:** Does not contribute to Initiative Score. **Reaction:** Does not contribute to Initiative Score.
+**Actions not contributing to Initiative:** If you are *only* moving during your turn, and not taking any other Actions, your initiative score is 1. **Bonus Action** and **Reaction** Do not contribute to Initiative Score.
 
 <div class='descriptive'>
  
