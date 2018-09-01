@@ -382,47 +382,95 @@ You can petition the GM to attempt nearly anything that would normally be almost
 
 \pagebreakNum
 
-## Dynamic Initiative
+# Dynamic Initiative
 
 Dynamic Initiative is an initiative variant with the goal of creating extra layers of choice in combat by making different actions take different speeds, while being as quick and painless as possible. The rules of Dynamic Initiative are meant to be intuitive and simple, but here are the specific details of how the rules function.
 
-### PC Initiative
+## Rules
 
 The Dynamic initiative variant institutes the following rules, which replace the standard initiative system.
 
-#### Overview
+### Overview
 
-**Variable Turn Order:** Each round a new initiative is rolled for every creature involved in the battle. Thus, order in which creatures take their turns changes from round to round, making it impossible to predict how events in combat will unfold.
+#### Variable Turn Order
 
-**Initiative Dice:** Rather than making a d20 roll for initiative, refer to the Dynamic Initiative dice chart to determine which die or dice you should use for Initiative. If you roll more than one initiative die, you add the results together to determine your initiative. The number and type of initiative dice you roll depend on the types of activities you want your character to undertake during the next round.
+Each round a new initiative is rolled for every creature involved in the battle. Thus, order in which creatures take their turns changes from round to round, making it impossible to predict how events in combat will unfold.
 
-**Initiative Count:** With this variant Dynamic Initiative, initiative runs from low to high, with the best initiative score being a 1.
+#### Initiative Dice
 
-**Tie Breakers:** The creature with the higher Dexterity Ability Score (NOT their Ability Score Modifier) gets to choose whether to go before or after the other creature(s) it tied with. In the event that the Dexterity Scores are also tied, the creatures act simultaneously.
+The d20 is no longer used to roll for initiative.
 
-**Durations:** Any effect that normally lasts until the end of a creature's turn instead lasts until the end of the round during which that turn takes place. Similarly, any effect that normally lasts until the start of a creature's turn now lasts until the start of the round during which that turn takes place. (This rule avoids situations where a spell that lasts until the next turn cast at the end of round one, only lasting until the beginning of round two, and having the spell end before the benefits were reaped.)
+##### PC Initiative
 
-#### Initiative Modifiers
+PCs refer to the Dynamic Initiative dice chart to determine which die or dice you should use for Initiative. If you roll more than one initiative die, you add the results together to determine your initiative. The number and type of initiative dice you roll depend on the types of activities you want your character to undertake during the next round.
 
-**Dexterity:** Dexterity no longer modifies the initiative roll. The Bard's _Jack of all Trades_ ability also no longer affects initiative rolls. The _Alert_ feat allows you to roll your initiative dice with Advantage.
+##### Monster Initiative
 
-**Bonuses or Penalties:** Though this system does not apply a creature’s Dexterity modifier to its initiative rolls, other effects can alter initiative. If an effect grants you a bonus to your initiative, such as the Alert feat, reduce the size of one die you roll for initiative by one size, so that a d6 becomes a d4, a d4 becomes a d3, and so on. In the case of a penalty to your initiative, you apply the reverse process, increasing the size of one die rolled instead.
+The DM will use the creature Hit Die size as the Initiative die. No matter the action the creature is going to take, they simply roll that one die. Intuitively, this means that the bigger and more powerful the monster, the slower they tend to act in Initiative. The DM should make adjustments as desired (zombies should probably have a negative modifier, a Coatul should get a bonus) and you're done.
 
-**Advantage or Disadvantage:** If an effect would grant you advantage or disadvantage on your initiative roll under the standard system, you apply that to the largest initiative die you roll (or to one of those initiative dice if you roll more than one of the same type). Roll the initiative die twice, using the lowest roll if you have advantage or the highest roll if you have disadvantage.
+#### Initiative Count
 
-**Surprise:** A surprised creature adds +10 to its initiative result and cannot take Reactions while it is surprised. A creature is surprised until the end of the round during which it is surprised.
+With this variant Dynamic Initiative, initiative runs from low to high, with the best initiative score being a 1.
 
-#### Other Rules
+#### Tie Breakers
 
-**Creatures Unable to Act:** Any creature that is unable to take actions (most likely because it is incapacitated) does not roll initiative. Any effects that such creatures must resolve, such as death saving throws, are resolved at the end of the round.
+The creature with the higher Dexterity Ability Score (NOT their Ability Score Modifier) gets to choose whether to go before or after the other creature(s) it tied with. In the event that the Dexterity Scores are also tied, the creatures act simultaneously.
 
-**Delaying:** You cannot use the _Ready Action_ under these rules, but you can instead choose to delay your turn. Instead of taking your turn on your initiative count, you simply act on a later initiative count, before or after other creatures as you choose.
+\columnbreak
 
-**Multiple Actions:** If an effect grants you an additional action without the use of a bonus action (like Fighter's Action Surge), choose which action you will do first and roll the appropriate initiative dice for each action except apply a +10 to the second actions's initiative roll. The creature will perform each action on the appropriate initiative count.
+#### Durations
 
-**Changing your Action.** If your turn comes around and you discover that the battlefield has changed, you may wish to take a different action. Roll new Initiative Dice in accordance to what you want to do. This number is then added to your current Initiative Score, and becomes your new Initiative Score.
+Any effect that normally lasts until the end of a creature's turn instead lasts until the end of the round during which that turn takes place. Similarly, any effect that normally lasts until the start of a creature's turn now lasts until the start of the round during which that turn takes place. (This rule avoids situations where a spell that lasts until the next turn cast at the end of round one, only lasting until the beginning of round two, and having the spell end before the benefits were reaped.)
 
-**Actions not contributing to Initiative:** If you are *only* moving during your turn, and not taking any other Actions, your initiative score is 1. **Bonus Action** and **Reaction** do not contribute to Initiative Score.
+### Initiative Modifiers
+
+#### Dexterity
+
+Dexterity no longer modifies the initiative roll. The Bard's _Jack of all Trades_ ability also no longer affects initiative rolls. The _Alert_ feat allows you to roll your initiative dice with Advantage.
+
+#### Bonuses or Penalties
+
+Though this system does not apply a creature’s Dexterity modifier to its initiative rolls, other effects can alter initiative. If an effect grants you a bonus to your initiative, such as the Alert feat, reduce the size of one die you roll for initiative by one size, so that a d6 becomes a d4, a d4 becomes a d3, and so on. In the case of a penalty to your initiative, you apply the reverse process, increasing the size of one die rolled instead.
+
+#### Advantage or Disadvantage
+
+If an effect would grant you advantage or disadvantage on your initiative roll under the standard system, you apply that to the largest initiative die you roll (or to one of those initiative dice if you roll more than one of the same type). Roll the initiative die twice, using the lowest roll if you have advantage or the highest roll if you have disadvantage.
+
+#### Surprise
+
+A surprised creature adds +10 to its initiative result and cannot take Reactions while it is surprised. A creature is surprised until the end of the round during which it is surprised.
+
+<img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:-10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
+
+
+
+\pagebreakNum
+
+
+
+### Other Rules
+
+#### Creatures Unable to Act
+
+Any creature that is unable to take actions (most likely because it is incapacitated) does not roll initiative. Any effects that such creatures must resolve, such as death saving throws, are resolved at the end of the round.
+
+#### Delaying
+
+You cannot use the _Ready Action_ under these rules, but you can instead choose to delay your turn. Instead of taking your turn on your initiative count, you simply act on a later initiative count, before or after other creatures as you choose.
+
+#### Multiple Actions
+
+If an effect grants you an additional action without the use of a bonus action (like Fighter's Action Surge), choose which action you will do first and roll the appropriate initiative dice for each action except apply a +10 to the second actions's initiative roll. The creature will perform each action on the appropriate initiative count.
+
+#### Changing your Action
+
+If your turn comes around and you discover that the battlefield has changed, you may wish to take a different action. Roll new Initiative Dice in accordance to what you want to do. This number is then added to your current Initiative Score, and becomes your new Initiative Score.
+
+#### Actions not contributing to Initiative
+
+If you are *only* moving during your turn, and not taking any other Actions, your initiative score is 1. **Bonus Action** and **Reaction** do not contribute to Initiative Score.
+
+\columnbreak
 
 <div class='descriptive'>
  
@@ -434,16 +482,6 @@ If a creature that wants to cast a spell takes damage during the round before it
 If it takes damage from multiple sources, such as an arrow and a dragon’s breath, it must make a separate saving throw for each source of damage.
 
 </div>
-
-<img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:-10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
-
-### Monster Initiative
-
-The DM will use the creature Hit Die size as the Initiative die. No matter the action the creature is going to take, they simply roll that one die. Intuitively, this means that the bigger and more powerful the monster, the slower they tend to act in Initiative. The DM should make adjustments as desired (zombies should probably have a negative modifier, a Coatul should get a bonus) and you're done.
-
-\pagebreakNum
-
-<img src='https://www.gmbinder.com/images/u07lcKh.png' style='position:absolute;top:60px;right:0px;width:820px; mix-blend-mode:multiply;' />
 
 \pagebreakNum
 
@@ -480,6 +518,10 @@ Anything that needs to be **resolved at the end of a round** of combat including
 <img src='https://www.gmbinder.com/images/I1dFekv.png' style='position:absolute;bottom:10px;right:15px;width:780px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />
 
 
+
+\pagebreakNum
+
+<img src='https://www.gmbinder.com/images/u07lcKh.png' style='position:absolute;top:60px;right:0px;width:820px; mix-blend-mode:multiply;' />
 
 \pagebreakNum
 
@@ -778,7 +820,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 <style>
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p16 table {
+.phb#p17 table {
     font-size: 7.5pt;
 }
 </style>
