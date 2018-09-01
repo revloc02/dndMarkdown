@@ -404,11 +404,9 @@ The Dynamic initiative variant institutes the following rules, which replace the
 
 #### Initiative Modifiers
 
-**Dexterity:** Dexterity no longer modifies the initiative roll. The Bard's _Jack of all Trades_ ability also not long affects initiative rolls. The _Alert_ feat allows you to roll your initiative dice with Advantage.
+**Dexterity:** Dexterity no longer modifies the initiative roll. The Bard's _Jack of all Trades_ ability also no longer affects initiative rolls. The _Alert_ feat allows you to roll your initiative dice with Advantage.
 
-**Bonuses or Penalties:** Though this system does not apply a creature’s Dexterity modifier to its initiative rolls, other effects can alter initiative. If an effect grants you a bonus to your initiative, such as the Alert feat, reduce the size of one die you roll for initiative by one size, so that a d6 becomes a d4, a d4 becomes a d3, and so on.
-
-In the case of a penalty to your initiative, you apply the reverse process, increasing the size of one die rolled instead.
+**Bonuses or Penalties:** Though this system does not apply a creature’s Dexterity modifier to its initiative rolls, other effects can alter initiative. If an effect grants you a bonus to your initiative, such as the Alert feat, reduce the size of one die you roll for initiative by one size, so that a d6 becomes a d4, a d4 becomes a d3, and so on. In the case of a penalty to your initiative, you apply the reverse process, increasing the size of one die rolled instead.
 
 **Advantage or Disadvantage:** If an effect would grant you advantage or disadvantage on your initiative roll under the standard system, you apply that to the largest initiative die you roll (or to one of those initiative dice if you roll more than one of the same type). Roll the initiative die twice, using the lowest roll if you have advantage or the highest roll if you have disadvantage.
 
@@ -424,7 +422,7 @@ In the case of a penalty to your initiative, you apply the reverse process, incr
 
 **Changing your Action.** If your turn comes around and you discover that the battlefield has changed, you may wish to take a different action. Roll new Initiative Dice in accordance to what you want to do. This number is then added to your current Initiative Score, and becomes your new Initiative Score.
 
-**Actions not contributing to Initiative:** If you are *only* moving during your turn, and not taking any other Actions, your initiative score is 1. **Bonus Action** and **Reaction** Do not contribute to Initiative Score.
+**Actions not contributing to Initiative:** If you are *only* moving during your turn, and not taking any other Actions, your initiative score is 1. **Bonus Action** and **Reaction** do not contribute to Initiative Score.
 
 <div class='descriptive'>
  
@@ -435,7 +433,7 @@ If a creature that wants to cast a spell takes damage during the round before it
 
 If it takes damage from multiple sources, such as an arrow and a dragon’s breath, it must make a separate saving throw for each source of damage.
 
- </div>
+</div>
 
 <img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:-10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
 
@@ -453,23 +451,23 @@ The DM will use the creature Hit Die size as the Initiative die. No matter the a
 ___
 Each round consists of the following phases that are progressed through in the following order.
 
-### Enemy Planning Phase
+### Enemy Indication Phase
 
 During this phase, the DM examines the battlefield and **indicates the apparent intent of the creatures** under his control. This description should be brief and dramatic, "The gaping skeletons all turn their silent attention on the Warlock," or "The devious dragon looks like he's going to ignore the party and attack the church," or "The bandits are shifting as if to try to block your escape, while the archers continue to pepper you from out of range," etc.
 
 <div class='descriptive'>
 
-**DM Note:** This is not meant to be a free Insight check, rather it presents a stage in each round that prompts the DM to create drama and intesity. It is a catalyst for narrative flavor to dovetail in the midst of D&D's Combat game play. "With rage blazing in his eyes the dragon draws a really deep breath," or "The knave looks around for an escape route, as if he's about to bolt," and thus hinting a possible transition to a chase scene. Here surprising twists can be revealed, or DM hints can be dropped i.e. the party is in over their heads. It isn't that this couldn't otherwise be done, rather it is a gaming mechanic that allows the characters to make educated decisions during their planning phase. Ultimately it is about telling a story together.
+**DM Note:** This is not meant to be a free Insight check, rather it presents a stage in each round that prompts the DM to create drama and intesity. It is a catalyst for narrative flavor to dovetail into the midst of D&D's Combat game play. "With rage blazing in his eyes the dragon draws a really deep breath," or "The knave looks around for an escape route, as if he's about to bolt," and thus hinting a possible transition to a chase scene. Here surprising twists can be revealed, or DM hints can be dropped (i.e. the party is in over their heads). It isn't that this couldn't otherwise be done, rather Enemy Indication is a gaming mechanic that allows the characters to make educated decisions during their planning phase. Ultimately it is about telling a story together.
 
 </div>
 
 ### Player Planning Phase
 
-Now that the players have a broad idea of what the enemy is planning, they come up with a plan themselves, and **declare their own intentions**. At this stage, actions do not need any more detail than what is needed to determine the initiative roll. Working together is encouraged.
+Now that the players have a broad idea of what the enemy's indication is, they come up with a plan themselves, and **declare their own intentions**. At this stage, actions do not need any more detail than what is needed to determine the initiative roll. Working together is encouraged.
 
 ### Roll Initiative Phase
 
-Each player and enemy simultaneously **rolls initiative**. Players roll the largest dice corresponding to their actions. Low numbers go first.
+Each player and enemy simultaneously **rolls initiative**. Players roll the largest dice corresponding to their actions (see Dynamic Initiative chart for dice). The lower the number the earlier the action.
 
 ### Resolve Actions Phase
 
