@@ -14,60 +14,60 @@ Morality. Good creatures protect innocent life and keep their word. Evil disrega
 ### Lawful Good
 * Creatures can be counted on to do the right thing morally and follow rules and laws as expected by society.
 * **Knight in Shining Armor**, Saint - Follows a strict moral code and always fights evil
-* D&D Creature: **Gold Dragon**, celestials
-* Pop Culture: **Superman**, Captain America, Data
+* Ex. Creature: **Gold Dragon**, Unicorn, Celestial
+* Pop Culture Ex.: **Superman**, Captain America, Data
 
 ### Neutral Good
 * Folk do the best they can to help others according to their needs even if it is outside of societal laws.
 * **Benefactor** - works with people in power and are devoted to helping others
-* D&D Creature: 
-* Pop Culture: **Batman**, Gandalf, Harry Potter
+* Ex. Creature: **Svirfneblin**, Guardinal, Cloud Giant
+* Pop Culture Ex.: **Batman**, Gandalf, Harry Potter
 
 ### Chaotic Good
 * Creatures act as their conscience directs doing good, and defy laws or even fight against them.
 * **Rebel**, Outlaw - Fights the system to do what is right
-* D&D Creature: fey
-* Pop Culture: **Robin Hood**, Hulk, Drizzt
+* Ex. Creature: **Pegasus**, Faerie Dragon, fey
+* Pop Culture Ex.: **Robin Hood**, Hulk, Drizzt
 
 ### Lawful Neutral
 * Individuals act in accordance with law, tradition, or personal codes without much consideration of laws
 * **Judge** - Believes so strongly in justice will carry out any order, "I AM the law"
-* D&D Creature: modrons
-* Pop Culture: **Judge Dredd**, Inspector Javert
+* Ex. Creature: **Modron**, Spectator, Githzerai
+* Pop Culture Ex.: **Judge Dredd**, Inspector Javert
 
 ### True Neutral
 * Creatures who prefer to steer clear of moral questions and don’t take sides, doing what seems best at the time
 * label - reasoning
-* example animals
-* example **Treebeard**, Sherlock Holmes
+* Ex. Creature: **Tarrasque**, animals
+* Pop Culture Ex.: **Treebeard**, Sherlock Holmes
 
 \columnbreak
 
 ### Chaotic Neutral
 * Creatures are interested in fulfilling their desires, and in pursuing their own interests, holding their personal freedom above all else
 * **Hedonist** or Lunatic - The ultimate free spirits that don't care so much about morality
-* D&D Creature: Slaadi, pirates, mad hermit
-* Pop Culture: **Captain Jack Sparrow**, Conan
+* Ex. Creature: **Slaadi**, Satyr, pirates, mad hermit
+* Pop Culture Ex.: **Captain Jack Sparrow**, Conan
 
 <img src='https://www.gmbinder.com/images/ZOUjaYg.png' style='position:absolute;top:235px;right:50px;width:350px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%)opacity(10%);' />
 
 ### Lawful Evil
 * Creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order.
 * **Overlord** - Uses power and law to subject and control all
-* D&D Creature: **Devils**, hobgoblins
-* Pop Culture: **Darth Vader**, Magneto, Artemis Entreri
+* Ex. Creature: **Devil**, Hobgoblin, Beholder, Vampire
+* Pop Culture Ex.: **Darth Vader**, Magneto, Artemis Entreri
 
 ### Neutral Evil
 * Creatures do whatever they can get away with, without compassion or qualms.
 * **Malefactor** - selfish above all else
-* D&D Creature: Daemons
-* Pop Culture: **Lex Luthor**, Scar, Voldemort
+* Ex. Creature: **Night Hag**, Goblin, Daemons, Yugoloth
+* Pop Culture Ex.: **Lex Luthor**, Scar, Voldemort
 
 ### Chaotic Evil
 * Creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust.
 * **Psychopath** - Exists purely to destroy, revels in acts of evil
-* D&D Creature: **Demons**, Red Dragon
-* Pop Culture: **Joker**, Darth Maul, Smaug
+* Ex. Creature: **Red Dragon**, Ogre, Orc, Demon, Troll
+* Pop Culture Ex.: **Joker**, Darth Maul, Smaug
 
 <img src='https://www.gmbinder.com/images/c8EgS4q.png' style='position:absolute;bottom:40px;right:30px;width:380px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);' />
 
