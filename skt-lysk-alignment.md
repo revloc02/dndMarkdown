@@ -37,7 +37,7 @@ Morality. Good creatures protect innocent life and keep their word. Evil disrega
 
 ### True Neutral
 * Creatures who prefer to steer clear of moral questions and don’t take sides, doing what seems best at the time
-* label - reasoning
+* Apathetic, Unaligned - Indifferent or uncommitted to an outlook
 * Ex. Creature: **Tarrasque**, animals
 * Pop Culture Ex.: **Treebeard**, Sherlock Holmes
 
@@ -59,7 +59,7 @@ Morality. Good creatures protect innocent life and keep their word. Evil disrega
 
 ### Neutral Evil
 * Creatures do whatever they can get away with, without compassion or qualms.
-* **Malefactor** - selfish above all else
+* **Malefactor**, Narcissist - selfish above all else
 * Ex. Creature: **Night Hag**, Goblin, Daemons, Yugoloth
 * Pop Culture Ex.: **Lex Luthor**, Scar, Voldemort
 
