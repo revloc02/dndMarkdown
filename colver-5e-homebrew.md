@@ -525,6 +525,10 @@ Anything that needs to be **resolved at the end of a round** of combat including
 
 \pagebreakNum
 
+<img src='https://www.gmbinder.com/images/9VKA6I6.png' style='position:absolute;top:-10px;right:0px;width:814px; mix-blend-mode:multiply;' />
+
+\pagebreakNum
+
 
 
 # Character Creation
