@@ -824,14 +824,14 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 <style>
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p17 table {
+.phb#p18 table {
     font-size: 7.5pt;
 }
 </style>
 
 | d% | PERSONALITY QUIRK |
 |:---:|:----:|
-| 01 | Always agrees with people, but changes its mind quickly |
+| 01 | Always agrees with people, but changes mind quickly |
 | 02 | Is very noisy about treasure |
 | 03 | Act mysteriously and answers questions poetically |
 | 04 | Doesn’t like new people |
@@ -839,11 +839,11 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 06 | Refers to themself in the third person |
 | 07 | Sometimes bargains for the use of his powers |
 | 08 | Constantly asks how things taste and smell |
-| 09 | Yells when it is excited |
+| 09 | Yells when he/she is excited |
 | 10 | Know-it-all |
 | 11 | Is polite but obviously insincere |
 | 12 | Constantly apologizes as a verbal tic |
-| 13 | Makes a lot of threats it cannot back up |
+| 13 | Makes a lot of threats but cannot back them up |
 | 14 | Very mellow; advises people to take a philosophical approach to both success and failure |
 | 15 | Says as little as possible |
 | 16 | Snickers or laughs at the misfortunes of others |
@@ -864,10 +864,10 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 31 | Is always talking to self |
 | 32 | Very bad liar |
 | 33 | Asks rude questions without realizing they cause offense |
-| 34 | Grumbles and complains about its form and plight |
+| 34 | Grumbles and complains about slightest plight |
 | 35 | Very sensitive about criticism or conflict |
 | 36 | Absent-minded |
-| 37 | Blames a particular type of creature for its troubles |
+| 37 | Blames a particular type of creature for all troubles |
 | 38 | Intellectual bully |
 | 39 | Makes allusions to events from history or mythology without bothering to explain them |
 | 40 | Hates a particular terrain type and complains loudly while within that terrain |
@@ -885,16 +885,16 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | d% | PERSONALITY QUIRK |
 |:---:|:----:|
 | 51 | Makes animal noises when feeling threatened or excited |
-| 52 | A lover or literature and poetry, it takes any opportunity to spout of a line or two of prose or verse |
+| 52 | A lover or literature and poetry, takes any opportunity to spout of a line or two of prose or verse |
 | 53 | Very superstitious |
-| 54 | Spurs on its party members to brave or foolhardy acts |
+| 54 | Spurs party members to brave or foolhardy acts |
 | 55 | Never uses one word when 10 | will do |
 | 56 | Constantly asks to be destroyed, but panics if taken seriously |
 | 57 | Always has a reason why something will not work |
 | 58 | Goes crazy whenever a certain word is uttered |
 | 59 | Tells boring stories about something mundane |
 | 60 | Constantly suggests ways to make activities more “fun” and “exciting” |
-| 61 | Collects words from languages it doesn’t know, and uses them in place of words in the language it most commonly uses |
+| 61 | Collects words from languages doesn’t know, and uses them in place of words in the language most commonly uses |
 | 62 | Dotes on others |
 | 63 | Often ignores others |
 | 64 | Loathes self |
@@ -905,21 +905,21 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 69 | Thinks most objects are intelligent items |
 | 70 | Lacks a moral compass when making plans and often proposes horrific solutions to minor problems |
 | 71 | Often uses vocabulary incorrectly |
-| 72 | Believes it is losing its mind |
+| 72 | Believes they are losing their mind |
 | 73 | Constantly name-drops |
 | 74 | Has terrible syntax and diction |
 | 75 | Never tires of learning new and interesting bits of information |
 | 76 | Complains about smells that no one else notices |
 | 77 | Constantly thirsty |
 | 78 | Loves to sing but is tone deaf |
-| 79 | Blames everyone else for its plight |
+| 79 | Blames other for trials |
 | 80 | Is a seemingly endless font of gossip—though most details are fabricated |
 | 81 | Treats all others as lesser forms of intelligence |
 | 82 | Very cheerful; tries to raise downcast spirits with song, jokes, and uplifting stories |
 | 83 | Grows more and more relaxed the worse things get |
 | 84 | Constantly remembers details wrong |
 | 85 | Makes up stories |
-| 86 | Avoids speaking with creatures other than its wielder or wearer |
+| 86 | Avoids speaking with creatures other than own race |
 | 87 | Has a need for constant attention |
 | 88 | Is a little unhinged |
 | 89 | Questions others about their background in order to determine if they are “suitable” |
