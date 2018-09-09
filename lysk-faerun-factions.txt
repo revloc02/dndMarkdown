@@ -1,0 +1,72 @@
+# Faerûn Factions
+
+In the Forgotten Realms, five factions have risen to prominence. Seeking to further their
+respective agendas while opposing destructive forces that threaten the folk of Faerûn, each
+faction has its own motivations, goals, and philosophy. While some are more heroic than
+others, all band together in times of trouble to thwart major threats.
+
+Belonging to a faction sometimes means having responsibilities, but it also carries with it support and rewards for service.
+
+### Order of the Gauntlet
+
+### Lords’ Alliance
+
+
+
+\pagebreakNum
+
+
+
+### Emerald Enclave
+
+A widespread group of wilderness survivalists who preserve the **natural order** while rooting out unnatural threats.
+
+#### Goals
+
+* Restore and preserve the **natural order**.
+* **Destroy** all that is **unnatural**.
+* Keep the elemental forces of the world **in check**.
+* Keep civilization and the wilderness from destroying each other.
+
+#### Beliefs
+* The natural order must be respected and preserved.
+* Forces that upset the natural order must be destroyed.
+* Civilization and the wilderness must learn to coexist peacefully.
+
+### Harpers
+
+A scattered network of spellcasters and spies who advocate equality and covertly **oppose the abuse of power**.
+
+#### Goals
+
+* Gather **information** throughout Faerûn.
+* Promote fairness and **equality** by covert means.
+* **Thwart** tyrants and leaders, governments, and **organizations** that grow too powerful.
+* **Aid** the weak, poor and oppressed.
+
+#### Beliefs
+* One can never have too much information or arcane knowledge.
+* Too much power leads to corruption. The abuse of magic must be closely monitored.
+* No one should be powerless.
+
+### Zhentarim
+
+An unscrupulous **shadow network** that seeks to expand its influence and power throughout Faerûn.
+
+#### Goals
+
+* Amass **wealth**.
+* Look for opportunities to seize **power**.
+* Gain influence over important people and organizations.
+* **Dominate** Faerûn.
+
+#### Beliefs
+* The Zhentarim is your family. You watch out for it, and it watches out for you.
+* You are the master of your own destiny. Never be less than what you deserve to be.
+* Everything—and everyone—has a price.
+
+##### References
+
+Additional information can be found in the [D&D Faction Guide.](https://rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Adventure%20League/DDAL%20-%20A%20Guide%20to%20the%20Factions%20of%20Faerun.pdf "A Guide to the Factions of Faerûn")
+
+<div class='footnote'>Faerûn Factions</div>
