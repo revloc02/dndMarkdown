@@ -938,6 +938,14 @@ Whenever a character scores a critical hit they do **maximum damage plus one ext
 
 Characters only gain a level after spending downtime training or studying before they gain the benefits of a new level (this must also include a Long Rest). To attain the next level a character must train for a number of days equal to the desired level multiplied by 2, and must spend gold equal to the desired level multiplied by 10. So a 4th level character desiring to become 5th level must train for 10 days and spend 50 gp.
 
+#### DM Buys Time
+
+Whenever the DM has to take some time to look something up or figure something out this is a good activity that will occupy players and add to the story.
+* The DM picks a character time interval where something could happen, i.e. on the road, during the night, while searching the room, after a battle cleaning weapons
+* The DM writes down two negative things that could happen during this time period
+* As many players as would like to participate also write down one negative thing that could happen and one positive thing that could happen, of approximate equal value, all must be approved by the DM
+* The papers go into a hat and the DM draws one out when he is ready
+
 ## DM Tips
 
 During the session:
