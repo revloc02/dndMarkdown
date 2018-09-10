@@ -382,49 +382,95 @@ You can petition the GM to attempt nearly anything that would normally be almost
 
 \pagebreakNum
 
-## Dynamic Initiative
+# Dynamic Initiative
 
 Dynamic Initiative is an initiative variant with the goal of creating extra layers of choice in combat by making different actions take different speeds, while being as quick and painless as possible. The rules of Dynamic Initiative are meant to be intuitive and simple, but here are the specific details of how the rules function.
 
-### PC Initiative
+## Rules
 
 The Dynamic initiative variant institutes the following rules, which replace the standard initiative system.
 
-#### Overview
+### Overview
 
-**Variable Turn Order:** Each round a new initiative is rolled for every creature involved in the battle. Thus, order in which creatures take their turns changes from round to round, making it impossible to predict how events in combat will unfold.
+#### Variable Turn Order
 
-**Initiative Dice:** Rather than making a d20 roll for initiative, refer to the Dynamic Initiative dice chart to determine which die or dice you should use for Initiative. If you roll more than one initiative die, you add the results together to determine your initiative. The number and type of initiative dice you roll depend on the types of activities you want your character to undertake during the next round.
+Each round a new initiative is rolled for every creature involved in the battle. Thus, order in which creatures take their turns changes from round to round, making it impossible to predict how events in combat will unfold.
 
-**Initiative Count:** With this variant Dynamic Initiative, initiative runs from low to high, with the best initiative score being a 1.
+#### Initiative Dice
 
-**Tie Breakers:** The creature with the higher Dexterity Ability Score (NOT their Ability Score Modifier) gets to choose whether to go before or after the other creature(s) it tied with. In the event that the Dexterity Scores are also tied, the creatures act simultaneously.
+The d20 is no longer used to roll for initiative.
 
-**Durations:** Any effect that normally lasts until the end of a creature's turn instead lasts until the end of the round during which that turn takes place. Similarly, any effect that normally lasts until the start of a creature's turn now lasts until the start of the round during which that turn takes place. (This rule avoids situations where a spell that lasts until the next turn cast at the end of round one, only lasting until the beginning of round two, and having the spell end before the benefits were reaped.)
+##### PC Initiative
 
-#### Initiative Modifiers
+PCs refer to the Dynamic Initiative dice chart to determine which die or dice you should use for Initiative. If you roll more than one initiative die, you add the results together to determine your initiative. The number and type of initiative dice you roll depend on the types of activities you want your character to undertake during the next round.
 
-**Dexterity:** Dexterity no longer modifies the initiative roll. The Bard's _Jack of all Trades_ ability also not long affects initiative rolls. The _Alert_ feat allows you to roll your initiative dice with Advantage.
+##### Monster Initiative
 
-**Bonuses or Penalties:** Though this system does not apply a creature’s Dexterity modifier to its initiative rolls, other effects can alter initiative. If an effect grants you a bonus to your initiative, such as the Alert feat, reduce the size of one die you roll for initiative by one size, so that a d6 becomes a d4, a d4 becomes a d3, and so on.
+The DM will use the creature Hit Die size as the Initiative die. No matter the action the creature is going to take, they simply roll that one die. Intuitively, this means that the bigger and more powerful the monster, the slower they tend to act in Initiative. The DM should make adjustments as desired (zombies should probably have a negative modifier, a Coatul should get a bonus) and you're done.
 
-In the case of a penalty to your initiative, you apply the reverse process, increasing the size of one die rolled instead.
+#### Initiative Count
 
-**Advantage or Disadvantage:** If an effect would grant you advantage or disadvantage on your initiative roll under the standard system, you apply that to the largest initiative die you roll (or to one of those initiative dice if you roll more than one of the same type). Roll the initiative die twice, using the lowest roll if you have advantage or the highest roll if you have disadvantage.
+With this variant Dynamic Initiative, initiative runs from low to high, with the best initiative score being a 1.
 
-**Surprise:** A surprised creature adds +10 to its initiative result and cannot take Reactions while it is surprised. A creature is surprised until the end of the round during which it is surprised.
+#### Tie Breakers
 
-#### Other Rules
+The creature with the higher Dexterity Ability Score (NOT their Ability Score Modifier) gets to choose whether to go before or after the other creature(s) it tied with. In the event that the Dexterity Scores are also tied, the creatures act simultaneously.
 
-**Creatures Unable to Act:** Any creature that is unable to take actions (most likely because it is incapacitated) does not roll initiative. Any effects that such creatures must resolve, such as death saving throws, are resolved at the end of the round.
+\columnbreak
 
-**Delaying:** You cannot use the _Ready Action_ under these rules, but you can instead choose to delay your turn. Instead of taking your turn on your initiative count, you simply act on a later initiative count, before or after other creatures as you choose.
+#### Durations
 
-**Multiple Actions:** If an effect grants you an additional action without the use of a bonus action (like Fighter's Action Surge), choose which action you will do first and roll the appropriate initiative dice for each action except apply a +10 to the second actions's initiative roll. The creature will perform each action on the appropriate initiative count.
+Any effect that normally lasts until the end of a creature's turn instead lasts until the end of the round during which that turn takes place. Similarly, any effect that normally lasts until the start of a creature's turn now lasts until the start of the round during which that turn takes place. (This rule avoids situations where a spell that lasts until the next turn cast at the end of round one, only lasting until the beginning of round two, and having the spell end before the benefits were reaped.)
 
-**Changing your Action.** If your turn comes around and you discover that the battlefield has changed, you may wish to take a different action. Roll new Initiative Dice in accordance to what you want to do. This number is then added to your current Initiative Score, and becomes your new Initiative Score.
+### Initiative Modifiers
 
-**Actions not contributing to Initiative:** If you are *only* moving during your turn, and not taking any other Actions, your initiative score is 1. **Bonus Action** and **Reaction** Do not contribute to Initiative Score.
+#### Dexterity
+
+Dexterity no longer modifies the initiative roll. The Bard's _Jack of all Trades_ ability also no longer affects initiative rolls. The _Alert_ feat allows you to roll your initiative dice with Advantage.
+
+#### Bonuses or Penalties
+
+Though this system does not apply a creature’s Dexterity modifier to its initiative rolls, other effects can alter initiative. If an effect grants you a bonus to your initiative, such as the Alert feat, reduce the size of one die you roll for initiative by one size, so that a d6 becomes a d4, a d4 becomes a d3, and so on. In the case of a penalty to your initiative, you apply the reverse process, increasing the size of one die rolled instead.
+
+#### Advantage or Disadvantage
+
+If an effect would grant you advantage or disadvantage on your initiative roll under the standard system, you apply that to the largest initiative die you roll (or to one of those initiative dice if you roll more than one of the same type). Roll the initiative die twice, using the lowest roll if you have advantage or the highest roll if you have disadvantage.
+
+#### Surprise
+
+A surprised creature adds +10 to its initiative result and cannot take Reactions while it is surprised. A creature is surprised until the end of the round during which it is surprised.
+
+<img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:-10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
+
+
+
+\pagebreakNum
+
+
+
+### Other Rules
+
+#### Creatures Unable to Act
+
+Any creature that is unable to take actions (most likely because it is incapacitated) does not roll initiative. Any effects that such creatures must resolve, such as death saving throws, are resolved at the end of the round.
+
+#### Delaying
+
+You cannot use the _Ready Action_ under these rules, but you can instead choose to delay your turn. Instead of taking your turn on your initiative count, you simply act on a later initiative count, before or after other creatures as you choose.
+
+#### Multiple Actions
+
+If an effect grants you an additional action without the use of a bonus action (like Fighter's Action Surge), choose which action you will do first and roll the appropriate initiative dice for each action except apply a +10 to the second actions's initiative roll. The creature will perform each action on the appropriate initiative count.
+
+#### Changing your Action
+
+If your turn comes around and you discover that the battlefield has changed, you may wish to take a different action. Roll new Initiative Dice in accordance to what you want to do. This number is then added to your current Initiative Score, and becomes your new Initiative Score.
+
+#### Actions not contributing to Initiative
+
+If you are *only* moving during your turn, and not taking any other Actions, your initiative score is 1. **Bonus Action** and **Reaction** do not contribute to Initiative Score.
+
+\columnbreak
 
 <div class='descriptive'>
  
@@ -435,17 +481,7 @@ If a creature that wants to cast a spell takes damage during the round before it
 
 If it takes damage from multiple sources, such as an arrow and a dragon’s breath, it must make a separate saving throw for each source of damage.
 
- </div>
-
-<img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:-10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
-
-### Monster Initiative
-
-The DM will use the creature Hit Die size as the Initiative die. No matter the action the creature is going to take, they simply roll that one die. Intuitively, this means that the bigger and more powerful the monster, the slower they tend to act in Initiative. The DM should make adjustments as desired (zombies should probably have a negative modifier, a Coatul should get a bonus) and you're done.
-
-\pagebreakNum
-
-<img src='https://www.gmbinder.com/images/u07lcKh.png' style='position:absolute;top:60px;right:0px;width:820px; mix-blend-mode:multiply;' />
+</div>
 
 \pagebreakNum
 
@@ -453,23 +489,23 @@ The DM will use the creature Hit Die size as the Initiative die. No matter the a
 ___
 Each round consists of the following phases that are progressed through in the following order.
 
-### Enemy Planning Phase
+### Enemy Indication Phase
 
 During this phase, the DM examines the battlefield and **indicates the apparent intent of the creatures** under his control. This description should be brief and dramatic, "The gaping skeletons all turn their silent attention on the Warlock," or "The devious dragon looks like he's going to ignore the party and attack the church," or "The bandits are shifting as if to try to block your escape, while the archers continue to pepper you from out of range," etc.
 
 <div class='descriptive'>
 
-**DM Note:** This is not meant to be a free Insight check, rather it presents a stage in each round that prompts the DM to create drama and intesity. It is a catalyst for narrative flavor to dovetail in the midst of D&D's Combat game play. "With rage blazing in his eyes the dragon draws a really deep breath," or "The knave looks around for an escape route, as if he's about to bolt," and thus hinting a possible transition to a chase scene. Here surprising twists can be revealed, or DM hints can be dropped i.e. the party is in over their heads. It isn't that this couldn't otherwise be done, rather it is a gaming mechanic that allows the characters to make educated decisions during their planning phase. Ultimately it is about telling a story together.
+**DM Note:** This is not meant to be a free Insight check, rather it presents a stage in each round that prompts the DM to create drama and intesity. It is a catalyst for narrative flavor to dovetail into the midst of D&D's Combat game play. "With rage blazing in his eyes the dragon draws a really deep breath," or "The knave looks around for an escape route, as if he's about to bolt," and thus hinting a possible transition to a chase scene. Here surprising twists can be revealed, or DM hints can be dropped (i.e. the party is in over their heads). It isn't that this couldn't otherwise be done, rather Enemy Indication is a gaming mechanic that allows the characters to make educated decisions during their planning phase. Ultimately it is about telling a story together.
 
 </div>
 
 ### Player Planning Phase
 
-Now that the players have a broad idea of what the enemy is planning, they come up with a plan themselves, and **declare their own intentions**. At this stage, actions do not need any more detail than what is needed to determine the initiative roll. Working together is encouraged.
+Now that the players have a broad idea of what the enemy's indication is, they come up with a plan themselves, and **declare their own intentions**. At this stage, actions do not need any more detail than what is needed to determine the initiative roll. Working together is encouraged.
 
 ### Roll Initiative Phase
 
-Each player and enemy simultaneously **rolls initiative**. Players roll the largest dice corresponding to their actions. Low numbers go first.
+Each player and enemy simultaneously **rolls initiative**. Players roll the largest dice corresponding to their actions (see Dynamic Initiative chart for dice). The lower the number the earlier the action.
 
 ### Resolve Actions Phase
 
@@ -482,6 +518,14 @@ Anything that needs to be **resolved at the end of a round** of combat including
 <img src='https://www.gmbinder.com/images/I1dFekv.png' style='position:absolute;bottom:10px;right:15px;width:780px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />
 
 
+
+\pagebreakNum
+
+<img src='https://www.gmbinder.com/images/u07lcKh.png' style='position:absolute;top:60px;right:0px;width:820px; mix-blend-mode:multiply;' />
+
+\pagebreakNum
+
+<img src='https://www.gmbinder.com/images/sHMA5Qq.png' style='position:absolute;top:-10px;right:0px;width:814px; mix-blend-mode:multiply;' />
 
 \pagebreakNum
 
@@ -780,14 +824,14 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 <style>
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p16 table {
+.phb#p18 table {
     font-size: 7.5pt;
 }
 </style>
 
 | d% | PERSONALITY QUIRK |
 |:---:|:----:|
-| 01 | Always agrees with people, but changes its mind quickly |
+| 01 | Always agrees with people, but changes mind quickly |
 | 02 | Is very noisy about treasure |
 | 03 | Act mysteriously and answers questions poetically |
 | 04 | Doesn’t like new people |
@@ -795,11 +839,11 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 06 | Refers to themself in the third person |
 | 07 | Sometimes bargains for the use of his powers |
 | 08 | Constantly asks how things taste and smell |
-| 09 | Yells when it is excited |
+| 09 | Yells when he/she is excited |
 | 10 | Know-it-all |
 | 11 | Is polite but obviously insincere |
 | 12 | Constantly apologizes as a verbal tic |
-| 13 | Makes a lot of threats it cannot back up |
+| 13 | Makes a lot of threats but cannot back them up |
 | 14 | Very mellow; advises people to take a philosophical approach to both success and failure |
 | 15 | Says as little as possible |
 | 16 | Snickers or laughs at the misfortunes of others |
@@ -820,10 +864,10 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 31 | Is always talking to self |
 | 32 | Very bad liar |
 | 33 | Asks rude questions without realizing they cause offense |
-| 34 | Grumbles and complains about its form and plight |
+| 34 | Grumbles and complains about slightest plight |
 | 35 | Very sensitive about criticism or conflict |
 | 36 | Absent-minded |
-| 37 | Blames a particular type of creature for its troubles |
+| 37 | Blames a particular type of creature for all troubles |
 | 38 | Intellectual bully |
 | 39 | Makes allusions to events from history or mythology without bothering to explain them |
 | 40 | Hates a particular terrain type and complains loudly while within that terrain |
@@ -841,16 +885,16 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | d% | PERSONALITY QUIRK |
 |:---:|:----:|
 | 51 | Makes animal noises when feeling threatened or excited |
-| 52 | A lover or literature and poetry, it takes any opportunity to spout of a line or two of prose or verse |
+| 52 | A lover or literature and poetry, takes any opportunity to spout of a line or two of prose or verse |
 | 53 | Very superstitious |
-| 54 | Spurs on its party members to brave or foolhardy acts |
+| 54 | Spurs party members to brave or foolhardy acts |
 | 55 | Never uses one word when 10 | will do |
 | 56 | Constantly asks to be destroyed, but panics if taken seriously |
 | 57 | Always has a reason why something will not work |
 | 58 | Goes crazy whenever a certain word is uttered |
 | 59 | Tells boring stories about something mundane |
 | 60 | Constantly suggests ways to make activities more “fun” and “exciting” |
-| 61 | Collects words from languages it doesn’t know, and uses them in place of words in the language it most commonly uses |
+| 61 | Collects words from languages doesn’t know, and uses them in place of words in the language most commonly uses |
 | 62 | Dotes on others |
 | 63 | Often ignores others |
 | 64 | Loathes self |
@@ -861,21 +905,21 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 69 | Thinks most objects are intelligent items |
 | 70 | Lacks a moral compass when making plans and often proposes horrific solutions to minor problems |
 | 71 | Often uses vocabulary incorrectly |
-| 72 | Believes it is losing its mind |
+| 72 | Believes they are losing their mind |
 | 73 | Constantly name-drops |
 | 74 | Has terrible syntax and diction |
 | 75 | Never tires of learning new and interesting bits of information |
 | 76 | Complains about smells that no one else notices |
 | 77 | Constantly thirsty |
 | 78 | Loves to sing but is tone deaf |
-| 79 | Blames everyone else for its plight |
+| 79 | Blames other for trials |
 | 80 | Is a seemingly endless font of gossip—though most details are fabricated |
 | 81 | Treats all others as lesser forms of intelligence |
 | 82 | Very cheerful; tries to raise downcast spirits with song, jokes, and uplifting stories |
 | 83 | Grows more and more relaxed the worse things get |
 | 84 | Constantly remembers details wrong |
 | 85 | Makes up stories |
-| 86 | Avoids speaking with creatures other than its wielder or wearer |
+| 86 | Avoids speaking with creatures other than own race |
 | 87 | Has a need for constant attention |
 | 88 | Is a little unhinged |
 | 89 | Questions others about their background in order to determine if they are “suitable” |
