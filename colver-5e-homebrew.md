@@ -26,7 +26,7 @@
 ## [Campaign World Setting](#campaign-world-setting)
 ## [Dying](#dying)
 ####   [Medicine and Healer](#medicine-and-healer)
-## [Hit Dice](#recovery-dice)
+## [Hit Dice](#hit-dice)
 ## [Pool Inspiration](#pool-inspiration)
 ## [Dynamic Initiative](#dynamic-initiative)
 ## [Character Creation](#character-creation)
@@ -1109,14 +1109,14 @@ Contact: forestcolver@gmail.com
 
  ##### Art Credits
  
- * Preamble: Artwork by Vuk Kostic (aka Chevsy on DeviantArt)
- * On Death's Door: Artist unknown
  * Pool Inspiration: Artwork by [Jamie Jones](https://www.artpad.org/ "title")
  * Dynamic Initiative: Artwork by [Eva Widermann](https://www.eva-widermann.de/ "title")
  
  ##### Special Thanks
 
+ * to 8bagels for endlessly discussing rules with me
  * to myself for all the proofreading and for generally being awesome
+ * to bucceriadam@gmail.com for his Deeper Darkness GM Binder which is the basis of this work
 
  ##### Printer Friendly Version
  
