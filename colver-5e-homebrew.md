@@ -947,7 +947,7 @@ Give your players plenty of downtime between adventures, and allow that downtime
 
 #### Travel is Dangerous
 
-Players are not able to take a long rest while out in the wilderness. This can make long journeys tense, and a real drain on resources. Consider making perilous journeys part of your game.
+When characters take a long rest while out in the wilderness it often should get disrupted because the world is dangerous. This can make long journeys tense, and a real drain on resources. Consider making perilous journeys part of your game.
 
 ## Sundry House Rules
 
@@ -975,7 +975,7 @@ As explained in the [Hit Dice](#hit-dice) rules, at the end of a long rest, a ch
 
 An extended rest is a period of extended downtime, at least 24 hours long, which can only be taken in a safe location, where characters have access to plentiful food, water, and comfort. An extended rest cannot be attempted while in the wilderness, while sleeping on dirt or stone, or while wearing armor. Characters must be in a location where they do not feel the need to keep watch or constantly be on guard. Other downtime training and activities may be performed at the DM's discretion.
 
-For each consecutive 24 hours of extended rest the character takes he can add 1d4 to any healing. For example the first 24 hours the character gets 1d4 extra healing. The second consecutive 24 hours (so 48 hours of straight resting) they get 2d4 extra healing, and so forth.
+For each consecutive 24 hours of extended rest the character takes he can cumulatively add 1d12 to any healing. For example the first 24 hours the character gets 1d12 extra healing. The second consecutive 24 hours (so 48 hours of straight resting) they get 2d12 extra healing for that day, in addition to the 1d12 from the first day, and so forth.
 
 ### Level Advancement Training
 
@@ -1021,6 +1021,15 @@ ___
 Between sessions:
 * **Record the session**
 * **Prepare spells and special abilities** for the first round or two of an upcoming battle
+
+\columnbreak
+
+#### DM Buys Time
+ Whenever the DM has to take some time to look something up or figure something out, this is a good activity that will occupy players and add to the story.
+* The DM picks a character time interval where something could happen, i.e. on the road, during the night, while searching the room, or after a battle cleaning weapons
+* The DM writes down two negative things that could possibly happen during this time period
+* As many players as would like to participate also write down one negative thing that could happen, and one positive thing that could happen, of approximate equal value, all must be approved by the DM
+* The papers go into a hat and the DM draws one out when he is ready
 
 <img src='https://www.gmbinder.com/images/eKQDTuh.jpg' style='position:absolute;bottom:0px;right:48px;width:720px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1.14)scaleY(1);' />
 
