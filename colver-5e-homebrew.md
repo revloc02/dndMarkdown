@@ -39,6 +39,8 @@
 
 <div class='footnote'>All copyrights reserved for WotC and various artists, without who this would not be possible.</div>
 
+<img src='https://www.gmbinder.com/images/9Ykkhir.jpg' style='position:absolute;bottom:0px;right:0px;width:500px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);' />
+
 
 
 
@@ -208,6 +210,8 @@ You can use downtime between adventures to recover from a debilitating injury, d
 
 ##### Sources
 Rules based on [a blog post by Chris Perkins](https://scruffygrognard.wordpress.com/2015/05/25/fixing-the-medicine-skill-healers-kit-and-healer-feat-dd-5th-edition/comment-page-1/).
+
+<img src='https://s-media-cache-ak0.pinimg.com/originals/61/b8/40/61b840fd6fca6a7330aab9a53ec05440.jpg' style='position:absolute;bottom:-50px;right:0px;width:430px; mix-blend-mode:multiply;filter:brightness(130%)saturate(100%);transform:rotate(0deg)scaleX(-1)scaleY(0.92);' />
 
 
 
@@ -458,7 +462,13 @@ If it takes damage from multiple sources, such as an arrow and a dragon’s brea
 
 </div>
 
+<img src='http://dndspeak.com/wp-content/uploads/2017/12/basic-dnd.jpg' style='position:absolute;bottom:0px;right:-20px;width:860px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />
+
+
+
 \pagebreakNum
+
+
 
 # Dynamic Initiative: Lifecycle
 ___
@@ -519,6 +529,8 @@ Adventurers are exceptional specimens, and they have the talent to prove it. All
 
 Whenever you go up a level and are rolling for HPs, roll with advantage with your DM. (Depending on your results the DM may choose to give you another additional reroll.)
 
+\columnbreak
+
 ### Optional: Ancestry
  
 Players may choose an Ancestry for their characters. Functionally, this is almost identical to choosing a Race, with the distinction being largely conceptual.
@@ -526,6 +538,8 @@ Players may choose an Ancestry for their characters. Functionally, this is almos
 By choosing an ancestry, you are not determining your parentage, but what racial, cultural and societal forces shaped you. A human raised by Dwarves may claim Dwarven ancestry, and a half-elf may choose to take Human, Elf, or Half-Elf ancestry, depending on what forces shaped them into the person they became.
 
 ***Ability Score Increases.*** As a result of this more flexible approach to race, all racial Ability Score Increases may be distributed to ability scores of your choice. For example, choosing a Half-Orc ancestry allows you to increase one ability score of your choice by 2, and one ability score by 1. These must be different ability scores.
+
+<img src='https://www.gmbinder.com/images/NfOj7S5.jpg' style='position:absolute;bottom:0px;right:48px;width:720px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1.07)scaleY(1);' />
 
 
 
@@ -1008,8 +1022,14 @@ Between sessions:
 * **Record the session**
 * **Prepare spells and special abilities** for the first round or two of an upcoming battle
 
+<img src='https://www.gmbinder.com/images/eKQDTuh.jpg' style='position:absolute;bottom:0px;right:48px;width:720px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1.14)scaleY(1);' />
+
+
 
 \pagebreakNum
+
+
+
 
 # Appendix A: Glossary
 * **ASI:** Ability Score Improvement. Any increase to an Ability Score of 1 or more points.
