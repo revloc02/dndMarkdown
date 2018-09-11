@@ -97,50 +97,7 @@ Frequently, it takes a coven of witches, a circle of druids, or an order of wiza
 
 While these magics may be available to players, it is not quick, easy, or cheap. Commissioning a high-level spell is like embarking on a construction project, with all the complications that go with it.
 
-
-
-\pagebreakNum
-
-
-
-#### Resting
-
-Heroes can recover from injuries quickly, but not overnight. There are three types of rests.
-
-***Breather.***
-Taking a breather is a short period of downtime, at least 5 minutes long. During that time players may rest, slake their thirst or hunger, bandage a wound, or just meditate on the task ahead.
-
-A character can spend one or more Hit Dice after taking a breather, up to the character’s maximum number of Hit Dice, which is equal to the character’s level. For each Hit Die spent in this way, the player rolls the die and adds the character’s Constitution modifier to it. The character regains hit points equal to the total. The player can decide to spend an additional Hit Die after each roll.
-
-***Short Rest.***
-A short rest is a period of downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity—at least 10 minutes of walking, fighting, casting Spells, or similar adventuring activity—the characters must begin the rest again to gain any benefit from it.
-
-At the end of a short rest, a character regains 1 Hit Die. A character can’t benefit from more than one short rest in a 24-hour period, and a character must have at least 1 hit point at the start of the rest to gain its benefits.
-
-***Long Rest.***
-A long rest is a period of extended downtime, at least 24 hours long. A long rest can only be taken in a safe location, where characters have access to plentiful food, water, and comfort. A long rest cannot be attempted while in the wilderness, while sleeping on dirt or stone, or while wearing armor. Characters must be in a location where they do not feel the need to keep watch or constantly be on guard. 
-
-At the end of a long rest, a character regains all lost hit points, and regains all spent Hit Dice. A character must have at least 1 hit point at the start of the rest to gain its benefits.
-
-#### Downtime
-
-As a result of the slower resting, there is a greater emphasis on downtime. Players should be encouraged to establish a home base, carouse the city at night, and build connections in new locations.
-
-#### Level Advancement Downtime Training
-
-In order to advance a level a character must spend a extended period of downtime training. Level advancement can only be taken in a safe location, where characters have access to plentiful food, water, and comfort. Level advancement cannot be attempted while in the wilderness, while sleeping on dirt or stone, or while wearing armor. Characters must be in a location where they do not feel the need to keep watch or constantly be on guard.
-
-If a character cannot rest appropriately to level up they may still gain experience points. A character can only advance one level per downtime training.
-
-Other downtime training and activities may be a part of the Level Advancement Downtime Training at the DM's discretion.
-
-##### Time and Cost
-
-The amount of time required is 24 hours per level the character desires to advance to. The cost for training materials and instruction is the level desired squared.
-
-##### Success or Failure
-
-Once the training is completed the player must roll to advance the level. The DC is 10 + the desired level. The character's proficiency and Class Ability Score modifier can be added to the roll. On a success the character advances the level. For each failure the character must train another day, pay another 10% of the costs, and then try again with an additional +1 modifier. Roll modifiers are cumulative.
+<img src='https://www.gmbinder.com/images/vXXUhrW.png' style='position:absolute;bottom:25px;right:-10px;width:550px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 
 
@@ -978,35 +935,61 @@ Give your players plenty of downtime between adventures, and allow that downtime
 
 Players are not able to take a long rest while out in the wilderness. This can make long journeys tense, and a real drain on resources. Consider making perilous journeys part of your game.
 
-## Random House Rules
+## Sundry House Rules
 
-#### Entertainment = Bonus
+### Entertainment = Bonus
 
 Any time a player describes or role-plays what their character is doing in a way that is **entertaining** to everyone at the table, they get a **+1 bonus** to whatever dice they are rolling to do it.
 
-#### Critial Hits
+### Critial Hits
 
 Whenever a character scores a critical hit they do **maximum damage plus one extra** roll of the **damage dice**.
 
-#### Drinking Potions
+### Drinking Potions
 
 **Potions** are small and can be quaffed as a **Bonus Action**. But administering a potion to another character is an action.
 
+### Resting
+
+#### Long Rest
+
+As explained in the [Hit Dice](#hit-dice) rules, at the end of a long rest, a character **does not** automatically regain any lost hit points. During a long rest, a character can spend one or more Hit Dice to regain hit points. After a long rest, a character regains all spent Hit Dice.
+
 \columnbreak
 
-#### Leveling Up
+#### Extended Rest
 
-**Level-Up Cost = level x 2 days** & **level x 10 gp**
+An extended rest is a period of extended downtime, at least 24 hours long, which can only be taken in a safe location, where characters have access to plentiful food, water, and comfort. An extended rest cannot be attempted while in the wilderness, while sleeping on dirt or stone, or while wearing armor. Characters must be in a location where they do not feel the need to keep watch or constantly be on guard. Other downtime training and activities may be performed at the DM's discretion.
 
-Characters only gain a level after spending downtime training or studying before they gain the benefits of a new level (this must also include a Long Rest). To attain the next level a character must train for a number of days equal to the desired level multiplied by 2, and must spend gold equal to the desired level multiplied by 10. So a 4th level character desiring to become 5th level must train for 10 days and spend 50 gp.
+For each consecutive 24 hours of extended rest the character takes he can add 1d4 to any healing. For example the first 24 hours the character gets 1d4 extra healing. The second consecutive 24 hours (so 48 hours of straight resting) they get 2d4 extra healing, and so forth.
 
-#### DM Buys Time
+### Level Advancement Training
 
-Whenever the DM has to take some time to look something up or figure something out this is a good activity that will occupy players and add to the story.
-* The DM picks a character time interval where something could happen, i.e. on the road, during the night, while searching the room, after a battle cleaning weapons
-* The DM writes down two negative things that could happen during this time period
-* As many players as would like to participate also write down one negative thing that could happen and one positive thing that could happen, of approximate equal value, all must be approved by the DM
-* The papers go into a hat and the DM draws one out when he is ready
+In order to advance a level a character must spend a extended period of downtime training. Level advancement can only be taken in a safe location, where characters have access to plentiful food, water, and comfort. Level advancement cannot be attempted while in the wilderness, while sleeping on dirt or stone, or while wearing armor. Characters must be in a location where they do not feel the need to keep watch or constantly be on guard.
+
+If a character cannot rest appropriately to level up they may still gain experience points. A character can only advance one level per downtime training.
+
+Other downtime training and activities may be a part of the Level Advancement Downtime Training at the DM's discretion.
+
+#### Time and Cost
+
+The amount of time required is 24 hours per level the character desires to advance to. The cost for training materials and instruction is the level desired squared.
+
+#### Success or Failure
+
+Once the training is completed the player must roll to advance the level. The DC is 10 + the desired level. The character's proficiency and Class Ability Score modifier can be added to the roll. On a success the character advances the level. For each failure the character must train another day, pay another 10% of the costs, and then try again with an additional +1 modifier. Roll modifiers are cumulative.
+
+> #### Level-Up Summary
+> - Must be in a **safe** location
+> - Desired level x 48 hours
+> - Desired level squared gp
+> - Class Ability check + proficiency vs. DC 10 + desired level
+
+
+
+\pagebreakNum
+
+
 
 ## DM Tips
 
