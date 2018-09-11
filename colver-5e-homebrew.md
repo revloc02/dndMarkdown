@@ -236,7 +236,7 @@ These are slightly adjusted rules for Hit Dice. Hit points represent both a char
 
 At the end of a long rest, a character **does not** automatically regain any lost hit points. During a short or long rest, a character can spend one or more Hit Dice to regain hit points. After a long rest, a character regains all spent Hit Dice.
 
-Removing a full character health reset introduces more grit into the game. Characters should consider the lasting consequences of their decisions instead of mearly surviving the day. Thus the Hit Dice at the beginning of the day represent all the natural healing and vitality for the entire day regardless of the length of the rest.
+Removing a full character health reset introduces more grit into the game. Characters should consider the lasting consequences of their decisions instead of merely surviving the day. Thus the Hit Dice at the beginning of the day represent all the natural healing and vitality for the entire day regardless of the length of the rest.
 
 _**Example:** Wendy is a level 5 Wizard. She has a total of 5d6 Hit Dice. Currently they are all available. The party just survived a few encounters, in which she got a bit beat up, and is now taking a short rest. Alice is spending the time bandaging wounds. At the end of the short rest she spends a Hit Die (1HD+CON) to regain hit points. It was a low roll so she decides to spend another. Much better. After regaining the hit points she is feeling more confident for the next encounter. Wendy now has two spent Hit Dice and three available Hit Dice. If all goes well in the next encounter she plans to spend the final three Hit Dice after her long rest._
 
