@@ -1,3 +1,21 @@
+<style>
+  .phb#p1:after { display:none; }
+</style>
+
+<img src='https://www.gmbinder.com/images/mFqaTrC.jpg' class='cover-image' style='position:absolute;top:-45px;left:0px;width:820px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />/>
+
+
+
+<div class='cover-diamond'></div>
+
+<div class='cover-header'>Revloc02 House Rules</div>
+
+<div class='cover-splotch'></div>
+
+<div class='cover-footer'>A collection of house rules for gritty, player driven low but epic fantasy</div>
+
+\pagebreak
+
 # D&D 5e: Colver House Rules
 
 <div style='margin-top:25px'></div>
