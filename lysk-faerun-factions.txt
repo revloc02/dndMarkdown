@@ -1,9 +1,6 @@
 # Faerûn Factions
 
-In the Forgotten Realms, five factions have risen to prominence. Seeking to further their
-respective agendas while opposing destructive forces that threaten the folk of Faerûn, each
-faction has its own motivations, goals, and philosophy. While some are more heroic than
-others, all band together in times of trouble to thwart major threats.
+In the Forgotten Realms, five factions have risen to prominence. Seeking to further their respective agendas while opposing destructive forces that threaten the folk of Faerûn, each faction has its own motivations, goals, and philosophy. While some are more heroic than others, all band together in times of trouble to thwart major threats.
 
 Belonging to a faction sometimes means having responsibilities, but it also carries with it support and rewards for service.
 
@@ -18,6 +15,9 @@ Belonging to a faction sometimes means having responsibilities, but it also carr
 
 
 ### Emerald Enclave
+
+<img src='https://www.gmbinder.com/images/KzwAPih.jpg' style='position:absolute;top:25px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(150%)saturate(150%)opacity(55%);' />
+
 
 A widespread group of wilderness survivalists who preserve the **natural order** while rooting out unnatural threats.
 
@@ -35,6 +35,8 @@ A widespread group of wilderness survivalists who preserve the **natural order**
 
 ### Harpers
 
+<img src='https://www.gmbinder.com/images/dRHIEV7.jpg' style='position:absolute;top:325px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(150%)saturate(150%)opacity(65%);' />
+
 A scattered network of spellcasters and spies who advocate equality and covertly **oppose the abuse of power**.
 
 #### Goals
@@ -50,6 +52,8 @@ A scattered network of spellcasters and spies who advocate equality and covertly
 * No one should be powerless.
 
 ### Zhentarim
+
+<img src='https://www.gmbinder.com/images/wOL8Dmm.jpg' style='position:absolute;top:625px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%)opacity(55%);' />
 
 An unscrupulous **shadow network** that seeks to expand its influence and power throughout Faerûn.
 
