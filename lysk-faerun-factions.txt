@@ -6,7 +6,15 @@ Belonging to a faction sometimes means having responsibilities, but it also carr
 
 ### Order of the Gauntlet
 
+<img src='https://www.gmbinder.com/images/KzwAPih.jpg' style='position:absolute;top:325px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(150%)saturate(150%)opacity(55%);' />
+ 
+**Corresponding Alignment:** Good
+
 ### Lords’ Alliance
+
+<img src='https://www.gmbinder.com/images/KzwAPih.jpg' style='position:absolute;top:625px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(150%)saturate(150%)opacity(55%);' />
+ 
+**Corresponding Alignment:** Lawful
 
 
 
@@ -16,7 +24,9 @@ Belonging to a faction sometimes means having responsibilities, but it also carr
 
 ### Emerald Enclave
 
-<img src='https://www.gmbinder.com/images/KzwAPih.jpg' style='position:absolute;top:25px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(150%)saturate(150%)opacity(55%);' />
+<img src='https://www.gmbinder.com/images/KzwAPih.jpg' style='position:absolute;top:46px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(150%)saturate(150%)opacity(55%);transform:rotate(0deg)scaleX(1)scaleY(1.04);' />
+ 
+**Corresponding Alignment:** Neutral
 
 
 A widespread group of wilderness survivalists who preserve the **natural order** while rooting out unnatural threats.
@@ -35,7 +45,9 @@ A widespread group of wilderness survivalists who preserve the **natural order**
 
 ### Harpers
 
-<img src='https://www.gmbinder.com/images/dRHIEV7.jpg' style='position:absolute;top:325px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(150%)saturate(150%)opacity(65%);' />
+<img src='https://www.gmbinder.com/images/dRHIEV7.jpg' style='position:absolute;top:336px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(150%)saturate(150%)opacity(65%);transform:rotate(0deg)scaleX(1)scaleY(1.04);' />
+ 
+**Corresponding Alignment:** Chaos
 
 A scattered network of spellcasters and spies who advocate equality and covertly **oppose the abuse of power**.
 
@@ -53,7 +65,9 @@ A scattered network of spellcasters and spies who advocate equality and covertly
 
 ### Zhentarim
 
-<img src='https://www.gmbinder.com/images/wOL8Dmm.jpg' style='position:absolute;top:625px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%)opacity(55%);' />
+<img src='https://www.gmbinder.com/images/wOL8Dmm.jpg' style='position:absolute;top:621px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%)opacity(55%);' />
+ 
+**Corresponding Alignment:** Evil
 
 An unscrupulous **shadow network** that seeks to expand its influence and power throughout Faerûn.
 
