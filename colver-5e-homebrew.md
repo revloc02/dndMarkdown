@@ -332,7 +332,13 @@ As motivation to have the party experience more encounters in a game day, the DM
 >   * **Recall** a Spell or Special Ability
 >   * Something **Special**
 
+<img src='https://www.gmbinder.com/images/mkSmfJp.jpg' style='position:absolute;bottom:0px;right:-10px;width:430px; mix-blend-mode:multiply;filter:brightness(110%)saturate(140%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+
+
+
 \pagebreakNum
+
+
 
 ## Spending Inspiration
 
@@ -359,7 +365,13 @@ You may recall a spell you have already cast at the cost of 2 Inspiration for ev
 * **Special (Inspiration costs varies):**
 You can petition the GM to attempt nearly anything that would normally be almost impossible. Such uses are not guaranteed and should be considered carefully by the DM. Possibilities include casting a single spell that is one level higher than you could normally cast (or a 1st-level spell if you are not a spellcaster), making an attack that blinds a foe or bypasses its damage reduction entirely, or attempting to use Diplomacy to convince a raging dragon to give up its attack. Regardless of the desired action, the attempt should be accompanied by a difficult check or penalty on the attack roll. No additional attempts may be made for such a special action by the character or his allies regardless of the amount of Inspiration points available, and the cost is determined by the DM.
 
+<img src='https://www.gmbinder.com/images/kGJBrmw.jpg' style='position:absolute;bottom:0px;right:-25px;width:460px; mix-blend-mode:multiply;filter:brightness(105%)saturate(120%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+
+
+
 \pagebreakNum
+
+
 
 # Dynamic Initiative
 
@@ -617,15 +629,16 @@ Pre-levels will never count towards any features or abilities that use levels as
 | 3     | 63 |
 | 4     | 66 |
 | 5     | 69 |
-| 6     | 72 |
 | 10    | 80 |
 | 15    | 90 |
 | 20    | 100 |
 
-   
+<img src='https://www.gmbinder.com/images/aIzkT5n' style='position:absolute;bottom:0px;right:-10px;width:430px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+
 
 
 \pagebreakNum
+
 
 
 ## Personal Characteristics
@@ -714,6 +727,8 @@ An Aspect is a phrase that defines a truth about a character. A good aspect shou
 * Very Well-mannered
 * Way Overconfident
 * Whiner
+
+<img src='https://www.gmbinder.com/images/lTI8gAj.jpg' style='position:absolute;bottom:40px;right:80px;width:250px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);transform:rotate(0deg)scaleX(1.2)scaleY(1);' />
 
 
 
@@ -1050,6 +1065,8 @@ Between sessions:
 * **PC:** Player Character, a player's character. A character that is owned, run, and controlled by a player.
 * **PHB:** Player's Handbook.
 * **RAW:** Rules As Written. This refers to the standard gameplay rules precisely as they were written.
+
+<img src='https://www.gmbinder.com/images/LAr328o.jpg' style='position:absolute;bottom:40px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
  
 
 
