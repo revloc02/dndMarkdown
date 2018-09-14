@@ -76,12 +76,12 @@ There is no such thing as a magic shop. Sometimes it is possible to find someone
 There are NPCs with Class levels, but these are rather uncommon, and are usually the leaders of the world who have some experience.
 
 * Levels 1-3 are fairly common. Lots of folks across the land can level-up from training or defending their homes and cities from time to time.
-* Levels 4-6 are uncommon. Many of the leaders, from Captain of the Guard to the Guild Leader to the local fuedal lord, are in this category.
-* Levels 7-8 are rare. This consists of the greatest heroes, generals, and feudal leaders.
+* Levels 4-6 are uncommon. Many of the leaders—from Captain of the Guard to Guild Leader to Temple Priest, as well as the local fuedal lord—are in this category.
+* Levels 7-8 are rare. This consists of the greatest heroes, generals, high priests, and feudal leaders.
 * Levels 9-10 are very rare. Only the most powerful kings and greatest arch-mages attain this level.
 * Levels 10+ are only known in legends. Campaign humanoid NPCs with class levels will not exist in this category, thus PC adversaries will be high CR monsters.
 
-A town militia would consist of a bunch of peasants run by a 1st or 2nd level Fighter. City guards would be no more than 3rd level, with a Captain that is 3rd to 5th level. Renowned heroes, a king's Champion, or feudal lords would be 8th level, some might be as high as 10th level but that would be fairly unique. The great and powerful wizard studying in his tower would be 6th to 10th level. Achilles, Aragorn, Conan, and Drizzt are examples of legendary characters that might be 10th level as they are powerful, competent, and heroic, but not invincible. Most people are just people and anyone who has some class levels usually have only 1 to 3 levels.
+A town militia would consist of a bunch of peasants run by a 1st or 2nd level Fighter. City guards would be no more than 3rd level, with a Captain that is 3rd to 5th level. Renowned heroes, a king's Champion, or feudal lords would be 8th level, some might be as high as 10th level but that would be fairly unique. The great and powerful wizard studying in his tower would be 6th to 10th level. Achilles, Aragorn and Legolas, Conan, and Drizzt are examples of legendary characters that might be 10th level as they are powerful, competent, and heroic, but not invincible. Most people are just ordinary people and class levels are exceptional.
 
 But none of this prevents any player character from attaining any levels all the way to 20th, or beyond if the DM has parameters for it.
 
@@ -140,7 +140,7 @@ The **Dying** condition causes the creature to suffer **+1 Exhaustion** level 1)
 
 **Dying** creatures are conscious. As such spells like _Sleep_ will still affect them. 
 
-Exhaustion gained from **Dying** does not end when the **Dying** condition is lost unless the healing method specifically describes also removing levels of exhaustion. Exhaustion gained from **Dying** is like all other exhaustion. As per RAW if a creature gains the sixth level of exhaustion it is dead. See _Exhaustion_ in _Conditions_ (PHB p. 291) for complete information.
+Exhaustion gained from **Dying** does not end when the **Dying** condition is lost unless the healing method specifically describes also removing levels of exhaustion. Exhaustion gained from **Dying** is like all other exhaustion. As per RAW if a creature gains the sixth level of exhaustion, it is dead. See _Exhaustion_ in _Conditions_ (PHB p. 291) for complete information.
 
 ### Falling Prone Instead
 
@@ -148,11 +148,11 @@ When the **Dying** condition imposes suffering **+1 Exhaustion** levels the play
 
 ### Damage while Dying.
 
-If you take any damage while you are **Dying**, you suffer **+1 Exhaustion** level. If the damage equals or exceeds your hit point maximum, you suffer instant death.
+If you take any damage while you are **Dying**, you suffer **+1 Exhaustion** level. If you receive a critical hit, you suffer **+2 Exhaustion** levels. If the damage equals or exceeds your hit point maximum, you suffer instant death.
 
 ### Stabilizing a Dying Creature.
 
-Effects that stabalize a **Dying** creature now do so by healing for one hit point. Stabalization via first aid can be done on any creature you can touch and requires an action and a successful Wisdom (Medicine) check with a DC of 10 + targets exhaustion level.
+Effects that invoke the ***stabilize*** result on a **Dying** creature now do so by healing for one hit point. Stabilization via first aid can be done on any creature you can touch and requires an action and a successful Wisdom (Medicine) check with a DC of 10 + targets Exhaustion level (see [Medicine Skill](#dying-medicine-and-healer-medicine-skill)).
 
 ### Optional: Dying Survivor Injury
 
@@ -164,7 +164,8 @@ Levels of Exhaustion can be removed in the following ways:
 - Greater Restoration spell reduces the target's exhaustion level by one (RAW)
 - Potion of Vitality: removes all exhaustion (RAW)
 - Finishing a long rest reduces a creature's exhaustion level by one, provided that the creature has also ingested some food and drink (RAW)
-- You may spend Inspiration (see Pool Inspiration) to reduce Exhaustion (HBR)
+- You can use a Healer’s Kit and a Medicine check to remove an extra Exhaustion (see [Healer’s Kit](#dying-medicine-and-healer)) during a long rest (HBR)
+- You may spend Inspiration (see [Pool Inspiration](#pool-inspiration)) to reduce Exhaustion (HBR)
 
 
 
@@ -174,31 +175,31 @@ Levels of Exhaustion can be removed in the following ways:
 
 ## Medicine and Healer
 
-These rules make the Medicine skill, the Healer's Kit, and the Healer Feat more useful.
+These rules make the Medicine skill, the Healer’s Kit, and the Healer Feat more useful.
 
 ### Medicine Skill
 
 Here are the uses of the Medicine Skill:
 * Diagnose an illnesses, this is typically a role playing check (RAW).
-* As an action, a Medicine check, DC 10 + Exhaustion Level, will stabilize a dying character (HBR).
-* As an action, a Medicine check, DC 15 + Exhaustion Level, and one use of a Healer's Kit, will heal 1d4 hit points during a short rest on a character once per short rest (HBR).
-* As an action, a Medicine check, DC 20 + Exhaustion Level, will remove one extra level of Exhaustion during a long rest from a character once per long rest (HBR).
+* As an action, a Medicine check, DC 10 + Exhaustion Level, will **stabilize** a dying character thus granting them 1 hp (HBR).
 * Evaluate others wounds, this is typically a role playing check (HBR).
 * Examine corpses in order determine the cause of death, this is typically a role playing check (HBR).
-* Provide long-term care to poisoned or diseased creatures.  When a poisoned or diseased creature is cared for by someone proficient in the Medicine skill (see _Downtime: Recuperating,_ PHB, p. 187), they make their recuperation saving throws with advantage (HBR).
+* Provide long-term care to poisoned or diseased creatures.  When a poisoned or diseased creature is cared for by someone proficient in the Medicine skill (see _Downtime: Recuperating_, PHB, p. 187), they make their recuperation saving throws with advantage (HBR).
 
 ### Healer’s Kit
 
-Here are the uses of a Healer's Kit:
-* As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Medicine check (RAW).
-* If you expend one use of a healer’s kit to treat a poisoned or diseased creature (see _Downtime: Recuperating,_ PHB p, 187), they make their recuperation saving throw with advantage (HBR).
+Here are the uses of a Healer’s Kit:
+* As an action, you can expend one use of a Healer’s Kit to **stabilize** a creature that has dropped to 0 hit points, without needing to make a Medicine check (RAW).
+* As an action, one use of a Healer’s Kit, and a Medicine check, DC 15 + Exhaustion Level, will heal 1d4 hit points during a short rest on a character once per short rest (HBR).
+* As an action, one use of a Healer’s Kit, and a Medicine check, DC 23 + Exhaustion Level, will remove one extra level of Exhaustion during a long rest from a character once per long rest (HBR).
+* If you expend one use of a Healer’s Kit to treat a poisoned or diseased creature (see _Downtime: Recuperating_, PHB p, 187), they make their recuperation saving throw with advantage (HBR).
 
 ### Healer Feat
 
 You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
 * You have advantage on all Medicine checks (HBR).
-* When you use a healer’s kit to stabilize a dying creature, that creature also regains 1d6+4 hit points (HBR).
-* As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest (RAW).
+* When you use a Healer’s Kit to **stabilize** a dying creature, that creature also regains 1d6+4 hit points (HBR).
+* As an action, you can spend one use of a Healer’s Kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest (RAW).
 
 \columnbreak
 
@@ -389,7 +390,7 @@ Each round a new initiative is rolled for every creature involved in the battle.
 
 #### Initiative Dice
 
-The d20 is no longer used to roll for initiative.
+The d20 is no longer generally used to roll for initiative.
 
 ##### PC Initiative
 
