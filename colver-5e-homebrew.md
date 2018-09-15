@@ -537,7 +537,7 @@ During the process of creating your character here are some additional items to 
 
 ### Select an Additional Feat
 
-Adventurers are exceptional specimens, and they have the talent to prove it. All characters may select one additional feat at character creation.
+Adventurers are exceptional specimens, and they have the talent to prove it. All characters may select one additional feat at first level.
 
 ### Advantage on HP rolls
 
@@ -915,31 +915,29 @@ Pre-levels will never count towards any features or abilities that use levels as
 
 ### DM Notes
 
-* Make the players aware that their characters are very fragile, one successful attack against them could be the end. Player creativity and ingenuity should be top priorities for encounters, and running away is usually a good option.
-* Look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI.
-* Create as many opportunities as possible for non-lethal dice rolls. Here are some examples:
+* During Pre-Levels, make sure the players aware that their characters are very fragile, one successful attack against them could be the end. Player creativity and ingenuity should be top priorities for encounters, and running away is usually a good option.
+* During Pre-Levels, look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability **during game play**. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI. Create as many opportunities as possible for non-lethal dice rolls. Here are some examples:
    * Make a Dex (Sleight of Hand) check to steal some Dire Platypus eggs for food
    * Make a Int (History) check to see if anyone knows anything about the ruins of a razed settlement
    * Make a Cha (Intimidation) check to chase away the owlbear cubs
    * Make a Wis (Animal Handling) check to ride the horse
-   * ...and so forth
-* Have the characters "earn" the mechanical features from the Background they choose as a part of downtime activities. They should probably have all of these by level 3.
-* Characters should earn about 3 ASIs per pre-level and per normal levels through level 6, and then about 2 per level after that. The DM can choose to give any ASI upon character level up.
+* Have the characters "earn" the mechanical features from the Background they chose, as a part of downtime activities. They should probably have all of these by level 2 or 3.
+* ASIs are no longer part of the normal character level advancement. The DM should continue to look for opportunities to pass out ASIs during game play throughout the character's **entire career**. Characters should earn about 3 ASIs per pre-level and per normal level through level 5, and then about 2 per level after that. The DM can choose to give any ASIs upon any character level advancement.
 
 ##### Guideline for ASI 
-| Level | Appox. Ability Score Total |
-|:-----:|:-----:|
-| A     | 48 |
-| B     | 51 |
-| C     | 54 |
-| 1     | 57 |
-| 2     | 60 |
-| 3     | 63 |
-| 4     | 66 |
-| 5     | 69 |
-| 10    | 80 |
-| 15    | 90 |
-| 20    | 100 |
+| Level | ~ Ability Scores Total | ~ ASI During Level |
+|:-----:|:-----:|:-----:|
+| A     | 48 | 3 |
+| B     | 51 | 3 |
+| C     | 54 | 3 |
+| 1     | 57 | 3 |
+| 2     | 60 | 3 |
+| 4     | 66 | 3 |
+| 6     | 72 | 2 |
+| 8     | 76 | 2 |
+| 10    | 80 | 2 |
+| 15    | 90 | 2 |
+| 20    | 100 | 2 |
 
 <img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;right:0px;width:415px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
@@ -1005,7 +1003,7 @@ Other downtime training and activities may be a part of the Level Advancement Do
 
 #### Time and Cost
 
-The amount of time required is 24 hours per level the character desires to advance to. The cost for training materials and instruction is the level desired squared.
+The amount of time required is 48 hours per level the character desires to advance to. The cost for training materials and instruction is the level desired squared.
 
 #### Success or Failure
 
@@ -1025,22 +1023,23 @@ Once the training is completed the player must roll to advance the level. The DC
 
 ## DM Tips
 
-During the session:
+##### During the session:
+
 * Encourage the players be **clever** and/or creative.
 * As often as possible describe additional **senses** besides sight (hearing, smell, taste, touch, and inner-feelings).
 * Often **narrate** enemy or player actions, again use the six senses. (Matt Mercer)
 * Frequently ask the **players describe** what happened, especially for extreme (1s or 20s, min or max) dice rolls.
 * Do **cut scenes** where you tell the players (not the characters) what the bad guys are doing even though their characters realistically couldn’t know this. It makes for a great story (Matt Colville). This should _**never**_ be something that takes away player or character agency.
-* Constantly **create interesting choices**, even menial ones, i.e. "...from the decending stairs you smell a rank, musty odor and from the east corridor your torches are beginning to flicker from a slight breeze."
+* Constantly **create interesting choices**, even menial ones, i.e. "From the descending stairs you smell a rank, musty odor and from the east corridor your torches are beginning to flicker from a slight breeze, which way do you go?"
 * Look for opportunities to have characters **build character** and have them write it down. (Whenever there is more than one crit or fail in a row, this is an opportunity to start an aspect.)
 * Frequently **compel characters to invoke Personal Characteristics** and give them Inspiration for doing so.
 
-___
-Between sessions:
+\columnbreak
+
+##### Between sessions:
+
 * **Record the session**
 * **Prepare spells and special abilities** for the first round or two of an upcoming battle
-
-\columnbreak
 
 #### DM Buys Time
  Whenever the DM has to take some time to look something up or figure something out, this is a good activity that will occupy players and add to the story.
