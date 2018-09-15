@@ -21,7 +21,7 @@
 <div style='margin-top:25px'></div>
 <div class='wide'>
 
-##### A collection of home brew rules for player driven grittier fantasy in D&D 5E
+##### _A collection of home brew rules for player driven grittier fantasy in D&D 5E_
 
 ## [Campaign World Setting](#campaign-world-setting)
 ## [Dying](#dying)
@@ -210,7 +210,7 @@ You can use downtime between adventures to recover from a debilitating injury, d
 * For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
 
 ##### Sources
-Rules based on [a blog post by Chris Perkins](https://scruffygrognard.wordpress.com/2015/05/25/fixing-the-medicine-skill-healers-kit-and-healer-feat-dd-5th-edition/comment-page-1/).
+Rules based on [a blog post by Chris Perkins](https://scruffygrognard.wordpress.com/2015/05/25/fixing-the-medicine-skill-healers-kit-and-healer-feat-dd-5th-edition/comment-page-1/ "Fixing the Medicine Skill, Healer’s Kit, and Healer Feat (D&D 5th Edition)").
 
 <img src='https://s-media-cache-ak0.pinimg.com/originals/61/b8/40/61b840fd6fca6a7330aab9a53ec05440.jpg' style='position:absolute;bottom:-50px;right:0px;width:430px; mix-blend-mode:multiply;filter:brightness(130%)saturate(100%);transform:rotate(0deg)scaleX(-1)scaleY(0.92);' />
 
@@ -295,11 +295,11 @@ The limit as to how much Inspiration can be in the pool is up to the DM. A rough
 ### Player Request
 
 Inspiration can be obtained by the characters by doing any of the following:
-* Invoking any of their **Personal Characteristics** or **Aspects**
+* Invoking any of their **Personal Characteristics** or **Aspects**, by acting in accordance with one of them in a way that creates tension, drama, or authenticity
 * Acting **heroically** or taking a significant **risk**
 * Being **creative** or clever or **ingenious**
 
-A player announces their intent to get Inspiration by doing one of these actions, i.e. they lobby for Inpiration. This is negotiated with the DM. The player should narrate how their character is performing the deed, and should attempt to make their case more compelling with thrilling drama.  If the act is intense enough, the DM can even occasionally grant 2 Inspiration for the activity.
+A player announces their intent to get Inspiration by doing one of these actions, i.e. they lobby for Inpiration. This is negotiated with the DM. The player should narrate how their character is performing the deed, and should attempt to make their case more compelling with thrilling drama that is ultimately entertaining.  If the act is intense enough, the DM can even occasionally grant 2 Inspiration for the activity.
 
 ### Momentum
 
@@ -348,13 +348,13 @@ When a player spends Inspiration from the Pool typically they should narrate how
 * **Advantage/Disadvantage:**
 Must be declared before any creature makes an attack roll, saving throw, or ability check. That creature then rolls with Advantage or Disadvantage at the player's choosing.
 * **Reroll:**
-You may reroll any one roll you just made. You must take the results of the second roll, even if it is worse.
+You may reroll any one dice roll you just made. You must take the results of the second roll, even if it is worse.
 * **Act Out of Turn:**
 Take your turn immediately (i.e. out of inititive order). Treat this as a readied action, moving your initiative for this round to just before the currently acting creature.
 * **Stunt (2 Inspiration):**
 Player may modify an action by declaring that action a Stunt. Must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. For example, sprinting an extra 10 feet in a direction, extending the range of a spell a small amount, or specifically targeting an enemies weak point, etc. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect, such as: blinding, deafening, moving a creature up to 5 feet in a direction, knocking a creature prone, disarming, cleaving, kicking, tumbling, or more. Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. If the stunt turns out to be a particularly spectacular success (because of favorable dice rolls) the DM may choose refund one Inspiration point.
 * **Revelation (2+ Inspiration):**
-If you feel stuck at one point in the adventure, you can spend 2 Inspiration (or more, DM's fiat) and petition the DM for a hint about what to do next. If the DM feels that there is no information to be gained, the Inspiration point is not spent.
+If you feel stuck at one point in the adventure, you can spend 2 Inspiration (or more, DM's fiat) and petition the DM for a hint about what to do next. If the DM feels that there is no information to be gained, the Inspiration can be fully or partially refunded.
 * **Extra Action (3 Inspiration):**
 Gain an additional Move, Action, Bonus Action, Interaction, or Reaction this turn.
 * **Remove Exhaustion (4 Inspiration):**
@@ -376,7 +376,7 @@ You can petition the GM to attempt nearly anything that would normally be almost
 
 # Dynamic Initiative
 
-Dynamic Initiative is an initiative variant with the goal of creating extra layers of choice in combat by making different actions take different speeds, while being as quick and painless as possible. The rules of Dynamic Initiative are meant to be intuitive and simple, but here are the specific details of how the rules function.
+Dynamic Initiative is an initiative variant with the goal of creating extra layers of choice in combat by making different actions take different speeds, and at the same time being as quick and painless a system as possible.
 
 ## Rules
 
@@ -458,24 +458,21 @@ If an effect grants you an additional action without the use of a bonus action (
 
 If your turn comes around and you discover that the battlefield has changed, you may wish to take a different action. Roll new Initiative Dice in accordance to what you want to do. This number is then added to your current Initiative Score, and becomes your new Initiative Score.
 
+\columnbreak
+
 #### Actions not contributing to Initiative
 
 If you are *only* moving during your turn, and not taking any other Actions, your initiative score is 1. **Bonus Action** and **Reaction** do not contribute to Initiative Score.
 
-\columnbreak
-
-<div class='descriptive'>
+#### Optional: Spell Disruption
  
- ##### Variant: Spell Disruption
 For added AD&D flavor, you can introduce the spell disruption rule. This variant rule greatly reduces the effectiveness of all casters, so use with caution.
 
 If a creature that wants to cast a spell takes damage during the round before it can act, it must make a Constitution Check. Make a Constitution saving throw. The DC equals 10 or half the damage it takes, whichever number is higher. On a failure, the creature is restricted to casting cantrips on its turn.
 
 If it takes damage from multiple sources, such as an arrow and a dragon’s breath, it must make a separate saving throw for each source of damage.
 
-</div>
-
-<img src='http://dndspeak.com/wp-content/uploads/2017/12/basic-dnd.jpg' style='position:absolute;bottom:0px;right:-20px;width:860px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />
+<img src='http://dndspeak.com/wp-content/uploads/2017/12/basic-dnd.jpg' style='position:absolute;bottom:40px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />
 
 
 
@@ -634,7 +631,7 @@ Pre-levels will never count towards any features or abilities that use levels as
 | 15    | 90 |
 | 20    | 100 |
 
-<img src='https://www.gmbinder.com/images/aIzkT5n' style='position:absolute;bottom:0px;right:-10px;width:430px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;right:0px;width:415px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 
 
@@ -646,6 +643,8 @@ Pre-levels will never count towards any features or abilities that use levels as
 
 ### Standard
 
+This is a review and summary of the standard Personality Characteristics.
+
 * **Personality Traits** describe the things your character likes, past accomplishments, things your character dislikes or fears, your character’s self-attitude or mannerisms
 * **Ideals** are things that you believe in most strongly, the fundamental moral and ethical principles that compel you to act as you do. Ideals encompass everything from your life goals to your core belief system. What are the principles that you will never betray? What would prompt you to make sacrifices? What drives you to act and guides your goals and ambitions? What is the single most important thing you strive for?
 * **Bonds** are character’s connections to people, places, and events in the world. They tie you to things from your background. They might inspire you to heights of heroism, or lead you to act against your own best interests if they are threatened. They can work very much like ideals, driving a character’s motivations and goals. Whom do you care most about? To what place do you feel a special connection? What is your most treasured possession?
@@ -653,27 +652,37 @@ Pre-levels will never count towards any features or abilities that use levels as
 
 ### Aspects
 
+Aspects are additional Personality Characteristics that adds **detail, depth, and breadth** to a character. They can be additional Traits, Ideals, Bonds or Flaws, or something entirely different. They provide a resource to **spark player creativity** as they play their character and a foundation as they act in character. Mechanically they can be used by a player to make in game situations more potent or authentic to petition the DM for Inspiration. The more a character has the easier it will be to find one to invoke.
+
+#### Creating Aspects
+
+Aspects are a word or phrase that describes something **unusual or special** about a character. They describe personality traits, important details about your past, relationships you have with others, titles you possess, madness and sanity, reputations you have, obligations to others, problems you're dealing with, goals you're working towards and more.
+
 An Aspect is a phrase that defines a truth about a character. A good aspect should:
-* have both positive and negative elements
-* reveal something about the character, something they may not even know
-* be worded so that it can be invoked
+* **Clear:** Be worded so that it can be invoked
+* **Compelling:** Reveal something interesting about the character, something they may not even know
+* **Double-Edged:** Have elements that are potentially both positive and negative
+
+Additional advice on creating an excellent Aspect can be found in the [FATE SRD](https://fate-srd.com/fate-core/making-good-aspect "Making A Good Aspect").
+
+\columnbreak
+
+#### Gaining Aspects
+
+Your character should pick up an additional Aspect about **once per level**. While core Aspects to your character may never change, other Aspects will be gained and lost as the game is played.
 
 #### Example Aspects
 
 * A Wall is Just a Door That Doesn't Know It
 * Absent minded
 * Addicted
-* Agile as a cat... but twice as curious.
-* All for One and One for All
+* Agile as a cat... but twice as curious
 * Always Guilty
 * Always in debt
 * Always Surviving, Never Living
-* Artist
 * Attacking is the best defense
-* Believer
 * Bloodline, (royal / racial / divine / unusual / immortal)
 * Born in the Saddle
-* Butt Ugly
 * CHARGE!
 * Cowardly
 * Crazy
@@ -681,16 +690,13 @@ An Aspect is a phrase that defines a truth about a character. A good aspect shou
 * Depressed
 * Enamored with (race)
 * Farmboy
-* Greedy
 * Grumpy
 * Has visions
 * Hiding Something
-* High Opinion of Myself
 * Hoarder
 * How Can I Resist?
 * I can please everyone, all of the time.
 * Impetuous
-* Innocent
 * Insufferable Optimist
 * It's All in the Reflexes
 * I've Never Had Friends Before
@@ -700,24 +706,19 @@ An Aspect is a phrase that defines a truth about a character. A good aspect shou
 * Mamma's Boy
 * My Family is More Precious Than Gold
 * Mysterious
-* Never surrender
 * Never trust a (race)
 * Nothing Ever Goes As Planned
 * Overly Frugal
 * Paranoid
-* Physical Deformity
+* Physical deformity / scar
 * Picked This Up Earlier, Thought It Might Come In Handy
-* Popular
 * Price on My Head
 * Prophetic
 * Rascal
 * Rule Breaker
 * Rustic
-* Scarred
-* Scholarly
-* Sharpshooter
+* Incessant sniper
 * Smart Aleck
-* Street Waif
 * Sworn to Avenge My Father's Death
 * The One Who Lived.
 * Things Are Not What They Seem
@@ -726,10 +727,8 @@ An Aspect is a phrase that defines a truth about a character. A good aspect shou
 * Unusual Eyes / Hair / Other Physical Attribute
 * Very Religious
 * Very Well-mannered
-* Way Overconfident
+* Way too confident
 * Whiner
-
-<img src='https://www.gmbinder.com/images/lTI8gAj.jpg' style='position:absolute;bottom:40px;right:80px;width:250px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);transform:rotate(0deg)scaleX(1.2)scaleY(1);' />
 
 
 
@@ -943,7 +942,6 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 
 \pagebreakNum
-
 
 
 
@@ -1168,6 +1166,8 @@ Contact: forestcolver@gmail.com
  ##### Printer Friendly Version
  
  Copy source code, paste into GM Binder document, and add the 'ink friendly' theme at the top of the document.
+
+<img src='https://www.gmbinder.com/images/lTI8gAj.jpg' style='position:absolute;bottom:50px;right:50px;width:270px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);transform:rotate(0deg)scaleX(1.2)scaleY(1);' />
 
  </div>
 
