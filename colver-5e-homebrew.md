@@ -939,7 +939,7 @@ Pre-levels will never count towards any features or abilities that use levels as
 | 15    | 90 | 2 |
 | 20    | 100 | 2 |
 
-<img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;right:0px;width:415px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;right:67px;width:323px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 
 
