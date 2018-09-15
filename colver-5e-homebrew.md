@@ -25,15 +25,19 @@
 
 ## [Campaign World Setting](#campaign-world-setting)
 ## [Dying](#dying)
-####   [Medicine and Healer](#medicine-and-healer)
+####   [Medicine and Healer](#dying-medicine-and-healer)
 ## [Hit Dice](#hit-dice)
 ## [Pool Inspiration](#pool-inspiration)
 ## [Dynamic Initiative](#dynamic-initiative)
+####   [Dynamic Initiative: Lifecycle](#dynamic-initiative-lifecycle)
 ## [Character Creation](#character-creation)
-####       [Optional: Pre-Levels](#character-creation-optional-pre-levels)
-####       [Character Depth](#character-depth)
+####   [Personal Characteristics](#character-creation-personal-characteristics)
+####   [Character Depth](#character-creation-character-depth)
+####   [Optional: Pre-Levels](#character-creation-optional-pre-levels)
 ## [DM Notes](#dm-notes)
-## [Credits](#dynamic-initiative-thought-process-credits)
+####   [DM Tips](#dm-notes-dm-tips)
+## [Appendix A: Glossary](#appendix-a-glossary)
+#### [Credits](#appendix-a-glossary-credits)
 
 </div>
 
@@ -557,88 +561,6 @@ By choosing an ancestry, you are not determining your parentage, but what racial
 
 
 
-
-## Optional: Pre-Levels
-
-The concept of pre-levels is adding one or more character levels before level 1. In general, abilities and feats that a character class has at level 1, would then be divided among the pre-levels to generate a gradual progression leading up to level 1.
-
-### Choose a Race
-
-Choose a race, but do not take any racial ability score adjustments.
-
-### Choose an Aptitude
-
-Do not choose a class, you are a peasant. But do choose a Target Class, an aptitude, that you are working towards.
-
-### Determine Ability Scores
-
-Roll ability scores in order (Str, Dex, Con, Int, Wis, Cha) by using the following formula: 8 + 1d4 - 1d4 (average 8). Alternatively you can roll 7 + 2d4 - 2d4 (average 7, but greater potential).
-
-### Level Advancement
-
-To advance from level A to B is 50 XP, from B to C is 150 XP, and from C to level 1 is 250 XP.
-
-<div class='classTable'>
-
-##### Peasant Pre-Levels
-| XP   | Pre-Level | HD  | Proficiency Bonus | New Features |
-|:----:|:-----:|:---:|:--------------:|:-----------:|
-| -450 | A     | 1d4 | +0  | none |
-| -400 | B     | 2d4 | +0  | 1 Class Skill, and Class Armor or Tool proficiency |
-| -250 | C     | 3d4 | +1  | 1 Class Weapon or Cantrip, and 1 Class Saving Throw |
-
-</div>
-
-Once you advance through the pre-levels move on to 1st level.
-
-##### At 1st Level:
-
-* **Keep pre-level HPs:** Do not take max HPs for level 1, rather roll the dice normally plus CON and add on to pre-level HPs.
-* **Background target:** Choose a background that you would like to work towards, but do not take any of the mechanical features. You will work on the Background features during your downtime. The DM will facilitate the skills and abilities you receive from this.
-* **Racial Ability Scores:** Take your race's Ability Score Increases.
-
-As you continue advance through levels do not take any Ability Score Improvements as indicated on the Class Table. These will be facilitated generously by the DM during game play.
-
-Pre-levels will never count towards any features or abilities that use levels as part of the calculation.
-
-\columnbreak
-
-### DM Notes
-
-* Make the players aware that their characters are very fragile, one successful attack against them could be the end. Player creativity and ingenuity should be top priorities for encounters, and running away is usually a good option.
-* Look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI.
-* Create as many opportunities as possible for non-lethal dice rolls. Here are some examples:
-   * Make a Dex (Sleight of Hand) check to steal some Dire Platypus eggs for food
-   * Make a Int (History) check to see if anyone knows anything about the ruins of a razed settlement
-   * Make a Cha (Intimidation) check to chase away the owlbear cubs
-   * Make a Wis (Animal Handling) check to ride the horse
-   * ...and so forth
-* Have the characters "earn" the mechanical features from the Background they choose as a part of downtime activities. They should probably have all of these by level 3.
-* Characters should earn about 3 ASIs per pre-level and per normal levels through level 6, and then about 2 per level after that. The DM can choose to give any ASI upon character level up.
-
-##### Guideline for ASI 
-| Level | Appox. Ability Score Total |
-|:-----:|:-----:|
-| A     | 48 |
-| B     | 51 |
-| C     | 54 |
-| 1     | 57 |
-| 2     | 60 |
-| 3     | 63 |
-| 4     | 66 |
-| 5     | 69 |
-| 10    | 80 |
-| 15    | 90 |
-| 20    | 100 |
-
-<img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;right:0px;width:415px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
-
-
-
-\pagebreakNum
-
-
-
 ## Personal Characteristics
 
 ### Standard
@@ -828,7 +750,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 <style>
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p18 table {
+.phb#p17 table {
     font-size: 7.5pt;
 }
 </style>
@@ -938,6 +860,88 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 98 | Is afraid of the dark |
 | 99 | Chastizes people for using profanity |
 | 100 | On edge and nervous when things seem to be going too well |
+
+
+
+\pagebreakNum
+
+
+
+
+## Optional: Pre-Levels
+
+The concept of pre-levels is adding one or more character levels before level 1. In general, abilities and feats that a character class has at level 1, would then be divided among the pre-levels to generate a gradual progression leading up to level 1.
+
+### Choose a Race
+
+Choose a race, but do not take any racial ability score adjustments.
+
+### Choose an Aptitude
+
+Do not choose a class, you are a peasant. But do choose a Target Class, an aptitude, that you are working towards.
+
+### Determine Ability Scores
+
+Roll ability scores in order (Str, Dex, Con, Int, Wis, Cha) by using the following formula: 8 + 1d4 - 1d4 (average 8). Alternatively you can roll 7 + 2d4 - 2d4 (average 7, but greater potential).
+
+### Level Advancement
+
+To advance from level A to B is 50 XP, from B to C is 150 XP, and from C to level 1 is 250 XP.
+
+<div class='classTable'>
+
+##### Peasant Pre-Levels
+| XP   | Pre-Level | HD  | Proficiency Bonus | New Features |
+|:----:|:-----:|:---:|:--------------:|:-----------:|
+| -450 | A     | 1d4 | +0  | none |
+| -400 | B     | 2d4 | +0  | 1 Class Skill, and Class Armor or Tool proficiency |
+| -250 | C     | 3d4 | +1  | 1 Class Weapon or Cantrip, and 1 Class Saving Throw |
+
+</div>
+
+Once you advance through the pre-levels move on to 1st level.
+
+##### At 1st Level:
+
+* **Keep pre-level HPs:** Do not take max HPs for level 1, rather roll the dice normally plus CON and add on to pre-level HPs.
+* **Background target:** Choose a background that you would like to work towards, but do not take any of the mechanical features. You will work on the Background features during your downtime. The DM will facilitate the skills and abilities you receive from this.
+* **Racial Ability Scores:** Take your race's Ability Score Increases.
+
+As you continue advance through levels do not take any Ability Score Improvements as indicated on the Class Table. These will be facilitated generously by the DM during game play.
+
+Pre-levels will never count towards any features or abilities that use levels as part of the calculation.
+
+\columnbreak
+
+### DM Notes
+
+* Make the players aware that their characters are very fragile, one successful attack against them could be the end. Player creativity and ingenuity should be top priorities for encounters, and running away is usually a good option.
+* Look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI.
+* Create as many opportunities as possible for non-lethal dice rolls. Here are some examples:
+   * Make a Dex (Sleight of Hand) check to steal some Dire Platypus eggs for food
+   * Make a Int (History) check to see if anyone knows anything about the ruins of a razed settlement
+   * Make a Cha (Intimidation) check to chase away the owlbear cubs
+   * Make a Wis (Animal Handling) check to ride the horse
+   * ...and so forth
+* Have the characters "earn" the mechanical features from the Background they choose as a part of downtime activities. They should probably have all of these by level 3.
+* Characters should earn about 3 ASIs per pre-level and per normal levels through level 6, and then about 2 per level after that. The DM can choose to give any ASI upon character level up.
+
+##### Guideline for ASI 
+| Level | Appox. Ability Score Total |
+|:-----:|:-----:|
+| A     | 48 |
+| B     | 51 |
+| C     | 54 |
+| 1     | 57 |
+| 2     | 60 |
+| 3     | 63 |
+| 4     | 66 |
+| 5     | 69 |
+| 10    | 80 |
+| 15    | 90 |
+| 20    | 100 |
+
+<img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;right:0px;width:415px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 
 
