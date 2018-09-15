@@ -2,7 +2,7 @@
   .phb#p1:after { display:none; }
 </style>
 
-<img src='https://www.gmbinder.com/images/mFqaTrC.jpg' class='cover-image' style='position:absolute;top:-45px;left:0px;width:820px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />/>
+<img src='https://www.gmbinder.com/images/mFqaTrC.jpg' class='cover-image' style='position:absolute;top:-45px;left:0px;width:825px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />/>
 
 
 
@@ -370,7 +370,7 @@ You may recall a spell you have already cast at the cost of 2 Inspiration for ev
 * **Special (Inspiration costs varies):**
 You can petition the GM to attempt nearly anything that would normally be almost impossible. Such uses are not guaranteed and should be considered carefully by the DM. Possibilities include casting a single spell that is one level higher than you could normally cast (or a 1st-level spell if you are not a spellcaster), making an attack that blinds a foe or bypasses its damage reduction entirely, or attempting to use Diplomacy to convince a raging dragon to give up its attack. Regardless of the desired action, the attempt should be accompanied by a difficult check or penalty on the attack roll. No additional attempts may be made for such a special action by the character or his allies regardless of the amount of Inspiration points available, and the cost is determined by the DM.
 
-<img src='https://www.gmbinder.com/images/kGJBrmw.jpg' style='position:absolute;bottom:0px;right:-25px;width:460px; mix-blend-mode:multiply;filter:brightness(105%)saturate(120%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/kGJBrmw.jpg' style='position:absolute;bottom:0px;right:-25px;width:460px; mix-blend-mode:multiply;filter:brightness(105%)saturate(120%);transform:rotate(0deg)scaleX(-1)scaleY(1.1);' />
 
 
 
