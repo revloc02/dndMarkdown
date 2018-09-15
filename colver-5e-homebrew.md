@@ -520,13 +520,13 @@ Anything that needs to be **resolved at the end of a round** of combat including
 
 \pagebreakNum
 
-<img src='https://www.gmbinder.com/images/u07lcKh.png' style='position:absolute;top:60px;right:0px;width:820px; mix-blend-mode:multiply;' />
+<img src='https://www.gmbinder.com/images/wZLir6p.png' style='position:absolute;top:60px;right:0px;width:820px; mix-blend-mode:multiply;' />
 
-\pagebreakNum
+\pagebreak
 
 <img src='https://www.gmbinder.com/images/sHMA5Qq.png' style='position:absolute;top:-10px;right:0px;width:814px; mix-blend-mode:multiply;' />
 
-\pagebreakNum
+\pagebreak
 
 
 
@@ -1033,12 +1033,14 @@ Once the training is completed the player must roll to advance the level. The DC
 * Constantly **create interesting choices**, even menial ones, i.e. "From the descending stairs you smell a rank, musty odor and from the east corridor your torches are beginning to flicker from a slight breeze, which way do you go?"
 * Look for opportunities to have characters **build character** and have them write it down. (Whenever there is more than one crit or fail in a row, this is an opportunity to start an aspect.)
 * Frequently **compel characters to invoke Personal Characteristics** and give them Inspiration for doing so.
+* Delegate **housekeeping tasks to players**, i.e. tracking initiative, playing ambiance music, recording treasure, etc.
 
 \columnbreak
 
 ##### Between sessions:
 
-* **Record the session**
+* Specifically ask a player to **record the session** and reward them for doing so
+* **Record DM ideas** and notes from the session
 * **Prepare spells and special abilities** for the first round or two of an upcoming battle
 
 #### DM Buys Time
