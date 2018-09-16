@@ -903,7 +903,7 @@ Once you advance through the pre-levels move on to 1st level.
 
 ##### At 1st Level:
 
-* **Keep pre-level HPs:** Do not take max HPs for level 1, rather roll the dice normally plus CON and add on to pre-level HPs.
+* **Keep pre-level HPs:** Do not take max HPs for level 1, rather roll your class's HD die normally adding CON and then add this sum onto your pre-level HPs.
 * **Background target:** Choose a background that you would like to work towards, but do not take any of the mechanical features. You will work on the Background features during your downtime. The DM will facilitate the skills and abilities you receive from this.
 * **Racial Ability Scores:** Take your race's Ability Score Increases.
 
@@ -948,6 +948,7 @@ Pre-levels will never count towards any features or abilities that use levels as
 
 
 # DM Notes
+
 Always remember that the Dungeon Master has absolute power.
 
 ## Guidelines for Play
@@ -1027,13 +1028,13 @@ Once the training is completed the player must roll to advance the level. The DC
 
 * Encourage the players be **clever** and/or creative.
 * As often as possible describe additional **senses** besides sight (hearing, smell, taste, touch, and inner-feelings).
-* Often **narrate** enemy or player actions, again use the six senses. (Matt Mercer)
+* Often **narrate** enemy or player actions, again use the six senses (Matt Mercer).
 * Frequently ask the **players describe** what happened, especially for extreme (1s or 20s, min or max) dice rolls.
 * Do **cut scenes** where you tell the players (not the characters) what the bad guys are doing even though their characters realistically couldn’t know this. It makes for a great story (Matt Colville). This should _**never**_ be something that takes away player or character agency.
 * Constantly **create interesting choices**, even menial ones, i.e. "From the descending stairs you smell a rank, musty odor and from the east corridor your torches are beginning to flicker from a slight breeze, which way do you go?"
 * Look for opportunities to have characters **build character** and have them write it down. (Whenever there is more than one crit or fail in a row, this is an opportunity to start an aspect.)
 * Frequently **compel characters to invoke Personal Characteristics** and give them Inspiration for doing so.
-* Delegate **housekeeping tasks to players**, i.e. tracking initiative, playing ambiance music, recording treasure, etc.
+* Delegate **housekeeping tasks to players**, i.e. tracking initiative, playing ambiance music, recording treasure, scribing names, places, and clues that need to be remembered, etc. This should have a set of rewards.
 
 \columnbreak
 
@@ -1043,8 +1044,10 @@ Once the training is completed the player must roll to advance the level. The DC
 * **Record DM ideas** and notes from the session
 * **Prepare spells and special abilities** for the first round or two of an upcoming battle
 
-#### DM Buys Time
- Whenever the DM has to take some time to look something up or figure something out, this is a good activity that will occupy players and add to the story.
+#### Optional: DM Buys Time
+
+Whenever the DM has to take some time to look something up or figure something out, this is a good activity that will occupy players and add to the story.
+
 * The DM picks a character time interval where something could happen, i.e. on the road, during the night, while searching the room, or after a battle cleaning weapons
 * The DM writes down two negative things that could possibly happen during this time period
 * As many players as would like to participate also write down one negative thing that could happen, and one positive thing that could happen, of approximate equal value, all must be approved by the DM
@@ -1060,6 +1063,7 @@ Once the training is completed the player must roll to advance the level. The DC
 
 
 # Appendix A: Glossary
+
 * **ASI:** Ability Score Improvement. Any increase to an Ability Score of 1 or more points.
 * **Bloodied:** When a creature reaches half its hit points or less it has the Bloodied condition. *Narratively this means that the creature has more than battle fatigue and superficial cuts and bruises, they are wounded in a way that is serious and their life blood is beginning to flow out.*
 * **DMG:** Dungeons Master's Guide.
