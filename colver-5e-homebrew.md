@@ -1034,7 +1034,7 @@ Once the training is completed the player must roll to advance the level. The DC
 * Constantly **create interesting choices**, even menial ones, i.e. "From the descending stairs you smell a rank, musty odor and from the east corridor your torches are beginning to flicker from a slight breeze, which way do you go?"
 * Look for opportunities to have characters **build character** and have them write it down. (Whenever there is more than one crit or fail in a row, this is an opportunity to start an aspect.)
 * Frequently **compel characters to invoke Personal Characteristics** and give them Inspiration for doing so.
-* Delegate **housekeeping tasks to players**, i.e. tracking initiative, playing ambiance music, recording treasure, scribing names, places, and clues that need to be remembered, etc. This should have a set of rewards.
+* Delegate **housekeeping tasks to players**, i.e. tracking initiative, playing ambiance music, recording treasure, scribing names, places, and clues that need to be remembered, collecting and redeeming Feature Cards, etc. This should have a set of rewards.
 
 \columnbreak
 
