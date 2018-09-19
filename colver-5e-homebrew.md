@@ -35,8 +35,8 @@
 ####   [Character Depth](#character-creation-character-depth)
 ####   [Optional: Pre-Levels](#character-creation-optional-pre-levels)
 ## [DM Notes](#dm-notes)
-####   [DM Tips](#dm-notes-guidlines-for-play)
-####   [DM Tips](#dm-notes-sundry-house-rules)
+####   [Guidelines for Play](#dm-notes-guidelines-for-play)
+####   [Sundry House Rules](#dm-notes-sundry-house-rules)
 ####   [DM Tips](#dm-notes-dm-tips)
 ## [Appendix A: Glossary](#appendix-a-glossary)
 #### [Credits](#appendix-a-glossary-credits)
@@ -82,7 +82,7 @@ There is no such thing as a magic shop. Sometimes it is possible to find someone
 There are NPCs with Class levels, but these are rather uncommon, and are usually the leaders of the world who have some experience.
 
 * Levels 1-3 are fairly common. Lots of folks across the land can level-up from training or defending their homes and cities from time to time.
-* Levels 4-6 are uncommon. Many of the leaders—from Captain of the Guard to Guild Leader to Temple Priest, as well as the local fuedal lord—are in this category.
+* Levels 4-6 are uncommon. Many of the leaders—from Captain of the Guard to Guild Leader to Temple Priest, as well as the local feudal lord—are in this category.
 * Levels 7-8 are rare. This consists of the greatest heroes, generals, high priests, and feudal leaders.
 * Levels 9-10 are very rare. Only the most powerful kings and greatest arch-mages attain this level.
 * Levels 10+ are only known in legends. Campaign humanoid NPCs with class levels will not exist in this category, thus PC adversaries will be high CR monsters.
@@ -140,7 +140,7 @@ When a character drops to 0 hit points, he or she gains the **Dying** condition,
 
 _The Dying condition indicates a character is on their way to death and grants multiple rounds to either stop the death or go out with a bang. Urgency is created without removing the characters ability to do something about it. In combination with existing rules about removing level of exhaustion this creates a scenario where the closer a character gets to death the longer it takes for him to recover from the shock of that situation—potentially multiple days to remove all levels of Exhaustion. During that time the character will have some disadvantage on checks and reduced speed (as per the exhaustion levels) and this represents a bit of shell shock or PTSD being suffered by the character._
 
-**Dying** is a special condition that simply means a creature has 0 hit points and is not dead yet. A creature obtains the **Dying** condition immediatly when they drop to 0 hit points and looses the condition as soon as they gain any hit points.
+**Dying** is a special condition that simply means a creature has 0 hit points and is not dead yet. A creature obtains the **Dying** condition immediately when they drop to 0 hit points and looses the condition as soon as they gain any hit points.
 
 The **Dying** condition causes the creature to suffer **+1 Exhaustion** level 1) immediately, 2) at the end of their turn, 3) when they take damage.
 
@@ -162,7 +162,7 @@ Effects that invoke the ***stabilize*** result on a **Dying** creature now do so
 
 ### Optional: Dying Survivor Injury
 
-Creatures that have been stabalized from **Dying** have been at deaths door. Thats a very traumatic situation. It may be appropriate to roll on the "Lingering Injuries Table" (DMG ch9) for the creature. 
+Creatures that have been stabilized from **Dying** have been at deaths door, which is a very traumatic situation. It may be appropriate to roll on the "Lingering Injuries Table" (DMG ch9) for the creature. 
 
 ## Note: Exhaustion Removal
 Levels of Exhaustion can be removed in the following ways:
@@ -269,7 +269,7 @@ You can use your Reaction to Push Yourself to your character's limits thus incur
 
 _**Example:** Bob the Barbarian is in front line combat against a hoard of lizard folk. Bob uses Action Surge for more attacks in an attempt to finally defeat the lizard king. On his last blow Bob rolls a 2. Sure that he was a single hit away from victory he decides to use his Reaction to push himself. He spends a Hit Die (1HD+CON) getting 13 which he adds to the attack roll making it 15 total. A hit! The lizard king in fact is defeated and the other lizard folk run away on their turn. Bob is unable to take attacks of opportunity on them this round because his Reaction was spent, and it was worth it._
 
-### Assisting your Allys
+### Assisting your Allies
 
 In an attempt to encourage group collaboration, reliance, and planning you can spend Hit Dice to assist any other creature. This assistance includes Rejuvenation for an ally and Pushing Yourself to assist others during encounters. This turns all the individual Hit Dice pools into one large party Hit Dice pool that the players coordinate.
 
@@ -305,7 +305,7 @@ Inspiration can be obtained by the characters by doing any of the following:
 * Acting **heroically** or taking a significant **risk**
 * Being **creative** or clever or **ingenious**
 
-A player announces their intent to get Inspiration by doing one of these actions, i.e. they lobby for Inpiration. This is negotiated with the DM. The player should narrate how their character is performing the deed, and should attempt to make their case more compelling with thrilling drama that is ultimately entertaining.  If the act is intense enough, the DM can even occasionally grant 2 Inspiration for the activity.
+A player announces their intent to get Inspiration by doing one of these actions, i.e. they lobby for Inspiration. This is negotiated with the DM. The player should narrate how their character is performing the deed, and should attempt to make their case more compelling with thrilling drama that is ultimately entertaining.  If the act is intense enough, the DM can even occasionally grant 2 Inspiration for the activity.
 
 ### Momentum
 
@@ -356,7 +356,7 @@ Must be declared before any creature makes an attack roll, saving throw, or abil
 * **Reroll:**
 You may reroll any one dice roll you just made. You must take the results of the second roll, even if it is worse.
 * **Act Out of Turn:**
-Take your turn immediately (i.e. out of inititive order). Treat this as a readied action, moving your initiative for this round to just before the currently acting creature.
+Take your turn immediately (i.e. out of initiative order). Treat this as a readied action, moving your initiative for this round to just before the currently acting creature.
 * **Stunt:**
 Player may modify an action by declaring that action a Stunt. Must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. For example, sprinting an extra 10 feet in a direction, extending the range of a spell a small amount, or specifically targeting an enemies weak point, etc. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect, such as: blinding, deafening, moving a creature up to 5 feet in a direction, knocking a creature prone, disarming, cleaving, kicking, tumbling, or more. Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. If the stunt turns out to be a particularly spectacular success (because of favorable dice rolls) the DM may choose refund one Inspiration point.
 * **Revelation (2+ Inspiration):**
@@ -368,9 +368,9 @@ You may remove one level of Exhaustion from a character.
 * **Cheat Death (5+ Inspiration):**
 How this plays out is up to the DM, but generally the character is left alive, with 1 hit point, Unconscious, but stable. For example, a character is about to be slain by a critical hit from an arrow. If the character spends the required Inspiration points, the DM decides that the arrow pierced the character’s holy symbol, reducing the damage enough to prevent him from being killed, and that he made his stabilization roll at the end of his turn. The character can spend Inspiration points in this way to prevent the death of a familiar, animal companion, eidolon, or special mount, but not another character or NPC.
 * **Recall (Spell-Levelx2 Inspiration):**
-You may recall a spell you have already cast at the cost of 2 Inspiration for every spell level. 1st spells cost 2 Inspiration to recall, 2nd cost 4 Inspiration, and so forth up to 9th level spells costing 18 Inspirtaion to recall. Additionally, Recall can be used to gain another use of a special ability that is otherwise limited. This should only be used on feats and abilities possessed by your character that recharge on a daily basis. The DM will determine the approximate equivalent spell level for the ability so Inspiration cost can be calculated.
+You may recall a spell you have already cast at the cost of 2 Inspiration for every spell level. 1st spells cost 2 Inspiration to recall, 2nd cost 4 Inspiration, and so forth up to 9th level spells costing 18 Inspiration to recall. Additionally, Recall can be used to gain another use of a special ability that is otherwise limited. This should only be used on feats and abilities possessed by your character that recharge on a daily basis. The DM will determine the approximate equivalent spell level for the ability so Inspiration cost can be calculated.
 * **Special (Inspiration costs varies):**
-You can petition the GM to attempt nearly anything that would normally be almost impossible. Such uses are not guaranteed and should be considered carefully by the DM. Possibilities include casting a single spell that is one level higher than you could normally cast (or a 1st-level spell if you are not a spellcaster), making an attack that blinds a foe or bypasses its damage reduction entirely, or attempting to use Diplomacy to convince a raging dragon to give up its attack. Regardless of the desired action, the attempt should be accompanied by a difficult check or penalty on the attack roll. No additional attempts may be made for such a special action by the character or his allies regardless of the amount of Inspiration points available, and the cost is determined by the DM.
+You can petition the GM to attempt nearly anything that would normally be almost impossible. Such uses are not guaranteed and should be considered carefully by the DM. Possibilities include casting a single spell that is one level higher than you could normally cast (or a 1st-level spell if you are not a spell-caster), making an attack that blinds a foe or bypasses its damage reduction entirely, or attempting to use Diplomacy to convince a raging dragon to give up its attack. Regardless of the desired action, the attempt should be accompanied by a difficult check or penalty on the attack roll. No additional attempts may be made for such a special action by the character or his allies regardless of the amount of Inspiration points available, and the cost is determined by the DM.
 
 <img src='https://www.gmbinder.com/images/kGJBrmw.jpg' style='position:absolute;bottom:0px;right:-25px;width:460px; mix-blend-mode:multiply;filter:brightness(105%)saturate(120%);transform:rotate(0deg)scaleX(-1)scaleY(1.1);' />
 
@@ -496,7 +496,7 @@ During this phase, the DM examines the battlefield and **indicates the apparent 
 
 <div class='descriptive'>
 
-**DM Note:** This is not meant to be a free Insight check, rather it presents a stage in each round that prompts the DM to create drama and intesity. It is a catalyst for narrative flavor to dovetail into the midst of D&D's Combat game play. "With rage blazing in his eyes the dragon draws a really deep breath," or "The knave looks around for an escape route, as if he's about to bolt," and thus hinting a possible transition to a chase scene. Here surprising twists can be revealed, or DM hints can be dropped (i.e. the party is in over their heads). It isn't that this couldn't otherwise be done, rather Enemy Indication is a gaming mechanic that allows the characters to make educated decisions during their planning phase. Ultimately it is about telling a story together.
+**DM Note:** This is not meant to be a free Insight check, rather it presents a stage in each round that prompts the DM to create drama and intensity. It is a catalyst for narrative flavor to dovetail into the midst of D&D's Combat game play. "With rage blazing in his eyes the dragon draws a really deep breath," or "The knave looks around for an escape route, as if he's about to bolt," and thus hinting a possible transition to a chase scene. Here surprising twists can be revealed, or DM hints can be dropped (i.e. the party is in over their heads). It isn't that this couldn't otherwise be done, rather Enemy Indication is a gaming mechanic that allows the characters to make educated decisions during their planning phase. Ultimately it is about telling a story together.
 
 </div>
 
@@ -506,7 +506,7 @@ Now that the players have a broad idea of what the enemy's indication is, they c
 
 ### Roll Initiative Phase
 
-Each player and enemy simultaneously **rolls initiative**. Players roll the largest dice corresponding to their actions (see Dynamic Initiative chart for dice). The lower the number the earlier the action.
+Each player and enemy simultaneously **rolls initiative**. Players roll the largest dice corresponding to their actions (see Dynamic Initiative chart for dice). The lower the number, the earlier the action.
 
 ### Resolve Actions Phase
 
@@ -764,7 +764,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 03 | Act mysteriously and answers questions poetically |
 | 04 | Doesn’t like new people |
 | 05 | Makes token bets about minor things |
-| 06 | Refers to themself in the third person |
+| 06 | Refers to themselves in the third person |
 | 07 | Sometimes bargains for the use of his powers |
 | 08 | Constantly asks how things taste and smell |
 | 09 | Yells when he/she is excited |
@@ -860,7 +860,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 | 96 | Cannot resist shopping opportunities (even without spending money) |
 | 97 | Has an imaginary ethereal friend |
 | 98 | Is afraid of the dark |
-| 99 | Chastizes people for using profanity |
+| 99 | Chastises people for using profanity |
 | 100 | On edge and nervous when things seem to be going too well |
 
 
