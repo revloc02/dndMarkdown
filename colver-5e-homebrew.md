@@ -926,7 +926,8 @@ Pre-levels will never count towards any features or abilities that use levels as
 * Have the characters "earn" the mechanical features from the Background they chose, as a part of downtime activities. They should probably have all of these by level 2 or 3.
 * ASIs are no longer part of the normal character level advancement. The DM should continue to look for opportunities to pass out ASIs during game play throughout the character's **entire career**. Characters should earn about 3 ASIs per pre-level and per normal level through level 5, and then about 2 per level after that. The DM can choose to give any ASIs upon any character level advancement.
 
-##### Guideline for ASI 
+##### Guideline for ASI
+
 | Level | ~ Ability Scores Total | ~ ASI During Level |
 |:-----:|:-----:|:-----:|
 | A     | 48 | 3 |
@@ -977,6 +978,9 @@ There are several housekeeping tasks that a DM normally handles that actually co
 * Recording treasure
 * Scribing names, places, and clues that need to be remembered
 * Collecting and redeeming Feature Cards
+* Tracking game time
+
+A favor could be a discount when making a purchase, or a greater potential when rolling for down-time research successes. It could possibly be a redo or an adjustment on declaration of an action. A favor could be approximately equal to 1/3 of an Inspiration point.
 
 
 
@@ -1026,7 +1030,7 @@ The amount of time required is 48 hours per level the character desires to advan
 
 Once the training is completed the player must roll to advance the level. The DC is 10 + the desired level. The character's proficiency and Class Ability Score modifier can be added to the roll. On a success the character advances the level. For each failure the character must train another day, pay another 10% of the costs, and then try again with an additional +1 modifier. Roll modifiers are cumulative.
 
-> #### Level-Up Summary
+> #### Level Advancement Summary
 > - Must be in a **safe** location
 > - Desired level x 48 hours
 > - Desired level squared gp
