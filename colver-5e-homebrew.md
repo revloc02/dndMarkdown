@@ -35,6 +35,8 @@
 ####   [Character Depth](#character-creation-character-depth)
 ####   [Optional: Pre-Levels](#character-creation-optional-pre-levels)
 ## [DM Notes](#dm-notes)
+####   [DM Tips](#dm-notes-guidlines-for-play)
+####   [DM Tips](#dm-notes-sundry-house-rules)
 ####   [DM Tips](#dm-notes-dm-tips)
 ## [Appendix A: Glossary](#appendix-a-glossary)
 #### [Credits](#appendix-a-glossary-credits)
@@ -668,7 +670,7 @@ As you work on that, also consider the following elements of your character. In 
 
 #### Personality Quirks
 
-Personality Quirks are unusual characteristics, weird behaviors, or peculiar habits that add much flavor to a character and are meant to be mechanically benign. Give your character one to three Personality Quirks. Either choose or roll 1-3 times on the Personality Quirk Table (see the next page), or make up your own personality quirk(s).
+Personality Quirks are unusual characteristics, weird behaviors, or peculiar habits that add much flavor to a character and are meant to be mechanically benign. Give your character one to three Personality Quirks. Either choose or roll 1-3 times on the Personality Quirk Table (see table below), or you can choose to roll on this [DndSpeak Personality Quirks](http://dndspeak.com/2017/12/100-personality-quirks/ "100 Personality Quirks")  table, or make up your own personality quirk(s).
 
 #### Character History
 
@@ -966,13 +968,29 @@ Give your players plenty of downtime between adventures, and allow that downtime
 
 When characters take a long rest while out in the wilderness it often should get disrupted because the world is dangerous. This can make long journeys tense, and a real drain on resources. Consider making perilous journeys part of your game.
 
+#### Player Housekeeping
+
+There are several housekeeping tasks that a DM normally handles that actually could be delegated to players during a play session. The DM should do this and can reward players for helping by giving favors for doing the following tasks:
+
+* Tracking initiative
+* Playing the ambiance music
+* Recording treasure
+* Scribing names, places, and clues that need to be remembered
+* Collecting and redeeming Feature Cards
+
+
+
+\pagebreakNum
+
+
+
 ## Sundry House Rules
 
 ### Entertainment = Bonus
 
 Any time a player describes or role-plays what their character is doing in a way that is **entertaining** to everyone at the table, they get a **+1 bonus** to whatever dice they are rolling to do it.
 
-### Critial Hits
+### Critical Hits
 
 Whenever a character scores a critical hit they do **maximum damage plus one extra** roll of the **damage dice**.
 
@@ -985,8 +1003,6 @@ Whenever a character scores a critical hit they do **maximum damage plus one ext
 #### Long Rest
 
 As explained in the [Hit Dice](#hit-dice) rules, at the end of a long rest, a character **does not** automatically regain any lost hit points. During a long rest, a character can spend one or more Hit Dice to regain hit points. After a long rest, a character regains all spent Hit Dice.
-
-\columnbreak
 
 #### Extended Rest
 
@@ -1034,7 +1050,7 @@ Once the training is completed the player must roll to advance the level. The DC
 * Constantly **create interesting choices**, even menial ones, i.e. "From the descending stairs you smell a rank, musty odor and from the east corridor your torches are beginning to flicker from a slight breeze, which way do you go?"
 * Look for opportunities to have characters **build character** and have them write it down. (Whenever there is more than one crit or fail in a row, this is an opportunity to start an aspect.)
 * Frequently **compel characters to invoke Personal Characteristics** and give them Inspiration for doing so.
-* Delegate **housekeeping tasks to players**, i.e. tracking initiative, playing ambiance music, recording treasure, scribing names, places, and clues that need to be remembered, etc. This should have a set of rewards.
+* Delegate **housekeeping tasks to players**
 
 \columnbreak
 
@@ -1098,7 +1114,7 @@ Whenever the DM has to take some time to look something up or figure something o
  
  <div class='back-cover-text'>
  
-A rules compendium designed to create a mechanical framework for 5e that is more suited to player driven action, giving players more interesting storytelling options and mechanical choices both in combat and out. These rules work best in for dangerous fantasy where characters are pushed to their limits, and players use their wits, creativity, and inginuity. 
+A rules compendium designed to create a mechanical framework for 5e that is more suited to player driven action, giving players more interesting storytelling options and mechanical choices both in combat and out. These rules work best in for a slightly grittier more realistic game, and where players use their wits, creativity, and ingenuity. 
 
 All copyrights reserved for WotC and various artists. 
 
@@ -1163,7 +1179,7 @@ Contact: forestcolver@gmail.com
 
  ##### Art Credits
  
- * Pool Inspiration: Artwork by [Jamie Jones](https://www.artpad.org/ "title")
+ * Yeah, I probably should do this, but I don't think I'll ever publicly distribute this, so it might not get done.
  * Dynamic Initiative: Artwork by [Eva Widermann](https://www.eva-widermann.de/ "title")
  
  ##### Special Thanks
