@@ -87,7 +87,7 @@ There are NPCs with Class levels, but these are rather uncommon, and are usually
 
 A town militia would consist of a bunch of peasants run by a 1st or 2nd level Fighter. City guards would be no more than 3rd level, with a Captain that is 3rd to 5th level. Renowned heroes, a king's Champion, or feudal lords would be 8th level, some might be as high as 10th level but that would be fairly unique. The great and powerful wizard studying in his tower would be 6th to 10th level. Achilles, Aragorn and Legolas, Conan, and Drizzt are examples of legendary characters that might be 10th level as they are powerful, competent, and heroic, but not invincible. Most people are just ordinary people and class levels are exceptional.
 
-But none of this prevents any player character from attaining any levels all the way to 20th, or beyond if the DM has parameters for it.
+But none of this prevents any player character from attaining any levels all the way to 20th, or beyond, if the DM has parameters for it.
 
 ### Epic 10
 
