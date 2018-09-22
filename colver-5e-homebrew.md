@@ -576,7 +576,7 @@ This is a review and summary of the standard Personality Characteristics.
 
 ### Aspects
 
-Aspects are additional Personality Characteristics that adds **detail, depth, and breadth** to a character. They can be additional Traits, Ideals, Bonds or Flaws, or something entirely different. They provide a resource to **spark player creativity** as they play their character and a foundation as they act in character. Mechanically they can be used by a player to make in game situations more potent or authentic to petition the DM for Inspiration. The more a character has the easier it will be to find one to invoke.
+Aspects are additional Personality Characteristics that adds **detail, depth, and breadth** to a character. They can be additional Traits, Ideals, Bonds or Flaws, or something entirely different. They provide a resource to **spark player creativity** as they play their character and a foundation as they act in character. Mechanically they can be used by a player to make in game situations more potent or authentic to petition the DM for Inspiration. The more Aspects a character has the easier it will be to find one to invoke.
 
 #### Creating Aspects
 
@@ -593,7 +593,7 @@ Additional advice on creating an excellent Aspect can be found in the [FATE SRD]
 
 #### Gaining Aspects
 
-Your character should pick up an additional Aspect about **once per level**. While core Aspects to your character may never change, other Aspects will be gained and lost as the game is played.
+Your character should pick up an additional Aspect about **once per level**, but there really is no limit. While core Aspects to your character may never change, other Aspects will be gained and lost as the game is played.
 
 #### Example Aspects
 
@@ -666,7 +666,7 @@ Be sure to go through _Chapter 4: Personality and Background_ of the PHB and fle
 
 ### Additional Character Details
 
-As you work on that, also consider the following elements of your character. In order to be truly effective **this should be written down** on your character sheet. Take time to do that. Feel free to make changes or adjustments to these character depth details as you go along so that they are more congruent (they match with each other).
+As you work on that, also consider the following elements of your character. In order to be truly effective **this should be written down** on your character sheet. Take time to do that. Feel free to make changes or adjustments to these character depth details as you go along so that they are more congruent (they compliment and enhance each other).
 
 #### Personality Quirks
 
@@ -729,7 +729,7 @@ What were the events that happened leading up to your character's Call to Advent
 
 #### Party Connections
 
-It is not necessary to find connections between the characters in the party, but doing so makes the game rich and meaningful. See if you can find ways the characters in the group are connected, and even better to intertwine their backgrounds.
+It is not necessary to find connections between the characters in the party, but doing so makes the game even more rich and meaningful. See if you can find ways the characters in the group are connected, and to intertwine their backgrounds would be even better.
 
 #### Dynamic History
 
@@ -977,8 +977,9 @@ There are several housekeeping tasks that a DM normally handles that actually co
 * Playing the ambiance music
 * Recording treasure
 * Scribing names, places, and clues that need to be remembered
+* Recording the play session sometime before the next session
 * Collecting and redeeming Feature Cards
-* Tracking game time
+* Tracking game time or limited resources (food, ammo, etc.) if it is relevant to the current situation
 
 A favor could be a discount when making a purchase, or a greater potential when rolling for down-time research successes. It could possibly be a redo or an adjustment on declaration of an action. A favor could be approximately equal to 1/3 of an Inspiration point.
 
@@ -1046,15 +1047,15 @@ Once the training is completed the player must roll to advance the level. The DC
 
 ##### During the session:
 
+* Frequently **compel characters to invoke Personal Characteristics** and give them Inspiration for doing so.
 * Encourage the players be **clever** and/or creative.
 * As often as possible describe additional **senses** besides sight (hearing, smell, taste, touch, and inner-feelings).
-* Often **narrate** enemy or player actions, again use the six senses (Matt Mercer).
-* Frequently ask the **players describe** what happened, especially for extreme (1s or 20s, min or max) dice rolls.
-* Do **cut scenes** where you tell the players (not the characters) what the bad guys are doing even though their characters realistically couldn’t know this. It makes for a great story (Matt Colville). This should _**never**_ be something that takes away player or character agency.
-* Constantly **create interesting choices**, even menial ones, i.e. "From the descending stairs you smell a rank, musty odor and from the east corridor your torches are beginning to flicker from a slight breeze, which way do you go?"
-* Look for opportunities to have characters **build character** and have them write it down. (Whenever there is more than one crit or fail in a row, this is an opportunity to start an aspect.)
-* Frequently **compel characters to invoke Personal Characteristics** and give them Inspiration for doing so.
 * Delegate **housekeeping tasks to players**
+* Constantly **create interesting choices**, even menial ones, i.e. "From the descending stairs you smell a rank, musty odor and from the east corridor your torches are beginning to flicker from a slight breeze, which way do you go?"
+* Frequently ask the **players describe** what happened, especially for extreme (1s or 20s, min or max) dice rolls.
+* Look for opportunities to have characters **build character** and have them write it down. (Whenever there is more than one crit or fail in a row, this is an opportunity to start an aspect.)
+* Often **narrate** enemy or player actions, again use the six senses (Matt Mercer).
+* Do **cut scenes** where you tell the players (not the characters) what the bad guys are doing even though their characters realistically couldn’t know this. It makes for a great story (Matt Colville). This should _**never**_ be something that takes away player or character agency.
 
 \columnbreak
 
