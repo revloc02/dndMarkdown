@@ -59,7 +59,7 @@ Creatures methodically take what they want, within the limits of a code of tradi
 ### Neutral Evil
 Creatures do whatever they can get away with, without conscience, compassion, or qualms.
 * **Malefactor** - selfish and self serving above all else; a Narcissist with absolutely no morals
-* Ex. Creature: **Night Hag**, Goblin, Daemons, Yugoloth
+* Ex. Creature: **Night Hag**, Goblin, Daemon, Yugoloth
 * Pop Culture Ex.: **Lex Luthor**, Scar, Voldemort
 
 ### Chaotic Evil
