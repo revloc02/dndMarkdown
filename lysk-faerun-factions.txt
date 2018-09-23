@@ -46,6 +46,8 @@ A loose coalition of **established political powers** concerned with mutual secu
 
 \columnbreak
 
+Faction and Alignment are **not** equivalents. There are definitely similarities to the approach between certain factions and alignments, and these are indicated. But a character of any alignment can be a part of any faction, and can usually find a way to promote the factions mantras without compromising their own beliefs.
+
 ##### References
 
 Additional information can be found in the [D&D Faction Guide.](https://rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Adventure%20League/DDAL%20-%20A%20Guide%20to%20the%20Factions%20of%20Faerun.pdf "A Guide to the Factions of Faerûn")
