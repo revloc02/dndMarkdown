@@ -6,15 +6,49 @@ Belonging to a faction sometimes means having responsibilities, but it also carr
 
 ### Order of the Gauntlet
 
-<img src='https://www.gmbinder.com/images/KzwAPih.jpg' style='position:absolute;top:325px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(150%)saturate(150%)opacity(55%);' />
+<img src='https://www.gmbinder.com/images/uqqmbSb.png' style='position:absolute;top:282px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(120%)opacity(95%);transform:scaleX(1)scaleY(1.2);' />
  
 **Corresponding Alignment:** Good
 
+Composed of faithful and vigilant seekers of justice who **protect others** from the depredations of evildoers. The organization is honorable, vigilant, and zealous.
+
+#### Goals
+* Be armed and vigilant **against evil**.
+* Identify evil threats such as secretive power groups and inherently evil creatures.
+* **Enforce justice**.
+* Enact **retribution against evil** actions—do not strike preemptively.
+
+#### Beliefs
+* Faith is the greatest weapon against evil—faith in one’s god, one’s friends, and one’s self.
+* Battling evil is an extraordinary task that requires extraordinary strength and bravery.
+* Punishing an evil act is just. Punishing an evil thought is not.
+
 ### Lords’ Alliance
 
-<img src='https://www.gmbinder.com/images/KzwAPih.jpg' style='position:absolute;top:625px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(150%)saturate(150%)opacity(55%);' />
+<img src='https://www.gmbinder.com/images/GIVOM6t.png' style='position:absolute;top:625px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(100%)opacity(90%);transform:scaleX(1)scaleY(1.25);' />
  
 **Corresponding Alignment:** Lawful
+
+A loose coalition of **established political powers** concerned with mutual security and prosperity. The organization is aggressive, militant, and political.
+
+#### Goals
+
+* Ensure the safety and **prosperity of cities** and other settlements of Faerûn.
+* Maintain a strong coalition **against the forces of disorder**.
+* Proactively eliminate threats to the established powers.
+* Bring honor and **glory to one’s leaders** and one’s homeland.
+
+#### Beliefs
+
+* If civilization is to survive, all must unite against the dark forces that threaten it.
+* Fight for your realm. Only you can bring honor, glory, and prosperity to your lord and homeland.
+* Don’t wait for the enemy to come to you. The best defense is a strong offense.
+
+\columnbreak
+
+##### References
+
+Additional information can be found in the [D&D Faction Guide.](https://rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Adventure%20League/DDAL%20-%20A%20Guide%20to%20the%20Factions%20of%20Faerun.pdf "A Guide to the Factions of Faerûn")
 
 
 
@@ -24,12 +58,11 @@ Belonging to a faction sometimes means having responsibilities, but it also carr
 
 ### Emerald Enclave
 
-<img src='https://www.gmbinder.com/images/KzwAPih.jpg' style='position:absolute;top:46px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(150%)saturate(150%)opacity(55%);transform:rotate(0deg)scaleX(1)scaleY(1.04);' />
+<img src='https://www.gmbinder.com/images/kj2VvtJ.png' style='position:absolute;top:53px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(120%)opacity(90%);transform:scaleX(1)scaleY(1.09);' />
  
 **Corresponding Alignment:** Neutral
 
-
-A widespread group of wilderness survivalists who preserve the **natural order** while rooting out unnatural threats.
+A widespread group of wilderness survivalists who preserve the **natural order** while rooting out unnatural threats. The organization is decentralized, hardy, and reclusive. 
 
 #### Goals
 
@@ -45,11 +78,11 @@ A widespread group of wilderness survivalists who preserve the **natural order**
 
 ### Harpers
 
-<img src='https://www.gmbinder.com/images/dRHIEV7.jpg' style='position:absolute;top:336px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(150%)saturate(150%)opacity(65%);transform:rotate(0deg)scaleX(1)scaleY(1.04);' />
+<img src='https://www.gmbinder.com/images/Qnpml3H.png' style='position:absolute;top:366px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(120%)opacity(90%);transform:scaleX(1)scaleY(1.14);' />
  
 **Corresponding Alignment:** Chaos
 
-A scattered network of spellcasters and spies who advocate equality and covertly **oppose the abuse of power**.
+A scattered network of spellcasters and spies who advocate equality and covertly **oppose the abuse of power**. The organization is benevolent, knowledgeable, and secretive.
 
 #### Goals
 
@@ -65,11 +98,11 @@ A scattered network of spellcasters and spies who advocate equality and covertly
 
 ### Zhentarim
 
-<img src='https://www.gmbinder.com/images/wOL8Dmm.jpg' style='position:absolute;top:621px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%)opacity(55%);' />
+<img src='https://www.gmbinder.com/images/qkWJTkq.png' style='position:absolute;top:676px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(120%)opacity(90%);transform:scaleX(1)scaleY(1.06);' />
  
 **Corresponding Alignment:** Evil
 
-An unscrupulous **shadow network** that seeks to expand its influence and power throughout Faerûn.
+An unscrupulous **shadow network** that seeks to expand its influence and power throughout Faerûn. The organization is ambitious, opportunistic, and meritocratic. 
 
 #### Goals
 
@@ -82,9 +115,5 @@ An unscrupulous **shadow network** that seeks to expand its influence and power 
 * The Zhentarim is your family. You watch out for it, and it watches out for you.
 * You are the master of your own destiny. Never be less than what you deserve to be.
 * Everything—and everyone—has a price.
-
-##### References
-
-Additional information can be found in the [D&D Faction Guide.](https://rpg.rem.uz/Dungeons%20%26%20Dragons/D%26D%205th%20Edition/Adventure%20League/DDAL%20-%20A%20Guide%20to%20the%20Factions%20of%20Faerun.pdf "A Guide to the Factions of Faerûn")
 
 <div class='footnote'>Faerûn Factions</div>
