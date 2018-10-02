@@ -16,7 +16,7 @@
 
 \pagebreak
 
-# D&D 5e: Colver House Rules
+# D&D 5e: Revloc02 House Rules
 
 <div style='margin-top:25px'></div>
 <div class='wide'>
@@ -1137,7 +1137,9 @@ Whenever the DM has to take some time to look something up or figure something o
 
 ___
 * **ASI:** Ability Score Improvement. Any increase to an Ability Score of 1 or more points.
-* **Bloodied:** When a creature reaches half its hit points or less it has the Bloodied condition. *Narratively this means that the creature has more than battle fatigue and superficial cuts and bruises, they are wounded in a way that is serious and their life blood is beginning to flow out.*
+* **Bloodied:** When a creature reaches half its hit points or less it is in the Bloodied state. *Narratively this means that the creature has more than battle fatigue and superficial cuts and bruises, they are wounded in a way that is serious and their life blood is beginning to flow out.*
+* **Broken:** When a creature reaches one quarter of its hit points or less it is in the Broken state. *Narratively this means that the creature has serious injuries, broken bones, and internal damage.*
+* **Bruised:** When a creature reaches three quarters of its hit points or less it is in the Bruised state. *Narratively this means that the creature has cuts and bruises. The damage is mostly just fatigue from the strain of battle.*
 * **DMG:** Dungeons Master's Guide.
 * **Exploding:** Or Exploding Dice. This typically means that whenever the highest value on a die is rolled you can roll it again and sum the second result with the first. This continues indefinitely as long as the highest result continues to be rolled. Also worth noting is that a die can explode on any of its values, for example exploding on a 1, and thus rerolling and summing all consecutive results as long as they continue to be 1s. If the exploding value is not noted then by default it is the die's highest result that explodes.
 * **HBR:** Home Brew Rules. This refers to home brew rules that are included in this document.
@@ -1146,7 +1148,7 @@ ___
 * **PHB:** Player's Handbook.
 * **RAW:** Rules As Written. This refers to the standard gameplay rules precisely as they were written.
 
-<img src='https://www.gmbinder.com/images/LAr328o.jpg' style='position:absolute;bottom:40px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/LAr328o.jpg' style='position:absolute;bottom:35px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
  
 
 
@@ -1165,7 +1167,7 @@ ___
  
  <div class='back-cover-header'>
  
-  Colver House Rules
+  Revloc02 House Rules
  </div>
  
  <div class='back-cover-text'>
@@ -1213,7 +1215,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.0.4
+  Version 1.0.5
 
  </div>
  
