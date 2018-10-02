@@ -1135,6 +1135,7 @@ Whenever the DM has to take some time to look something up or figure something o
 
 # Appendix A: Glossary
 
+___
 * **ASI:** Ability Score Improvement. Any increase to an Ability Score of 1 or more points.
 * **Bloodied:** When a creature reaches half its hit points or less it has the Bloodied condition. *Narratively this means that the creature has more than battle fatigue and superficial cuts and bruises, they are wounded in a way that is serious and their life blood is beginning to flow out.*
 * **DMG:** Dungeons Master's Guide.
@@ -1212,7 +1213,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.0.3
+  Version 1.0.4
 
  </div>
  
