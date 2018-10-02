@@ -1212,7 +1212,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 0.0.1
+  Version 1.0.3
 
  </div>
  
