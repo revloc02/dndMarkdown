@@ -113,6 +113,42 @@ While these magics may be available to players, it is not quick, easy, or cheap.
 
 
 
+# D&D Player Etiquette
+Here are some simple guidelines for helping to make the D&D session great.
+
+
+* Be present:
+  * Don't check out, or space off. You get as much fun out of the game as you put into it. If you start getting bored:
+    * Help the DM or another player
+    * Look up something you’ve been curious about
+    * Work on character Aspects or depth
+    * Use your imagination to help the game come alive, and then share that
+* Be helpful
+  * Bring your electronic devices and use them.
+  * Learn the rules. You don't have to know everything or learn it all at once, but take time to look things up.
+  * Do not look at any of the DMs notes, dice rolls, books, or desk. Stay in your seat!
+
+\columnbreak  
+
+* Be ready
+  * Five minutes before and after every session, you will review your character: prepare spells, checking hps, look at an item’s charges, erase potions, and making sure your character is ready to be played with.
+  * When it is not your turn, be thinking of what you want to do. If you are not sure about how to do something, start looking it up on your own (instead of waiting to ask the DM about it). Or ask another player about it.
+* Have fun:
+  * Use your imagination to enjoy the current scene more.
+  * Be more descriptive about what you are doing and how your character is doing it.
+  * You must roll in the dice tower with a witness.
+  * If someone else dictates the party is doing something you don’t want to do, you don’t have to do it. But, you must offer another alternative, or specifically explain what your character is doing instead.
+
+You may choose to not play, but if you don't play your character will not get XP or loot.
+
+<img src='https://www.gmbinder.com/images/pWsevDh.jpg' style='position:absolute;bottom:10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(150%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+
+
+
+\pagebreakNum
+
+
+
 # Dying
 
 These rules replace Death Saving Throws. Falling unconscious and rolling one die every turn to see if the player will continue playing is actually not that fun. Allowing the character continued freedom to act and make interesting choices is engaging to the player, which are all three good things. This makes for a slightly grittier game, but not as unforgiving as 1e rules where 0 HPs means immediate death. These rules also add some realism without adding a lot of complexity.
@@ -136,7 +172,7 @@ These rules replace Death Saving Throws. Falling unconscious and rolling one die
 
 When a character drops to 0 hit points, he or she gains the **Dying** condition, concentration is broken, and they gain 1 level of Exhaustion. Note that the _Instant Death_ (PHB, p. 197) rules still apply as per RAW when massive damage is taken.
 
-## Dying Condition
+### Dying Condition
 
 _The Dying condition indicates a character is on their way to death and grants multiple rounds to either stop the death or go out with a bang. Urgency is created without removing the characters ability to do something about it. In combination with existing rules about removing level of exhaustion this creates a scenario where the closer a character gets to death the longer it takes for him to recover from the shock of that situation—potentially multiple days to remove all levels of Exhaustion. During that time the character will have some disadvantage on checks and reduced speed (as per the exhaustion levels) and this represents a bit of shell shock or PTSD being suffered by the character._
 
@@ -164,7 +200,7 @@ Effects that invoke the ***stabilize*** result on a **Dying** creature now do so
 
 Creatures that have been stabilized from **Dying** have been at deaths door, which is a very traumatic situation. It may be appropriate to roll on the "Lingering Injuries Table" (DMG ch9) for the creature. 
 
-## Note: Exhaustion Removal
+### Note: Exhaustion Removal
 Levels of Exhaustion can be removed in the following ways:
 
 - Greater Restoration spell reduces the target's exhaustion level by one (RAW)
@@ -172,6 +208,17 @@ Levels of Exhaustion can be removed in the following ways:
 - Finishing a long rest reduces a creature's exhaustion level by one, provided that the creature has also ingested some food and drink (RAW)
 - You can use a Healer’s Kit and a Medicine check to remove an extra Exhaustion (see [Healer’s Kit](#dying-medicine-and-healer)) during a long rest (HBR)
 - You may spend Inspiration (see [Pool Inspiration](#pool-inspiration)) to reduce Exhaustion (HBR)
+
+<div class='descriptive'>
+
+##### Exhaustion Reference
+* 1 - Disadvantage on ability checks 
+* 2 - Speed halved 
+* 3 - Disadvantage on attack rolls and saving throws 
+* 4 - Hit point maximum halved 
+* 5 - Speed reduced to 0 
+* 6 - Death 
+</div>
 
 
 
@@ -752,7 +799,7 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 <style>
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p17 table {
+.phb#p18 table {
     font-size: 7.5pt;
 }
 </style>
@@ -964,6 +1011,7 @@ Aspects are arguably the single most important change these rules make. Taking t
 
 Give your players plenty of downtime between adventures, and allow that downtime to become as much a part of the world and the story as adventuring. Downtime is where the world reacts to the way characters have changed.
 
+\columnbreak
 
 #### Travel is Dangerous
 
@@ -982,6 +1030,8 @@ There are several housekeeping tasks that a DM normally handles that actually co
 * Tracking game time or limited resources (food, ammo, etc.) if it is relevant to the current situation
 
 A favor could be a discount when making a purchase, or a greater potential when rolling for down-time research successes. It could possibly be a redo or an adjustment on declaration of an action. A favor could be approximately equal to 1/3 of an Inspiration point.
+
+<img src='https://www.gmbinder.com/images/N4eBls4.png' style='position:absolute;bottom:10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(110%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 
 
