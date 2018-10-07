@@ -211,7 +211,7 @@ Levels of Exhaustion can be removed in the following ways:
 
 <div class='descriptive'>
 
-##### Exhaustion Reference
+##### _Exhaustion_ Reference (PHB p. 291)
 * 1 - Disadvantage on ability checks 
 * 2 - Speed halved 
 * 3 - Disadvantage on attack rolls and saving throws 
@@ -337,11 +337,15 @@ _**Example:** Carla is a Cleric in a bad spot. The red wizard just threw a fireb
 
 # Pool Inspiration
 
-Using these rules, Inspiration is a resource shared between the characters of the party. When Inspiration is awarded to a character, the point of Inspiration goes into a party Pool of Inspiration that can be used by any of the players whenever they want or as agreed upon by the group. This encourages the party to work together as a team.
+Using these rules, Inspiration is a resource shared between all of the characters of the party. When Inspiration is awarded to a character, the point of Inspiration goes into a party Pool of Inspiration that can be used by any of the players whenever they want or as agreed upon by the group. This encourages the party to work together as a team.
 
 Ideally Inspiration points in the pool should be represented at the table by some physical object such as poker chips, tokens, or counter beads, and kept where all can view and utilize the pool.
 
-The limit as to how much Inspiration can be in the pool is up to the DM. A rough rule of thumb is 1 to 3 times the number of characters in the party.
+<div class='descriptive'>
+
+**DM Note:** The limit as to how much Inspiration can be in the pool is up to the DM. A rough rule of thumb is 1 to 3 times the number of characters in the party.
+
+</div>
 
 ## Acquiring Inspiration
 
@@ -367,7 +371,7 @@ As motivation to have the party experience more encounters in a game day, the DM
 \columnbreak
 
 > #### Pool Inspiration Summary
-> * Inspiration is a resource shared by the entire party
+> * Inspiration is a resource shared by the party
 > * The Pool of Inspiration can hold lots of points
 > * Inspiration is also obtained by
 >   * Invoking **Personal Characteristics**
@@ -501,11 +505,11 @@ Any creature that is unable to take actions (most likely because it is incapacit
 
 #### Delaying
 
-You cannot use the _Ready Action_ under these rules, but you can instead choose to delay your turn. Instead of taking your turn on your initiative count, you simply act on a later initiative count, before or after other creatures as you choose.
+You cannot use the _Ready Action_ under these rules, but you can instead choose to delay your turn. Instead of taking your turn on your initiative count, you simply act on a later initiative count, before or after other creatures actin later than you as you choose.
 
 #### Multiple Actions
 
-If an effect grants you an additional action without the use of a bonus action (like Fighter's Action Surge), choose which action you will do first and roll the appropriate initiative dice for each action except apply a +10 to the second actions's initiative roll. The creature will perform each action on the appropriate initiative count.
+If an effect grants you an additional action without the use of a bonus action (like Fighter's Action Surge), choose which action you will perform first, and then roll the appropriate initiative dice for each of your chosen actions except apply a +10 to the second action's initiative roll. The creature will perform each action on the appropriate initiative count.
 
 #### Changing your Action
 
@@ -553,11 +557,11 @@ Now that the players have a broad idea of what the enemy's indication is, they c
 
 ### Roll Initiative Phase
 
-Each player and enemy simultaneously **rolls initiative**. Players roll the largest dice corresponding to their actions (see Dynamic Initiative chart for dice). The lower the number, the earlier the action.
+The players and the DM all **roll initiative**. Players roll the largest dice corresponding to their actions (see Dynamic Initiative chart for dice). The lower the number, the earlier the action.
 
 ### Resolve Actions Phase
 
-Each creature **takes its turn** in order. The DM begins by announcing "Initiative Count 1" to the table, if there are any creatures that rolled a 1 for their Initiative are then able to act. If there are any ties, the creature with the highest Dexterity Score goes first. After all creatures on Initiative Count 1 act, the DM continues counting, "Initiative Count 2", "Initiative Count 3", etc. This process continues until all creatures have acted.
+Each creature **takes its turn** in order starting with the lowest initiative roll. The DM announces "Initiative Count 1" to the table and any creatures that rolled a 1 for their Initiative take their turn. After all creatures on Initiative Count 1 act, the DM continues counting, "Initiative Count 2", "Initiative Count 3", etc. This process continues until all creatures have acted.
 
 ### End Phase
 
@@ -943,8 +947,8 @@ To advance from level A to B is 50 XP, from B to C is 150 XP, and from C to leve
 | XP   | Pre-Level | HD  | Proficiency Bonus | New Features |
 |:----:|:-----:|:---:|:--------------:|:-----------:|
 | -450 | A     | 1d4 | +0  | none |
-| -400 | B     | 2d4 | +0  | 1 Class Skill, and Class Armor or Tool proficiency |
-| -250 | C     | 3d4 | +1  | 1 Class Weapon or Cantrip, and 1 Class Saving Throw |
+| -400 | B     | 2d4 | +0  | 1 Class Skill, and 1 Class Weapon or Cantrip |
+| -250 | C     | 3d4 | +1  | 1 Class Saving Throw, and 1 Class Armor or Tool |
 
 </div>
 
@@ -953,14 +957,12 @@ Once you advance through the pre-levels move on to 1st level.
 ##### At 1st Level:
 
 * **Keep pre-level HPs:** Do not take max HPs for level 1, rather roll your class's HD die normally adding CON and then add this sum onto your pre-level HPs.
-* **Background target:** Choose a background that you would like to work towards, but do not take any of the mechanical features. You will work on the Background features during your downtime. The DM will facilitate the skills and abilities you receive from this.
+* **Background target:** Choose a background that you would like to work towards, but do not take any of the mechanical features. You will work on the Background features during your downtime. The DM will facilitate the skills, proficiencies, and equipment you receive from this.
 * **Racial Ability Scores:** Take your race's Ability Score Increases.
 
-As you continue advance through levels do not take any Ability Score Improvements as indicated on the Class Table. These will be facilitated generously by the DM during game play.
+As you continue advance through levels **do not** take any Ability Score Improvements as indicated on the Class Table. These will be facilitated generously by the DM during game play.
 
 Pre-levels will never count towards any features or abilities that use levels as part of the calculation.
-
-\columnbreak
 
 ### DM Notes
 
@@ -989,8 +991,6 @@ Pre-levels will never count towards any features or abilities that use levels as
 | 15    | 90 | 2 |
 | 20    | 100 | 2 |
 
-<img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;right:67px;width:323px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
-
 
 
 \pagebreakNum
@@ -1011,11 +1011,11 @@ Aspects are arguably the single most important change these rules make. Taking t
 
 Give your players plenty of downtime between adventures, and allow that downtime to become as much a part of the world and the story as adventuring. Downtime is where the world reacts to the way characters have changed.
 
-\columnbreak
-
 #### Travel is Dangerous
 
 When characters take a long rest while out in the wilderness it often should get disrupted because the world is dangerous. This can make long journeys tense, and a real drain on resources. Consider making perilous journeys part of your game.
+
+\columnbreak
 
 #### Player Housekeeping
 
@@ -1029,9 +1029,15 @@ There are several housekeeping tasks that a DM normally handles that actually co
 * Collecting and redeeming Feature Cards
 * Tracking game time or limited resources (food, ammo, etc.) if it is relevant to the current situation
 
-A favor could be a discount when making a purchase, or a greater potential when rolling for down-time research successes. It could possibly be a redo or an adjustment on declaration of an action. A favor could be approximately equal to 1/3 of an Inspiration point.
+A favor could be a discount when making a purchase, or a greater potential when rolling for down-time research successes. It could possibly be a redo or adjustment on a declared character action. A favor could be approximately equal to 1/3 of an Inspiration point.
 
-<img src='https://www.gmbinder.com/images/N4eBls4.png' style='position:absolute;bottom:10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(110%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<div class='descriptive'>
+
+**DM Note:** If one or more of these Housekeeping items is important to you as the DM you can reward a player more handsomely for completing it. For example, recording the session could be rewarded with a full point of Inspiration.
+
+</div>
+
+<img src='https://www.gmbinder.com/images/N4eBls4.png' style='position:absolute;bottom:35px;right:70px;width:670px; mix-blend-mode:multiply;filter:brightness(120%)saturate(110%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 
 
@@ -1065,6 +1071,8 @@ An extended rest is a period of extended downtime, at least 24 hours long, which
 
 For each consecutive 24 hours of extended rest the character takes he can cumulatively add 1d12 to any healing. For example the first 24 hours the character gets 1d12 extra healing. The second consecutive 24 hours (so 48 hours of straight resting) they get 2d12 extra healing for that day, in addition to the 1d12 from the first day, and so forth.
 
+\columnbreak
+
 ### Level Advancement Training
 
 In order to advance a level a character must spend a extended period of downtime training. Level advancement can only be taken in a safe location, where characters have access to plentiful food, water, and comfort. Level advancement cannot be attempted while in the wilderness, while sleeping on dirt or stone, or while wearing armor. Characters must be in a location where they do not feel the need to keep watch or constantly be on guard.
@@ -1077,15 +1085,23 @@ Other downtime training and activities may be a part of the Level Advancement Do
 
 The amount of time required is 48 hours per level the character desires to advance to. The cost for training materials and instruction is the level desired squared.
 
+<div class='descriptive'>
+
+**DM Note:** The DM may choose allow the character the option to trade **doubling the cost** for **halving the time** or vice versa.
+
+</div>
+
 #### Success or Failure
 
-Once the training is completed the player must roll to advance the level. The DC is 10 + the desired level. The character's proficiency and Class Ability Score modifier can be added to the roll. On a success the character advances the level. For each failure the character must train another day, pay another 10% of the costs, and then try again with an additional +1 modifier. Roll modifiers are cumulative.
+When training time is completed and expenses are paid the player must roll to advance the level. The DC is 10 + the desired level. The character's proficiency and Class Ability Score modifier can be added to the roll. On a success the character advances the level. For each failure the character must train another day, pay another 10% of the costs, and then try again with an additional +1 modifier. Roll modifier bonuses are cumulative in the case of multiple failures.
 
 > #### Level Advancement Summary
 > - Must be in a **safe** location
 > - Desired level x 48 hours
 > - Desired level squared gp
 > - Class Ability check + proficiency vs. DC 10 + desired level
+
+<img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;right:150px;width:500px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 
 
