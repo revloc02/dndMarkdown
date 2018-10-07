@@ -780,7 +780,7 @@ What were the events that happened leading up to your character's Call to Advent
 
 #### Party Connections
 
-It is not necessary to find connections between the characters in the party, but doing so makes the game even more rich and meaningful. See if you can find ways the characters in the group are connected, and to intertwine their backgrounds would be even better.
+It is not necessary to find connections between the characters in the party, but doing so makes the game much more rich and meaningful. See if you can find ways your character is connected to the other characters in your group, and intertwining their backgrounds is even better.
 
 #### Dynamic History
 
