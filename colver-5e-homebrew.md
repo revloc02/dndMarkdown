@@ -925,36 +925,41 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 The concept of pre-levels is adding one or more character levels before level 1. In general, abilities and feats that a character class has at level 1, would then be divided among the pre-levels to generate a gradual progression leading up to level 1.
 
-### Choose a Race
+#### Choose a Race
 
 Choose a race, but do not take any racial ability score adjustments.
 
-### Choose an Aptitude
+#### Choose an Aptitude (Class)
 
 Do not choose a class, you are a peasant. But do choose a Target Class, an aptitude, that you are working towards.
 
-### Determine Ability Scores
+#### Determine Ability Scores
 
 Roll ability scores in order (Str, Dex, Con, Int, Wis, Cha) by using the following formula: 8 + 1d4 - 1d4 (average 8). Alternatively you can roll 7 + 2d4 - 2d4 (average 7, but greater potential).
 
 ### Level Advancement
 
-To advance from level A to B is 50 XP, from B to C is 150 XP, and from C to level 1 is 250 XP.
+To advance from level A to B is 50 XP, from B to C is 100 XP, from C to D is 150 XP, and from D to level 1 is 200 XP.
 
 <div class='classTable'>
 
 ##### Peasant Pre-Levels
 | XP   | Pre-Level | HD  | Proficiency Bonus | New Features |
 |:----:|:-----:|:---:|:--------------:|:-----------:|
-| -450 | A     | 1d4 | +0  | none |
-| -400 | B     | 2d4 | +0  | 1 Class Skill, and 1 Class Weapon or Cantrip |
-| -250 | C     | 3d4 | +1  | 1 Class Saving Throw, and 1 Class Armor or Tool |
+| -500 | A     | 1d4 | +0  | none |
+| -450 | B     | 2d4 | +0  | 1 Class Skill, and 1 Class Weapon or Cantrip |
+| -350 | C     | 3d4 | +1  | 1 Class Saving Throw, and 1 Class Armor or Tool |
+| -200 | D     | 4d4 | +1  | 1 Class Feature (from 1st level) |
 
 </div>
 
-Once you advance through the pre-levels move on to 1st level.
+#### Hit Points
 
-##### At 1st Level:
+Roll a d4 for each pre-level, but do not add (or subtract) CON.
+
+#### At 1st Level:
+
+Once you advance through the pre-levels move on to 1st level.
 
 * **Keep pre-level HPs:** Do not take max HPs for level 1, rather roll your class's HD die normally adding CON and then add this sum onto your pre-level HPs.
 * **Background target:** Choose a background that you would like to work towards, but do not take any of the mechanical features. You will work on the Background features during your downtime. The DM will facilitate the skills, proficiencies, and equipment you receive from this.
@@ -977,7 +982,7 @@ Pre-levels will never count towards any features or abilities that use levels as
 
 ##### Guideline for ASI
 
-| Level | ~ Ability Scores Total | ~ ASI During Level |
+| Level | ~ Ability Scores Total<sup>*</sup> | ~ ASI During Level |
 |:-----:|:-----:|:-----:|
 | A     | 48 | 3 |
 | B     | 51 | 3 |
@@ -990,6 +995,8 @@ Pre-levels will never count towards any features or abilities that use levels as
 | 10    | 80 | 2 |
 | 15    | 90 | 2 |
 | 20    | 100 | 2 |
+
+\* The sum of the six ability scores
 
 
 
@@ -1083,7 +1090,7 @@ Other downtime training and activities may be a part of the Level Advancement Do
 
 #### Time and Cost
 
-The amount of time required is 48 hours per level the character desires to advance to. The cost for training materials and instruction is the level desired squared.
+The amount of time required is 48 hours per level the character desires to advance to. The cost for training materials and instruction is the level desired cubed (level³).
 
 <div class='descriptive'>
 
@@ -1097,8 +1104,8 @@ When training time is completed and expenses are paid the player must roll to ad
 
 > #### Level Advancement Summary
 > - Must be in a **safe** location
-> - Desired level x 48 hours
-> - Desired level squared gp
+> - Desired-level x 48 hr
+> - Desired-level³ gp
 > - Class Ability check + proficiency vs. DC 10 + desired level
 
 <img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;right:150px;width:500px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
