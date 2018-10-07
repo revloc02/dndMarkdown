@@ -1087,7 +1087,7 @@ The amount of time required is 48 hours per level the character desires to advan
 
 <div class='descriptive'>
 
-**DM Note:** The DM may choose allow the character the option to trade **doubling the cost** for **halving the time** or vice versa.
+**DM Note:** The DM may choose to allow the character the option of trading **double the cost** for **half the time** or vice versa.
 
 </div>
 
