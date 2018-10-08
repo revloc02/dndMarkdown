@@ -324,6 +324,7 @@ When spending Hit Dice to rejuvenate hit points during a rest you may only benef
 
 _**Example:** Carla is a Cleric in a bad spot. The red wizard just threw a fireball at her and Frank the Fighter. If she does not succeed at this saving throw she may drop to 0 hit points which would be bad for the entire party. She rolled very low. A Cleric Hit Die is 1d8 and Carla's Constitution modifier is +1. A Fighter Hit Die is 1d10 and Franks Constitution modifier is +3. Frank knows that he has a greater chance of helping Carla and he happens to still have his Reaction available. He Pushes Himself using his Reaction to spend a Hit Die granting Carla a bonus to her Dexterity save. It worked, she made her save and only took half of the damage. In narrative, as the fireball comes crashing down Frank covers Carla shielding her from much of the blast. Its now Franks turn and he uses his Bonus Action to use Second Wind. Everybody is going to make it._
 
+___
 > #### Hit Dice Goals:
 > - Provide collaboration, interesting player choice
 > - Prevent a full character reset during long rest
@@ -1299,6 +1300,9 @@ ___
 
 
 
+# Summary of Summaries
+
+___
 > #### Pool Inspiration Summary
 > * Inspiration is a resource shared by the party
 > * The Pool of Inspiration can hold lots of points
@@ -1319,7 +1323,7 @@ ___
 >   * **Recall** a Spell or Special Ability
 >   * Something **Special**
 
-____
+___
 > #### Dying Summary
 > - Death Saving Throws are no longer used
 > - **Drop to 0 HP:**
@@ -1335,7 +1339,7 @@ ____
 > - **Stabilized:** actions to stabilize **restore 1 HP**
 > - **First Aid:** Medicine check to stabilize any creature you can touch **DC = 10 + targets exhaustion level**
 
-
+___
 > #### Hit Dice Summary:
 > - Spending HD is **1HD+CON (exploding)**
 > - After **long rest** characters do **not** get a **full heal**
@@ -1343,6 +1347,13 @@ ____
 > - During a rest spend **HD to regain HPs**
 > - Use a **Reaction** and **spend HD as a bonus die** to the d20 roll for an attack, save, or check
 > - Can spend **HD to assist** another creature
+
+___
+> #### Level Advancement Summary
+> - Must be in a **safe** location
+> - Desired-level x 48 hr
+> - Desired-level³ gp
+> - Class Ability check + proficiency vs. DC 10 + desired level
  
 
 
