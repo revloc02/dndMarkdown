@@ -1299,6 +1299,57 @@ ___
 
 
 
+> #### Pool Inspiration Summary
+> * Inspiration is a resource shared by the party
+> * The Pool of Inspiration can hold lots of points
+> * Inspiration is also obtained by
+>   * Invoking **Personal Characteristics**
+>   * **Heroic risks**
+>   * **Ingenuity**
+>   * **Momentum** - more encounters per day
+> * Inspiration can be used to:
+>   * Get **Advantage/Disadvantage**
+>   * **Reroll**
+>   * **Act Out of Turn**
+>   * Do a **Stunt**
+>   * Get **Revelation**
+>   * Take an **Extra Action**
+>   * **Remove Exhaustion**
+>   * **Cheat Death**
+>   * **Recall** a Spell or Special Ability
+>   * Something **Special**
+
+____
+> #### Dying Summary
+> - Death Saving Throws are no longer used
+> - **Drop to 0 HP:**
+>   - Gain the **Dying** condition
+>   - Concentration is broken
+>   - +1 Exhaustion
+> - **Dying** condition:
+>   - **End of turn:** +1 Exhaustion
+>   - **Suffer Damage:** +1 Exhaustion
+>   - **Suffer Crit Hit:** +2 Exhaustion
+>   - **Damage >= HP max:** instant death
+> - **Regain HP:** **Dying** removed (Exhaustion remains)
+> - **Stabilized:** actions to stabilize **restore 1 HP**
+> - **First Aid:** Medicine check to stabilize any creature you can touch **DC = 10 + targets exhaustion level**
+
+
+> #### Hit Dice Summary:
+> - Spending HD is **1HD+CON (exploding)**
+> - After **long rest** characters do **not** get a **full heal**
+> - After **long rest** characters **regain all HD**
+> - During a rest spend **HD to regain HPs**
+> - Use a **Reaction** and **spend HD as a bonus die** to the d20 roll for an attack, save, or check
+> - Can spend **HD to assist** another creature
+ 
+
+
+\pagebreakNum
+
+
+
  <style>
    /** Change the pg to whatever page number is the last page in your document **/
    .phb#p25:after { display:none; }
