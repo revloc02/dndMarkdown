@@ -1180,8 +1180,8 @@ ___
 
 
  <style>
-   /** Change the p2 to whatever page number is the last page in your document **/
-   .phb#p18:after { display:none; }
+   /** Change the pg to whatever page number is the last page in your document **/
+   .phb#p25:after { display:none; }
  </style>
  
  <div class='back-cover-image'></div>
