@@ -1199,7 +1199,7 @@ As explained in the [Hit Dice](#hit-dice) rules, at the end of a long rest, a ch
 
 An extended rest is a period of extended downtime, at least 24 hours long, which can only be taken in a safe location, where characters have access to plentiful food, water, and comfort. An extended rest cannot be attempted while in the wilderness, while sleeping on dirt or stone, or while wearing armor. Characters must be in a location where they do not feel the need to keep watch or constantly be on guard. Other downtime training and activities may be performed at the DM's discretion.
 
-For each consecutive 24 hours of extended rest the character takes he can cumulatively add 1d12 to any healing. For example the first 24 hours the character gets 1d12 extra healing. The second consecutive 24 hours (so 48 hours of straight resting) they get 2d12 extra healing for that day, in addition to the 1d12 from the first day, and so forth.
+For each consecutive 24 hours of extended rest the character takes he can cumulatively add 1d12 to any healing. For example the first 24 hours the character gets 1d12 extra healing. The second consecutive 24 hours (so 48 hours of straight resting) they get 2d12 extra healing for that day (in addition to the 1d12 from the first day), and so forth.
 
 \columnbreak
 
