@@ -410,7 +410,7 @@ You may reroll any one dice roll you just made. You must take the results of the
 * **Act Out of Turn:**
 Take your turn immediately (i.e. out of initiative order). Treat this as a readied action, moving your initiative for this round to just before the currently acting creature.
 * **Stunt:**
-Player may modify an action by declaring that action a Stunt. Must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. For example, sprinting an extra 10 feet in a direction, extending the range of a spell a small amount, or specifically targeting an enemies weak point, etc. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect, such as: blinding, deafening, moving a creature up to 5 feet in a direction, knocking a creature prone, disarming, cleaving, kicking, tumbling, or more. Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. If the stunt turns out to be a particularly spectacular success (because of favorable dice rolls) the DM may choose refund one Inspiration point.
+Player may modify an action by declaring that action a Stunt. Must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. For example, sprinting an extra 10 feet in a direction, extending the range of a spell a small amount, or specifically targeting an enemies weak point, etc. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect, such as: blinding, deafening, moving a creature up to 5 feet in a direction, knocking a creature prone, disarming, cleaving, kicking, tumbling, or more. Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. If the stunt turns out to be a particularly spectacular success (because of favorable dice rolls) the DM may choose refund one Inspiration point. TODO: make an appendix with stunt suggestions, including this reference: https://www.dndbeyond.com/posts/203-fighting-dirty-cinematic-combat-stunts
 * **Revelation (2+ Inspiration):**
 If you feel stuck at one point in the adventure, you can spend 2 Inspiration (or more, DM's fiat) and petition the DM for a hint about what to do next. If the DM feels that there is no information to be gained, the Inspiration can be fully or partially refunded.
 * **Extra Action (3 Inspiration):**
@@ -649,6 +649,8 @@ Your character should pick up an additional Aspect about **once per level**, but
 
 #### Example Aspects
 
+TODO: Consider moving the list of example Aspects to an appendix.
+
 * A Wall is Just a Door That Doesn't Know It
 * Absent minded
 * Addicted
@@ -854,7 +856,7 @@ Pre-levels will never count towards any features or abilities that use levels as
 ### DM Notes
 
 * During Pre-Levels, make sure the players aware that their characters are very fragile, one successful attack against them could be the end. Player creativity and ingenuity should be top priorities for encounters, and running away is usually a good option.
-* During Pre-Levels, look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability **during game play**. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI. Create as many opportunities as possible for non-lethal dice rolls. Here are some examples:
+* During Pre-Levels, look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability **during game play**. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI. Create as many opportunities as possible for non-lethal dice rolls. Here are some examples (TODO: consider expanding this list of examples and moving it to an appendix):
    * Make a Dex (Sleight of Hand) check to steal some Dire Platypus eggs for food
    * Make a Int (History) check to see if anyone knows anything about the ruins of a razed settlement
    * Make a Cha (Intimidation) check to chase away the owlbear cubs
