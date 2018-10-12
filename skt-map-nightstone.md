@@ -14,9 +14,16 @@
 
 \pagebreak
 
-# 3. Nightstone Square
+# 3. Nightstone Square NE
 
-<img src='https://www.gmbinder.com/images/4scsdhd.png' style='position:absolute;top:30px;right:-333px;width:1500px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(90deg)scaleX(1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/Fhuree5.png' style='position:absolute;top:15px;right:15px;width:1520px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
+
+
+\pagebreak
+
+# 3. Nightstone Square SW
+
+<img src='https://www.gmbinder.com/images/Fhuree5.png' style='position:absolute;top:-20px;left:-10px;width:1520px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(90deg)scaleX(1)scaleY(1);' />
 
 
 \pagebreak
@@ -41,7 +48,4 @@
 # 6. Nightstone Graveyard
 
 <img src='https://www.gmbinder.com/images/vGBYn8Y.png' style='position:absolute;top:160px;right:-140px;width:1100px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(270deg)scaleX(1)scaleY(1);' />
-
-
-\pagebreak
 
