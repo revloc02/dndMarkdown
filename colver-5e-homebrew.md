@@ -1442,7 +1442,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.0
+  Version 1.3.6
 
  </div>
  
