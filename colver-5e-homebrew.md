@@ -1328,7 +1328,7 @@ ___
 > #### Pool Inspiration Summary
 > * Inspiration is a resource shared by the party
 > * The Pool of Inspiration can hold lots of points
-> * Inspiration is also obtained by
+> * Inspiration is obtained by:
 >   * Invoking **Personal Characteristics**
 >   * **Heroic risks**
 >   * **Ingenuity**
@@ -1442,7 +1442,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.6
+  Version 1.3.7
 
  </div>
  
