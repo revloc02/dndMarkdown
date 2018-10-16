@@ -16,7 +16,11 @@ Nether Scrolls was the name for a certain set of 50 scrolls that dealt with fund
 
 #### Mythallar
 
-One of the greatest human archwizards to ever grace the lands of Toril—quite possibly the longest-lived creature known—was Ioulaum, the man who invented a mythallar. A mythallar was a Netherese device that dug deep into the weave of magic and allowed access to vast amounts of raw magic. This magical device looked much like a crystal ball but was about 150 feet in diameter. It allowed Netherese arcanists to create quasi-magical items without need of a permanency spell as long as it stayed within the one-mile-radius effect of the mythallar. The mythallar also provided the constant magical force that allowed entire mountains to hover in the air.
+One of the greatest human archwizards to ever grace the lands of Toril—quite possibly the longest-lived creature known—was Ioulaum, the man who invented a mythallar. A mythallar was a Netherese device that dug deep into the weave of magic and allowed access to vast amounts of raw magic. This magical device looked much like a crystal ball but was about 150 feet in diameter. It allowed Netherese arcanists to create quasi-magical items without need of a permanency spell as long as it stayed within the one-mile-radius effect of the mythallar. The mythallar also provided the constant magical force that allowed entire mountains to hover in the air. These levitating mountains were turned upside down and buildings were built on them creating floating cities.
+
+#### Great Power
+
+Netheril continued to grow in power. More and more mythallar and floating cities were created. The Netherese archwizards ventured into Realmspace (space) using spelljammers, or flying spaceships powered by magic. While Netheril's flying cities flourished in the sky, magical residue seeped into the earth below and became an affliction for a race of subterranean dwelling creatures called the phaerimm. Eventually, the phaerimm grew tired of their torment and began to retaliate. They cast spells that drained life and magic from the earth and the floating cities of Netheril, creating barren wastelands where there once were lush fields and areas of wild magic. As magic began to go uncontrollably awry, many of the Netherese archmages fled in search of lands where their magic would not go wrong.
 
 \columnbreak
 
