@@ -5,8 +5,12 @@ Netheril was one of the ancient human empires of Faerûn. It was a magocracy, a 
 
 Netheril’s history began nearly 5,000 years ago at the site of seven fishing villages, which decided to band together for mutual protection against marauding orc bands. The coalition of villages was named Seventon, creating a new nation. A few years later, however, King Nether renamed the kingdom Netheril‚ which meant Nether’s Land. 
 
-
 Fourteen years later elves approached the loosely tied villages. Until this time, elves were a mere myth—imaginary creatures and Netheril bowed its head in awe. It took several years for the elves to convince these scarcely civilized humans that they were mortals, and they began trading. One of the many things the elves traded was magic. Over the next century magic use in this small nation grew in leaps and boundsand the importance placed on magic helped bring Netheril to the top of Toril’s magical nations.
+
+Nether Scrolls was the name for a certain set of 50 scrolls that dealt with fundamental magic theory. The content was written over 50 scrolls divided in five chapters, each consisting of ten scrolls. Each scroll was made of precious metal, gold or platinum, made flexible like paper with silvery letters floating upon the surface. The nether scrolls were among the most influential artifacts in Faerûn. In fact, a good portion of the sum of magical knowledge on Toril was based on the theory described in these scrolls. After the discovery of the Nether Scrolls, the arcane might of Netheril increased immeasurably.
+
+One of the greatest human archwizards to ever grace the lands of Toril—quite possibly the longest-lived creature known—was Ioulaum, the man who invented a mythallar. A mythallar was a Netherese device that dug deep into the weave of magic and allowed access to vast amounts of raw magic. This magical device looked much like a crystal ball but was about 150 feet in diameter. It allowed Netherese arcanists to create quasi-magical items without need of a permanency spell as long as it stayed within the one-mile-radius effect of the mythallar. The mythallar also provided the constant magical force that allowed entire mountains to hover in the air.
+
 
 
 
