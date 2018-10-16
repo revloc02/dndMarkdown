@@ -1,9 +1,14 @@
 # Netheril
-Netheril was one of the ancient human empires of Faerûn and is a magocracy, a form of government where only those with ability in magic had a voice in government. Netheril was also the home of the most powerful wizard who ever walked on Faerûn, Karsus. The Netherese also created powerful artifacts known as mythallars, which allowed mundane objects to become magical, dramatically changing the face of the Netherese Empire
+Netheril was one of the ancient human empires of Faerûn. It was a magocracy, a form of government where only those with ability in magic had a voice in government. Netheril was also the home of the most powerful wizard who ever walked on Faerûn, Karsus. The Netherese also created powerful artifacts known as mythallars, which allowed mundane objects to become magical, dramatically changing the face of the Netherese Empire. This empire of human wizards, cities that floated across the sky and a terrible, terrible arrogance that nearly stripped Toril of its magic forever.
 
 ### Overview
 
-The Neth was a group of small farming villages that banded together for protection and led to an empire of human wizards, cities that floated across the sky and a terrible, terrible arrogance that nearly stripped Toril of its magic forever.
+Netheril’s history began nearly 5,000 years ago at the site of seven fishing villages, which decided to band together for mutual protection against marauding orc bands. The coalition of villages was named Seventon, creating a new nation. A few years later, however, King Nether renamed the kingdom Netheril‚ which meant Nether’s Land. 
+
+
+Fourteen years later elves approached the loosely tied villages. Until this time, elves were a mere myth—imaginary creatures and Netheril bowed its head in awe. It took several years for the elves to convince these scarcely civilized humans that they were mortals, and they began trading. One of the many things the elves traded was magic. Over the next century magic use in this small nation grew in leaps and boundsand the importance placed on magic helped bring Netheril to the top of Toril’s magical nations.
+
+
 
 It can be said that the empire of Netheril was the oldest surviving human empire, and as such it is not surprising that it passed through several different phases. The First Age was the founding and settling of the Netheril region by humans, and of their contact with elves who taught them magic. This was followed by the Nether Age, so-called for the Nether Scrolls (Nether Scrolls was the name for a certain set of 50 scrolls that dealt with fundamental magic theory.) that the Netherese people used to rapidly increase their knowledge of magic. Undoubtedly the peak of their power, this was a time when the Netherese were breaking new ground, both in advances in magical pursuits but also in exploration into other planes. During this age lived Karsus, a wizard of immense power who could cast 12th level spelss and sought to seize the power of the gods. Indeed, it was his folly that led to the next age, the Fall of the Empire. Broken and shattered, it took the Netherese people a while to regroup, but eventually came the most recent age, the Re-Emergence of the Empire.
 
