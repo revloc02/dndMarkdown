@@ -88,7 +88,7 @@ When manipulating other creatures, green dragons are honey-tongued, smooth, and 
 
 * **Alignment**: Lawful Evil
 * **Habitat:** deserts, dry steppes, searing badlands
-* **Breath Weapon:** Poison
+* **Breath Weapon:** Lightning
 
 **Vain and Territorial Overlords:** Blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert’s reach. Though blue dragons collect anything that looks valuable, they are especially fond of gems. Considering blue to be the most noble and beautiful of colors, they covet sapphires, favoring jewelry and magic items adorned with those gems.
 
