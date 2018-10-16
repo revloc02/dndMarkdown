@@ -45,7 +45,7 @@
 
 <div class='footnote'>All copyrights reserved for WotC and various artists, without who this would not be possible.</div>
 
-<img src='https://www.gmbinder.com/images/9Ykkhir.jpg' style='position:absolute;bottom:0px;right:0px;width:500px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);' />
+<img src='https://www.gmbinder.com/images/9Ykkhir.jpg' style='position:absolute;bottom:70px;right:0px;width:480px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(0deg)scaleX(1)scaleY(1.1);' />
 
 
 
@@ -111,7 +111,7 @@ Frequently, it takes a coven of witches, a circle of druids, or an order of wiza
 
 While these magics may be available to players, it is not quick, easy, or cheap. Commissioning a high-level spell is like embarking on a construction project, with all the complications that go with it.
 
-<img src='https://www.gmbinder.com/images/vXXUhrW.png' style='position:absolute;bottom:25px;right:-10px;width:550px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/vXXUhrW.png' style='position:absolute;bottom:25px;right:-60px;width:550px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
 
 
 
@@ -496,7 +496,7 @@ If an effect would grant you advantage or disadvantage on your initiative roll u
 
 A surprised creature adds +10 to its initiative result and cannot take Reactions while it is surprised. A creature is surprised until the end of the round during which it is surprised.
 
-<img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:-10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
+<img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
 
 
 
