@@ -63,6 +63,12 @@ The world in which you play is low magic but epic fantasy. What does that mean? 
 
 Adventuring is not an occupation, rather it is a side effect of fulfilling a more pressing need—saving the town, completing the quest from the Duke, or finding the lost princess.
 
+<div class='descriptive'>
+
+**DM Note:** When using official D&D content where there is frequent mention of adventurers, often replacing that with mercenaries is a suitable substitute.
+
+</div>
+
 ### Magic is Uncommon
 
 Magic is...well, magical. Cantrips are fairly common, but anything above that becomes rare pretty quickly.
