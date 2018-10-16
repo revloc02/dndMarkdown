@@ -380,7 +380,7 @@ As motivation to have the party experience more encounters in a game day, the DM
 > #### Pool Inspiration Summary
 > * Inspiration is a resource shared by the party
 > * The Pool of Inspiration can hold lots of points
-> * Inspiration is also obtained by
+> * Inspiration is obtained by:
 >   * Invoking **Personal Characteristics**
 >   * **Heroic risks**
 >   * **Ingenuity**
