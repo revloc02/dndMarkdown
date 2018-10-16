@@ -861,16 +861,13 @@ Pre-levels will never count towards any features or abilities that use levels as
 
 ### DM Notes
 
-* During Pre-Levels, make sure the players aware that their characters are very fragile, one successful attack against them could be the end. Player creativity and ingenuity should be top priorities for encounters, and running away is usually a good option.
-* During Pre-Levels, look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability **during game play**. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI. Create as many opportunities as possible for non-lethal dice rolls. Here are some examples (TODO: consider expanding this list of examples and moving it to an appendix):
-   * Make a Dex (Sleight of Hand) check to steal some Dire Platypus eggs for food
-   * Make a Int (History) check to see if anyone knows anything about the ruins of a razed settlement
-   * Make a Cha (Intimidation) check to chase away the owlbear cubs
-   * Make a Wis (Animal Handling) check to ride the horse
-* Have the characters "earn" the mechanical features from the Background they chose, as a part of downtime activities. They should probably have all of these by level 2 or 3.
-* ASIs are no longer part of the normal character level advancement. The DM should continue to look for opportunities to pass out ASIs during game play throughout the character's **entire career**. Characters should earn about 3 ASIs per pre-level and per normal level through level 5, and then about 2 per level after that. The DM can choose to give any ASIs upon any character level advancement.
+* **Fragile:** During Pre-Levels, make sure the players aware that their characters are very fragile, one successful attack against them could be the end. Player creativity and ingenuity should be top priorities for encounters, and running away is usually a good option.
+* **HD:** Pre-level characters can use their HD to heal (like normal). The DM can decide if Pre-level HD are kept once a character gets to 1st level (not recommended).
+* **Background Proficiencies:** Have the characters "earn" the mechanical features from the Background they chose, as a part of downtime activities. They should probably have all of these by level 2 or 3.
+* **ASI:** During Pre-Levels, look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability **during game play**. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI. Create as many opportunities as possible for non-lethal dice rolls. (See Appendix C for examples.)
+* **Career ASI:** ASIs are no longer part of the normal character level advancement. The DM should continue to look for opportunities to pass out ASIs during game play throughout the character's **entire career**. Characters should earn about 3 ASIs per pre-level and per normal level through level 5, and then about 2 per level after that. The DM can choose to give any ASIs upon any character level advancement.
 
-##### Guideline for ASI
+#### Guideline for ASI
 
 | Level | ~ Ability Scores Total<sup>*</sup> | ~ ASI During Level |
 |:-----:|:-----:|:-----:|
@@ -1284,7 +1281,6 @@ Whenever the DM has to take some time to look something up or figure something o
 
 
 
-
 # Appendix A: Glossary
 
 ___
@@ -1302,6 +1298,24 @@ ___
 
 <img src='https://www.gmbinder.com/images/LAr328o.jpg' style='position:absolute;bottom:35px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
  
+
+
+\pagebreakNum
+
+
+
+# Appendix C: Game Play ASI Examples
+
+___
+Here are some Pre-level examples:
+* Make a Dex (Sleight of Hand) check to steal some Dire Platypus eggs for food
+* Make a Int (History) check to see if anyone knows anything about the ruins of a razed settlement
+* Make a Cha (Intimidation) check to chase away the owlbear cubs
+* Make a Wis (Animal Handling) check to ride the horse
+
+___
+Here are some Tier 1 examples:
+
 
 
 \pagebreakNum
