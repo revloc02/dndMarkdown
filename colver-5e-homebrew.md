@@ -218,12 +218,12 @@ Levels of Exhaustion can be removed in the following ways:
 <div class='descriptive'>
 
 ##### _Exhaustion_ Reference (PHB p. 291)
-* 1 - Disadvantage on ability checks 
-* 2 - Speed halved 
-* 3 - Disadvantage on attack rolls and saving throws 
-* 4 - Hit point maximum halved 
-* 5 - Speed reduced to 0 
-* 6 - Death 
+* 1 - Disadvantage on ability checks
+* 2 - Speed halved
+* 3 - Disadvantage on attack rolls and saving throws
+* 4 - Hit point maximum halved
+* 5 - Speed reduced to 0
+* 6 - Death
 </div>
 
 
@@ -1361,6 +1361,17 @@ ___
 > - **Stabilized:** actions to stabilize **restore 1 HP**
 > - **First Aid:** Medicine check to stabilize any creature you can touch **DC = 10 + targets exhaustion level**
 
+<div class='descriptive'>
+
+##### _Exhaustion_ Reference (PHB p. 291)
+* 1 - Disadvantage on ability checks
+* 2 - Speed halved
+* 3 - Disadvantage on attack rolls and saving throws
+* 4 - Hit point maximum halved
+* 5 - Speed reduced to 0
+* 6 - Death
+</div>
+
 ___
 > #### Hit Dice Summary:
 > - Spending HD is **1HD+CON (exploding)**
@@ -1442,7 +1453,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.7
+  Version 1.3.8
 
  </div>
  
