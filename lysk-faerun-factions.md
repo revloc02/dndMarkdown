@@ -60,7 +60,7 @@ Additional information can be found in the [D&D Faction Guide.](https://rpg.rem.
 
 ### Emerald Enclave
 
-<img src='https://www.gmbinder.com/images/kj2VvtJ.png' style='position:absolute;top:53px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(120%)opacity(90%);transform:scaleX(1)scaleY(1.09);' />
+<img src='https://www.gmbinder.com/images/gzqerB3.png' style='position:absolute;top:53px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(120%)opacity(90%);transform:scaleX(1)scaleY(1.09);' />
  
 **Corresponding Alignment:** Neutral
 
