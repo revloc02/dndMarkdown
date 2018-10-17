@@ -1,8 +1,8 @@
 # Faerûn Factions
 
-In the Forgotten Realms, five factions have risen to prominence. Seeking to further their respective agendas while opposing destructive forces that threaten the folk of Faerûn, each faction has its own motivations, goals, and philosophy. While some are more heroic than others, all band together in times of trouble to thwart major threats.
+In the Forgotten Realms, five factions have risen to prominence. Seeking to further their respective agendas while opposing destructive forces that threaten the folk of Faerûn, each faction has its own motivations, goals, and philosophy. While some are more heroic than others, **all band together in times of trouble to thwart major threats**.
 
-Belonging to a faction sometimes means having responsibilities, but it also carries with it support and rewards for service.
+Belonging to a faction sometimes means having responsibilities, but it also carries with it support and **rewards for service**.
 
 ### Order of the Gauntlet
 
@@ -19,8 +19,8 @@ Composed of faithful and vigilant seekers of justice who **protect others** from
 * Enact **retribution against evil** actions—do not strike preemptively.
 
 #### Beliefs
-* Faith is the greatest weapon against evil—faith in one’s god, one’s friends, and one’s self.
-* Battling evil is an extraordinary task that requires extraordinary strength and bravery.
+* **Faith** is the greatest weapon against evil—faith in one’s god, one’s friends, and one’s self.
+* **Battling evil** is an extraordinary task that requires extraordinary strength and bravery.
 * Punishing an evil act is just. Punishing an evil thought is not.
 
 ### Lords’ Alliance
@@ -40,13 +40,13 @@ A loose coalition of **established political powers** concerned with mutual secu
 
 #### Beliefs
 
-* If civilization is to survive, all must unite against the dark forces that threaten it.
-* Fight for your realm. Only you can bring honor, glory, and prosperity to your lord and homeland.
-* Don’t wait for the enemy to come to you. The best defense is a strong offense.
+* If civilization is to survive, **all must unite** against the dark forces that threaten it.
+* **Fight for your realm.** Only you can bring honor, glory, and prosperity to your lord and homeland.
+* Don’t wait for the enemy to come to you. The best defense is a **strong offense**.
 
 \columnbreak
 
-Faction and Alignment are **not** equivalents. There are definitely similarities to the approach between certain factions and alignments, and these are indicated. But a character of any alignment can be a part of any faction, and can usually find a way to promote the factions mantras without compromising their own beliefs.
+Faction and Alignment are **not** equivalents. There are definitely similarities to the approach between certain factions and alignments, and these are indicated. But a character of **any alignment can be a part of any faction**, and can usually find a way to promote the factions mantras without compromising their own beliefs.
 
 ##### References
 
@@ -74,9 +74,9 @@ A widespread group of wilderness survivalists who preserve the **natural order**
 * Keep civilization and the wilderness from destroying each other.
 
 #### Beliefs
-* The natural order must be respected and preserved.
+* The **natural order** must be respected and preserved.
 * Forces that upset the natural order must be destroyed.
-* Civilization and the wilderness must learn to coexist peacefully.
+* Civilization and the wilderness must learn to **coexist** peacefully.
 
 ### Harpers
 
@@ -94,9 +94,9 @@ A scattered network of spellcasters and spies who advocate equality and covertly
 * **Aid** the weak, poor and oppressed.
 
 #### Beliefs
-* One can never have too much information or arcane knowledge.
-* Too much power leads to corruption. The abuse of magic must be closely monitored.
-* No one should be powerless.
+* One can never have too much **information** or arcane knowledge.
+* Too much power **leads to corruption**. The abuse of magic must be closely monitored.
+* **No one should be powerless.**
 
 ### Zhentarim
 
@@ -114,8 +114,8 @@ An unscrupulous **shadow network** that seeks to expand its influence and power 
 * **Dominate** Faerûn.
 
 #### Beliefs
-* The Zhentarim is your family. You watch out for it, and it watches out for you.
-* You are the master of your own destiny. Never be less than what you deserve to be.
-* Everything—and everyone—has a price.
+* The Zhentarim is your **family**. You watch out for it, and it watches out for you.
+* You are the **master** of your own destiny. Never be less than what you deserve to be.
+* Everything—and everyone—has a **price**.
 
 <div class='footnote'>Faerûn Factions</div>
