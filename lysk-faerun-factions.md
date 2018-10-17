@@ -60,7 +60,7 @@ Additional information can be found in the [D&D Faction Guide.](https://rpg.rem.
 
 ### Emerald Enclave
 
-<img src='https://www.gmbinder.com/images/gzqerB3.png' style='position:absolute;top:53px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(120%)opacity(90%);transform:scaleX(1)scaleY(1.09);' />
+<img src='https://www.gmbinder.com/images/gzqerB3.png' style='position:absolute;top:46px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(120%)opacity(90%);transform:scaleX(1)scaleY(1.03);' />
  
 **Corresponding Alignment:** Neutral
 
@@ -80,7 +80,7 @@ A widespread group of wilderness survivalists who preserve the **natural order**
 
 ### Harpers
 
-<img src='https://www.gmbinder.com/images/Qnpml3H.png' style='position:absolute;top:366px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(120%)opacity(90%);transform:scaleX(1)scaleY(1.14);' />
+<img src='https://www.gmbinder.com/images/Qnpml3H.png' style='position:absolute;top:344px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(120%)opacity(90%);transform:scaleX(1)scaleY(1.08);' />
  
 **Corresponding Alignment:** Chaos
 
@@ -100,7 +100,7 @@ A scattered network of spellcasters and spies who advocate equality and covertly
 
 ### Zhentarim
 
-<img src='https://www.gmbinder.com/images/qkWJTkq.png' style='position:absolute;top:676px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(120%)opacity(90%);transform:scaleX(1)scaleY(1.06);' />
+<img src='https://www.gmbinder.com/images/qkWJTkq.png' style='position:absolute;top:646px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(120%)opacity(90%);transform:scaleX(1)scaleY(1.06);' />
  
 **Corresponding Alignment:** Evil
 
