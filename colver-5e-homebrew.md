@@ -1360,17 +1360,14 @@ ___
 > - **Regain HP:** **Dying** removed (Exhaustion remains)
 > - **Stabilized:** actions to stabilize **restore 1 HP**
 > - **First Aid:** Medicine check to stabilize any creature you can touch **DC = 10 + targets exhaustion level**
-
-<div class='descriptive'>
-
-##### _Exhaustion_ Reference (PHB p. 291)
-* 1 - Disadvantage on ability checks
-* 2 - Speed halved
-* 3 - Disadvantage on attack rolls and saving throws
-* 4 - Hit point maximum halved
-* 5 - Speed reduced to 0
-* 6 - Death
-</div>
+> 
+> #### Exhaustion
+> * 1 - Disadvantage on ability checks
+> * 2 - Speed halved
+> * 3 - Disadvantage on attacks and saving throws
+> * 4 - Hit point maximum halved
+> * 5 - Speed reduced to zero
+> * 6 - Death
 
 ___
 > #### Hit Dice Summary:
@@ -1453,7 +1450,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.8
+  Version 1.3.9
 
  </div>
  
