@@ -12,7 +12,7 @@
 
 <div class='cover-splotch'></div>
 
-<div class='cover-footer'>A collection of house rules for gritty, player driven low but epic fantasy</div>
+<div class='cover-footer'>A collection of house rules for gritty, player driven, low but epic fantasy</div>
 
 \pagebreak
 
