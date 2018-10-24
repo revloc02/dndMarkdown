@@ -157,14 +157,15 @@ You may choose to not play, but if you don't play your character will not get XP
 
 # Dying
 
-These rules replace Death Saving Throws. Falling unconscious and rolling one die every turn to see if the player will continue playing is actually not that fun. Allowing the character continued freedom to act and make interesting choices is engaging to the player, which are all three good things. This makes for a slightly grittier game, but not as unforgiving as 1e rules where 0 HPs means immediate death. These rules also add some realism without adding a lot of complexity.
+These rules replace Death Saving Throws. Falling unconscious and rolling one die every turn to see if the player will continue playing is actually not that fun. Allowing the character **continued freedom to act** and make interesting choices is engaging to the player. This makes for a slightly grittier game, but not as unforgiving as 1e rules where 0 HPs means immediate death. These rules also add some realism without adding a lot of complexity.
 
 > #### Dying Summary
-> - Death Saving Throws are no longer used
-> - **Drop to 0 HP:**
+> - Death Saves are no longer used
+> - **Dropping to 0 HP:**
 >   - Gain the **Dying** condition
 >   - Concentration is broken
 >   - +1 Exhaustion
+>   - Character may **continue to take actions**
 > - **Dying** condition:
 >   - **End of turn:** +1 Exhaustion
 >   - **Suffer Damage:** +1 Exhaustion
@@ -174,13 +175,13 @@ These rules replace Death Saving Throws. Falling unconscious and rolling one die
 > - **Stabilized:** actions to stabilize **restore 1 HP**
 > - **First Aid:** Medicine check to stabilize any creature you can touch **DC = 10 + targets exhaustion level**
 
-### Dropping to 0 Hit Points
+### Zero Hit Points
 
-When a character drops to 0 hit points, he or she gains the **Dying** condition, concentration is broken, and they gain 1 level of Exhaustion. Note that the _Instant Death_ (PHB, p. 197) rules still apply as per RAW when massive damage is taken.
+When a character drops to zero hit points the character **does not fall unconscious**, rather he gains the **Dying** condition, concentration is broken, and they gain 1 level of Exhaustion. **The character can still perform actions on their turn.** Note that the _Instant Death_ (PHB, p. 197) rules still apply as per RAW when massive damage is taken.
 
 ### Dying Condition
 
-_The Dying condition indicates a character is on their way to death and grants multiple rounds to either stop the death or go out with a bang. Urgency is created without removing the characters ability to do something about it. In combination with existing rules about removing level of exhaustion this creates a scenario where the closer a character gets to death the longer it takes for him to recover from the shock of that situation—potentially multiple days to remove all levels of Exhaustion. During that time the character will have some disadvantage on checks and reduced speed (as per the exhaustion levels) and this represents a bit of shell shock or PTSD being suffered by the character._
+_The Dying condition indicates a character is on their way to death and allows multiple rounds to do something about it before they expire. By imposing Exhaustion, urgency is created without removing the characters ability to act. The closer a character gets to death (Exhaustion level 6) the longer it takes for him to recover from the shell shock of that situation—potentially multiple days to remove all levels of Exhaustion. These lingering effects (as per the Exhaustion levels) are realistic as the character has had a brush with death._
 
 **Dying** is a special condition that simply means a creature has 0 hit points and is not dead yet. A creature obtains the **Dying** condition immediately when they drop to 0 hit points and looses the condition as soon as they gain any hit points.
 
@@ -190,21 +191,19 @@ The **Dying** condition causes the creature to suffer **+1 Exhaustion** level 1)
 
 Exhaustion gained from **Dying** does not end when the **Dying** condition is lost unless the healing method specifically describes also removing levels of exhaustion. Exhaustion gained from **Dying** is like all other exhaustion. As per RAW if a creature gains the sixth level of exhaustion, it is dead. See _Exhaustion_ in _Conditions_ (PHB p. 291) for complete information.
 
-### Falling Prone Instead
-
-When the **Dying** condition imposes suffering **+1 Exhaustion** levels the player may choose that their character instead falls prone. This option is only available if the character has not already been prone this turn.
-
-### Damage while Dying.
+#### Damage while Dying.
 
 If you take any damage while you are **Dying**, you suffer **+1 Exhaustion** level. If you receive a critical hit, you suffer **+2 Exhaustion** levels. If the damage equals or exceeds your hit point maximum, you suffer instant death.
 
-### Stabilizing a Dying Creature.
+#### Stabilizing a Dying Creature.
 
 Effects that invoke the ***stabilize*** result on a **Dying** creature now do so by healing for one hit point. Stabilization via first aid can be done on any creature you can touch and requires an action and a successful Wisdom (Medicine) check with a DC of 10 + targets Exhaustion level (see [Medicine Skill](#dying-medicine-and-healer-medicine-skill)).
 
-### Optional: Dying Survivor Injury
+### Optional Rules
 
-Creatures that have been stabilized from **Dying** have been at deaths door, which is a very traumatic situation. It may be appropriate to roll on the "Lingering Injuries Table" (DMG ch9) for the creature. 
+**Falling Prone Instead:** When the **Dying** condition imposes suffering **+1 Exhaustion** levels the player may choose that their character instead falls prone. This option is only available if the character has not already been prone this turn.
+
+**"Dying" Survivor Injury:** Creatures that have been stabilized from **Dying** have been at deaths door, which is a very traumatic situation. It may be appropriate to roll on the "Lingering Injuries Table" (DMG ch9) for the creature.
 
 ### Note: Exhaustion Removal
 Levels of Exhaustion can be removed in the following ways:
@@ -217,13 +216,16 @@ Levels of Exhaustion can be removed in the following ways:
 
 <div class='descriptive'>
 
-##### _Exhaustion_ Reference (PHB p. 291)
+##### Exhaustion 
 * 1 - Disadvantage on ability checks
 * 2 - Speed halved
 * 3 - Disadvantage on attack rolls and saving throws
 * 4 - Hit point maximum halved
 * 5 - Speed reduced to 0
 * 6 - Death
+
+Reference (PHB p. 291)
+
 </div>
 
 
@@ -1450,7 +1452,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.9
+  Version 1.3.10
 
  </div>
  
