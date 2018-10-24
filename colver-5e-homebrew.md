@@ -647,74 +647,13 @@ An Aspect is a phrase that defines a truth about a character. A good aspect shou
 * **Compelling:** Reveal something interesting about the character, something they may not even know
 * **Double-Edged:** Have elements that are potentially both positive and negative
 
-Additional advice on creating an excellent Aspect can be found in the [FATE SRD](https://fate-srd.com/fate-core/making-good-aspect "Making A Good Aspect").
-
 \columnbreak
+
+Additional advice on creating an excellent Aspect can be found in the [FATE SRD](https://fate-srd.com/fate-core/making-good-aspect "Making A Good Aspect"). See [Appendix B](#appendix-b-example-aspects) for some example Aspects.
 
 #### Gaining Aspects
 
 Your character should pick up an additional Aspect about **once per level**, but there really is no limit. While core Aspects to your character may never change, other Aspects will be gained and lost as the game is played.
-
-#### Example Aspects
-
-TODO: Consider moving the list of example Aspects to an appendix.
-
-* A Wall is Just a Door That Doesn't Know It
-* Absent minded
-* Addicted
-* Agile as a cat... but twice as curious
-* Always Guilty
-* Always in debt
-* Always Surviving, Never Living
-* Attacking is the best defense
-* Bloodline, (royal / racial / divine / unusual / immortal)
-* Born in the Saddle
-* CHARGE!
-* Cowardly
-* Crazy
-* Cursed with Beauty
-* Depressed
-* Enamored with (race)
-* Farmboy
-* Grumpy
-* Has visions
-* Hiding Something
-* Hoarder
-* How Can I Resist?
-* I can please everyone, all of the time.
-* Impetuous
-* Insufferable Optimist
-* It's All in the Reflexes
-* I've Never Had Friends Before
-* Kleptomaniac
-* Knight in Shining Armor
-* Life of the Party
-* Mamma's Boy
-* My Family is More Precious Than Gold
-* Mysterious
-* Never trust a (race)
-* Nothing Ever Goes As Planned
-* Overly Frugal
-* Paranoid
-* Physical deformity / scar
-* Picked This Up Earlier, Thought It Might Come In Handy
-* Price on My Head
-* Prophetic
-* Rascal
-* Rule Breaker
-* Rustic
-* Incessant sniper
-* Smart Aleck
-* Sworn to Avenge My Father's Death
-* The One Who Lived.
-* Things Are Not What They Seem
-* Too Nosy
-* Too smart for his own good.
-* Unusual Eyes / Hair / Other Physical Attribute
-* Very Religious
-* Very Well-mannered
-* Way too confident
-* Whiner
 
 
 
@@ -732,7 +671,7 @@ As you work on that, also consider the following elements of your character. In 
 
 #### Personality Quirks
 
-Personality Quirks are unusual characteristics, weird behaviors, or peculiar habits that add much flavor to a character and are meant to be mechanically benign. Give your character one to three Personality Quirks. Either choose or roll 1-3 times on the Personality Quirk Table (see table below), or you can choose to roll on this [DndSpeak Personality Quirks](http://dndspeak.com/2017/12/100-personality-quirks/ "100 Personality Quirks")  table, or make up your own personality quirk(s).
+Personality Quirks are unusual characteristics, weird behaviors, or peculiar habits that add much flavor to a character and are meant to be mechanically benign. Give your character one to three Personality Quirks. Either choose or roll 1-3 times on the Personality Quirk Table (see [Appendix C: Quirks Tables](#appendix-b-example-aspects-appendix-c-quirks-tables)), or you can choose to roll on this [DndSpeak Personality Quirks](http://dndspeak.com/2017/12/100-personality-quirks/ "100 Personality Quirks")  table, or make up your own personality quirk(s).
 
 #### Character History
 
@@ -866,7 +805,7 @@ Pre-levels will never count towards any features or abilities that use levels as
 * **Fragile:** During Pre-Levels, make sure the players aware that their characters are very fragile, one successful attack against them could be the end. Player creativity and ingenuity should be top priorities for encounters, and running away is usually a good option.
 * **HD:** Pre-level characters can use their HD to heal (like normal). The DM can decide if Pre-level HD are kept once a character gets to 1st level (not recommended).
 * **Background Proficiencies:** Have the characters "earn" the mechanical features from the Background they chose, as a part of downtime activities. They should probably have all of these by level 2 or 3.
-* **ASI:** During Pre-Levels, look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability **during game play**. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI. Create as many opportunities as possible for non-lethal dice rolls. (See Appendix C for examples.)
+* **ASI:** During Pre-Levels, look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability **during game play**. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI. Create as many opportunities as possible for non-lethal dice rolls. (See [Appendix D](#appendix-d-game-play-asi-examples) for examples.)
 * **Career ASI:** ASIs are no longer part of the normal character level advancement. The DM should continue to look for opportunities to pass out ASIs during game play throughout the character's **entire career**. Characters should earn about 3 ASIs per pre-level and per normal level through level 5, and then about 2 per level after that. The DM can choose to give any ASIs upon any character level advancement.
 
 #### Guideline for ASI
@@ -886,245 +825,6 @@ Pre-levels will never count towards any features or abilities that use levels as
 | 20    | 100 | 2 |
 
 \* The sum of the six ability scores
-
-
-
-\pagebreakNum
-
-
-
-<style>
-/** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p19 table {
-    font-size: 7.5pt;
-}
-</style>
-
-| d% | PERSONALITY QUIRK |
-|:---:|:----:|
-| 01 | Always agrees with people, but changes mind quickly |
-| 02 | Is very noisy about treasure |
-| 03 | Act mysteriously and answers questions poetically |
-| 04 | Doesn’t like new people |
-| 05 | Makes token bets about minor things |
-| 06 | Refers to themselves in the third person |
-| 07 | Sometimes bargains for the use of his powers |
-| 08 | Constantly asks how things taste and smell |
-| 09 | Yells when he/she is excited |
-| 10 | Know-it-all |
-| 11 | Is polite but obviously insincere |
-| 12 | Constantly apologizes as a verbal tic |
-| 13 | Makes a lot of threats but cannot back them up |
-| 14 | Very mellow; advises people to take a philosophical approach to both success and failure |
-| 15 | Says as little as possible |
-| 16 | Snickers or laughs at the misfortunes of others |
-| 17 | Calls people by the wrong name, though often consistently |
-| 18 | Prays a lot |
-| 19 | Is quick to praise people even for little things |
-| 20 | Often appears surprised and slightly offended when spoken to |
-| 21 | Does not like to make decisions |
-| 22 | Has a list of numbered rules or maxims covering different situations and quotes them when appropriate |
-| 23 | Always telling people the “real” reason they are doing things |
-| 24 | Asks for advice or opinions about very unlikely situations |
-| 25 | Speaks with great formality and employs bigger words than necessary |
-| 26 | Easily distracted by minor or irrelevant events |
-| 27 | Usually needs someone to explain a joke or metaphor |
-| 28 | Has a particular core belief, a rather odd one, and steadfastly looks at everything through the lens of that opinion |
-| 29 | Likes to count things and has fun with numbers |
-| 30 | Always tries to find compromise |
-| 31 | Is always talking to self |
-| 32 | Very bad liar |
-| 33 | Asks rude questions without realizing they cause offense |
-| 34 | Grumbles and complains about slightest plight |
-| 35 | Very sensitive about criticism or conflict |
-| 36 | Absent-minded |
-| 37 | Blames a particular type of creature for all troubles |
-| 38 | Intellectual bully |
-| 39 | Makes allusions to events from history or mythology without bothering to explain them |
-| 40 | Hates a particular terrain type and complains loudly while within that terrain |
-| 41 | Constantly ask questions about things that are irrelevant, even to bad guys |
-| 42 | Makes a list of things to accomplish each day |
-| 43 | Cannot keep a secret |
-| 44 | Seems slightly surprised when anyone else has a good idea or does something productive |
-| 45 | Often whines |
-| 46 | Easily angered |
-| 47 | Constantly warns about the danger of disease |
-| 48 | Has a stock phrase |
-| 49 | Habitually mumbles a word that rhymes with the final word other people speak before they pause |
-| 50 | Delighted by puns and other sorts of word games |
-
-| d% | PERSONALITY QUIRK |
-|:---:|:----:|
-| 51 | Makes animal noises when feeling threatened or excited |
-| 52 | A lover or literature and poetry, takes any opportunity to spout of a line or two of prose or verse |
-| 53 | Very superstitious |
-| 54 | Spurs party members to brave or foolhardy acts |
-| 55 | Never uses one word when 10 | will do |
-| 56 | Constantly asks to be destroyed, but panics if taken seriously |
-| 57 | Always has a reason why something will not work |
-| 58 | Goes crazy whenever a certain word is uttered |
-| 59 | Tells boring stories about something mundane |
-| 60 | Constantly suggests ways to make activities more “fun” and “exciting” |
-| 61 | Collects words from languages doesn’t know, and uses them in place of words in the language most commonly uses |
-| 62 | Dotes on others |
-| 63 | Often ignores others |
-| 64 | Loathes self |
-| 65 | Often chants annoying little rhymes |
-| 66 | Constantly making loud bodily noises |
-| 67 | Openly scornful of organized religion and believes gods are selfish liars |
-| 68 | Gets angrier and more determined with each setback |
-| 69 | Thinks most objects are intelligent items |
-| 70 | Lacks a moral compass when making plans and often proposes horrific solutions to minor problems |
-| 71 | Often uses vocabulary incorrectly |
-| 72 | Believes they are losing their mind |
-| 73 | Constantly name-drops |
-| 74 | Has terrible syntax and diction |
-| 75 | Never tires of learning new and interesting bits of information |
-| 76 | Complains about smells that no one else notices |
-| 77 | Constantly thirsty |
-| 78 | Loves to sing but is tone deaf |
-| 79 | Blames other for trials |
-| 80 | Is a seemingly endless font of gossip—though most details are fabricated |
-| 81 | Treats all others as lesser forms of intelligence |
-| 82 | Very cheerful; tries to raise downcast spirits with song, jokes, and uplifting stories |
-| 83 | Grows more and more relaxed the worse things get |
-| 84 | Constantly remembers details wrong |
-| 85 | Makes up stories |
-| 86 | Avoids speaking with creatures other than own race |
-| 87 | Has a need for constant attention |
-| 88 | Is a little unhinged |
-| 89 | Questions others about their background in order to determine if they are “suitable” |
-| 90 | Is often confused by the deeds of others and regularly asks about the reason for certain actions |
-| 91 | Very jealous and possessive |
-| 92 | Continually mentions a heroic event he participated in and how nothing else compares |
-| 93 | Diagnoses everyone with a mania, fixation, or curse, but is often wrong |
-| 94 | Explains simple things that don’t need explanations |
-| 95 | Constantly wishing for the end of the situation |
-| 96 | Cannot resist shopping opportunities (even without spending money) |
-| 97 | Has an imaginary ethereal friend |
-| 98 | Is afraid of the dark |
-| 99 | Chastises people for using profanity |
-| 100 | On edge and nervous when things seem to be going too well |
-
-
-
-\pagebreakNum
-
-
-
-<style>
-/** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p20 table {
-    font-size: 6pt;
-}
-</style>
-
-| d% | PERSONALITY QUIRK: TABLE 2 |
-|:---:|:----:|
-| 01 | You’re a vegan, and make sure everyone you meet knows. |
-| 02 | You’re obsessed with personal hygiene. |
-| 03 | You don’t like people you don’t already know. People can still make it into your good graces as you get to know them. |
-| 04 | You hate getting wet. So much so, you can’t even remember the last time you bathed. |
-| 05 | You actively avoid words with the letter S, due to a lisp you find embarrassing. |
-| 06 | You scratch your right ear whenever you lie. |
-| 07 | You can’t stand green beans/potatoes/rice, to the point where you can’t eat anything that has even touched it on the same plate. |
-| 08 | When someone makes you flustered, you punch their shoulder. |
-| 09 | Whenever something surprises you, you get hiccups. |
-| 10 | You start crying after any adrenaline drop (a fight ends, you get startled…). People mistake this for sadness, but it’s just a bodily function. |
-| 11 | If you yell more than a few words, your voice gets hoarse. You avoid yelling, therefore people just assume you are always calm and collected. |
-| 12 | You compulsively scratch (roll 1d4): 1. the nape of your neck; 2. your scalp; 3. your lower stomach; 4. your nose. |
-| 13 | You bite your fingernails/pick your nose. |
-| 14 | Whenever you cry, you try to catch the tears with your tongue. |
-| 15 | You don’t notice the volume of your voice, often embarrassing your companions in social gatherings. |
-| 16 | You always have to one-up people when it comes to (roll 1d4): 1. how powerful you are (physically or magically); 2. your sexual prowess/achievements; 3. how good of a friend you are; 4. how bad you have/had it. |
-| 17 | You have a mother/father/sister/brother complex, and always love/hate anyone resembling them. |
-| 18 | You chew with your mouth open. |
-| 19 | You pick between your teeth for leftovers with your fingers, and flick them away. |
-| 20 | You insist you’re ambidextrous, although you clearly aren’t. You will go as far as using your off hand to ‘prove’ it, and always make vapid excuses for your shortcomings with it. |
-| 21 | You claimed to know [obscure language] once to impress someone, and now hope never to meet someone whom actually speaks it. |
-| 22 | You believe in love at first sight, and practice what you preach! You become instantly enamored with the first attractive person you see in a town. |
-| 23 | No matter how savvy you are, you can never tell when (roll 1d4): 1. someone you aren’t into is hitting on you; 2. someone rejects you politely without firmly saying no; 3. someone compliments you to be polite; 4. someone tries to change the subject of off embarrassment rather than dishonesty. |
-| 24 | You always “correct” people about the pronunciation of spells and anything related to arcana, always putting the emphasis on the wrong syllable. For example saying “Maygeek mysle” instead of magic missile. |
-| 25 | You try to fit in with other races by trying to uses their terminology and accents as well as believing in the stereotypes given to that race which just makes you come off as condescending and racist. |
-| 26 | The more people there are, the more quiet you are. |
-| 27 | You get extremely defensive when someone disagrees with you. |
-| 28 | You panic when you are suddenly put into the spotlight. |
-| 29 | You just can’t stop talking about your preferences. You always have to give your opinion, even to strangers. |
-| 30 | You can’t remember people’s faces well. |
-| 31 | You don’t have a censor, and always let people know exactly what you think. |
-| 32 | If some says any number lower than 8, your must pass a willpower check or keep counting to 8. |
-| 33 | You are very modest, and must cover everything but your head whenever possible. If someone were to see you without sleeves you would blush. If someone saw you shirtless you would be uncontrollably stuttering, and so on with levels of embarrassment. |
-| 34 | If you see a hairy mammal that is not trying to kill you, you are obligated to try to pet it, even if it is an NPC/PC. |
-| 35 | Any race smaller than you, you treat as cute. You talk to it as though it were a small pet or baby, (even goblins). |
-| 36 | You get drunk and start talking in a language other than common. Usually it is just gibberish and people who actually speak the language are offended. |
-| 37 | If there is no light or you are unable to see, while you are not sleeping. You pee yourself. |
-| 38 | You know 100 dad jokes and always say one if no one is talking or there is an awkward silence. |
-| 39 | You are very bad at eating with utensils. If you use a fork, you must pass a test, (GMs choice) or stab your tounge. |
-| 40 | You sneeze whenever someone says your name. |
-| 41 | You forget people’s names. Whenever talking to someone you must pass an int check or say the wrong name. Once you get it right without being reminded you remember the name of that person. |
-| 42 | You hate sand, because it’s course and rough and it gets everywhere. |
-| 43 | You’re extremely conscious of proper posture. You’re constantly standing or sitting up straight. |
-| 44 | You have a huge smile that never reaches your eyes. |
-| 45 | You’re constantly humming a tune, not always the same one. It’s very soft and most of the time you don’t even know you’re doing it. If asked, you will say the tune is from a particular song, but anyone who makes a DC 15 History check will know it’s not the tune from that song at all. |
-| 46 | While not knowing much of your deity, you still heavily worship them. You often with confidence misquote from scripture, or make up a quote in your head. |
-| 47 | You don’t feel comfortable unless you’re chewing on something. If you’re not eating there has to be a toothpick, stem of grass, piece of straw or a pipe in your mouth. |
-| 48 | You can’t abide having a wrinkle in your socks. If there’s something off about them you can’t concentrate on anything until you’ve taken your boots off and corrected it. |
-| 49 | You give nicknames to everyone and everything. How flattering they are depends on how you think of the person or object. |
-| 50 | You spend far too much of your free time assembling 100 item randomized tables of various things (vampire mannerisms, dragon middle names, etc). |
-
-| d% | PERSONALITY QUIRK: TABLE 2 |
-|:---:|:----:|
-| 51 | You refer to yourself in the third person. As if your body were not your own… |
-| 52 | Whenever you see a dog you immediately try to pet it. If you are attempting to resist the urge, you must pass a DC 15 Animal Handling check. |
-| 53 | You frequently try to rhyme your sentences. You are very bad at it… |
-| 54 | Before asking a question you say “more inquiry needed,” you also end conversations with “conversation over”. |
-| 55 | You absolutely refuse to stay in the second floor of any building for an extended period of time. |
-| 56 | You enjoy showing off your prowess with other languages besides common to the point of annoyance to others. |
-| 57 | Art is your passion. You feel compelled to sketch people you meet. |
-| 58 | You cannot stand the sound of people snapping their fingers. |
-| 59 | You are very forgetful about past events. You tell the same childhood story several times a day. |
-| 60 | You have memorized every holiday of the year, and will do nothing until proper celebration has been made on the days of. |
-| 61 | You have lived vicariously through your older siblings/parents. All your interesting tales are things they have done. |
-| 62 | You are illiterate, and will stop at nothing to make sure no one knows this fact. |
-| 63 | You cannot pronounce your own name correctly. |
-| 64 | Sometimes mid conversation with someone you space out or pay more attention to what’s going on around you (a bird in the distance or whatever) unless the other people are engaging you, monologues bore you. |
-| 65 | You have a tendency to spit on the floor. |
-| 66 | You always reference how your mother would feel about any topic in conversation. |
-| 67 | You never look directly into someone’s eyes, instead gazing slightly to the right or left of their face when speaking to them. |
-| 68 | Anytime someone asks a question, you ask for “the magic word”. If they DO ask the question by saying “Please”, you assume they have an ulterior motive. |
-| 69 | You know “fun facts” about everything. They are usually wrong. |
-| 70 | You are absolutely sure everyone taller than you is on stilts. You eyeball their legs and sometimes attempt to prove this fact. |
-| 71 | When drinking water, you must purify it or filter it in some way. The thought of dirty water makes you ill. |
-| 72 | You absolutely REFUSE to sleep without a trinket of some kind. (a blanket, a stuffed animal, a pillow, etc.) |
-| 73 | When you see a child’s toy, you must pass a Wis 10 save or you must play with it. You’re a child at heart and kids always make you smile. |
-| 74 | You believe the world to be flat (or cubed if it happens to actually be flat). |
-| 75 | You believe that food must have an excessive amount of spices in it…more than anybody else appreciates. You also insist on cooking. |
-| 76 | Your extremities (feet, hands) are always freezing. Either bad circulation, a family curse, or strange genes in the bloodline is the cause. |
-| 77 | Every time you sit near a candle, you try your best to put it out with your fingers. You are rarely successful. |
-| 78 | You occasionally blink really hard, rub your eyes, and then look around as if it’s the first time seeing everything around you. |
-| 79 | You are completely convinced that everyone else has the exact same prejudices as you. |
-| 80 | You are on the hunt for a familiar. Every day, you pick a new creature or NPC and follow it/get it to follow you. |
-| 81 | You tend to clinically diagnose other people’s physical and emotional flaws in front of them. |
-| 82 | You strongly identify with another species, to the point of trying to pass as them. |
-| 83 | Each night, you have a vivid prophetic dream of your own messy death the next day. |
-| 84 | You name all of your actions as you execute them, ranging in volume from a quiet murmur to a earsplitting yell. |
-| 85 | You need to look cool at all times. You obsessively map out dramatic entrances, witty one-liners, and elaborate combat moves. |
-| 86 | You are embarrassed by the sound of your laugh, and use all your willpower to not let a single giggle escape. |
-| 87 | You are needlessly maternal, and will not rest until all of your friends (and some strangers) are well fed and cared for. |
-| 88 | You zone out whenever someone takes longer than five seconds to explain something, but pretend to have understood it perfectly. |
-| 89 | You spend all of your free time honing your skills at something extremely obscure and probably useless. |
-| 90 | You have an overly guilty conscience, and will try to make up for crimes that strangers have committed. |
-| 91 | When idle, you make neat stacks of nearby objects, including small animals and other people’s valuables. |
-| 92 | You introduce yourself by a slightly different name every time. |
-| 93 | Your left hand often wanders without your knowledge. |
-| 94 | You often challenge people to drinking contests of your own invention. |
-| 95 | You languish under such a labyrinthine series of opinions about the world that each new topic provokes a strong emotional response. [1: Horror. 2: Rage. 3: Grief. 4: Skepticism. 5: Lust. 6: Delight.] |
-| 96 | You always speak in hypotheticals. |
-| 97 | You have to stop whatever you are doing and look someone directly in their eyes before you talk to them. |
-| 98 | You constantly polish any metal you are holding or have on you. |
-| 99 | You adjust your glasses when you’re nervous. |
-| 100 | You overexaggerate when telling stories of your past deeds. |
-
 
 
 
@@ -1304,9 +1004,317 @@ ___
 
 \pagebreakNum
 
+# Appendix B: Example Aspects
+
+* A Wall is Just a Door That Doesn't Know It
+* Absent minded
+* Addicted
+* Agile as a cat... but twice as curious
+* Always Guilty
+* Always in debt
+* Always Surviving, Never Living
+* Attacking is the best defense
+* Bloodline, (royal / racial / divine / unusual / immortal)
+* Born in the Saddle
+* CHARGE!
+* Cowardly
+* Crazy
+* Cursed with Beauty
+* Depressed
+* Enamored with (race)
+* Farmboy
+* Grumpy
+* Has visions
+* Hiding Something
+* Hoarder
+* How Can I Resist?
+* I can please everyone, all of the time.
+* Impetuous
+* Insufferable Optimist
+* It's All in the Reflexes
+* I've Never Had Friends Before
+* Kleptomaniac
+* Knight in Shining Armor
+* Life of the Party
+* Mamma's Boy
+* My Family is More Precious Than Gold
+* Mysterious
+* Never trust a (race)
+* Nothing Ever Goes As Planned
+* Overly Frugal
+* Paranoid
+* Physical deformity / scar
+* Picked This Up Earlier, Thought It Might Come In Handy
+* Price on My Head
+* Prophetic
+* Rascal
+* Rule Breaker
+* Rustic
+* Incessant sniper
+* Smart Aleck
+* Sworn to Avenge My Father's Death
+* The One Who Lived.
+* Things Are Not What They Seem
+* Too Nosy
+* Too smart for his own good.
+* Unusual Eyes / Hair / Other Physical Attribute
+* Very Religious
+* Very Well-mannered
+* Way too confident
+* Whiner
+ 
 
 
-# Appendix C: Game Play ASI Examples
+\pagebreakNum
+
+
+
+<style>
+/** Change the #p to whatever page number this page ends up being in your document **/
+.phb#p24 table {
+    font-size: 7.5pt;
+}
+</style>
+
+<div class='wide' align='center'>
+
+### Appendix C: Quirks Tables
+
+</div>
+
+| d% | PERSONALITY QUIRK |
+|:---:|:----|
+| 01 | Always agrees with people, but changes mind quickly |
+| 02 | Is very noisy about treasure |
+| 03 | Act mysteriously and answers questions poetically |
+| 04 | Doesn’t like new people |
+| 05 | Makes token bets about minor things |
+| 06 | Refers to themselves in the third person |
+| 07 | Sometimes bargains for the use of his powers |
+| 08 | Constantly asks how things taste and smell |
+| 09 | Yells when he/she is excited |
+| 10 | Know-it-all |
+| 11 | Is polite but obviously insincere |
+| 12 | Constantly apologizes as a verbal tic |
+| 13 | Makes a lot of threats but cannot back them up |
+| 14 | Very mellow; takes a philosophical approach to both success and failure |
+| 15 | Says as little as possible |
+| 16 | Snickers or laughs at the misfortunes of others |
+| 17 | Calls people by the wrong name, though often consistently |
+| 18 | Prays a lot |
+| 19 | Is quick to praise people even for little things |
+| 20 | Often appears surprised and slightly offended when spoken to |
+| 21 | Does not like to make decisions |
+| 22 | Has a list of numbered rules or maxims covering different situations and quotes them when appropriate |
+| 23 | Always telling people the “real” reason they are doing things |
+| 24 | Asks for advice or opinions about very unlikely situations |
+| 25 | Speaks with great formality and employs bigger words than necessary |
+| 26 | Easily distracted by minor or irrelevant events |
+| 27 | Usually needs someone to explain a joke or metaphor |
+| 28 | Has a particular core belief, a rather odd one, and steadfastly looks at everything through the lens of that opinion |
+| 29 | Likes to count things and has fun with numbers |
+| 30 | Always tries to find compromise |
+| 31 | Is always talking to self |
+| 32 | Very bad liar |
+| 33 | Asks rude questions without realizing they cause offense |
+| 34 | Grumbles and complains about slightest plight |
+| 35 | Very sensitive about criticism or conflict |
+| 36 | Absent-minded |
+| 37 | Blames a particular type of creature for all troubles |
+| 38 | Intellectual bully |
+| 39 | Makes allusions to events from history or mythology without bothering to explain them |
+| 40 | Hates a particular terrain and complains loudly while within that terrain |
+| 41 | Constantly ask questions about things that are irrelevant, even to bad guys |
+| 42 | Makes a list of things to accomplish each day |
+| 43 | Cannot keep a secret |
+| 44 | Seems slightly surprised when anyone else has a good idea or does something productive |
+| 45 | Often whines |
+| 46 | Easily angered |
+| 47 | Constantly warns about the danger of disease |
+| 48 | Has a stock phrase |
+| 49 | Habitually mumbles a word that rhymes with the final word other people speak before they pause |
+| 50 | Delighted by puns and other sorts of word games |
+
+| d% | PERSONALITY QUIRK |
+|:---:|:----|
+| 51 | Makes animal noises when feeling threatened or excited |
+| 52 | A lover or literature and poetry, takes any opportunity to spout it |
+| 53 | Very superstitious |
+| 54 | Spurs party members to brave or foolhardy acts |
+| 55 | Never uses one word when 10 | will do |
+| 56 | Constantly asks to be destroyed, but panics if taken seriously |
+| 57 | Always has a reason why something will not work |
+| 58 | Goes crazy whenever a certain word is uttered |
+| 59 | Tells boring stories about something mundane |
+| 60 | Constantly suggests ways to make activities more “fun” and “exciting” |
+| 61 | Collects words from languages doesn’t know, and uses them in place of words in the language most commonly uses |
+| 62 | Dotes on others |
+| 63 | Often ignores others |
+| 64 | Loathes self |
+| 65 | Often chants annoying little rhymes |
+| 66 | Constantly making loud bodily noises |
+| 67 | Openly scornful of organized religion and believes gods are selfish liars |
+| 68 | Gets angrier and more determined with each setback |
+| 69 | Thinks most objects are intelligent items |
+| 70 | Lacks a moral compass when making plans and often proposes horrific solutions to minor problems |
+| 71 | Often uses vocabulary incorrectly |
+| 72 | Believes they are losing their mind |
+| 73 | Constantly name-drops |
+| 74 | Has terrible syntax and diction |
+| 75 | Never tires of learning new and interesting bits of information |
+| 76 | Complains about smells that no one else notices |
+| 77 | Constantly thirsty |
+| 78 | Loves to sing but is tone deaf |
+| 79 | Blames other for trials |
+| 80 | Is an endless font of gossip—though most details are fabricated |
+| 81 | Treats all others as lesser forms of intelligence |
+| 82 | Very cheerful; tries to raise downcast spirits with song, jokes, and uplifting stories |
+| 83 | Grows more and more relaxed the worse things get |
+| 84 | Constantly remembers details wrong |
+| 85 | Makes up stories |
+| 86 | Avoids speaking with creatures other than own race |
+| 87 | Has a need for constant attention |
+| 88 | Is a little unhinged |
+| 89 | Questions others about their background in order to determine if they are “suitable” |
+| 90 | Is often confused by the deeds of others and regularly asks about the reason for certain actions |
+| 91 | Very jealous and possessive |
+| 92 | Continually mentions a heroic event he participated in and how nothing else compares |
+| 93 | Diagnoses everyone with a mania, fixation, or curse, but is often wrong |
+| 94 | Explains simple things that don’t need explanations |
+| 95 | Constantly wishing for the end of the situation |
+| 96 | Cannot resist shopping opportunities (even without spending money) |
+| 97 | Has an imaginary ethereal friend |
+| 98 | Is afraid of the dark |
+| 99 | Chastises people for using profanity |
+| 100 | On edge and nervous when things seem to be going too well |
+
+
+
+\pagebreakNum
+
+
+
+<style>
+/** Change the #p to whatever page number this page ends up being in your document **/
+.phb#p25 table {
+    font-size: 6.3pt;
+}
+</style>
+
+| d% | PERSONALITY QUIRK |
+|:---:|:----|
+| 01 | You’re a vegan, and make sure everyone you meet knows. |
+| 02 | You’re obsessed with personal hygiene. |
+| 03 | You don’t like people you don’t already know. People can still make it into your good graces as you get to know them. |
+| 04 | You hate getting wet. So much so, you can’t even remember the last time you bathed. |
+| 05 | You actively avoid words with the letter S, due to a lisp you find embarrassing. |
+| 06 | You scratch your right ear whenever you lie. |
+| 07 | You can’t stand green beans/potatoes/rice, to the point where you can’t eat anything that has even touched it on the same plate. |
+| 08 | When someone makes you flustered, you punch their shoulder. |
+| 09 | Whenever something surprises you, you get hiccups. |
+| 10 | You start crying after any adrenaline drop (a fight ends, you get startled…). People mistake this for sadness, but it’s just a bodily function. |
+| 11 | If you yell more than a few words, your voice gets hoarse. You avoid yelling, therefore people just assume you are always calm and collected. |
+| 12 | You compulsively scratch (roll 1d4): 1. the nape of your neck; 2. your scalp; 3. your lower stomach; 4. your nose. |
+| 13 | You bite your fingernails/pick your nose. |
+| 14 | Whenever you cry, you try to catch the tears with your tongue. |
+| 15 | You don’t notice the volume of your voice, often embarrassing your companions in social gatherings. |
+| 16 | You always have to one-up people when it comes to (roll 1d4): 1. how powerful you are (physically or magically); 2. your sexual prowess/achievements; 3. how good of a friend you are; 4. how bad you have/had it. |
+| 17 | You have a mother/father/sister/brother complex, and always love/hate anyone resembling them. |
+| 18 | You chew with your mouth open. |
+| 19 | You pick between your teeth for leftovers with your fingers, and flick them away. |
+| 20 | You insist you’re ambidextrous, although you clearly aren’t. You will go as far as using your off hand to ‘prove’ it, and always make vapid excuses for your shortcomings with it. |
+| 21 | You claimed to know [obscure language] once to impress someone, and now hope never to meet someone whom actually speaks it. |
+| 22 | You believe in love at first sight, and practice what you preach! You become instantly enamored with the first attractive person you see in a town. |
+| 23 | You have a tendency to spit on the floor. |
+| 24 | You always “correct” people about the pronunciation of spells and anything related to arcana, always putting the emphasis on the wrong syllable. For example saying “Maygeek mysle” instead of magic missile. |
+| 25 | You try to fit in with other races by trying to adopt their terminology, accents, and stereotypes, which just makes you come off as condescending and racist. |
+| 26 | The more people there are, the more quiet you are. |
+| 27 | You get extremely defensive when someone disagrees with you. |
+| 28 | You panic when you are suddenly put into the spotlight. |
+| 29 | You always have to give your opinion, even to strangers. |
+| 30 | You can’t remember people’s faces well. |
+| 31 | You don’t have a censor, and always let people know exactly what you think. |
+| 32 | If some says any number lower than 8, your must pass a willpower check or keep counting to 8. |
+| 33 | You are very modest, and must cover everything but your head whenever possible. If someone were to see you without sleeves you would blush. If someone saw you shirtless you would be uncontrollably stuttering, and so on with levels of embarrassment. |
+| 34 | If you see a hairy mammal that is not trying to kill you, you are obligated to try to pet it, even if it is an NPC/PC. |
+| 35 | Any race smaller than you, you treat as cute. You talk to it as though it were a small pet or baby, (even goblins). |
+| 36 | You get drunk and start talking in a language other than common. Usually it is just gibberish and people who actually speak the language are offended. |
+| 37 | If there is no light or you are unable to see, while you are not sleeping. You pee yourself. |
+| 38 | You know 100 dad jokes and always say one if no one is talking or there is an awkward silence. |
+| 39 | You are very bad at eating with utensils. If you use a fork, you must pass a test, (GMs choice) or stab your tounge. |
+| 40 | You sneeze whenever someone says your name. |
+| 41 | You forget people’s names. Whenever talking to someone you must pass an int check or say the wrong name. Once you get it right without being reminded you remember the name of that person. |
+| 42 | You hate sand, because it’s course and rough and it gets everywhere. |
+| 43 | You’re extremely conscious of proper posture. You’re constantly standing or sitting up straight. |
+| 44 | You have a huge smile that never reaches your eyes. |
+| 45 | You’re constantly humming a soft tune, not always the same one, and most of the time you don’t even know you’re doing it. If asked, you will say the tune is from a particular song, but a DC 15 History check will know it’s not the tune from that song at all. |
+| 46 | While not knowing much of your deity, you still heavily worship them. You often with confidence misquote from scripture, or make up a quote in your head. |
+| 47 | You don’t feel comfortable unless you’re chewing on something. If you’re not eating there has to be a toothpick, stem of grass, piece of straw or a pipe in your mouth. |
+| 48 | You can’t abide having a wrinkle in your socks. If there’s something off about them you can’t concentrate on anything until you’ve taken your boots off and corrected it. |
+| 49 | You give nicknames to everyone and everything. How flattering they are depends on how you think of the person or object. |
+| 50 | You spend far too much of your free time assembling 100 item randomized tables of various things (vampire mannerisms, dragon middle names, etc). |
+
+| d% | PERSONALITY QUIRK |
+|:---:|:----|
+| 51 | You refer to yourself in the third person. As if your body were not your own… |
+| 52 | Whenever you see a dog you immediately try to pet it. If you are attempting to resist the urge, you must pass a DC 15 Animal Handling check. |
+| 53 | You frequently try to rhyme your sentences. You are very bad at it… |
+| 54 | Before asking a question you say “more inquiry needed,” you also end conversations with “conversation over”. |
+| 55 | You absolutely refuse to stay in the second floor of any building |
+| 56 | You enjoy showing off your prowess with other languages besides common to the point of annoyance to others. |
+| 57 | Art is your passion. You feel compelled to sketch people you meet. |
+| 58 | You cannot stand the sound of people snapping their fingers. |
+| 59 | You are very forgetful about past events. You tell the same childhood story several times a day. |
+| 60 | You have memorized every holiday of the year, and will do nothing until proper celebration has been made on the days of. |
+| 61 | You have lived vicariously through your older siblings/parents. All your interesting tales are things they have done. |
+| 62 | You are illiterate, and will stop at nothing to make sure no one knows this fact. |
+| 63 | You cannot pronounce your own name correctly. |
+| 64 | Sometimes mid conversation with someone you space out or pay more attention to what’s going on around you (a bird in the distance or whatever) unless the other people are engaging you, monologues bore you. |
+| 65 | No matter how savvy you are, you can never tell when (roll 1d4): 1. someone you aren’t into is hitting on you; 2. someone rejects you politely without firmly saying no; 3. someone compliments you to be polite; 4. someone tries to change the subject of off embarrassment rather than dishonesty. |
+| 66 | You always reference how your mother would feel about any topic in conversation. |
+| 67 | You never look directly into someone’s eyes, instead gazing slightly to the right or left of their face when speaking to them. |
+| 68 | Anytime someone asks a question, you ask for “the magic word”. If they DO ask the question by saying “Please”, you assume they have an ulterior motive. |
+| 69 | You know “fun facts” about everything. They are usually wrong. |
+| 70 | You are absolutely sure everyone taller than you is on stilts. You eyeball their legs and sometimes attempt to prove this fact. |
+| 71 | When drinking water, you must purify it or filter it in some way. The thought of dirty water makes you ill. |
+| 72 | You absolutely REFUSE to sleep without a trinket of some kind. (a blanket, a stuffed animal, a pillow, etc.) |
+| 73 | When you see a child’s toy, you must pass a Wis 10 save or you must play with it. You’re a child at heart and kids always make you smile. |
+| 74 | You believe the world to be flat (or cubed if it happens to actually be flat). |
+| 75 | You believe that food must have an excessive amount of spices in it…more than anybody else appreciates. You also insist on cooking. |
+| 76 | Your extremities (feet, hands) are always freezing. Either bad circulation, a family curse, or strange genes in the bloodline is the cause. |
+| 77 | Every time you sit near a candle, you try your best to put it out with your fingers. You are rarely successful. |
+| 78 | You occasionally blink really hard, rub your eyes, and then look around as if it’s the first time seeing everything around you. |
+| 79 | You are completely convinced that everyone else has the exact same prejudices as you. |
+| 80 | You are on the hunt for a familiar. Every day, you pick a new creature or NPC and follow it/get it to follow you. |
+| 81 | You clinically diagnose other people’s physical and emotional flaws in front of them. |
+| 82 | You strongly identify with another species, to the point of trying to pass as them. |
+| 83 | Each night, you have a vivid prophetic dream of your own messy death the next day. |
+| 84 | You name all of your actions as you execute them, ranging in volume from a quiet murmur to a earsplitting yell. |
+| 85 | You need to look cool at all times. You obsessively map out dramatic entrances, witty one-liners, and elaborate combat moves. |
+| 86 | You are embarrassed by the sound of your laugh, and use all your willpower to not let a single giggle escape. |
+| 87 | You are needlessly maternal, and will not rest until all of your friends (and some strangers) are well fed and cared for. |
+| 88 | You zone out whenever someone takes longer than five seconds to explain something, but pretend to have understood it perfectly. |
+| 89 | You spend all of your free time honing your skills at something extremely obscure and useless. |
+| 90 | You have an overly guilty conscience, and will try to make up for crimes that strangers have committed. |
+| 91 | When idle, you make neat stacks of nearby objects, including small animals and other people’s valuables. |
+| 92 | You introduce yourself by a slightly different name every time. |
+| 93 | Your left hand often wanders without your knowledge. |
+| 94 | You often challenge people to drinking contests of your own invention. |
+| 95 | You languish under such a labyrinthine series of opinions about the world that each new topic provokes a strong emotional response. [1: Horror. 2: Rage. 3: Grief. 4: Skepticism. 5: Lust. 6: Delight.] |
+| 96 | You always speak in hypotheticals. |
+| 97 | You have to stop whatever you are doing and look someone directly in their eyes before you talk to them. |
+| 98 | You constantly polish any metal you are holding or have on you. |
+| 99 | You adjust your glasses when you’re nervous. |
+| 100 | You over exaggerate when telling stories of your past deeds. |
+
+
+
+
+\pagebreakNum
+
+
+
+# Appendix D: Game Play ASI Examples
 
 ___
 Here are some Pre-level examples:
@@ -1452,7 +1460,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.10
+  Version 1.3.12
 
  </div>
  
