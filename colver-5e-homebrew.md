@@ -418,7 +418,7 @@ You may reroll any one dice roll you just made. You must take the results of the
 * **Act Out of Turn:**
 Take your turn immediately (i.e. out of initiative order). Treat this as a readied action, moving your initiative for this round to just before the currently acting creature.
 * **Stunt:**
-Player may modify an action by declaring that action a Stunt. Must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. For example, sprinting an extra 10 feet in a direction, extending the range of a spell a small amount, or specifically targeting an enemies weak point, etc. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect, such as: blinding, deafening, moving a creature up to 5 feet in a direction, knocking a creature prone, disarming, cleaving, kicking, tumbling, or more. Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. If the stunt turns out to be a particularly spectacular success (because of favorable dice rolls) the DM may choose refund one Inspiration point. TODO: make an appendix with stunt suggestions, including this reference: https://www.dndbeyond.com/posts/203-fighting-dirty-cinematic-combat-stunts
+Player may modify an action by declaring that action a Stunt. Must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect (see [Appendix E](#appendix-e-stunt-examples) for examples). Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. If the stunt turns out to be a particularly spectacular success (because of favorable dice rolls) the DM may choose refund one Inspiration point.
 * **Revelation (2+ Inspiration):**
 If you feel stuck at one point in the adventure, you can spend 2 Inspiration (or more, DM's fiat) and petition the DM for a hint about what to do next. If the DM feels that there is no information to be gained, the Inspiration can be fully or partially refunded.
 * **Extra Action (3 Inspiration):**
@@ -1335,6 +1335,36 @@ Here are some Tier 1 examples:
 
 
 
+# Appendix E: Stunt Examples
+
+Stunts are actions modified by the player using Inspiration. Any action can be declared as a Stunt and must be declared before the attempt is made. The possibilities are endless. Here are some examples:
+
+* **Sprint** – an extra 10 feet in a direction
+* **Extend** – the range of a spell by a small amount
+* **Target** – an enemies weak point
+* **Blind**
+* **Deafen**
+* **Move** – a creature up to 5 feet in a direction
+* **Knock** – a creature prone
+* **Disarm** – Make an attack roll with advantage contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If you win the contest, the attack causes no damage or other ill effect, but the target drops the item.
+* **Cleave** – When you make an attack with some sort of slashing weapon you can choose to target two creatures within your reach. This attack uses the same attack roll for each target and deals damage to each.
+* **Kick**
+* **Tumble**
+* **Cripple** – The enemy creature must make a Constitution saving throw or its speed is reduced by half until the end of their next turn.
+* **Maim** - Whenever a creature crippled by this technique moves willingly, it takes 1 damage for every 5 feet it moves.
+* **Guard** – You enter a guarded stance (until the start of your next turn), the next attack against you has disadvantage.
+* **Vault** – You can use a long weapon to double the length of your high jump or long jump, (this jump is considered part of your movement).
+* **Overrun** – Make a successful attack against a creature and move through the space it occupies into space on the other side of it.
+* **Sunder** – You can attempt to break an item in your foe’s possession with your strike. If the attack hits, it damages the item instead of your enemy.
+
+For additional combat stunts see [D&D Cinematic Stunts](https://www.dndbeyond.com/posts/203-fighting-dirty-cinematic-combat-stunts/ "Fighting Dirty: Cinematic Combat Stunts (dndbeyond)").
+
+
+
+\pagebreakNum
+
+
+
 # Summary of Summaries
 
 ___
@@ -1463,7 +1493,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.12
+  Version 1.3.14
 
  </div>
  
