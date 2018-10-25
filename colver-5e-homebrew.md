@@ -795,6 +795,9 @@ Once you advance through the pre-levels move on to 1st level.
 * **Keep pre-level HPs:** Do not take max HPs for level 1, rather roll your class's HD die normally adding CON and then add this sum onto your pre-level HPs.
 * **Background target:** Choose a background that you would like to work towards, but do not take any of the mechanical features. You will work on the Background features during your downtime. The DM will facilitate the skills, proficiencies, and equipment you receive from this.
 * **Racial Ability Scores:** Take your race's Ability Score Increases.
+* **Class Features:** Finish taking all 1st level class features that you have not received yet.
+
+#### After 1st level
 
 As you continue advance through levels **do not** take any Ability Score Improvements as indicated on the Class Table. These will be facilitated generously by the DM during game play.
 
