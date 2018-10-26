@@ -1001,7 +1001,7 @@ ___
 * **PHB:** Player's Handbook.
 * **RAW:** Rules As Written. This refers to the standard gameplay rules precisely as they were written.
 
-<img src='https://www.gmbinder.com/images/LAr328o.jpg' style='position:absolute;bottom:35px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/LAr328o.jpg' style='position:absolute;bottom:38px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
  
 
 
@@ -1073,10 +1073,10 @@ ___
 
 
 <style>
+/** Change the pg to whatever page number is the one that you want no footer design **/
+.phb#p24:after { display:none; }
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p24 table {
-    font-size: 7.5pt;
-}
+.phb#p24 table { font-size: 7.5pt; }
 </style>
 
 <div class='wide' align='center'>
@@ -1193,15 +1193,15 @@ ___
 
 
 
-\pagebreakNum
+\pagebreak
 
 
 
 <style>
+/** Change the pg to whatever page number is the one that you want no footer design **/
+.phb#p25:after { display:none; }
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p25 table {
-    font-size: 6.3pt;
-}
+.phb#p25 table { font-size: 6.3pt; }
 </style>
 
 | d% | PERSONALITY QUIRK |
@@ -1313,7 +1313,7 @@ ___
 
 
 
-\pagebreakNum
+\pagebreak
 
 
 
@@ -1368,6 +1368,10 @@ For additional combat stunts see [D&D Cinematic Stunts](https://www.dndbeyond.co
 
 # Summary of Summaries
 
+ <style>
+   /** Change the pg to whatever page number is the one that you want no footer design **/
+   .phb#p28:after { display:none; }
+ </style>
 ___
 > #### Pool Inspiration Summary
 > * Inspiration is a resource shared by the party
@@ -1431,13 +1435,13 @@ ___
  
 
 
-\pagebreakNum
+\pagebreak
 
 
 
  <style>
-   /** Change the pg to whatever page number is the last page in your document **/
-   .phb#p26:after { display:none; }
+   /** Change the pg to whatever page number is the one that you want no footer design **/
+   .phb#p29:after { display:none; }
  </style>
  
  <div class='back-cover-image'></div>
@@ -1530,7 +1534,7 @@ Contact: forestcolver@gmail.com
  
  Copy source code, paste into GM Binder document, and add the 'ink friendly' theme at the top of the document.
 
-<img src='https://www.gmbinder.com/images/lTI8gAj.jpg' style='position:absolute;bottom:50px;right:50px;width:270px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);transform:rotate(0deg)scaleX(1.2)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/lTI8gAj.jpg' style='position:absolute;bottom:40px;right:20px;width:320px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
 
  </div>
 
