@@ -1356,6 +1356,7 @@ Stunts are actions modified by the player using Inspiration. Any action can be d
 * **Vault** – You can use a long weapon to double the length of your high jump or long jump, (this jump is considered part of your movement).
 * **Overrun** – Make a successful attack against a creature and move through the space it occupies into space on the other side of it.
 * **Sunder** – You can attempt to break an item in your foe’s possession with your strike. If the attack hits, it damages the item instead of your enemy.
+* **Stun** – The creature must make a Constitution saving throw, if the creature fails the save, it is stunned until the start of its next turn.
 
 For additional combat stunts see [D&D Cinematic Stunts](https://www.dndbeyond.com/posts/203-fighting-dirty-cinematic-combat-stunts/ "Fighting Dirty: Cinematic Combat Stunts (dndbeyond)").
 
@@ -1493,7 +1494,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.14
+  Version 1.3.15
 
  </div>
  
