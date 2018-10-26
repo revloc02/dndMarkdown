@@ -1345,10 +1345,10 @@ Stunts are actions modified by the player using Inspiration. Any action can be d
 * **Blind**
 * **Deafen**
 * **Move** – a creature up to 5 feet in a direction
-* **Knock** – a creature prone
-* **Disarm** – Make an attack roll with advantage contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If you win the contest, the attack causes no damage or other ill effect, but the target drops the item.
+* **Sweep** – Sweep an enemy's legs out from under them with one end of your weapon. If the attack hits the creature must make a Dexterity saving throw or be knocked prone.
+* **Disarm** – Make an attack roll with advantage contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If you win the contest the target drops the item.
 * **Cleave** – When you make an attack with some sort of slashing weapon you can choose to target two creatures within your reach. This attack uses the same attack roll for each target and deals damage to each.
-* **Kick**
+* **Kick** – Make an additional attack roll for 1d6+STR damage if it hits.
 * **Tumble**
 * **Cripple** – The enemy creature must make a Constitution saving throw or its speed is reduced by half until the end of their next turn.
 * **Maim** - Whenever a creature crippled by this technique moves willingly, it takes 1 damage for every 5 feet it moves.
@@ -1494,7 +1494,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.15
+  Version 1.3.16
 
  </div>
  
