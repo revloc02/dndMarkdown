@@ -1339,26 +1339,34 @@ Here are some Tier 1 examples:
 
 # Appendix E: Stunt Examples
 
-Stunts are actions modified by the player using Inspiration. Any action can be declared as a Stunt and must be declared before the attempt is made. The possibilities are endless. Here are some examples:
+Stunts are actions modified by the player using Inspiration. Any action (attack, movement, spell, reaction) can be modified into a Stunt and must be declared before the attempt is made. The modification can be any embellishment to the action that adds an additional desired effect, the possibilities are endless. Here are some examples:
 
-* **Sprint** – an extra 10 feet in a direction
-* **Extend** – the range of a spell by a small amount
+##### Attack:
+
 * **Target** – an enemies weak point
 * **Blind**
 * **Deafen**
-* **Move** – a creature up to 5 feet in a direction
 * **Sweep** – Sweep an enemy's legs out from under them with one end of your weapon. If the attack hits the creature must make a Dexterity saving throw or be knocked prone.
-* **Disarm** – Make an attack roll with advantage contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If you win the contest the target drops the item.
 * **Cleave** – When you make an attack with some sort of slashing weapon you can choose to target two creatures within your reach. This attack uses the same attack roll for each target and deals damage to each.
 * **Kick** – Make an additional attack roll for 1d6+STR damage if it hits.
-* **Tumble**
 * **Cripple** – The enemy creature must make a Constitution saving throw or its speed is reduced by half until the end of their next turn.
 * **Maim** - Whenever a creature crippled by this technique moves willingly, it takes 1 damage for every 5 feet it moves.
-* **Guard** – You enter a guarded stance (until the start of your next turn), the next attack against you has disadvantage.
-* **Vault** – You can use a long weapon to double the length of your high jump or long jump, (this jump is considered part of your movement).
 * **Overrun** – Make a successful attack against a creature and move through the space it occupies into space on the other side of it.
-* **Sunder** – You can attempt to break an item in your foe’s possession with your strike. If the attack hits, it damages the item instead of your enemy.
 * **Stun** – The creature must make a Constitution saving throw, if the creature fails the save, it is stunned until the start of its next turn.
+
+##### Movement:
+
+* **Sprint** – an extra 10 feet in a direction
+* **Tumble**
+* **Vault** – You can use a long weapon to double the length of your high jump or long jump, (this jump is considered part of your movement).
+
+##### Other:
+
+* **Extend** – the range of a spell by a small amount
+* **Shove / Juke** – a creature up to 5 feet in a direction
+* **Sunder** – You can attempt to break an item in your foe’s possession with your strike. If the attack hits, it damages the item instead of your enemy.
+* **Guard** – You enter a guarded stance (until the start of your next turn), the next attack against you has disadvantage.
+* **Disarm** – Make an attack roll with advantage contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If you win the contest the target drops the item.
 
 For additional combat stunts see [D&D Cinematic Stunts](https://www.dndbeyond.com/posts/203-fighting-dirty-cinematic-combat-stunts/ "Fighting Dirty: Cinematic Combat Stunts (dndbeyond)").
 
@@ -1515,7 +1523,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.16
+  Version 1.3.17
 
  </div>
  
