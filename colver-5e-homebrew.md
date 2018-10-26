@@ -1339,7 +1339,9 @@ Here are some Tier 1 examples:
 
 # Appendix E: Stunt Examples
 
-Stunts are actions modified by the player using Inspiration. **Any action** (attack, movement, spell, reaction) can be **modified into a Stunt** and must be declared before the attempt is made. The modification can be any embellishment to the action that adds an additional desired effect, **the possibilities are endless**. The following are not so much a menu to choose from as they are guidelines to inspire imagination and creativity:
+Stunts are actions modified by the player using Inspiration. **Any action** (attack, movement, spell, reaction) can be **modified into a Stunt** and must be declared before the attempt is made. The modification can be any embellishment to the action that adds an additional desired effect, **the possibilities are endless**.
+
+The following are not so much a menu to choose from as they are guidelines to inspire imagination and creativity:
 
 ##### Attack:
 
@@ -1523,7 +1525,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.19
+  Version 1.3.20
 
  </div>
  
