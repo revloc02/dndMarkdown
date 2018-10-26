@@ -1367,13 +1367,12 @@ For additional combat stunts see [D&D Cinematic Stunts](https://www.dndbeyond.co
 \pagebreakNum
 
 
-
-# Summary of Summaries
-
  <style>
    /** Change the pg to whatever page number is the one that you want no footer design **/
    .phb#p28:after { display:none; }
  </style>
+ 
+# Appendix F: Rule Summaries
 ___
 > #### Pool Inspiration Summary
 > * Inspiration is a resource shared by the party
@@ -1397,11 +1396,12 @@ ___
 
 ___
 > #### Dying Summary
-> - Death Saving Throws are no longer used
-> - **Drop to 0 HP:**
+> - Death Saves are no longer used
+> - **Dropping to 0 HP:**
 >   - Gain the **Dying** condition
 >   - Concentration is broken
 >   - +1 Exhaustion
+>   - Character may **continue to take actions**
 > - **Dying** condition:
 >   - **End of turn:** +1 Exhaustion
 >   - **Suffer Damage:** +1 Exhaustion
@@ -1420,6 +1420,13 @@ ___
 > * 6 - Death
 
 ___
+> #### Level Advancement Summary
+> - Must be in a **safe** location
+> - Desired-level x 48 hr
+> - Desired-level³ gp
+> - Class Ability check + proficiency vs. DC 10 + desired level
+
+___
 > #### Hit Dice Summary:
 > - Spending HD is **1HD+CON (exploding)**
 > - After **long rest** characters do **not** get a **full heal**
@@ -1429,11 +1436,19 @@ ___
 > - Can spend **HD to assist** another creature
 
 ___
-> #### Level Advancement Summary
-> - Must be in a **safe** location
-> - Desired-level x 48 hr
-> - Desired-level³ gp
-> - Class Ability check + proficiency vs. DC 10 + desired level
+> #### Medicine Skill
+> * Diagnose an illnesses, this is typically a role playing check (RAW).
+> * As an action, a Medicine check, DC 10 + Exhaustion Level, will **stabilize** a dying character thus granting them 1 hp (HBR).
+> * Evaluate others wounds, this is typically a role playing check (HBR).
+> * Examine corpses in order determine the cause of death, this is typically a role playing check (HBR).
+> * Provide long-term care to poisoned or diseased creatures.  When a poisoned or diseased creature is cared for by > someone proficient in the Medicine skill (see _Downtime: Recuperating_, PHB, p. 187), they make their recuperation saving throws with advantage (HBR).
+
+___
+> #### Healer’s Kit
+> * As an action, you can expend one use of a Healer’s Kit to **stabilize** a creature that has dropped to 0 hit points, without needing to make a Medicine check (RAW).
+> * As an action, one use of a Healer’s Kit, and a Medicine check, DC 15 + Exhaustion Level, will heal 1d4 hit points during a short rest on a character once per short rest (HBR).
+> * As an action, one use of a Healer’s Kit, and a Medicine check, DC 23 + Exhaustion Level, will remove one extra level of Exhaustion during a long rest from a character once per long rest (HBR).
+> * If you expend one use of a Healer’s Kit to treat a poisoned or diseased creature (see _Downtime: Recuperating_, PHB p, 187), they make their recuperation saving throw with advantage (HBR).
  
 
 
