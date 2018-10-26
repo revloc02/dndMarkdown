@@ -1329,6 +1329,8 @@ Here are some Pre-level examples:
 ___
 Here are some Tier 1 examples:
 
+<img src='https://www.gmbinder.com/images/DT40zzU.jpg' style='position:absolute;bottom:38px;right:0px;width:816px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+
 
 
 \pagebreakNum
