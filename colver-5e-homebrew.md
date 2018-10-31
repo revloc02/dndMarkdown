@@ -809,7 +809,7 @@ Pre-levels will never count towards any features or abilities that use levels as
 * **HD:** Pre-level characters can use their HD to heal (like normal). The DM can decide if Pre-level HD are kept once a character gets to 1st level (not recommended).
 * **Background Proficiencies:** Have the characters "earn" the mechanical features from the Background they chose, as a part of downtime activities. They should probably have all of these by level 2 or 3.
 * **ASI:** During Pre-Levels, look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability **during game play**. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI. Create as many opportunities as possible for non-lethal dice rolls. (See [Appendix D](#appendix-d-game-play-asi-examples) for examples.)
-* **Career ASI:** ASIs are no longer part of the normal character level advancement. The DM should continue to look for opportunities to pass out ASIs during game play throughout the character's **entire career**. Characters should earn about 3 ASIs per pre-level and per normal level through level 5, and then about 2 per level after that. The DM can choose to give any ASIs upon any character level advancement.
+* **Career ASI:** ASIs are no longer part of the normal character level advancement. The DM should continue to look for opportunities to pass out ASIs during game play throughout the character's **entire career**. Characters should earn about 3 ASIs per pre-level and per normal level up to around level 5, and then about 2 per level after that. The DM can choose to give any ASIs upon any character level advancement.
 
 #### Guideline for ASI
 
@@ -818,14 +818,15 @@ Pre-levels will never count towards any features or abilities that use levels as
 | A     | 48 | 3 |
 | B     | 51 | 3 |
 | C     | 54 | 3 |
-| 1     | 57 | 3 |
-| 2     | 60 | 3 |
-| 4     | 66 | 3 |
-| 6     | 72 | 2 |
-| 8     | 76 | 2 |
-| 10    | 80 | 2 |
-| 15    | 90 | 2 |
-| 20    | 100 | 2 |
+| D     | 57 | 3 |
+| 1     | 60 | 3 |
+| 2     | 63 | 3 |
+| 4     | 69 | 3 |
+| 6     | 74 | 2 |
+| 8     | 78 | 2 |
+| 10    | 82 | 2 |
+| 15    | 92 | 2 |
+| 20    | 102 | 2 |
 
 \* The sum of the six ability scores
 
