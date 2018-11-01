@@ -2,7 +2,7 @@
 
 ### Annam All-Father
 
-<img src='https://www.gmbinder.com/images/v21ePB2.jpg' style='position:absolute;top:184px;left:20px;width:200px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:scaleX(-1)scaleY(1.2);' />
+<img src='https://www.gmbinder.com/images/v21ePB2.jpg' style='position:absolute;top:181px;left:20px;width:200px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:scaleX(-1)scaleY(1.2);' />
 
 Annam All-Father was a giant deity and creator of the giant race in an ancient time very, very, long ago.
 
@@ -45,7 +45,7 @@ Well, there is a rumor among the small folk that the story is very different. As
 
 
 
-<img src='https://www.gmbinder.com/images/jipa3Il.jpg' style='position:absolute;top:-20px;left:0px;width:400px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);transform:scaleX(1)scaleY(0.9);' />
+<img src='https://www.gmbinder.com/images/jipa3Il.jpg' style='position:absolute;top:-30px;left:0px;width:400px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);transform:scaleX(1)scaleY(0.9);' />
 
 \columnbreak
 
@@ -59,8 +59,11 @@ After more than a thousand years of warfare, Ostoria finally reached a truce wit
 
 By the time the war concluded, Ostoria had been reduced to a shadow of its former self. On the day the truce was declared, the nation occupied only the northernmost edge of Faerûn, the areas now known as the Great Glacier, the Cold Lands, and the Savage North. Giants and dragons are still ancient enemies and are constantly on the lookout for any kind of treachery from the other. Even good giants and dragons do not trust each other.
 
-<img src='https://www.gmbinder.com/images/gQ3IUV2.jpg' style='position:absolute;bottom:80px;right:0px;width:520px; mix-blend-mode:multiply;filter:brightness(130%)saturate(290%);transform:scaleX(1)scaleY(1.3);' />
+### Giant Runes
 
+There are legends of ancient runes of potent magical power. The lore says that the runes are from the culture of the giants, and that even creatures that have lived a very long time, centuries, don't fully understand how to use this power.
 
+<img src='https://www.gmbinder.com/images/gQ3IUV2.jpg' style='position:absolute;bottom:80px;left
+:0px;width:520px; mix-blend-mode:multiply;filter:brightness(130%)saturate(290%);transform:scaleX(1)scaleY(1.3);' />
 
 <div class='footnote'>Giant Culture</div>
