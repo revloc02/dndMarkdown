@@ -47,6 +47,7 @@ Well, there is a rumor among the small folk that the story is very different. As
 
 <img src='https://www.gmbinder.com/images/jipa3Il.jpg' style='position:absolute;top:-30px;left:0px;width:400px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);transform:scaleX(1)scaleY(0.9);' />
 
+
 \columnbreak
 
 #### Giant Hero
@@ -61,7 +62,7 @@ By the time the war concluded, Ostoria had been reduced to a shadow of its forme
 
 ### Giant Runes
 
-There are legends of ancient runes of potent magical power. The lore says that the runes are from the culture of the giants, and that even creatures that have lived a very long time, centuries, don't fully understand how to use this power.
+There are legends of ancient runes of potent magical power. The lore says that the runes are from the culture of the giants, and that even creatures that have lived a very long time, even centuries, don't fully understand how to use this power.
 
 <img src='https://www.gmbinder.com/images/gQ3IUV2.jpg' style='position:absolute;bottom:80px;left
 :0px;width:520px; mix-blend-mode:multiply;filter:brightness(130%)saturate(290%);transform:scaleX(1)scaleY(1.3);' />
