@@ -1460,6 +1460,11 @@ ___
 > * As an action, one use of a Healer’s Kit, and a Medicine check, DC 15 + Exhaustion Level, will heal 1d4 hit points during a short rest on a character once per short rest (HBR).
 > * As an action, one use of a Healer’s Kit, and a Medicine check, DC 23 + Exhaustion Level, will remove one extra level of Exhaustion during a long rest from a character once per long rest (HBR).
 > * If you expend one use of a Healer’s Kit to treat a poisoned or diseased creature (see _Downtime: Recuperating_, PHB p, 187), they make their recuperation saving throw with advantage (HBR).
+
+___
+> #### Sundry House Rules
+> - Entertainment = +1 bonus to dice roll
+> - Crit = Max damage + additional damage dice roll
  
 
 
@@ -1526,7 +1531,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.20
+  Version 1.3.21
 
  </div>
  
