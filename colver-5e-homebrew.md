@@ -409,7 +409,7 @@ As motivation to have the party experience more encounters in a game day, the DM
 
 ## Spending Inspiration
 
-When a player spends Inspiration from the Pool typically they should narrate how their character's actions are inspired, inspiring or heroic.
+These options allow PCs an incredible amount of flexibility to bend the rules. When a player spends Inspiration from the Pool they should narrate how their character's actions are inspired, inspiring or heroic.
 
 * **Advantage/Disadvantage:**
 Must be declared before any creature makes an attack roll, saving throw, or ability check. That creature then rolls with Advantage or Disadvantage at the player's choosing.
@@ -1366,6 +1366,8 @@ The following are not so much a menu to choose from as they are guidelines to in
 ##### Other:
 
 * **Extend** – the range of a spell by a small amount
+* **Shape** – a spell or effect
+* **Metamagic** – apply a metamagic effect to a spell
 * **Shove / Juke** – a creature up to 5 feet in a direction
 * **Sunder** – You can attempt to break an item in your foe’s possession with your strike. If the attack hits, it damages the item instead of your enemy.
 * **Guard** – You enter a guarded stance (until the start of your next turn), the next attack against you has disadvantage.
@@ -1531,7 +1533,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.21
+  Version 1.3.22
 
  </div>
  
