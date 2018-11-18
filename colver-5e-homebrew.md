@@ -124,32 +124,31 @@ While these magics may be available to players, it is not quick, easy, or cheap.
 
 
 # D&D Player Etiquette
-Here are some simple guidelines for helping to make the D&D session great.
+
+Dungeons & Dragons is a **collaborative** game, so always remember you are **telling a story together**. You are not only playing just to be entertained, but also to entertain (others), so put forth effort to do so. Here are some simple guidelines for helping to make the D&D session great.
 
 
-* Be present:
+* **Be present:**
   * Don't check out, or space off. You get as much fun out of the game as you put into it. If you start getting bored:
     * Help the DM or another player
     * Look up something you’ve been curious about
     * Work on character Aspects or depth
     * Use your imagination to help the game come alive, and then share that
-* Be helpful
+* **Be helpful:**
   * Bring your electronic devices and use them.
   * Learn the rules. You don't have to know everything or learn it all at once, but take time to look things up.
   * Do not look at any of the DMs notes, dice rolls, books, or desk. Stay in your seat!
 
 \columnbreak  
 
-* Be ready
+* **Be ready:**
   * Five minutes before and after every session, you will review your character: prepare spells, checking hps, look at an item’s charges, erase potions, and making sure your character is ready to be played with.
   * When it is not your turn, be thinking of what you want to do. If you are not sure about how to do something, start looking it up on your own (instead of waiting to ask the DM about it). Or ask another player about it.
-* Have fun:
+* **Have fun:**
   * Use your imagination to enjoy the current scene more.
   * Be more descriptive about what you are doing and how your character is doing it.
   * You must roll in the dice tower with a witness.
   * If someone else dictates the party is doing something you don’t want to do, you don’t have to do it. But, you must offer another alternative, or specifically explain what your character is doing instead.
-
-You may choose to not play, but if you don't play your character will not get XP or loot.
 
 <img src='https://www.gmbinder.com/images/pWsevDh.jpg' style='position:absolute;bottom:10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(150%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
