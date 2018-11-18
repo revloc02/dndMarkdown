@@ -51,6 +51,24 @@
 
 <img src='https://www.gmbinder.com/images/9Ykkhir.jpg' style='position:absolute;bottom:70px;right:0px;width:480px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(0deg)scaleX(1)scaleY(1.1);' />
 
+<img
+   src='https://www.gmbinder.com/images/IQENPZX.png'
+   style='position:absolute;
+   top:170px;
+   right:140px;
+   width:200px;
+   transform:scaleX(6)scaleY(0.45);'
+/>
+
+<img
+   src='https://www.gmbinder.com/images/IQENPZX.png'
+   style='position:absolute;
+   top:-290px;
+   left:-180px;
+   width:800px;
+   transform:scaleX(1)scaleY(1);'
+/>
+
 
 
 
@@ -1573,7 +1591,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.29
+  Version 1.3.32
 
  </div>
  
