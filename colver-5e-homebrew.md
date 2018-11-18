@@ -634,26 +634,29 @@ This is a review and summary of the standard Personality Characteristics.
 * **Bonds** are character’s connections to people, places, and events in the world. They tie you to things from your background. They might inspire you to heights of heroism, or lead you to act against your own best interests if they are threatened. They can work very much like ideals, driving a character’s motivations and goals. Whom do you care most about? To what place do you feel a special connection? What is your most treasured possession?
 * **Flaws** are some vice, compulsion, fear, or weakness—in particular, anything that someone else could exploit to bring you to ruin or cause you to act against your best interests. What enrages you? What’s the one person, concept, or event that you are terrified of? What are your vices?
 
+\columnbreak
+
 ### Aspects
 
-Aspects are additional Personality Characteristics that adds **detail, depth, and breadth** to a character. They can be additional Traits, Ideals, Bonds or Flaws, or something entirely different. They provide a resource to **spark player creativity** as they play their character and a foundation as they act in character. Mechanically they can be used by a player to make in game situations more potent or authentic to petition the DM for Inspiration. The more Aspects a character has the easier it will be to find one to invoke.
+Aspects are additional Personality Characteristics that add **detail, depth, and breadth** to a character. They can be additional Traits, Ideals, Bonds or Flaws, or something entirely different. They provide a resource to **spark player creativity** as they play their character and a foundation as they act in character. Mechanically they can be used by a player to make in game situations more potent or authentic to petition the DM for Inspiration. The more Aspects a character has the easier it will be to find one to invoke.
 
 #### Creating Aspects
 
 Aspects are a word or phrase that describes something **unusual or special** about a character. They describe personality traits, important details about your past, relationships you have with others, titles you possess, madness and sanity, reputations you have, obligations to others, problems you're dealing with, goals you're working towards and more.
 
 An Aspect is a phrase that defines a truth about a character. A good aspect should:
-* **Clear:** Be worded so that it can be invoked
+* **Clear:** Be worded so that the meaning is clear, others should be able to understand it
+* **Usable:** Be worded so that it can be invoked
 * **Compelling:** Reveal something interesting about the character, something they may not even know
 * **Double-Edged:** Have elements that are potentially both positive and negative
-
-\columnbreak
 
 Additional advice on creating an excellent Aspect can be found in the [FATE SRD](https://fate-srd.com/fate-core/making-good-aspect "Making A Good Aspect"). See [Appendix B](#appendix-b-example-aspects) for some example Aspects.
 
 #### Gaining Aspects
 
 Your character should pick up an additional Aspect about **once per level**, but there really is no limit. While core Aspects to your character may never change, other Aspects will be gained and lost as the game is played.
+
+<img src='https://www.gmbinder.com/images/DT40zzU.jpg' style='position:absolute;bottom:38px;left:-15px;width:896px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 
 
@@ -1010,6 +1013,8 @@ ___
 
 # Appendix B: Example Aspects
 
+Aspects are additional Personality Characteristics that add character to a character.
+
 * A Wall is Just a Door That Doesn't Know It
 * Absent minded
 * Addicted
@@ -1330,8 +1335,6 @@ Here are some Pre-level examples:
 ___
 Here are some Tier 1 examples:
 
-<img src='https://www.gmbinder.com/images/DT40zzU.jpg' style='position:absolute;bottom:38px;right:0px;width:816px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
-
 
 
 \pagebreakNum
@@ -1550,7 +1553,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.26
+  Version 1.3.27
 
  </div>
  
