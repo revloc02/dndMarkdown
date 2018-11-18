@@ -1340,7 +1340,19 @@ Here are some Tier 1 examples:
 
 # Appendix E: Stunt Examples
 
-Stunts are actions modified by the player using Inspiration. **Any action** (attack, movement, spell, reaction) can be **modified into a Stunt** and must be declared before the attempt is made. The modification can be any embellishment to the action that adds an additional desired effect, **the possibilities are endless**.
+Stunts are actions modified by the player using Inspiration. **Any action** (attack, movement, spell, reaction) can be **modified into a Stunt** and must be declared before the attempt is made. The modification can be any embellishment to the action that adds an additional desired effect.
+
+#### The Possibilities Are Endless 
+
+Assess the situation your character is in, and imagine ways to:
+* Take advantage of the terrain
+* Creatively use your weapons
+* Exploit an enemy's position or weakness
+* Enhance your abilities
+* Do something really heroic
+* Be Awesome!
+
+#### Examples
 
 The following are not so much a menu to choose from as they are guidelines to inspire imagination and creativity, in other words **invent your own stunts**:
 
@@ -1357,6 +1369,8 @@ The following are not so much a menu to choose from as they are guidelines to in
 * **Blind** – an enemy by throwing sand
 * **Deafen** – a foe by throwing that gong you found in the giant's bag at them
 
+\columnbreak
+
 ##### Movement:
 
 * **Sprint** – an extra 10 feet in a direction
@@ -1365,17 +1379,16 @@ The following are not so much a menu to choose from as they are guidelines to in
 * **Mount** – Climb on to an enemy creature that is much larger than you
 * **Swing** – on a rope, chain, or chandelier as part of movement or an attack
 
-\columnbreak
-
 ##### Other:
 
-* **Extend** – the range of a spell by a small amount
-* **Shape** – a spell or an effect
-* **Metamagic** – apply a metamagic effect to a spell (make it wider, longer, sticky, silent, loud, distracting, impressive, etc.)
 * **Shove / Juke** – a creature up to 5 feet in a direction
 * **Sunder** – You can attempt to break an item in your foe’s possession with your strike. If the attack hits, it damages the item instead of your enemy.
 * **Guard** – You enter a guarded stance (until the start of your next turn), the next attack against you has disadvantage.
 * **Disarm** – Make an attack roll with advantage contested by the target's Strength (Athletics) check or Dexterity (Acrobatics) check. If you win the contest the target drops the item.
+* **Extend** – the range of a spell by a small amount
+* **Shape** – a spell or an effect
+* **Metamagic** – apply a metamagic effect to a spell (make it wider, longer, sticky, silent, loud, distracting, impressive, etc.)
+* **Lasso** – a creature with a rope or similar rope-like object
 
 For additional combat stunts see [D&D Cinematic Stunts](https://www.dndbeyond.com/posts/203-fighting-dirty-cinematic-combat-stunts/ "Fighting Dirty: Cinematic Combat Stunts (dndbeyond)").
 
@@ -1537,7 +1550,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.22
+  Version 1.3.23
 
  </div>
  
