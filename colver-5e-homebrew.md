@@ -388,16 +388,16 @@ As motivation to have the party experience more encounters in a game day, the DM
 >   * **Ingenuity**
 >   * **Momentum** - more encounters per day
 > * Inspiration can be used to:
->   * Get **Advantage/Disadvantage**
->   * **Reroll**
->   * **Act Out of Turn**
->   * Do a **Stunt**
->   * Get **Revelation**
->   * Take an **Extra Action**
->   * **Remove Exhaustion**
->   * **Cheat Death**
->   * **Recall** a Spell or Special Ability
->   * Something **Special**
+>   * Get **Advantage/Disadvantage** (1)
+>   * **Reroll** (1)
+>   * **Act Out of Turn** (1)
+>   * Do a **Stunt** (1+)
+>   * Get **Revelation** (2+)
+>   * Take an **Extra Action** (3)
+>   * **Remove Exhaustion** (4)
+>   * **Cheat Death** (5+)
+>   * **Recall** a Spell or Special Ability (lvl*2)
+>   * Something **Special** (X)
 
 <img src='https://www.gmbinder.com/images/mkSmfJp.jpg' style='position:absolute;bottom:0px;right:-10px;width:430px; mix-blend-mode:multiply;filter:brightness(110%)saturate(140%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
@@ -1413,16 +1413,16 @@ ___
 >   * **Ingenuity**
 >   * **Momentum** - more encounters per day
 > * Inspiration can be used to:
->   * Get **Advantage/Disadvantage**
->   * **Reroll**
->   * **Act Out of Turn**
->   * Do a **Stunt**
->   * Get **Revelation**
->   * Take an **Extra Action**
->   * **Remove Exhaustion**
->   * **Cheat Death**
->   * **Recall** a Spell or Special Ability
->   * Something **Special**
+>   * Get **Advantage/Disadvantage** (1)
+>   * **Reroll** (1)
+>   * **Act Out of Turn** (1)
+>   * Do a **Stunt** (1+)
+>   * Get **Revelation** (2+)
+>   * Take an **Extra Action** (3)
+>   * **Remove Exhaustion** (4)
+>   * **Cheat Death** (5+)
+>   * **Recall** a Spell or Special Ability (lvl*2)
+>   * Something **Special** (X)
 
 ___
 > #### Dying Summary
@@ -1550,7 +1550,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.23
+  Version 1.3.24
 
  </div>
  
