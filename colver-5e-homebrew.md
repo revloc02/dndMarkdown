@@ -1,5 +1,9 @@
 <style>
   .phb#p1:after { display:none; }
+  .phb .pageNumber{
+    font-weight: bold;
+    color:#000080;
+}
 </style>
 
 <img src='https://www.gmbinder.com/images/mFqaTrC.jpg' class='cover-image' style='position:absolute;top:-45px;left:0px;width:825px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />/>
@@ -582,9 +586,17 @@ Anything that needs to be **resolved at the end of a round** of combat including
 
 \pagebreakNum
 
+<style>
+  .phb#p13:after{display:none;}
+</style>
+
 <img src='https://www.gmbinder.com/images/wZLir6p.png' style='position:absolute;top:60px;right:0px;width:820px; mix-blend-mode:multiply;' />
 
 \pagebreak
+
+<style>
+  .phb#p14:after{display:none;}
+</style>
 
 <img src='https://www.gmbinder.com/images/sHMA5Qq.png' style='position:absolute;top:-10px;right:0px;width:814px; mix-blend-mode:multiply;' />
 
@@ -1553,7 +1565,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.28
+  Version 1.3.29
 
  </div>
  
