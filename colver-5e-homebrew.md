@@ -1342,13 +1342,10 @@ Here are some Tier 1 examples:
 
 Stunts are actions modified by the player using Inspiration. **Any action** (attack, movement, spell, reaction) can be **modified into a Stunt** and must be declared before the attempt is made. The modification can be any embellishment to the action that adds an additional desired effect, **the possibilities are endless**.
 
-The following are not so much a menu to choose from as they are guidelines to inspire imagination and creativity:
+The following are not so much a menu to choose from as they are guidelines to inspire imagination and creativity, in other words **invent your own stunts**:
 
 ##### Attack:
 
-* **Target** – an enemies weak point
-* **Blind**
-* **Deafen**
 * **Sweep** – Sweep an enemy's legs out from under them with one end of your weapon. If the attack hits the creature must make a Dexterity saving throw or be knocked prone.
 * **Cleave** – When you make an attack with some sort of slashing weapon you can choose to target two creatures within your reach. This attack uses the same attack roll for each target and deals damage to each.
 * **Kick** – Make an additional attack roll for 1d6+STR damage if it hits.
@@ -1356,18 +1353,25 @@ The following are not so much a menu to choose from as they are guidelines to in
 * **Maim** - Whenever a creature crippled by this technique moves willingly, it takes 1 damage for every 5 feet it moves.
 * **Overrun** – Make a successful attack against a creature and move through the space it occupies into space on the other side of it.
 * **Stun** – The creature must make a Constitution saving throw, if the creature fails the save, it is stunned until the start of its next turn.
+* **Target** – an enemies weak point
+* **Blind** – an enemy by throwing sand
+* **Deafen** – a foe by throwing that gong you found in the giant's bag at them
 
 ##### Movement:
 
 * **Sprint** – an extra 10 feet in a direction
-* **Tumble**
 * **Vault** – You can use a long weapon to double the length of your high jump or long jump, (this jump is considered part of your movement).
+* **Tumble** – Parkour up the corner of a wall to reach your enemy
+* **Mount** – Climb on to an enemy creature that is much larger than you
+* **Swing** – on a rope, chain, or chandelier as part of movement or an attack
+
+\columnbreak
 
 ##### Other:
 
 * **Extend** – the range of a spell by a small amount
-* **Shape** – a spell or effect
-* **Metamagic** – apply a metamagic effect to a spell
+* **Shape** – a spell or an effect
+* **Metamagic** – apply a metamagic effect to a spell (make it wider, longer, sticky, silent, loud, distracting, impressive, etc.)
 * **Shove / Juke** – a creature up to 5 feet in a direction
 * **Sunder** – You can attempt to break an item in your foe’s possession with your strike. If the attack hits, it damages the item instead of your enemy.
 * **Guard** – You enter a guarded stance (until the start of your next turn), the next attack against you has disadvantage.
