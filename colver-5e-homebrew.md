@@ -628,6 +628,15 @@ By choosing an ancestry, you are not determining your parentage, but what racial
 
 <img src='https://www.gmbinder.com/images/NfOj7S5.jpg' style='position:absolute;bottom:0px;right:48px;width:720px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1.07)scaleY(1);' />
 
+<img
+   src='https://www.gmbinder.com/images/IQENPZX.png'
+   style='position:absolute;
+   bottom:-20px;
+   right:-25px;
+   width:80px;
+   transform:scaleX(1)scaleY(1);'
+/>
+
 
 
 \pagebreakNum
