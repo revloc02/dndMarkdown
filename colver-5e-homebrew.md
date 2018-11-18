@@ -271,7 +271,7 @@ You can use downtime between adventures to recover from a debilitating injury, d
 * For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
 
 ##### Sources
-Rules based on [a blog post by Chris Perkins](https://scruffygrognard.wordpress.com/2015/05/25/fixing-the-medicine-skill-healers-kit-and-healer-feat-dd-5th-edition/comment-page-1/ "Fixing the Medicine Skill, Healer’s Kit, and Healer Feat (D&D 5th Edition)").
+Rules based on [a blog post by not-the-famous Chris Perkins](https://scruffygrognard.wordpress.com/2015/05/25/fixing-the-medicine-skill-healers-kit-and-healer-feat-dd-5th-edition/comment-page-1/ "Fixing the Medicine Skill, Healer’s Kit, and Healer Feat (D&D 5th Edition)").
 
 <img src='https://s-media-cache-ak0.pinimg.com/originals/61/b8/40/61b840fd6fca6a7330aab9a53ec05440.jpg' style='position:absolute;bottom:-50px;right:0px;width:430px; mix-blend-mode:multiply;filter:brightness(130%)saturate(100%);transform:rotate(0deg)scaleX(-1)scaleY(0.92);' />
 
@@ -1550,7 +1550,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.25
+  Version 1.3.26
 
  </div>
  
