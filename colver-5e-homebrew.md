@@ -1405,7 +1405,7 @@ For additional combat stunts see [D&D Cinematic Stunts](https://www.dndbeyond.co
    .phb#p28:after { display:none; }
  </style>
  
-# Appendix F: Rule Summaries
+# Appendix F: House Rule Summaries
 ___
 > #### Pool Inspiration Summary
 > * Inspiration is a resource shared by the party
@@ -1471,7 +1471,7 @@ ___
 ___
 > #### Medicine Skill
 > * Diagnose an illnesses, this is typically a role playing check (RAW).
-> * As an action, a Medicine check, DC 10 + Exhaustion Level, will **stabilize** a dying character thus granting them 1 hp (HBR).
+> * As an action, a Medicine check, DC ~15 + Exhaustion Level (DM's decision), will **stabilize** a dying character thus granting them 1 hp (HBR).
 > * Evaluate others wounds, this is typically a role playing check (HBR).
 > * Examine corpses in order determine the cause of death, this is typically a role playing check (HBR).
 > * Provide long-term care to poisoned or diseased creatures.  When a poisoned or diseased creature is cared for by > someone proficient in the Medicine skill (see _Downtime: Recuperating_, PHB, p. 187), they make their recuperation saving throws with advantage (HBR).
@@ -1553,7 +1553,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.27
+  Version 1.3.28
 
  </div>
  
