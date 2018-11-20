@@ -1080,6 +1080,9 @@ Aspects are additional Personality Characteristics that add character to a chara
 * Insufferable Optimist
 * It's All in the Reflexes
 * I've Never Had Friends Before
+
+\columnbreak
+
 * Kleptomaniac
 * Knight in Shining Armor
 * Life of the Party
@@ -1109,6 +1112,8 @@ Aspects are additional Personality Characteristics that add character to a chara
 * Very Well-mannered
 * Way too confident
 * Whiner
+
+<img src='https://www.gmbinder.com/images/ZsJ32jR.jpg' style='position:absolute;bottom:0px;right:100px;width:620px; mix-blend-mode:multiply;filter:brightness(100%)saturate(120%);transform:rotate(0deg)scaleX(1)scaleY(0.9);' />
  
 
 
@@ -1591,7 +1596,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.32
+  Version 1.3.33
 
  </div>
  
