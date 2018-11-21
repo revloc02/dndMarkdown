@@ -49,12 +49,12 @@
 
 <div class='footnote'>All copyrights reserved for WotC and various artists, without who this would not be possible.</div>
 
-<img src='https://www.gmbinder.com/images/9Ykkhir.jpg' style='position:absolute;bottom:70px;right:0px;width:480px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(0deg)scaleX(1)scaleY(1.1);' />
+<img src='https://www.gmbinder.com/images/9Ykkhir.jpg' style='position:absolute;bottom:66px;right:0px;width:480px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(0deg)scaleX(1)scaleY(1.1);' />
 
 <img
    src='https://www.gmbinder.com/images/IQENPZX.png'
    style='position:absolute;
-   top:170px;
+   top:174px;
    right:140px;
    width:200px;
    transform:scaleX(6)scaleY(0.45);'
@@ -67,6 +67,79 @@
    left:-180px;
    width:800px;
    transform:scaleX(1)scaleY(1);'
+/>
+
+<img
+   src='https://www.gmbinder.com/images/IQENPZX.png'
+   style='position:absolute;
+   bottom:10px;
+   left:210px;
+   width:200px;
+   transform:scaleX(0.5)scaleY(6);'
+/>
+
+<img
+   src='https://www.gmbinder.com/images/IQENPZX.png'
+   style='position:absolute;
+   top:90px;
+   left:210px;
+   width:200px;
+   transform:scaleX(0.5)scaleY(6);'
+/>
+
+<img
+   src='https://www.gmbinder.com/images/tFcatIg.png'
+   style='position:absolute;
+  top:200px;
+  right:-30px;
+  width:180px;
+  filter:brightness(100%);
+  transform:
+    rotate(180deg)scaleX(1.5)scaleY(1);'
+/>
+
+<img
+   src='https://www.gmbinder.com/images/tFcatIg.png'
+   style='position:absolute;
+  top:200px;
+  right:230px;
+  width:180px;
+  filter:brightness(100%);
+  transform:
+    rotate(0deg)scaleX(1.5)scaleY(1);'
+/>
+
+<img
+   src='https://www.gmbinder.com/images/tFcatIg.png'
+   style='position:absolute;
+  top:350px;
+  right:400px;
+  width:180px;
+  filter:brightness(100%);
+  transform:
+    rotate(180deg)scaleX(1)scaleY(3);'
+/>
+
+<img
+   src='https://www.gmbinder.com/images/tFcatIg.png'
+   style='position:absolute;
+  bottom:155px;
+  right:400px;
+  width:180px;
+  filter:brightness(100%);
+  transform:
+    rotate(170deg)scaleX(1)scaleY(3);'
+/>
+
+<img
+   src='https://www.gmbinder.com/images/tFcatIg.png'
+   style='position:absolute;
+  bottom:-195px;
+  right:-135px;
+  width:280px;
+  filter:brightness(100%);
+  transform:
+    rotate(185deg)scaleX(4)scaleY(1);'
 />
 
 
@@ -1609,7 +1682,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.34
+  Version 1.3.35
 
  </div>
  
