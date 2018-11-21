@@ -526,7 +526,7 @@ You may recall a spell you have already cast at the cost of 2 Inspiration for ev
 * **Special (Inspiration costs varies):**
 You can petition the DM to attempt nearly anything that would normally be almost impossible. Such uses are not guaranteed and should be considered carefully by the DM. Possibilities include casting a single spell that is one level higher than you could normally cast (or a 1st-level spell if you are not a spell-caster), making an attack that blinds a foe or bypasses its damage reduction entirely, or attempting to use Diplomacy to convince a raging dragon to give up its attack. Regardless of the desired action, the attempt should be accompanied by a difficult check or penalty on the attack roll. No additional attempts may be made for such a special action by the character or his allies regardless of the amount of Inspiration points available, and the cost is determined by the DM.
 
-<img src='https://www.gmbinder.com/images/kGJBrmw.jpg' style='position:absolute;bottom:0px;right:-25px;width:460px; mix-blend-mode:multiply;filter:brightness(105%)saturate(120%);transform:rotate(0deg)scaleX(-1)scaleY(1.1);' />
+<img src='https://www.gmbinder.com/images/kGJBrmw.jpg' style='position:absolute;bottom:15px;right:-25px;width:460px; mix-blend-mode:multiply;filter:brightness(105%)saturate(120%);transform:rotate(0deg)scaleX(-1)scaleY(1.1);' />
 
 
 
@@ -952,55 +952,7 @@ Pre-levels will never count towards any features or abilities that use levels as
 
 
 
-# DM Notes
-
-Always remember that the Dungeon Master has absolute power.
-
-## Guidelines for Play
-
-#### Embrace Aspects
-
-Aspects are arguably the single most important change these rules make. Taking the nebulous nature of ideals, bonds, and flaws and making them stronger, tangible, and more flexible, aspects create a wildly different reward structure for role-playing. With no limit to the number of aspects a single character can have, it not only allows players to inhabit characters that are multidimensional and flawed, but rewards them for it. Players who act in character not only have more fun and contribute more to the story, they make the entire party mechanically stronger.
-
-#### Slow down the pace
-
-Give your players plenty of downtime between adventures, and allow that downtime to become as much a part of the world and the story as adventuring. Downtime is where the world reacts to the way characters have changed.
-
-#### Travel is Dangerous
-
-When characters take a long rest while out in the wilderness it often should get disrupted because the world is dangerous. This can make long journeys tense, and a real drain on resources. Consider making perilous journeys part of your game.
-
-\columnbreak
-
-#### Player Housekeeping
-
-There are several housekeeping tasks that a DM normally handles that actually could be delegated to players during a play session. The DM should do this and can reward players for helping by giving favors for doing the following tasks:
-
-* Tracking initiative
-* Playing the ambiance music
-* Recording treasure
-* Scribing names, places, and clues that need to be remembered
-* Recording the play session sometime before the next session
-* Collecting and redeeming Feature Cards
-* Tracking game time or limited resources (food, ammo, etc.) if it is relevant to the current situation
-
-A favor could be a discount when making a purchase, or a greater potential when rolling for down-time research successes. It could possibly be a redo or adjustment on a declared character action. A favor could be approximately equal to 1/3 of an Inspiration point.
-
-<div class='descriptive'>
-
-**DM Note:** If one or more of these Housekeeping items is important to you as the DM you can reward a player more handsomely for completing it. For example, recording the session could be rewarded with a full point of Inspiration.
-
-</div>
-
-<img src='https://www.gmbinder.com/images/N4eBls4.png' style='position:absolute;bottom:35px;right:70px;width:670px; mix-blend-mode:multiply;filter:brightness(120%)saturate(110%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
-
-
-
-\pagebreakNum
-
-
-
-## Sundry House Rules
+# Sundry House Rules
 
 ### Entertainment = Bonus
 
@@ -1056,7 +1008,55 @@ When training time is completed and expenses are paid the player must roll to ad
 > - Desired-level³ gp
 > - Class Ability check + proficiency vs. DC 10 + desired level
 
-<img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;right:150px;width:500px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;left:25px;width:500px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+
+
+
+\pagebreakNum
+
+
+
+# DM Notes
+
+Always remember that the Dungeon Master has absolute power.
+
+## Guidelines for Play
+
+#### Embrace Aspects
+
+Aspects are arguably the single most important change these rules make. Taking the nebulous nature of ideals, bonds, and flaws and making them stronger, tangible, and more flexible, aspects create a wildly different reward structure for role-playing. With no limit to the number of aspects a single character can have, it not only allows players to inhabit characters that are multidimensional and flawed, but rewards them for it. Players who act in character not only have more fun and contribute more to the story, they make the entire party mechanically stronger.
+
+#### Slow down the pace
+
+Give your players plenty of downtime between adventures, and allow that downtime to become as much a part of the world and the story as adventuring. Downtime is where the world reacts to the way characters have changed.
+
+#### Travel is Dangerous
+
+When characters take a long rest while out in the wilderness it often should get disrupted because the world is dangerous. This can make long journeys tense, and a real drain on resources. Consider making perilous journeys part of your game.
+
+\columnbreak
+
+#### Player Housekeeping
+
+There are several housekeeping tasks that a DM normally handles that actually could be delegated to players during a play session. The DM should do this and can reward players for helping by giving favors for doing the following tasks:
+
+* Tracking initiative
+* Playing the ambiance music
+* Recording treasure
+* Scribing names, places, and clues that need to be remembered
+* Recording the play session sometime before the next session
+* Collecting and redeeming Feature Cards
+* Tracking game time or limited resources (food, ammo, etc.) if it is relevant to the current situation
+
+A favor could be a discount when making a purchase, or a greater potential when rolling for down-time research successes. It could possibly be a redo or adjustment on a declared character action. A favor could be approximately equal to 1/3 of an Inspiration point.
+
+<div class='descriptive'>
+
+**DM Note:** If one or more of these Housekeeping items is important to you as the DM you can reward a player more handsomely for completing it. For example, recording the session could be rewarded with a full point of Inspiration.
+
+</div>
+
+<img src='https://www.gmbinder.com/images/N4eBls4.png' style='position:absolute;bottom:35px;right:70px;width:670px; mix-blend-mode:multiply;filter:brightness(120%)saturate(110%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 
 
@@ -1199,16 +1199,36 @@ Aspects are additional Personality Characteristics that add character to a chara
 
 
 
+# Appendix C: Game Play ASI Examples
+
+___
+Here are some Pre-level examples:
+* Make a Dex (Sleight of Hand) check to steal some Dire Platypus eggs for food
+* Make a Int (History) check to see if anyone knows anything about the ruins of a razed settlement
+* Make a Cha (Intimidation) check to chase away the owlbear cubs
+* Make a Wis (Animal Handling) check to ride the horse
+
+___
+Here are some Tier 1 examples:
+
+<img src='https://www.gmbinder.com/images/4Lp3dP8.jpg' style='position:absolute;bottom:0px;right:100px;width:620px; mix-blend-mode:multiply;filter:brightness(100%)saturate(120%);transform:rotate(0deg)scaleX(1)scaleY(0.9);' />
+
+
+
+\pagebreakNum
+
+
+
 <style>
 /** Change the pg to whatever page number is the one that you want no footer design **/
-.phb#p24:after { display:none; }
+.phb#p25:after { display:none; }
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p24 table { font-size: 7.5pt; }
+.phb#p25 table { font-size: 7.5pt; }
 </style>
 
 <div class='wide' align='center'>
 
-### Appendix C: Quirks Tables
+### Appendix D: Quirks Tables
 
 </div>
 
@@ -1326,9 +1346,9 @@ Aspects are additional Personality Characteristics that add character to a chara
 
 <style>
 /** Change the pg to whatever page number is the one that you want no footer design **/
-.phb#p25:after { display:none; }
+.phb#p26:after { display:none; }
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p25 table { font-size: 6.3pt; }
+.phb#p26 table { font-size: 6.3pt; }
 </style>
 
 | d% | PERSONALITY QUIRK |
@@ -1441,26 +1461,6 @@ Aspects are additional Personality Characteristics that add character to a chara
 
 
 \pagebreak
-
-
-
-# Appendix D: Game Play ASI Examples
-
-___
-Here are some Pre-level examples:
-* Make a Dex (Sleight of Hand) check to steal some Dire Platypus eggs for food
-* Make a Int (History) check to see if anyone knows anything about the ruins of a razed settlement
-* Make a Cha (Intimidation) check to chase away the owlbear cubs
-* Make a Wis (Animal Handling) check to ride the horse
-
-___
-Here are some Tier 1 examples:
-
-<img src='https://www.gmbinder.com/images/4Lp3dP8.jpg' style='position:absolute;bottom:0px;right:100px;width:620px; mix-blend-mode:multiply;filter:brightness(100%)saturate(120%);transform:rotate(0deg)scaleX(1)scaleY(0.9);' />
-
-
-
-\pagebreakNum
 
 
 
@@ -1682,7 +1682,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.35
+  Version 1.3.36
 
  </div>
  
