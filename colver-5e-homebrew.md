@@ -168,7 +168,7 @@ Dungeons & Dragons is a **collaborative** game, so always remember you are **tel
   * You must roll in the dice tower with a witness.
   * If someone else dictates the party is doing something you don’t want to do, you don’t have to do it. But, you must offer another alternative, or specifically explain what your character is doing instead.
 
-<img src='https://www.gmbinder.com/images/pWsevDh.jpg' style='position:absolute;bottom:10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(150%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/pWsevDh.jpg' style='position:absolute;bottom:40px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(150%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 
 
@@ -786,6 +786,8 @@ Think about what you, as the player, want to do with your character over a long 
 
 Examples: rule a dominion as king or emperor, create a major artifact, explore worlds beyond this world, become a demigod, discover lost magical secrets, destroy some great specific evil, get fabulously rich and retire, build a great city or empire
 
+<img src='https://www.gmbinder.com/images/hpAsAVH.png' style='position:absolute;bottom:20px;right:100px;width:155px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);transform:rotate(0deg)scaleX(1.2)scaleY(1);' />
+
 
 
 \pagebreakNum
@@ -1027,6 +1029,9 @@ Whenever the DM has to take some time to look something up or figure something o
 \pagebreakNum
 
 
+
+
+<img src='https://www.gmbinder.com/images/CmAsyUa.png' style='position:absolute;top:20px;right:10px;width:440px; mix-blend-mode:multiply;filter:brightness(110%)saturate(110%);transform:rotate(10deg)scaleX(-1)scaleY(1);' />
 
 # Appendix A: Glossary
 
@@ -1378,6 +1383,8 @@ Here are some Pre-level examples:
 ___
 Here are some Tier 1 examples:
 
+<img src='https://www.gmbinder.com/images/4Lp3dP8.jpg' style='position:absolute;bottom:0px;right:100px;width:620px; mix-blend-mode:multiply;filter:brightness(100%)saturate(120%);transform:rotate(0deg)scaleX(1)scaleY(0.9);' />
+
 
 
 \pagebreakNum
@@ -1402,6 +1409,20 @@ Assess the situation your character is in, and imagine ways to:
 
 The following are not so much a menu to choose from as they are guidelines to inspire imagination and creativity, in other words **invent your own stunts**:
 
+##### Movement:
+
+* **Sprint** – an extra 10 feet in a direction
+* **Vault** – You can use a long weapon to double the length of your high jump or long jump, (this jump is considered part of your movement).
+* **Tumble** – Parkour up the corner of a wall to reach your enemy
+* **Mount** – Climb on to an enemy creature that is much larger than you
+* **Swing** – on a rope, chain, or chandelier as part of movement or an attack
+
+\columnbreak
+
+<div style="margin-top: 185px"></div>
+
+<img src='https://www.gmbinder.com/images/fYrMDNX.jpg' style='position:absolute;top:0px;right:70px;width:240px; mix-blend-mode:multiply;filter:brightness(110%)saturate(110%);transform:rotate(10deg)scaleX(-1)scaleY(1);' />
+
 ##### Attack:
 
 * **Sweep** – Sweep an enemy's legs out from under them with one end of your weapon. If the attack hits the creature must make a Dexterity saving throw or be knocked prone.
@@ -1415,16 +1436,6 @@ The following are not so much a menu to choose from as they are guidelines to in
 * **Blind** – an enemy by throwing sand
 * **Deafen** – a foe by throwing that gong you found in the giant's bag at them
 
-\columnbreak
-
-##### Movement:
-
-* **Sprint** – an extra 10 feet in a direction
-* **Vault** – You can use a long weapon to double the length of your high jump or long jump, (this jump is considered part of your movement).
-* **Tumble** – Parkour up the corner of a wall to reach your enemy
-* **Mount** – Climb on to an enemy creature that is much larger than you
-* **Swing** – on a rope, chain, or chandelier as part of movement or an attack
-
 ##### Other:
 
 * **Shove / Juke** – a creature up to 5 feet in a direction
@@ -1437,6 +1448,8 @@ The following are not so much a menu to choose from as they are guidelines to in
 * **Lasso** – a creature with a rope or similar rope-like object
 
 For additional combat stunts see [D&D Cinematic Stunts](https://www.dndbeyond.com/posts/203-fighting-dirty-cinematic-combat-stunts/ "Fighting Dirty: Cinematic Combat Stunts (dndbeyond)").
+
+<img src='https://www.gmbinder.com/images/swRk6c8.jpg' style='position:absolute;bottom:30px;left:0px;width:300px; mix-blend-mode:multiply;filter:brightness(120%)saturate(120%);transform:rotate(-10deg)scaleX(-1)scaleY(1);' />
 
 
 
@@ -1596,7 +1609,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.33
+  Version 1.3.34
 
  </div>
  
