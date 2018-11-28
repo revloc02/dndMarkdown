@@ -1,0 +1,69 @@
+## Legendary Template
+
+Legendary Actions are one of the best-regarded mechanics of the 5th Edition of Dungeons & Dragons, providing DMs the tools to accurately portray the deadliness of higher-level creatures. You know you are in trouble when the dragon simply retaliates your sword slash with a tail sweep without even waiting for its own turn.
+
+This feature along with Legendary Resis-tance however is restricted to very powerful monsters, those we call--quite appropriately--legendary. But what if there was a way to incorporate such mechanics to lesser threats, making them more dangerous albeit not as deadly as the ones described in the rules? 
+
+So here it is: four “monster tier” templates to be added to existing creatures to give your players a harder time!
+
+### What is Legendary?
+One of the first things to consider is the fact that not all creatures that receive some Legendary Actions need to be stuff of legends. It is perfectly fine to imagine an immensely powerful goblin (for goblin standards, that is) who is feared by all goblinkind, justifying the acquisition of such Legendary Actions, but it is also possible that what you need is simply a better specimen who can pose a higher challenge to adventuring groups.
+
+### Tiers
+
+Therefore four tiers are presented: **Elite**, **Boss**, **Legendary**, and beyond legendary: **Godly**. These tiers are relative - an epic goblin might still be an easy kill for a group, but an elite troll will probably prove a worthier foe.
+
+Modifying a creature to one of the four tiers is rather simple. Each of them becomes capable of taking Legendary Actions (or Elite, Boss or Epic Actions if you will) a number of times as shown in the following table. The creature also acquires the Legendary Resistance trait, usable a number of times per day, also expressed in the table.
+
+| Tier      | Legendary Actions<sup>*</sup> / Resistances<sup>**</sup> | Hit Points Increase |
+|:---------:|:-----:|:-----:|
+| Elite     | 0-1 | x 1-2 |
+| Boss      | 1   | x 2-3 |
+| Epic      | 2   | x 3-4 |
+| Legendary | 3   | x 4-6 |
+| Godly     | 4-5 | x 6-8 |
+
+\* Legendary Actions per **round**
+
+\*\* Legendary Resistances per **day**
+
+<img src='https://www.gmbinder.com/images/XMIprRV.jpg' style='position:absolute;bottom:10px;left:60px;width:315px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);transform:rotate(-2deg)scaleX(1.4)scaleY(1);' />
+
+\columnbreak
+
+___
+<div style="margin-top:80px"></div>
+
+<img src='https://www.gmbinder.com/images/VCBHJgH.png' style='position:absolute;top:0px;right:40px;width:240px; mix-blend-mode:multiply;filter:brightness(140%)saturate(120%);transform:rotate(-2deg)scaleX(-1.2)scaleY(1);' />
+
+#### Legendary Actions
+
+Modified creatures can perform the following Legendary Actions after another creature’s turn, provided they can “pay” the action cost for them. For example, an elite creature will not be able to perform Legendary Actions that cost 2 actions because they can only take 1 such action per round. The creature regains spent Legendary Actions at the start of its turn.
+
+* **Attack:** The creature makes a single melee or ranged attack.
+* **Move:** The creature moves up to its speed without provoking attacks of opportunity.
+* **Cast a Cantrip:** The creature casts a cantrip, provided it is able to cast spells.
+* **Special Ability (Costs 2 Actions)** The creature uses one of its special abilities that require an action, provided that it has such an ability.
+* **Cast a Spell (Costs 2 Actions):** The creature casts a spell, provided it is able to cast spells.
+* **Multiattack (Costs 2 Actions):** The creature uses its multiattack, provided it already has such an action option.
+* **All-Out (Costs 3 Actions):** The creature moves up to its speed without provoking attacks of opportunity and uses its special ability, spell, or multiattack, provided it already has such an action option.
+
+#### Legendary Resistance
+
+If the creature fails a saving throw it can choose to succeed instead.
+
+#### Increasing Hit Points
+
+A creature with a Legendary Template may still need a boost on hit points to make a stand against prepared adventurers, so its hit point maximum can increase by a multiplier expressed in the table.
+
+Boosting higher CR creatures HPs can get out of control unless you treat the creature as already "Boss" or "Epic" (as determined by the DM). They usually have a stat block that reflects this anyway. Such creatures can have a Tier _shift_ rather than a Tier _applied_. Determine the tier that you think the creature is already at and then move it up to another tier, thus the HPs adjustment isn't really a full multiply.
+
+**Example 1: Epic to Legendary:** Divide HP by 3, multiply by 4-6, so 4/3 to 6/3, thus 133%-200% HP total.
+
+**Example 2: Legendary to Godly:** Divide HP by 4, multiply by 6-8, so 6/4 to 8/4, thus 150%-200% HP total.
+
+If this seems overly complex then just simply give the creature however many HPs you want.
+
+### Challenge Rating
+
+It may be important to estimate a creature’s challenge rating while applying the tier templates, but that’s easy: increase the CR by the number of Legendary Actions the creature can take per round. Consider any creature of CR 1/2 or lower as having a CR of 0 for the purpose of this calculation. Therefore an elite kobold becomes a CR 1 opponent, while a legendary kobold turns into a CR 3 challenge.
