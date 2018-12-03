@@ -13,26 +13,26 @@ Therefore five tiers are presented: **Elite**, **Boss**, **Epic**, **Legendary**
 
 Modifying a creature to one of the five tiers allows them the capability of taking Legendary Actions (or Elite, Boss, or Epic Actions if you will) a number of times as shown in the following table. The creature also acquires the Legendary Resistance trait, usable a number of times per day, also expressed in the table.
 
-| Tier      | Legendary Actions<sup>\*</sup> / Resistances<sup>\*\*</sup> | Hit Points Increase |
+| Tier      | Legendary Actions<sup>\*</sup> / Resistances<sup>\*\*</sup> | CR |
 |:----------|:---:|:-----:|
-| Elite     | 0-1 | x 1-2 |
-| Boss      | 1   | x 2-3 |
-| Epic      | 2   | x 3-4 |
-| Legendary | 3   | x 4-6 |
-| Godly     | 4-5 | x 6-8 |
+| Elite     | 1 or the other | +1 |
+| Boss      | 1   | +2 |
+| Epic      | 2   | +3 |
+| Legendary | 3   | +4-5 |
+| Godly     | 4-5 | +6-7 |
 
 \* Legendary Actions per **round**
 
 \*\* Legendary Resistances per **day**
 
-<img src='https://www.gmbinder.com/images/XMIprRV.jpg' style='position:absolute;bottom:-3px;left:10px;width:400px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);transform:rotate(-3deg)scaleX(1.2)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/XMIprRV.jpg' style='position:absolute;bottom:-3px;left:10px;width:420px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);transform:rotate(-3deg)scaleX(1.1)scaleY(1);' />
 
 \columnbreak
 
 ___
-<div style="margin-top:80px"></div>
+<div style="margin-top:200px"></div>
 
-<img src='https://www.gmbinder.com/images/VCBHJgH.png' style='position:absolute;top:0px;right:40px;width:240px; mix-blend-mode:multiply;filter:brightness(140%)saturate(120%);transform:rotate(-2deg)scaleX(-1.2)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/VCBHJgH.png' style='position:absolute;top:0px;right:10px;width:420px; mix-blend-mode:multiply;filter:brightness(140%)saturate(120%);transform:scaleX(-1)scaleY(1);' />
 
 #### Legendary Actions
 
@@ -50,18 +50,14 @@ Modified creatures can perform the following Legendary Actions after another cre
 
 If the creature fails a saving throw it can choose to succeed instead.
 
-#### Increasing Hit Points
+#### Challenge Rating
 
-A creature with a Legendary Template may still need a boost on hit points to make a stand against prepared adventurers, so its hit point maximum can increase by a multiplier expressed in the table.
+Increase the creature's CR by the number shown in the table. Consider any creature of CR 1/2 or lower as having a CR of 0 for the purpose of this calculation. Therefore an Elite kobold becomes a CR 1 opponent, while a Legendary kobold turns into a CR 4 challenge.
 
-Multiplying higher CR creatures HPs can quickly get out of control unless you think of the creature as already "Boss" or "Epic" tier (as determined by the DM). They usually have stats that reflects this anyway. Such creatures can have a Tier _shift_ rather than a Tier _applied_. Determine the tier that you think the creature is already at, and then move it up to another tier, thus the HPs adjustment is not a full multiply, but a ratio.
+### Increasing Hit Points
 
-**Example 1: Epic to Legendary:** Divide HP by 3, multiply by 4-6, so 4/3 to 6/3, thus 133%-200% HP total.
+A creature with a Legendary Template gets a boost on hit points to help it make a stand against prepared adventurers. Use the table to determine the creatures new CR, and then multiply the new CR by 10 and add that many HPs to the creatures HP pool.
 
-**Example 2: Legendary to Godly:** Divide HP by 4, multiply by 6-8, so 6/4 to 8/4, thus 150%-200% HP total.
+* **HP bonus = new CR x 10**
 
 If this seems overly complex then just simply give the creature however many HPs you want.
-
-### Challenge Rating
-
-It may be important to estimate a creature’s challenge rating while applying the tier templates, but that’s easy: increase the CR by the number of Legendary Actions the creature can take per round. Consider any creature of CR 1/2 or lower as having a CR of 0 for the purpose of this calculation. Therefore an elite kobold becomes a CR 1 opponent, while a legendary kobold turns into a CR 3 challenge.
