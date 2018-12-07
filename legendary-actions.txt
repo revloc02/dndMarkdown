@@ -9,7 +9,7 @@ One of the first things to consider is the fact that not all creatures that rece
 
 ### Tiers
 
-Therefore five tiers are presented: **Elite**, **Boss**, **Epic**, **Legendary**, and beyond legendary: **Godly**. These tiers are relative--an Epic goblin might still be an easy kill for a group, but an Boss troll will probably prove a worthier foe.
+Therefore five tiers are presented: **Elite**, **Boss**, **Epic**, **Legendary**, and beyond legendary: **Godly**. These tiers are relative--an **Epic goblin** might still be an easy kill for a group, but an **Boss troll** will probably prove a worthier foe.
 
 Modifying a creature to one of the five tiers allows them the capability of taking Legendary Actions (or Elite, Boss, or Epic Actions if you will) a number of times as shown in the following table. The creature also acquires the Legendary Resistance trait, usable a number of times per day, also expressed in the table.
 
@@ -54,7 +54,7 @@ Modified creatures can perform the following Legendary Actions after another cre
 
 #### Challenge Rating
 
-Increase the creature's CR by the number shown in the table. Consider any creature of CR ½ or lower as having a CR of 0 for the purpose of this calculation. Therefore an Elite kobold becomes a CR 1 opponent (with +10 HPs, see below), while a Legendary kobold is a CR 4 challenge (with +40 HPs).
+Increase the creature's CR by the number shown in the table. Consider any creature of CR ½ or lower as having a CR of 0 for the purpose of this calculation. Therefore an **Elite kobold** becomes a CR 1 opponent (with +10 HPs, see below), while a **Legendary kobold** is a CR 4 challenge (with +40 HPs).
 
 ### Increasing Hit Points
 
@@ -62,6 +62,6 @@ A creature with a Legendary Template gets a boost on hit points to help it make 
 
 * **HP bonus = new CR x 10**
 
-_For Example: A troll is CR 5, so a Boss troll would be CR 7 and get +70 HPs. A fire giant is CR 9, and so a Godly fire giant becomes a CR 16 and thus gets +160 HPs._
+_For Example: A troll is CR 5, so a **Boss troll** would be CR 7 and get +70 HPs. A fire giant is CR 9, and so a **Godly fire giant** becomes a CR 16 and thus gets +160 HPs._
 
 If this seems overly complex then just simply give the creature however many HPs you want.
