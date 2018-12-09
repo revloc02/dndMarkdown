@@ -490,7 +490,7 @@ As motivation to have the party experience more encounters in a game day, the DM
 >   * Take an **Extra Action** (3)
 >   * **Remove Exhaustion** (4)
 >   * **Cheat Death** (5+)
->   * **Recall** a Spell or Special Ability (lvl*2)
+>   * **Recall** a Spell or Special Ability (lvlx2)
 >   * Something **Special** (X)
 
 <img src='https://www.gmbinder.com/images/mkSmfJp.jpg' style='position:absolute;bottom:0px;right:-10px;width:430px; mix-blend-mode:multiply;filter:brightness(110%)saturate(140%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
@@ -521,7 +521,7 @@ Gain an additional Move, Action, Bonus Action, Interaction, or Reaction this tur
 You may remove one level of Exhaustion from a character.
 * **Cheat Death (5+ Inspiration):**
 How this plays out is up to the DM, but generally the character is left alive, with 1 hit point, Unconscious, but stable. For example, a character is about to be slain by a critical hit from an arrow. If the character spends the required Inspiration points, the DM decides that the arrow pierced the character’s holy symbol, reducing the damage enough to prevent him from being killed, and that he made his stabilization roll at the end of his turn. The character can spend Inspiration points in this way to prevent the death of a familiar, animal companion, eidolon, or special mount, but not another character or NPC.
-* **Recall (Spell-Levelx2 Inspiration):**
+* **Recall (Spell-Level x 2 Inspiration):**
 You may recall a spell you have already cast at the cost of 2 Inspiration for every spell level. 1st spells cost 2 Inspiration to recall, 2nd cost 4 Inspiration, and so forth up to 9th level spells costing 18 Inspiration to recall. Additionally, Recall can be used to gain another use of a special ability that is otherwise limited. This should only be used on feats and abilities possessed by your character that recharge on a daily basis. The DM will determine the approximate equivalent spell level for the ability so Inspiration cost can be calculated.
 * **Special (Inspiration costs varies):**
 You can petition the DM to attempt nearly anything that would normally be almost impossible. Such uses are not guaranteed and should be considered carefully by the DM. Possibilities include casting a single spell that is one level higher than you could normally cast (or a 1st-level spell if you are not a spell-caster), making an attack that blinds a foe or bypasses its damage reduction entirely, or attempting to use Diplomacy to convince a raging dragon to give up its attack. Regardless of the desired action, the attempt should be accompanied by a difficult check or penalty on the attack roll. No additional attempts may be made for such a special action by the character or his allies regardless of the amount of Inspiration points available, and the cost is determined by the DM.
@@ -1553,7 +1553,7 @@ ___
 >   * Take an **Extra Action** (3)
 >   * **Remove Exhaustion** (4)
 >   * **Cheat Death** (5+)
->   * **Recall** a Spell or Special Ability (lvl*2)
+>   * **Recall** a Spell or Special Ability (lvlx2)
 >   * Something **Special** (X)
 
 ___
@@ -1682,7 +1682,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.36
+  Version 1.3.37
 
  </div>
  
