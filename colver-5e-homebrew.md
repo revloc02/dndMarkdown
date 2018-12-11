@@ -454,17 +454,16 @@ Ideally Inspiration points in the pool should be represented at the table by som
 
 ### Player Request
 
-Inspiration can be obtained by the characters by doing any of the following:
+Inspiration can be **requested by the player** at any time by having their character do any of the following:
 * Invoking any of their **Personal Characteristics** or **Aspects**, by acting in accordance with one of them in a way that creates tension, drama, or authenticity
 * Acting **heroically** or taking a significant **risk**
 * Being **creative** or clever or **ingenious**
 
-A player announces their intent to get Inspiration by doing one of these actions, i.e. they lobby for Inspiration. This is negotiated with the DM. The player should narrate how their character is performing the deed, and should attempt to make their case more compelling with thrilling drama that is ultimately entertaining.  If the act is intense enough, the DM can even occasionally grant 2 Inspiration for the activity.
+A player announces their intent to receive Inspiration when doing one of these actions, in other words they **lobby for Inspiration**. This is **negotiated** with the DM. The player should narrate how their character is performing the deed, and should attempt to make their case more compelling with thrilling drama that is **ultimately entertaining**.  If the act is intense enough, the DM can even occasionally grant 2 Inspiration for the activity.
 
 ### Momentum
 
-* **Momentum:**
-As motivation to have the party experience more encounters in a game day, the DM can reward the group, after an encounter, a number of Inspiration points equal to that encounter number for this day. E.g. the party receive 1 Inspiration to their pool after the first encounter of the day, 2 Inspiration after the second, 3 after the third, and so forth.
+**Momentum:** As motivation to have the party experience more encounters in a game day, the DM can reward the group, after an encounter, a number of Inspiration points equal to that encounter number for this day. E.g. the party receive 1 Inspiration to their pool after the first encounter of the day, 2 Inspiration after the second, 3 after the third, and so forth.
 
 ### DM Decision
 
@@ -481,6 +480,7 @@ As motivation to have the party experience more encounters in a game day, the DM
 >   * **Heroic risks**
 >   * **Ingenuity**
 >   * **Momentum** - more encounters per day
+>   * DM's decision
 > * Inspiration can be used to:
 >   * Get **Advantage/Disadvantage** (1)
 >   * **Reroll** (1)
@@ -1682,7 +1682,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.37
+  Version 1.3.38
 
  </div>
  
