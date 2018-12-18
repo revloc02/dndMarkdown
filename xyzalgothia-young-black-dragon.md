@@ -1,14 +1,14 @@
  ___
  > ## Xyzalgothia
- >*Large young black dragon, chaotic evil*
+ >*Epic large young black dragon, chaotic evil*
  > ___
  > - **Armor Class** 18 (Natural Armor)
- > - **Hit Points** 210 (15d10 + 60)
+ > - **Hit Points** 197 (15d10 + 15 CON + 100 Epic)
  > - **Speed** 40 ft., fly 80 ft., swim 40 ft.
  >___
  >|STR|DEX|CON|INT|WIS|CHA|
  >|:---:|:---:|:---:|:---:|:---:|:---:|
- >|19(+4)|14(+2)|18(+4)|12(+1)|11(+0)|18(+4)|
+ >|18(+4)|14(+2)|12(+1)|12(+1)|11(+0)|18(+4)|
  >___
  > - **Saving Throws** DEX +5, CON +7, WIS +3, CHA +7
  > - **Skills** Perception +6, Stealth +5
@@ -19,11 +19,11 @@
  > ___
  > **Amphibious.** The dragon can breathe air and water.
  >
- > **Special Equipment.** Xyz has a magical troll-claw necklace that gives her regeneration so that she regains 3 hit points at the start of her turn. If she takes fire damage, this effect doesn't apply at the start of Xyz's next turn.
+ > **Special Ability.** Xyz can absorb the life essence of a creature by eating its heart within 2 rounds of its death which grants her temporary hit points equal to the slain creature’s hit point maximum.
  >
  > **Legendary Resistance (2/Day).** If the dragon fails a saving throw, it can choose to succeed instead.
  >
- > **Spellcasting.** The dragon is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15). It has the following paladin spells prepared:
+ > **Spellcasting.** The dragon is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15). It has the following sorcerer spells prepared:
  >
  > Cantrip: *blade ward*, *minor illusion*, *true strike*, *chill touch*
  >
@@ -64,7 +64,7 @@
  \pagebreak
  ___
  > ### Tactics
- > **Decoy.** Xyz uses *silent image* to create an illusion of herself bursting from beneath the water and dashing forth towards a group of adventurers (more than 40' away so she (the illusion) "can't attack" but less than 60' to stay in range of the spell). She uses *minor illusion* to create a deafening roar as the illusion comes busting out of the water. The goal is to have the PCs waste resources on the illusion for one round.
+ > **Decoy.** From beneath the surface of the water on round 1, Xyz uses *silent image* to create an illusion of herself bursting from beneath the water and dashing forth towards a group of adventurers (more than 40' away so she (the illusion) "can't attack" but less than 60' to stay in range of the spell). She uses *minor illusion* in conjunction with this to create a deafening roar as the illusion comes busting out of the water. The goal is to have the PCs waste resources on the illusion for one round.
  >
  > **Hit and Run.** Xyz will use her superior flying speed to engage and disengage, using her breath weapon as often as it recharges. She can use *true strike* or *blade ward* to prep for a melee engagement, and then potentially use a Legendary Wing Attack to move away again.
  >
@@ -74,9 +74,16 @@
  >
  > **Defense.** Her spells *minor illusion*, *disguise self*, *shield*, *fog cloud*, *mirror image*, and *web* can all be used defensively with a little creativity.
  >
+ 
+ \columnbreak
+ 
+ ___
  > ### Lore
  > Xyzalgothia was the runt of the clutch and as a result she did not have the size and stamina of her siblings. She had to develop her intellect to survive, and this came easy for her. With her cunning she would pit one sibling against another and then steal their food while they fought.
  >
  > Since she was so small she was often alone, and most of the time went unnoticed. This allowed her to eavesdrop, which she often did to her mother. Once when an necromancer was colluding with her mother Xyz witnessed some of the dark arts from the evil wizard. This intrigued her and she began to spy on him. She witnessed the summoning and interrogation of demons.
  >
  >Gradually over the years she studied stolen spellbooks, and learned how to summon her own demons. She even managed to trick one of her siblings, the bigger bully, to become a sacrifice to a demon in exchange for some fell knowledge about consuming the life essence of other creatures. This she has studied and practiced until it has become a honed skill. When she consumes the heart of a recent deceased creature she can absorb power from it.
+
+<img src='https://www.gmbinder.com/images/pRLlWbM.jpg' style='position:absolute;bottom:0px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(100%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+ 
