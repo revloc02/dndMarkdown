@@ -2,7 +2,7 @@
 
 Netheril was one of the ancient human empires of Faerûn. It was a magocracy, a form of government where only those with ability in magic had a voice in government. Netheril was the home of the most powerful wizards who ever walked on Faerûn. The Netherese also created powerful artifacts known as mythallars, which allowed mundane objects to become magical, dramatically changing the face of the Netherese Empire. This **empire of human wizards**, cities that floated across the sky, and a terrible, terrible arrogance, nearly stripped Toril of its magic forever.
 
-<img src='https://www.gmbinder.com/images/1pC6pvT.png' style='position:absolute;top:20px;right:0px;width:420px; mix-blend-mode:multiply;filter:brightness(120%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/1pC6pvT.png' style='position:absolute;top:0px;right:0px;width:420px; mix-blend-mode:multiply;filter:brightness(120%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 ### History
 
@@ -28,13 +28,13 @@ The Nether Scrolls is the name for a certain set of 50 scrolls that were discove
 
 One of the greatest human archwizards to ever grace the lands of Toril—quite possibly the longest-lived creature known—was Ioulaum, the man who invented a mythallar. A mythallar was a Netherese device that dug deep into the weave of magic and allowed access to vast amounts of raw magical power. This magic device looked much like a crystal ball but was about 150 feet in diameter. It allowed Netherese arcanists to create quasi-magical items without need of a permanency spell as long as the item stayed within the one-mile-radius effect of the mythallar. The mythallar also provided the constant magical force that allowed entire mountains to hover in the air. These levitating mountains were turned upside down and buildings were built on them creating **floating cities**.
 
-<img src='https://www.gmbinder.com/images/73aD8Be.jpg' style='position:absolute;bottom:80px;right:0px;width:420px; mix-blend-mode:multiply;filter:brightness(120%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1.6);' />
+<img src='https://www.gmbinder.com/images/73aD8Be.jpg' style='position:absolute;bottom:70px;right:0px;width:420px; mix-blend-mode:multiply;filter:brightness(120%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1.6);' />
 
 \pagebreak
 
 <img src='https://www.gmbinder.com/images/pJhpJrf.jpg' style='position:absolute;top:10px;right:20px;width:480px; mix-blend-mode:multiply;filter:brightness(120%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
-<img src='https://www.gmbinder.com/images/C59hCFQ.jpg' style='position:absolute;bottom:-30px;left:-40px;width:510px; mix-blend-mode:multiply;filter:brightness(120%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/C59hCFQ.jpg' style='position:absolute;bottom:-30px;left:-40px;width:500px; mix-blend-mode:multiply;filter:brightness(120%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 #### Great Power
 
@@ -58,6 +58,6 @@ Broken and shattered, it took the Netherese people a while to regroup, and event
 
 One exception is the city of Thultanthar. Just before the time of Karsus's Folly, this floating Netherese city, moved to the **shadow plane**. During their time in the shadow plane, many of the denizens were affected by their environment and became shades. The Shade Enclave returned to Faerûn with the help of the Evereskan elf Galaeron Nihmedu shortly before the Spellplague struck.
 
-#### Netherese Ruins
+### Netherese Ruins
 
 All that is left of Netheril are legends, ruins, and the **Anauroch Desert**. Many of the **magic items** that exist in the world today were created by the Netherese. Who knows what other **magical secrets** and Netherese **artifacts** the ruins of this ancient empire might hold?
