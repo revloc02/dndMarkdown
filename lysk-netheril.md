@@ -32,17 +32,17 @@ One of the greatest human archwizards to ever grace the lands of Toril—quite p
 
 \pagebreak
 
-<img src='https://www.gmbinder.com/images/pJhpJrf.jpg' style='position:absolute;top:10px;right:20px;width:480px; mix-blend-mode:multiply;filter:brightness(120%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/pJhpJrf.jpg' style='position:absolute;top:0px;right:-5px;width:480px; mix-blend-mode:multiply;filter:brightness(120%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 <img src='https://www.gmbinder.com/images/C59hCFQ.jpg' style='position:absolute;bottom:-30px;left:-40px;width:500px; mix-blend-mode:multiply;filter:brightness(120%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 #### Great Power
 
-<div style='margin-right:30px'>
 
-At the peak of their power the Netherese were breaking new ground in advances in magical pursuits, and also in exploration into the other planes. During this age lived **Karsus**, a wizard of immense power who could cast 12th level spells. Netheril continued to grow in power and more and more mythallar and floating cities were created. The Netherese archwizards ventured into Realmspace (i.e. outer space) using **spelljammers** (legendary spaceships powered by magic with a spellcaster as the pilot). While Netheril's flying cities flourished in the sky, magical residue seeped down into the earth below them and became an affliction for a race of subterranean dwelling creatures called the **phaerimm** (aberrations of a wholly evil and sadistic bent, with a desire to enslave or erase all other living beings from existence). Eventually, the phaerimm grew tired of their torment and began to retaliate. They cast spells that drained life and magic from the earth and the floating cities of Netheril, creating barren wastelands where there once were lush fields and areas of wild magic. As magic began to go uncontrollably awry, many of the Netherese archmages fled in search of lands where their magic would not go wrong.
+At the peak of their power the Netherese were breaking new ground in advances in magical pursuits, and also in exploration into the other planes. During this age lived **Karsus**, a super wizard of immense power who could cast 12th level spells. Netheril continued to grow in power and more and more mythallar and floating cities were created. The Netherese archwizards ventured into Realmspace (i.e. outer space) using **spelljammers** (legendary spaceships powered by magic with a spellcaster as the pilot).
 
-</div>
+While Netheril's flying cities flourished in the sky, magical residue seeped down into the earth below them and became an affliction for a race of subterranean dwelling creatures called the **phaerimm** (very intelligent aberrations of a wholly evil and sadistic bent, with a desire to enslave or erase all other living beings from existence). Eventually, the phaerimm grew tired of their torment and began to retaliate. They cast spells that drained life and magic from the earth and the floating cities of Netheril, creating barren wastelands where there once were lush fields and areas of wild magic. As magic began to go uncontrollably awry, many of the Netherese archmages fled in search of lands where their magic would not go wrong (and founded Illusk and Gauntlgrym).
+
 
 \columnbreak
 
@@ -50,7 +50,7 @@ At the peak of their power the Netherese were breaking new ground in advances in
 
 #### The Fall of the Empire
 
-The great Empire of Netheril was destroyed when Karsus sought to seize the power of the gods. This act was called **Karsus's Folly**, and was when he attempted to steal the power of Mystryl, goddess of magic. She sacrificed herself in a last ditch effort to save Faerûn and was replaced by Mystra a new goddess of magic. When this happened, all magic ceased to exist for a time. Since Netherese cities magically floated above the surface of the world, when magic ceased to exist there was nothing to hold the cities up. Netheril was almost completely obliterated in one fell swoop. The remnants of Netheril were then targeted by the wicked phaerimm, who would have destroyed them and the rest of Faerûn had it not been for the intervention of the **Sharn** (mysterious aberrations that imprisoned the malevolent phaerimm under the sands of the Anauroch desert).
+The great Empire of Netheril was destroyed when Karsus sought to seize the power of the gods. This act was called **Karsus's Folly**, and was when he tried to claim the mantle of god of magic from Mystryl, goddess of magic. She sacrificed herself in a last ditch effort to save Faerûn and was replaced by Mystra a new goddess of magic. When this happened, all magic ceased to exist for a time. Since Netherese cities magically floated above the surface of the world, when magic ceased to exist there was nothing to hold the cities up and they fell. Netheril was almost completely obliterated in one fell swoop. The remnants of Netheril were then targeted by the wicked phaerimm, who would have destroyed them and the rest of Faerûn had it not been for the intervention of the **Sharn** (mysterious aberrations that imprisoned the malevolent phaerimm under the sands of the Anauroch desert).
 
 #### Temporary Re-Emergence
 
