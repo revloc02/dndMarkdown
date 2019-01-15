@@ -974,7 +974,7 @@ As explained in the [Hit Dice](#hit-dice) rules, at the end of a long rest, a ch
 
 #### Extended Rest
 
-An extended rest is a period of extended downtime, at least 24 hours long, which can only be taken in a safe location, where characters have access to plentiful food, water, and comfort. An extended rest cannot be attempted while in the wilderness, while sleeping on dirt or stone, or while wearing armor. Characters must be in a location where they do not feel the need to keep watch or constantly be on guard. Other downtime training and activities may be performed at the DM's discretion.
+An extended rest is a period of extended downtime, at least 24 hours long, which can only be taken in a safe location, where characters have access to plentiful food, water, and comfort. An extended rest cannot be attempted while in the wilderness, while sleeping on dirt or stone, or while wearing armor. Characters must be in a location where they do not feel the need to keep watch or constantly be on guard. Level Advancement Training, and other downtime training and activities may be performed during an Extended Rest.
 
 For each consecutive 24 hours of extended rest the character takes he can cumulatively add 1d12 to any healing. For example the first 24 hours the character gets 1d12 extra healing. The second consecutive 24 hours (so 48 hours of straight resting) they get 2d12 extra healing for that day (in addition to the 1d12 from the first day), and so forth.
 
@@ -982,7 +982,7 @@ For each consecutive 24 hours of extended rest the character takes he can cumula
 
 ### Level Advancement Training
 
-In order to advance a level a character must spend a extended period of downtime training. Level advancement can only be taken in a safe location, where characters have access to plentiful food, water, and comfort. Level advancement cannot be attempted while in the wilderness, while sleeping on dirt or stone, or while wearing armor. Characters must be in a location where they do not feel the need to keep watch or constantly be on guard.
+In order to advance a level a character must spend a extended period of downtime training. Level Advancement Training can only be done in a place where the character can have an [Extended Rest](#sundry-house-rules-resting-extended-rest).
 
 If a character cannot rest appropriately to level up they may still gain experience points. A character can only advance one level per downtime training.
 
@@ -1682,7 +1682,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.40
+  Version 1.3.41
 
  </div>
  
