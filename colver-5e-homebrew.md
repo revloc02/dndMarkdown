@@ -459,7 +459,7 @@ Inspiration can be **requested by the player** at any time by having their chara
 * Acting **heroically** or taking a significant **risk**
 * Being **creative** or clever or **ingenious**
 
-A player announces their intent to receive Inspiration when doing one of these actions, in other words they **lobby for Inspiration**. This is **negotiated** with the DM. The player should narrate how their character is performing the deed, and should attempt to make their case more compelling with thrilling drama that is **ultimately entertaining**.  If the act is intense enough, the DM can even occasionally grant 2 Inspiration for the activity.
+A player **announces** their intent to **receive Inspiration** when doing one of these actions, i.e. they **lobby for Inspiration**. This is **negotiated** with the DM. The player should narrate how their character is performing the deed, and should attempt to make their case more compelling with thrilling drama that is **ultimately entertaining**.  If the act is intense enough, the DM can even occasionally grant 2 Inspiration for the activity.
 
 ### Momentum
 
@@ -1682,7 +1682,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.41
+  Version 1.3.42
 
  </div>
  
