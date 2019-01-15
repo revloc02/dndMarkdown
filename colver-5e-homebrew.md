@@ -291,7 +291,7 @@ If you take any damage while you are **Dying**, you suffer **+1 Exhaustion** lev
 
 #### Stabilizing a Dying Creature.
 
-Effects that invoke the ***stabilize*** result on a **Dying** creature now do so by healing for one hit point. Stabilization via first aid can be done on any creature you can touch and requires an action and a successful Wisdom (Medicine) check with a DC of 10 + targets Exhaustion level (see [Medicine Skill](#dying-medicine-and-healer-medicine-skill)).
+Effects that invoke the ***stabilize*** result on a **Dying** creature now do so by healing for one hit point. Stabilization via Medicine is possible (see [Medicine Skill](#dying-medicine-and-healer-medicine-skill)).
 
 ### Optional Rules
 
@@ -336,7 +336,7 @@ These rules make the Medicine skill, the Healer’s Kit, and the Healer Feat mor
 
 Here are the uses of the Medicine Skill:
 * Diagnose an illnesses, this is typically a role playing check (RAW).
-* As an action, a Medicine check, DC ~15 + Exhaustion Level (DM's decision), will **stabilize** a dying character thus granting them 1 hp (HBR).
+* As an action on a creature you can touch, a Medicine check, DC ~15 + Exhaustion Level (DM's decision), will **stabilize** a dying character thus granting them 1 hp (HBR).
 * Evaluate others wounds, this is typically a role playing check (HBR).
 * Examine corpses in order determine the cause of death, this is typically a role playing check (HBR).
 * Provide long-term care to poisoned or diseased creatures.  When a poisoned or diseased creature is cared for by someone proficient in the Medicine skill (see _Downtime: Recuperating_, PHB, p. 187), they make their recuperation saving throws with advantage (HBR).
@@ -1600,7 +1600,7 @@ ___
 ___
 > #### Medicine Skill
 > * Diagnose an illnesses, this is typically a role playing check (RAW).
-> * As an action, a Medicine check, DC ~15 + Exhaustion Level (DM's decision), will **stabilize** a dying character thus granting them 1 hp (HBR).
+> * As an action on a creature you can touch, a Medicine check, DC ~15 + Exhaustion Level (DM's decision), will **stabilize** a dying character thus granting them 1 hp (HBR).
 > * Evaluate others wounds, this is typically a role playing check (HBR).
 > * Examine corpses in order determine the cause of death, this is typically a role playing check (HBR).
 > * Provide long-term care to poisoned or diseased creatures.  When a poisoned or diseased creature is cared for by > someone proficient in the Medicine skill (see _Downtime: Recuperating_, PHB, p. 187), they make their recuperation saving throws with advantage (HBR).
@@ -1682,7 +1682,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.38
+  Version 1.3.39
 
  </div>
  
