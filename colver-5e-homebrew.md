@@ -592,7 +592,7 @@ If an effect would grant you advantage or disadvantage on your initiative roll u
 
 A surprised creature adds +10 to its initiative result and cannot take Reactions while it is surprised. A creature is surprised until the end of the round during which it is surprised.
 
-<img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:10px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
+<img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:0px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
 
 
 
@@ -670,7 +670,7 @@ Each creature **takes its turn** in order starting with the lowest initiative ro
 
 Anything that needs to be **resolved at the end of a round** of combat including status effects or magic durations.
 
-<img src='https://www.gmbinder.com/images/I1dFekv.png' style='position:absolute;bottom:10px;right:15px;width:780px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />
+<img src='https://www.gmbinder.com/images/I1dFekv.png' style='position:absolute;bottom:0px;right:0px;width:800px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />
 
 
 
@@ -1008,7 +1008,7 @@ When training time is completed and expenses are paid the player must roll to ad
 > - Desired-level³ gp
 > - Class Ability check + proficiency vs. DC 10 + desired level
 
-<img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;left:25px;width:500px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/VNqTJZr.jpg?1' style='position:absolute;bottom:0px;left:0px;width:540px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 
 
@@ -1056,7 +1056,7 @@ A favor could be a discount when making a purchase, or a greater potential when 
 
 </div>
 
-<img src='https://www.gmbinder.com/images/N4eBls4.png' style='position:absolute;bottom:35px;right:70px;width:670px; mix-blend-mode:multiply;filter:brightness(120%)saturate(110%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/N4eBls4.png' style='position:absolute;bottom:0px;right:40px;width:730px; mix-blend-mode:multiply;filter:brightness(120%)saturate(110%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
 
 
@@ -1191,7 +1191,7 @@ Aspects are additional Personality Characteristics that add character to a chara
 * Way too confident
 * Whiner
 
-<img src='https://www.gmbinder.com/images/ZsJ32jR.jpg' style='position:absolute;bottom:0px;right:100px;width:620px; mix-blend-mode:multiply;filter:brightness(100%)saturate(120%);transform:rotate(0deg)scaleX(1)scaleY(0.9);' />
+<img src='https://www.gmbinder.com/images/ZsJ32jR.jpg' style='position:absolute;bottom:-25px;right:70px;width:670px; mix-blend-mode:multiply;filter:brightness(100%)saturate(120%);transform:rotate(0deg)scaleX(1)scaleY(0.9);' />
  
 
 
@@ -1211,7 +1211,7 @@ Here are some Pre-level examples:
 ___
 Here are some Tier 1 examples:
 
-<img src='https://www.gmbinder.com/images/4Lp3dP8.jpg' style='position:absolute;bottom:0px;right:100px;width:620px; mix-blend-mode:multiply;filter:brightness(100%)saturate(120%);transform:rotate(0deg)scaleX(1)scaleY(0.9);' />
+<img src='https://www.gmbinder.com/images/4Lp3dP8.jpg' style='position:absolute;bottom:-80px;right:-2px;width:820px; mix-blend-mode:multiply;filter:brightness(100%)saturate(120%);transform:rotate(0deg)scaleX(1)scaleY(0.8);' />
 
 
 
@@ -1682,7 +1682,7 @@ Contact: forestcolver@gmail.com
  
  <div class='back-cover-close'> 
  
-  Version 1.3.39
+  Version 1.3.40
 
  </div>
  
@@ -1718,7 +1718,7 @@ Contact: forestcolver@gmail.com
  
  Copy source code, paste into GM Binder document, and add the 'ink friendly' theme at the top of the document.
 
-<img src='https://www.gmbinder.com/images/lTI8gAj.jpg' style='position:absolute;bottom:40px;right:20px;width:320px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/lTI8gAj.jpg' style='position:absolute;bottom:5px;right:0px;width:350px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
 
  </div>
 
