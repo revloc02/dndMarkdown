@@ -18,7 +18,7 @@ Fourteen years later elves approached the loosely tied villages. Until this time
 
 <img src='https://www.gmbinder.com/images/uwZMIjE.jpg' style='position:absolute;bottom:22px;left:50px;width:290px; mix-blend-mode:multiply;filter:brightness(120%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
-The Nether Scrolls is the name for a certain set of 50 scrolls that were discovered that dealt with fundamental magic theory. The content was divided into five chapters, each consisting of ten scrolls. Each scroll was made of precious metal, gold or platinum, made flexible like paper with silvery letters floating upon the surface. The Netherese people used the Nether Scrolls to **rapidly increase their knowledge of magic**. These scrolls were among the most influential artifacts in all of Faerûn. In fact, a good portion of the sum of all magical knowledge on Toril was based on the theory described in these scrolls. After the discovery of them the arcane might of Netheril increased immeasurably.
+The Nether Scrolls is the name for a certain set of 50 scrolls that were discovered that dealt with fundamental magic theory. The content was divided into five chapters, each consisting of ten scrolls. Each scroll was made of precious metal, gold or platinum, made flexible like paper with silvery letters floating upon the surface. The Netherese people used the Nether Scrolls to **rapidly increase their knowledge of magic**. These scrolls were among the most influential artifacts in all of Faerûn. In fact, a good portion of the sum of all magical knowledge on Toril was based on the theory described in these scrolls. After obtaining them the arcane might of Netheril increased immeasurably.
 
 \columnbreak
 
