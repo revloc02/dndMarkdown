@@ -48,6 +48,14 @@ Well, there is a rumor among the small folk that the story is very different. As
 <img src='https://www.gmbinder.com/images/jipa3Il.jpg' style='position:absolute;top:-30px;left:0px;width:400px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);transform:scaleX(1)scaleY(0.9);' />
 
 
+<div style='margin-right:100px;margin-top:795px'>
+
+### Giant Runes
+
+There are legends of ancient runes of potent magical power. The lore says that the runes are from the culture of the giants, and that even creatures that have lived a very long time, even centuries, don't fully understand how to use this power.
+
+</div>
+
 \columnbreak
 
 #### Giant Hero
@@ -58,13 +66,11 @@ One of the most renowned heroes of the war was Hjurnur Wyrmrever, an incredibly 
 
 After more than a thousand years of warfare, Ostoria finally reached a truce with dragonkind. Accounts of the nature of the truce were conflicting because many races accounted the event differently. According to the dwarves, the dragons wanted to end the war with the giants because they were fighting in a violent civil war among themselves that led to the separation of the chromatic and metallic species. Giant traditions say that Annam All-Father and Garyx settled the war by playing a game of wah-ree, an ancient abstract strategy board game. The game ended in a stalemate, thus ending the war. After the end of the conflict, the giants dismantled the construct Vonindod.
 
-By the time the war concluded, Ostoria had been reduced to a shadow of its former self. On the day the truce was declared, the nation occupied only the northernmost edge of Faerûn, the areas now known as the Great Glacier, the Cold Lands, and the Savage North. Giants and dragons are still ancient enemies and are constantly on the lookout for any kind of treachery from the other. Even good giants and dragons do not trust each other.
+#### Still Ancient Emenies
 
-### Giant Runes
+By the time the war concluded, Ostoria had been reduced to a shadow of its former self. On the day the truce was declared, the nation occupied only the northernmost edge of Faerûn, the areas now known as the Great Glacier, the Cold Lands, and the Savage North. Giants and dragons are still ancient enemies and are constantly on the lookout for any kind of treachery from the other. Even good giants and good dragons do not trust each other.
 
-There are legends of ancient runes of potent magical power. The lore says that the runes are from the culture of the giants, and that even creatures that have lived a very long time, even centuries, don't fully understand how to use this power.
-
-<img src='https://www.gmbinder.com/images/gQ3IUV2.jpg' style='position:absolute;bottom:80px;left
+<img src='https://www.gmbinder.com/images/gQ3IUV2.jpg' style='position:absolute;bottom:80px;right
 :0px;width:520px; mix-blend-mode:multiply;filter:brightness(130%)saturate(290%);transform:scaleX(1)scaleY(1.3);' />
 
 <div class='footnote'>Giant Culture</div>
