@@ -15,17 +15,17 @@ Annam came across the planet of Abeir-Toril at a time before the existence of dw
 Giant traditions held that Annam stopped the Thousand Year War, after having convinced the dragon god Garyx to settle the war with a game of wah-ree. So skilled were the two opponents that game ended in a stalemate, and the war came to an end.
 ### Ostoria
 
-Ostoria (meaning "father's seat" in Jotun) was the original kingdom of the giants, founded by Annam All-Father to celebrate the last of his sons coming of age. At the peak of its power, it was dubbed "The Colossal Kingdom" because it occupied an area of Faerûn from the Vilhon Reach to the Cold Lands. As it grew, Annam split it up so that each of his favored sons could acquire part of it. The capital of Ostoria became a citadel built by Lanaxis called Voninheim.
+Ostoria (meaning "father's seat" in Jotun, an ancient giant language) was the original kingdom of the giants, founded by Annam All-Father to celebrate the last of his sons coming of age. At the peak of its power, it was dubbed "The Colossal Kingdom" because it occupied an area of Faerûn from the Vilhon Reach to the Cold Lands. As it grew, Annam split it up so that each of his favored sons could acquire part of it. The capital of Ostoria became a citadel built by Lanaxis called Voninheim.
 
 When the dragons began posing a threat (see below), Ostoria went to war with them. This war would last over a thousand years, and Ostoria was reduced greatly when the end of the war came, restricted to the north of Faerûn.
 
 Ostoria ceased to exist after the death of Ulutiu caused his amulet to freeze a large region of Faerûn's north (present-day Pelvuria), and the deaths of most of Annam's sons, despite Lanaxis's efforts to save the kingdom.
 
+\columnbreak
+
 ### Thousand Year War
 
 The Thousand Year War was an ancient conflict between dragonkind and the giant nation of Ostoria, which lasted for...wait for it...1000 years. Actually it was a little more than a thousand, but that only matters to humans. Dragons and giants still feud even though the war ended several millenia ago.
-
-\columnbreak
 
 #### Beginning
 
@@ -52,9 +52,12 @@ Well, there is a rumor among the small folk that the story is very different. As
 
 ### Giant Runes
 
-There are legends of ancient runes of potent magical power. The lore says that the runes are from the culture of the giants, and that even creatures that have lived a very long time, even centuries, don't fully understand how to use this power.
+There are legends of ancient runes of potent magical power. The lore says that the runes are from the culture of the giants, and that even creatures that have lived a very long time, even centuries, don't fully understand how to use this power. Most giants claim the runes are from ancient giant culture, but the meaning has been lost to time.
 
 </div>
+
+<img src='https://www.gmbinder.com/images/hbJy0ho.jpg' style='position:absolute;bottom:230px;left
+:10px;width:280px; mix-blend-mode:multiply;filter:brightness(100%)saturate(120%);transform:scaleX(1)scaleY(1);' />
 
 \columnbreak
 
