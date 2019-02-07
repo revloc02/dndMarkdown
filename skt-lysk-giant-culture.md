@@ -4,7 +4,7 @@
 
 <img src='https://www.gmbinder.com/images/v21ePB2.jpg' style='position:absolute;top:181px;left:20px;width:200px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:scaleX(-1)scaleY(1.2);' />
 
-Annam All-Father was a giant deity and creator of the giant race in an ancient time very, very, long ago.
+Annam All-Father, the all-knowing deity of knowledge and understanding, was a god of great passions and creator of the giant race in an ancient time very, very, long ago.
 
 <div style='margin-left:160px'>
 
