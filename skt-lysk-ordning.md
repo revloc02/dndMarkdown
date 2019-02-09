@@ -2,7 +2,7 @@
 /** Change the pg to whatever page number is the one that you want no footer design **/
 .phb#p2:after { display:none; }
 /** Change the #p to whatever page number this page ends up being in your document **/
-.phb#p2 table { font-size: 7pt; }
+.phb#p2 table { font-size: 8pt; }
 /** Change the #p to whatever page number this page ends up being in your document **/
 .phb { font-size: 8pt; }
 </style>
@@ -23,6 +23,8 @@ Giant society (such as it is) is defined in large part by the ordning, a caste s
 
 Below them are the tyrannical, warmongering fire giants and the merciless, predatory frost giants. **Fire giants** rank themselves by their forging skill, whereas **frost giants** rank themselves by their martial prowess. Near the bottom of the ordning are the xenophobic **stone giants**, who mostly live underground and regard the surface world as a realm of dreams. How well they sculpt stone determines their place among their peers. The lowest and smallest of the true giants are the **hill giants**, as gluttonous as they are loathsome. Hill giants are quite stupid, but they do understand that the biggest rule, especially amongst themselves.
 
+Each of the main giant races—the cloud, fire, frost, hill, stone, and storm giants—are called **True Giants**. They are related by common elements of history, religion, and culture. They view one another as kindred, keeping any inherent animosity over territory and ambition to a minimum.
+
 <div class='footnote'>The Ordning</div>
 
 
@@ -35,9 +37,9 @@ Below them are the tyrannical, warmongering fire giants and the merciless, preda
 
 <img src='https://www.gmbinder.com/images/Nl5ptPr.png' style='position:absolute;top:0px;left:2px;width:800px; mix-blend-mode:multiply;filter:brightness(100%)saturate(150%);' />
 
-Each of the main giant races—the cloud, fire, frost, hill, stone, and storm giants—are called **True Giants**. They are related by common elements of history, religion, and culture. They view one another as kindred, keeping any inherent animosity over territory and ambition to a minimum.
-
 There are also other giant races that are related to true giants known as **giant-kin**. Fomorian, Ettin, Ogres, and Verbeeg are typically evil, and are ranked below all other giants. All true giants considered these types of giant-kin unholy.
+
+Firbolgs were a reclusive race of giant-kin who preferred to avoid contact with other sentient races. They were both the most intelligent and the most powerful of the giant-kin. The Voadkyn were a kind of giant-kin sometimes also known as wood giants, and they lived in temperate and warm forests.
 
 **Because of the ordning, a giant knows which other giants are inferior or superior to it**. Regardless of a giant’s rank within its own race, the chief hill giant is inferior to the most common of stone giants. The lowest ranked giant of any type is superior to the highest ranked giant of an inferior type. It isn’t considered evil to disrespect or even betray a giant of another type, rather merely rude. Additionally, each of the giant races analyzes a different combination of skills or qualities to determine the ordning. Giants make excelling in these racial qualities the purpose of their lives.
 
@@ -47,10 +49,10 @@ There are also other giant races that are related to true giants known as **gian
 
 |  | Height | Giant Type | Ordning Rank | Ethnic-Ordning | Alignment | Habitat |
 |-----:|:-----:|:-----:|:----:|:-----:|:-----:|:----:|:-----:|:-----:|:----:|
-| **Verbeeg** | 9' | giant-kin | - | - | NE | varies |
 | **Voadkyn** | 9.5' | giant-kin | - | - | CG | woodlands |
-| **Ogre** | 10' | giant-kin | - | - | CE | varies |
 | **Firbolg** | 11' | giant-kin | -' | - | NG | forest |
+| **Verbeeg** | 9' | giant-kin | - | - | NE | varies |
+| **Ogre** | 10' | giant-kin | - | - | CE | varies |
 | **Ettin** | 13' | giant-kin | - | - | CE | caves |
 | **Fomorian** | 14' | giant-kin | - | - | CE | underdark |
 | **Hill** | 16' | true | 6th | size | CE | hills |
