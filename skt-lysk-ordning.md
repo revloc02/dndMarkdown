@@ -39,15 +39,17 @@ Each of the main giant races—the cloud, fire, frost, hill, stone, and storm gi
 
 There are also other giant races that are related to true giants known as **giant-kin**. Fomorian, Ettin, Ogres, and Verbeeg are typically evil, and are ranked below all other giants. All true giants considered these types of giant-kin unholy.
 
-Firbolgs were a reclusive race of giant-kin who preferred to avoid contact with other sentient races. They were both the most intelligent and the most powerful of the giant-kin. The Voadkyn were a kind of giant-kin sometimes also known as wood giants, and they lived in temperate and warm forests.
+Other good giant-kin are the Firbolgs, a reclusive race of giant-kin who preferr to avoid contact with other sentient races. They are both the most intelligent and the most powerful of the giant-kin. The Voadkyn are also good giant-kin. Sometimes they are known as wood giants, and they live in temperate and warm forests.
 
-**Because of the ordning, a giant knows which other giants are inferior or superior to it**. Regardless of a giant’s rank within its own race, the chief hill giant is inferior to the most common of stone giants. The lowest ranked giant of any type is superior to the highest ranked giant of an inferior type. It isn’t considered evil to disrespect or even betray a giant of another type, rather merely rude. Additionally, each of the giant races analyzes a different combination of skills or qualities to determine the ordning. Giants make excelling in these racial qualities the purpose of their lives.
+**Because of the ordning, a giant knows which other giants are inferior or superior to it**. Regardless of a giant’s rank within its own race, the chief hill giant is inferior to the most common of stone giants. The lowest ranked giant of any type is superior to the highest ranked giant of an inferior type. It isn’t considered evil to disrespect or even betray a giant of another type, rather merely rude.
+
+Additionally, each of the giant subraces analyzes a different combination of skills or qualities to determine the ordning. Giants make excelling in these ethnic qualities the purpose of their lives.
 
 <div class="wide">
 
 ### Giants Summary
 
-|  | Height | Giant Type | Ordning Rank | Ethnic-Ordning | Alignment | Habitat |
+|  | Height | Giant Type | Ordning Rank | Subrace-Ordning | Alignment | Habitat |
 |-----:|:-----:|:-----:|:----:|:-----:|:-----:|:----:|:-----:|:-----:|:----:|
 | **Voadkyn** | 9.5' | giant-kin | - | - | CG | woodlands |
 | **Firbolg** | 11' | giant-kin | -' | - | NG | forest |
