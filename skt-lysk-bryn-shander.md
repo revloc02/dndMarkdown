@@ -118,4 +118,4 @@ As a knight of the Order of the Gauntlet, Sir Baric has sworn oaths to catch evi
 
 
 
-<img src='https://www.gmbinder.com/images/hU7ZOH3.png' style='position:absolute;top:220px;right:-130px;width:1080px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(270deg)scaleX(1)scaleY(1.4);' />
+<img src='https://www.gmbinder.com/images/CSVbPJu.jpg' style='position:absolute;top:220px;right:-130px;width:1080px; mix-blend-mode:multiply;filter:brightness(100%)saturate(80%);transform:rotate(270deg)scaleX(1)scaleY(1.4);' />
