@@ -1,0 +1,18 @@
+<style>
+/** Change the pg to whatever page number is the one that you want no footer design **/
+.phb:after { display:none; }
+</style>
+
+<img src='https://www.gmbinder.com/images/CSVbPJu.jpg' style='position:absolute;top:620px;right:-705px;width:2220px; mix-blend-mode:multiply;filter:brightness(100%)saturate(80%);transform:rotate(270deg)scaleX(1)scaleY(1);' />
+
+\pagebreak
+
+<img src='https://www.gmbinder.com/images/TkQ5MHS.jpg' style='position:absolute;top:216px;right:-142px;width:1100px; mix-blend-mode:multiply;filter:brightness(100%)saturate(80%);transform:rotate(270deg)scaleX(1)scaleY(1.2);' />
+
+\pagebreak
+
+<img src='https://www.gmbinder.com/images/CSVbPJu.jpg' style='position:absolute;top:-430px;right:-705px;width:2220px; mix-blend-mode:multiply;filter:brightness(100%)saturate(80%);transform:rotate(270deg)scaleX(1)scaleY(1);' />
+
+\pagebreak
+
+<img src='https://www.gmbinder.com/images/CcDTQnS.jpg' style='position:absolute;top:114px;right:-150px;width:1120px; mix-blend-mode:multiply;filter:brightness(100%)saturate(80%);transform:rotate(270deg)scaleX(1)scaleY(1);' />
