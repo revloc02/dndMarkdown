@@ -1,6 +1,8 @@
 <style>
-/** Change the pg to whatever page number is the one that you want no footer design **/
-.phb#p1:after { display:none; }
+  /** Change the pg to whatever page number is the one that you want no footer design **/
+  .phb#p1:after { display:none; }
+  .phb{ background-image: url('https://www.gmbinder.com/images/iD23LYE.jpg') }
+  .phb{ background-size: cover }
 </style>
 
 <img src='https://www.gmbinder.com/images/TNw1deQ.png' style='position:absolute;top:1px;left:1px;width:814px; mix-blend-mode:multiply;filter:brightness(100%)saturate(150%);' />
