@@ -7,13 +7,9 @@
 
 <img src='https://www.gmbinder.com/images/TNw1deQ.png' style='position:absolute;top:1px;left:1px;width:814px; mix-blend-mode:multiply;filter:brightness(100%)saturate(150%);' />
 
-<div style='margin-top:1000px'></div>
+<div class="wide" style='margin-top:750px;'></div>
 
-<div class="wide" style='margin-top:300px;'>
-
-# Archery Contests
-
-## Rules
+#### Rules
 
 * Make range attacks
 * A shot is scored according to what AC it hits (see target)
@@ -21,10 +17,12 @@
 * A critical hit (20) gets an extra 1d4 for additional accuracy
 * A critical miss (1) must subtract 1d4 when calculating AC
 
-</div>
+#### Options
 
 \pagebreak
 
+
+# D&D Archery Contests
 
 ### Optional Rules
 
