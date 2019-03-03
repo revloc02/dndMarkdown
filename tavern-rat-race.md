@@ -26,7 +26,7 @@ All rats roll a d20, highest wins. Ties mean a stalemate and the rats **must** f
 
 #### Stun
 
-You are stunned and cannot move for your next movement (whether it is this turn or the next), but you still apply your Random Event.
+You are stunned and cannot move for your next movement (whether it is this turn or the next), but you still apply your Random Event. Stuns do not stack.
 
 #### Alternates
 
@@ -34,15 +34,16 @@ You are stunned and cannot move for your next movement (whether it is this turn 
 
 |  | Random Event |
 |:----:|:-----|
-| **1** | Choose a tile and rotate it |
-| **2** | Stun an opponent |
-| **3** | Gain Inspiration |
+| **1** | Stun an opponent |
+| **2** | Move an opponent 1 space |
+| **3** | Gain a Reroll to use at your leisure |
 | **4** | Move an opponent 1d4 spaces |
 | **5** | Rotate 1 random tile |
-| **6** | Move an opponent 1 space |
-| **7** | Move to closest rat, fight, loser is stunned |
-| **8** | Exchange 1 random tile with the center tile |
-| **9** | All rats move 3 spaces in a random direction, 1d8 |
+| **6** | Compel two rats to move together and fight |
+| **7** | Exchange 1 random tile with the center tile |
+| **8** | Choose a tile and rotate it |
+| **9** | All rats move 3 spaces toward the center |
 | **10** | Rotate 2 random tiles |
-| **11** | Roll twice on this table, 1d12 |
-| **12+** | Your rat ran too fast, hit a wall, and is stunned |
+| **11** | Move to closest rat, fight, loser is stunned |
+| **12** | Roll 1d12 twice on this table |
+| **13+** | Your rat ran too fast, hit a wall, and is stunned |
