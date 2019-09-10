@@ -964,7 +964,7 @@ Whenever a character scores a critical hit they do **maximum damage plus one ext
 
 ### Drinking Potions
 
-**Potions** are small and can be quaffed as a **Bonus Action**. But administering a potion to another character is an action.
+**Potions** are small and can be quaffed as a **Bonus Action**. But administering a potion to another character is an action. Any potion administered out of combat over the course of a full minute will result in maximum possible healing points (no dice roll is necessary).
 
 ### Resting
 
