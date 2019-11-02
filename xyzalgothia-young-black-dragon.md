@@ -1,5 +1,5 @@
  ___
- > ## Xyzalgothia
+ > ## Xyzalgothia, Heartspoiler
  >*Epic large young black dragon, chaotic evil*
  > ___
  > - **Armor Class** 18 (Natural Armor)
