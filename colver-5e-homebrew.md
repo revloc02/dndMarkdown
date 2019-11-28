@@ -868,6 +868,33 @@ Examples: rule a dominion as king or emperor, create a major artifact, explore w
 
 
 
+### Quests
+
+A Character Quest is an immediate goal for the character to be actively attempting to accomplish. Ideally quests should enhance and/or develop the character's depth, back-story, or personality.
+
+_It is not typical for a player in D&D to invent storylines, this is almost always left to the DM. But Quests encourage players to participate in the creation of the story and story arcs. Embrace this._
+
+
+#### Purpose
+The purpose of a quest is so that the DM can regularly reward the player with XP for something other than killing monsters. Quests should be something related to the Character's Background so that non-mechanical character development continues.
+
+#### Rewards
+Rewards should be negotiated with the DM. Quest rewards can simply be XP, or they can be anything the DM would like to award, i.e. Feats, Class Features, magic items, or other abilities. The DM can freely hand out rewards even if only steps were taken in advancing a Quest or the storyline of one of a character's Quests.
+
+#### Example Quests
+* A settlement has fallen under the unjust rule of a cruel leader. What leverage do they hold over these people? What is your connection to the community? What can be done to overthrow this tyrant?
+* You have come across or learned of a rich unclaimed resource. What hazards must be overcome before a claim can be established? What force opposes you?
+* Your dreams are haunted by visions of a pillar which stands in an unfamiliar landscape. What do you see? Why are you sworn to seek it out?
+
+<img src='https://www.gmbinder.com/images/hpAsAVH.png' style='position:absolute;bottom:20px;right:20px;width:455px; mix-blend-mode:multiply;filter:brightness(120%)saturate(120%);transform:rotate(0deg)scaleX(1.2)scaleY(1);' />
+
+
+
+\pagebreakNum
+
+
+
+
 ## Optional: Pre-Levels
 
 The concept of pre-levels is adding one or more character levels before level 1. In general, abilities and feats that a character class has at level 1, would then be divided among the pre-levels to generate a gradual progression leading up to level 1.
