@@ -885,8 +885,17 @@ Rewards should be negotiated with the DM. Quest rewards can simply be XP, or the
 * A settlement has fallen under the unjust rule of a cruel leader. What leverage do they hold over these people? What is your connection to the community? What can be done to overthrow this tyrant?
 * You have come across or learned of a rich unclaimed resource. What hazards must be overcome before a claim can be established? What force opposes you?
 * Your dreams are haunted by visions of a pillar which stands in an unfamiliar landscape. What do you see? Why are you sworn to seek it out?
+* You have vivid reoccurring dreams of a city. It has strong stone walls, bustling markets, and a keep on a high hill. And so many people! Nowhere in the land does such a city exist. In your dreams, you are the ruler of this city. Somehow, no matter how long it takes, you must make this vision a reality.
+* You come upon a dying warden. She tells you of an important mission, and charges you with its completion. “Swear to me,” she says, reaching out with a bloodied hand to give you an object crucial to the quest. What is it?
+* Someone you love walked the paths of power, and succumbed to it. Who are they? Why did they fall into darkness? Where are they now? Do you seek to save them or defeat them?
+* You bear the mark of a god. What is it? The priests declare this as a sign you are chosen to fulfill a destiny. Do you accept this fate, and swear to see it through, or are you determined to see it undone? What force opposes you?
+* You were witness to an attack by what you thought was an animal of monstrous proportions. No one believes you. In fact, you are accused of the murder you blame on this beast. How can you prove your innocence? Can you even trust your own memories of the event?
+* You are consumed with the need to bring vengeance upon a specific monster, why? What makes this creature distinctive? Is the creature still causing harm or is it fleeing your vengeance so you now have to hunt it? Is your rage so blind that you overlook the needs of others?
+* You bear the scars of an attack by a horror. What was it? Are those scars physical, emotional, or both? How do you seek to make yourself whole again?
+* An elder wolf (or some other beast), white as snow, appears to you in a dream. When you wake, the memory of its piercing gaze lingers. Is the vision a dark portent or a promise? Why are you compelled to seek this beast out?
+* Two prominent families are at odds. What is the source of the conflict? What is your relationship to them? What danger threatens to destroy their community if they can’t put aside their petty squabble?
 
-<img src='https://www.gmbinder.com/images/hpAsAVH.png' style='position:absolute;bottom:20px;right:20px;width:455px; mix-blend-mode:multiply;filter:brightness(120%)saturate(120%);transform:rotate(0deg)scaleX(1.2)scaleY(1);' />
+<img src='https://www.gmbinder.com/images/hpAsAVH.png' style='position:absolute;bottom:20px;right:20px;width:415px; mix-blend-mode:multiply;filter:brightness(120%)saturate(120%);transform:rotate(0deg)scaleX(1.2)scaleY(1);' />
 
 
 
