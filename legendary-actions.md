@@ -1,6 +1,6 @@
 ## Legendary Template
 
-Legendary Actions are one of the best-regarded mechanics of D&D 5e, providing DMs the tools to accurately portray the deadliness of higher-level creatures. You know you are in trouble when the dragon simply retaliates your sword slash with a tail sweep without even waiting for its own turn.
+Legendary Actions, when a creature acts out-of-turn, are one of the best-regarded mechanics of D&D 5e, providing DMs the tools to accurately portray the deadliness of higher-level creatures. You know you are in trouble when the dragon simply retaliates your sword slash with a tail sweep without even waiting for its own turn.
 
 This feature along with Legendary Resistance however is restricted to very powerful monsters, those we call--quite appropriately--legendary. These rules allow a way to incorporate such mechanics to lesser threats, making them more interesting and providing the DM with more options.
 
@@ -19,7 +19,7 @@ Modifying a creature to one of the five tiers allows them the capability of taki
 | Boss      | 1   | +2 |
 | Epic      | 2   | +3 |
 | Legendary | 3   | +4-5<sup>†</sup> |
-| Godly     | 4-5 | +6-7<sup>†</sup> |
+| Godly     | 4-5 | +6-8<sup>†</sup> |
 
 \* Legendary Actions per **round**
 
