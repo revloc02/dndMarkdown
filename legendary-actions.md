@@ -42,7 +42,7 @@ ___
 
 #### Legendary Actions
 
-Modified creatures can perform the following Legendary Actions after another creature’s turn (i.e. not on it's turn, or out of turn), provided they can “pay” the action cost for them. For example, an elite creature will not be able to perform Legendary Actions that cost 2 actions because they can only take 1 such action per round. The creature regains spent Legendary Actions at the start of its turn.
+Modified creatures can perform the following Legendary Actions after another creature’s turn (i.e. not on it's turn, or out of turn), provided they can “pay” the action cost for them. For example, an elite creature will not be able to perform Legendary Actions that cost 2 actions because they can only take 1 such action per round. The creature regains spent Legendary Actions at the start of its regular turn.
 
 * **Attack:** The creature makes a single melee or ranged attack.
 * **Move:** The creature moves up to its speed without provoking attacks of opportunity.
