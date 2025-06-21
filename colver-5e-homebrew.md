@@ -500,40 +500,30 @@ A player **announces** their intent to **receive Inspiration** when doing one of
 \pagebreakNum
 
 
-# Spending Inspiration / Hero Points
+## Spending Inspiration / Hero Points
 
 These rules allow players to bend the limits of reality through inspired, heroic, or dramatic action. When spending Inspiration (also known as Hero Points), players are encouraged to narrate how their character's actions are inspired, inspiring, or otherwise heroic.
 
-## General Guidelines
+### General Guidelines
 - **Spending Inspiration**: Players use points from the shared or individual Inspiration Pool.
 - **Narration**: Each use should be accompanied by a short, thematic description that fits the moment.
 - **Timing**: Unless otherwise stated, Inspiration must be spent before the result of a roll is known.
 
 ---
 
-## Inspiration Options
+### Inspiration Options
 
-### **Advantage (1 Inspiration)**
-Gain Advantage on any attack roll, saving throw, or ability check.  
-*Must be declared before the roll is made.*
-
----
-
-### **Reroll 1–2 Damage Dice (1 Inspiration)**
-Reroll a damage roll that used **1 or 2 dice** (e.g., 1d8, 2d6).  
-You must keep the result of the second roll, even if it’s worse.
-
----
-
-### **Stunt (1+ Inspiration)**
-Declare a **Stunt** to modify any action, adding flair or extraordinary effect.
-
-- Must be declared before attempting the action.  
-- Inspiration is spent regardless of success.  
-- If part of an Attack action and the attack hits, apply **one additional effect** (e.g., trip, disarm, daze).  
-- Multiple Stunts may be applied to a single action (1 point each).  
-- Final outcome is subject to DM approval. See [Appendix E](#appendix-e-stunt-examples) for ideas.  
-- **Exceptional success** (e.g., natural 20 + high damage) may result in a **refunded point** at the DM's discretion.
+* **1 Inspiration**
+	* **Advantage:** Gain Advantage on any attack roll, saving throw, or ability check.
+	* **Reroll:** Reroll a damage roll that used **1 or 2 dice** (e.g., 1d8, 2d6). You must keep the result of the second roll, even if it’s worse.
+	* **Stunt (1+ Inspiration):** Declare a **Stunt** to modify any action, adding flair or extraordinary effect.
+		- Must be declared before attempting the action.  
+		- Inspiration is spent regardless of success.  
+		- If part of an Attack action and the attack hits, apply **one additional effect** (e.g., trip, disarm, daze).  
+		- Multiple Stunts may be applied to a single action (1 point each).  
+		- Final outcome is subject to DM approval. See [Appendix E](#appendix-e-stunt-examples) for ideas.  
+		- **Exceptional success** (e.g., natural 20 + high damage) may result in a **refunded point** at the DM's discretion.
+* **2 Inspiration**
 
 ---
 
