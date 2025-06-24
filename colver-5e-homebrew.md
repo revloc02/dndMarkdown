@@ -490,7 +490,7 @@ A player **announces** their intent to **receive Inspiration** when doing one of
 >   * Take an **Extra Action** (3)
 >   * **Remove Exhaustion** (4)
 >   * **Cheat Death** (5+)
->   * **Recall** a Spell or Special Ability (lvlx2)
+>   * **Recall** a Spell or Special Ability (Lvl x2)
 >   * Something **Special** (X)
 
 <img src='https://www.gmbinder.com/images/mkSmfJp.jpg' style='position:absolute;bottom:0px;right:-10px;width:430px; mix-blend-mode:multiply;filter:brightness(110%)saturate(140%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
@@ -498,6 +498,8 @@ A player **announces** their intent to **receive Inspiration** when doing one of
 
 
 \pagebreakNum
+
+---
 
 
 ## Spending Inspiration / Hero Points
@@ -508,8 +510,6 @@ These rules allow players to bend the limits of reality through inspired, heroic
 - **Spending Inspiration**: Players use points from the shared or individual Inspiration Pool.
 - **Narration**: Each use should be accompanied by a short, thematic description that fits the moment.
 - **Timing**: Unless otherwise stated, Inspiration must be spent before the result of a roll is known.
-
----
 
 ### Inspiration Options
 
@@ -524,70 +524,18 @@ These rules allow players to bend the limits of reality through inspired, heroic
 		- Final outcome is subject to DM approval. See [Appendix E](#appendix-e-stunt-examples) for ideas.  
 		- **Exceptional success** (e.g., natural 20 + high damage) may result in a **refunded point** at the DM's discretion.
 * **2 Inspiration**
-
----
-
-### **Act Out of Turn (2 Inspiration)**
-Take your turn immediately, interrupting initiative.
-
-- Your new initiative becomes just **before** the currently acting creature.  
-- Treated as a **Readied Action**.
-
----
-
-### **Reroll 3–6 Damage Dice (2 Inspiration)**
-Reroll a damage roll that used **3 to 6 dice**.  
-You must keep the new result.
-
----
-
-### **Reroll (2 Inspiration)**
-Reroll a single **Attack Roll** or **Skill Check**.  
-You must accept the new result.
-
----
-
-### **Impose Skill Check Disadvantage (2 Inspiration)**
-Before a creature makes a **Skill Check**, impose **Disadvantage** on their roll.  
-*Must be declared before the roll.*
-
----
-
-### **Revelation (2+ Inspiration)**
-If the party is stuck, spend **2 Inspiration (or more)** to request a helpful clue or hint from the DM.
-
-- If no clue is possible, some or all points may be refunded.  
-- Intended for significant narrative progression.
-
----
-
-### **Reroll 7+ Damage Dice or Saving Throw (3 Inspiration)**
-Reroll a damage roll using **7 or more dice**, or reroll a **Saving Throw**.  
-You must keep the new result.
-
----
-
-### **Impose Attack Roll Disadvantage (3 Inspiration)**
-Before a creature makes an **Attack Roll**, impose **Disadvantage**.  
-*Must be declared before the roll.*
-
----
-
-### **Extra Action (4 Inspiration)**
-Gain an extra **Move, Action, Bonus Action, Interaction, or Reaction** during your turn.
-
-- May not be used to cast an additional leveled spell unless permitted by other rules.
-
----
-
-### **Impose Saving Throw Disadvantage (4 Inspiration)**
-Before a creature makes a **Saving Throw**, impose **Disadvantage**.  
-*Must be declared before the roll.*
-
----
-
-### **Remove Exhaustion (5 Inspiration)**
-Remove **one level of Exhaustion** from yourself or another creature.
+	* **Act Out of Turn:** Take your turn immediately, out of normal initiative order, for this round only. Treated as a **Readied Action**.
+	* **Reroll:** Reroll a single **Attack Roll** or **Skill Check**, or a damage roll with up to 6	dice. You must keep the new result.
+	* **Impose Skill Check Disadvantage:** Before a creature makes a **Skill Check**, impose **Disadvantage** on their roll.  
+	* **Revelation (2+ Inspiration):** If the party is stuck, spend **2 Inspiration (or more)** to request a helpful clue or hint from the DM. If no clue is possible, some or all points may be refunded. Intended for significant narrative progression.
+* **3 Inspiration**
+	* **Reroll 7+ Damage Dice or Saving Throw:** Reroll a damage roll using **7 or more dice**, or reroll a **Saving Throw**. You must keep the new result.
+	* **Impose Attack Roll Disadvantage:** Before a creature makes an **Attack Roll**, impose **Disadvantage**.
+* **4 Inspiration**
+	* **Extra Action:** Gain an extra **Move, Action, Bonus Action, Interaction, or Reaction** during your turn. May not be used to cast an additional spell.
+	* **Impose Saving Throw Disadvantage:** Before a creature makes a **Saving Throw**, impose **Disadvantage**.  
+* **5 Inspiration**
+	* **Remove Exhaustion:** Remove **one level of Exhaustion** from yourself or another creature.
 
 ---
 
