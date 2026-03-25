@@ -213,32 +213,33 @@ Think of commissioning high-level magic like commissioning a major construction 
 
 
 
-# D&D Player Etiquette
+# Player Etiquette
 
-Dungeons & Dragons is a **collaborative** game, so always remember you are **telling a story together**. You are not only playing just to be entertained, but also to entertain (others), so put forth effort to do so. Here are some simple guidelines for helping to make the D&D session great.
-
+D&D is a **collaborative** game — you're here to **tell a story together**. That means your job isn't just to be entertained, but to entertain. Put in the effort, and everyone's experience improves. Here are some simple guidelines for making every session great.
 
 * **Be present:**
-  * Don't check out, or space off. You get as much fun out of the game as you put into it. If you start getting bored:
+  * Stay engaged. You get as much fun out of the game as you put in. If you find yourself drifting:
     * Help the DM or another player
-    * Look up something you’ve been curious about
-    * Work on character Aspects or depth
-    * Use your imagination to help the game come alive, and then share that
-* **Be helpful:**
-  * Bring your electronic devices and use them.
-  * Learn the rules. You don't have to know everything or learn it all at once, but take time to look things up.
-  * Do not look at any of the DMs notes, dice rolls, books, or desk. Stay in your seat!
+    * Look up something you've been curious about
+    * Work on your character's background or personality
+    * Use your imagination to bring the world alive — then share it
 
+* **Be helpful:**
+  * Bring your devices and use them as a resource.
+  * Learn the rules over time. You don't need to know everything at once, but make an effort to look things up.
+  * Do not look at the DM's notes, dice rolls, books, or desk. Stay in your seat.
+  
 \columnbreak  
 
 * **Be ready:**
-  * Five minutes before and after every session, you will review your character: prepare spells, checking hps, look at an item’s charges, erase potions, and making sure your character is ready to be played with.
-  * When it is not your turn, be thinking of what you want to do. If you are not sure about how to do something, start looking it up on your own (instead of waiting to ask the DM about it). Or ask another player about it.
+  * Take five minutes before and after each session to review your character: prepare spells, check HP, track item charges, note any used potions, and make sure your sheet is up to date.
+  * When it isn't your turn, think ahead about what you want to do. If you're unsure about a rule, look it up yourself or ask another player rather than waiting for the DM.
+
 * **Have fun:**
-  * Use your imagination to enjoy the current scene more.
-  * Be more descriptive about what you are doing and how your character is doing it.
-  * You must roll in the dice tower with a witness.
-  * If someone else dictates the party is doing something you don’t want to do, you don’t have to do it. But, you must offer another alternative, or specifically explain what your character is doing instead.
+  * Lean into the current scene — use your imagination to get more out of it.
+  * Be descriptive. Say what your character does *and* how they do it.
+  * All rolls must be made in the dice tower with a witness.
+  * If the party decides to do something you disagree with, your character doesn't have to go along with it — but you must either propose an alternative or clearly explain what your character is doing instead.
 
 <img src='https://www.gmbinder.com/images/pWsevDh.jpg' style='position:absolute;bottom:40px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(130%)saturate(150%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
