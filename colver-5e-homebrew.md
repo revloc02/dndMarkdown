@@ -150,61 +150,60 @@
 
 
 
+
 # Campaign World Setting
 
-The world in which you play is low magic but epic fantasy. What does that mean? It means, that magic and magic items are rare and special, but the player characters are also rare and special. They are the heroes and will rise as such, and eventually become as epic and legendary as the players can imagine.
+This is a **low magic, epic fantasy** setting. Magic and magic items are rare and precious — but so are the player characters. They are exceptional individuals who will grow into legends as grand as the players can imagine.
 
 ### Adventurers are Rare
 
-Adventuring is not an occupation, rather it is a side effect of fulfilling a more pressing need—saving the town, completing the quest from the Duke, or finding the lost princess.
+Adventuring isn't a profession. It's what happens when ordinary people are driven by extraordinary circumstances — saving a town, fulfilling a duke's quest, or finding a lost princess.
 
 <div class='descriptive'>
 
-**DM Note:** When using official D&D content where there is frequent mention of adventurers, often replacing that with mercenaries is a suitable substitute.
+**DM Note:** In official D&D content, "adventurers" can usually be replaced with "mercenaries" without issue.
 
 </div>
 
 ### Magic is Uncommon
 
-Magic is...well, magical. Cantrips are fairly common, but anything above that becomes rare pretty quickly.
+Magic is, well, *magical*. Cantrips appear here and there, but anything beyond that becomes rare quickly.
 
 ### Magic Items are Very Rare
 
-There is no such thing as a magic shop. Sometimes it is possible to find someone who sells some potions, and there is the occasional odd sale of a common (speaking relatively) magic item, but generally magic items, although real, are very rare.
+There are no magic shops. Potions can occasionally be found for sale, and a common magic item might surface now and then — but overall, magic items are a genuine rarity in the world.
 
 <div class='descriptive'>
 
-**DM Note:** This isn't about changing the way treasure is doled out to the party, rather it is much more about the world around them. The PCs are the heroes of the story, so they are going to find wonderful treasures, even a lot of magic items, but this is very unusual in the world.
+**DM Note:** This is about the world, not the players' treasure. The PCs are heroes, and they'll find wonderful — even magical — rewards. That's exactly what makes them exceptional.
 
 </div>
 
 ### Class Levels are Uncommon
 
-There are NPCs with Class levels, but these are rather uncommon, and are usually the leaders of the world who have some experience.
+Some NPCs have class levels, but they tend to be leaders, veterans, or people shaped by hardship. As a general guide:
 
-* Levels 1-3 are fairly common. Lots of folks across the land can level-up from training or defending their homes and cities from time to time.
-* Levels 4-6 are uncommon. Many of the leaders—from Captain of the Guard to Guild Leader to Temple Priest, as well as the local feudal lord—are in this category.
-* Levels 7-8 are rare. This consists of the greatest heroes, generals, high priests, and feudal leaders.
-* Levels 9-10 are very rare. Only the most powerful kings and greatest arch-mages attain this level.
-* Levels 10+ are only known in legends. Campaign humanoid NPCs with class levels will not exist in this category, thus PC adversaries will be high CR monsters.
+* **Levels 1–3** are fairly common. Many people across the land have picked up a level or two from training or defending their homes.
+* **Levels 4–6** are uncommon. Most leaders fall here — Captains of the Guard, Guild Leaders, Temple Priests, and minor feudal lords.
+* **Levels 7–8** are rare. The greatest heroes, generals, high priests, and prominent rulers.
+* **Levels 9–10** are very rare. Only the most powerful kings and arch-mages reach this height.
+* **Levels 10+** exist only in legend. No humanoid NPC in this campaign will exceed level 10 — at high levels, the PCs' adversaries will be powerful monsters, not rival characters.
 
-A town militia would consist of a bunch of peasants run by a 1st or 2nd level Fighter. City guards would be no more than 3rd level, with a Captain that is 3rd to 5th level. Renowned heroes, a king's Champion, or feudal lords would be 8th level, some might be as high as 10th level but that would be fairly unique. The great and powerful wizard studying in his tower would be 6th to 10th level. Achilles, Aragorn and Legolas, Conan, and Drizzt are examples of legendary characters that might be 10th level as they are powerful, competent, and heroic, but not invincible. Most people are just ordinary people and class levels are exceptional.
+To put it in concrete terms: a town militia is a group of farmers led by a 1st or 2nd level Fighter. City guards top out around 3rd level, with a Captain between 3rd and 5th. Renowned heroes and feudal lords might reach 8th level, with a rare few hitting 10th. Think Achilles, Aragorn, Conan, or Drizzt — powerful, competent, and heroic, but not invincible. Most people are simply ordinary folk, and class levels are the exception.
 
-But none of this prevents any player character from attaining any levels all the way to 20th, or beyond, if the DM has parameters for it.
+None of this limits the players. Player characters can reach level 20 or beyond.
 
 ### Epic 10
 
-This essentially outlines what is called Epic 10. In other words, the pinnacle of human achievement a person can reach by ordinary means is level 10. The point of Epic 10 is not to limit the players, but to limit the world around them. Players are clever, ambitious, and always surprising. Players will find ways to circumvent any limitation or obstacle in front of them.
+The rules above describe what's called **Epic 10**: the highest level of achievement a person can reach through ordinary means is level 10. This is a constraint on the *world*, not on the players.
 
-However, in an Epic 10 world, there is no magic higher than level 5. This means teleportation is limited, resurrection is much harder to find, advanced scrying is restricted, wishes are extremely rare, and many other powerful spells are unavailable through conventional means.
+In an Epic 10 world, no spell above 5th level exists in everyday use. That means teleportation is limited, resurrection is hard to come by, advanced scrying is restricted, and wishes are extraordinarily rare.
 
 #### Higher Level Magic
 
-Magic more powerful than level 5 spells are still possible and still exist in the world, but they are not utility magics that can be cast in seconds or minutes.
+Spells above 5th level do still exist — they're just not quick or convenient. Rather than a single caster spending a few seconds or minutes, powerful magic typically requires a coven of witches, a circle of druids, or an order of wizards working together over weeks of planning, preparation, and concentration.
 
-Frequently, it takes a coven of witches, a circle of druids, or an order of wizards weeks of planning, preparation and concentration to perform more powerful magics.
-
-While these magics may be available to players, it is not quick, easy, or cheap. Commissioning a high-level spell is like embarking on a construction project, with all the complications that go with it.
+Think of commissioning high-level magic like commissioning a major construction project: it's possible, but it takes time, resources, and coordination — and things can go wrong.
 
 <img src='https://www.gmbinder.com/images/vXXUhrW.png' style='position:absolute;bottom:25px;right:-60px;width:550px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
 
