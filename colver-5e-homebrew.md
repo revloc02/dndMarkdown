@@ -149,8 +149,6 @@
 
 
 
-
-
 # Campaign World Setting
 
 This is a **low magic, epic fantasy** setting. Magic and magic items are rare and precious — but so are the player characters. They are exceptional individuals who will grow into legends as grand as the players can imagine.
@@ -175,7 +173,7 @@ There are no magic shops. Potions can occasionally be found for sale, and a comm
 
 <div class='descriptive'>
 
-**DM Note:** This is about the world, not the players' treasure. The PCs are heroes, and they'll find wonderful — even magical — rewards. That's exactly what makes them exceptional.
+**DM Note:** This is about the world, not the players' treasure. The PCs are heroes, and they'll find wonderful — even magical — rewards. But unlike the world around them, they'll earn those rewards through adventure. A magic item won't be something anyone can buy down the street — it will be a rare and precious find that sets them apart.
 
 </div>
 
@@ -191,19 +189,22 @@ Some NPCs have class levels, but they tend to be leaders, veterans, or people sh
 
 To put it in concrete terms: a town militia is a group of farmers led by a 1st or 2nd level Fighter. City guards top out around 3rd level, with a Captain between 3rd and 5th. Renowned heroes and feudal lords might reach 8th level, with a rare few hitting 10th. Think Achilles, Aragorn, Conan, or Drizzt — powerful, competent, and heroic, but not invincible. Most people are simply ordinary folk, and class levels are the exception.
 
-None of this limits the players. Player characters can reach level 20 or beyond.
+None of this limits the players. Player characters can reach level 20 or beyond — and as they do, they will have no equals in the world.
 
 ### Epic 10
 
-The rules above describe what's called **Epic 10**: the highest level of achievement a person can reach through ordinary means is level 10. This is a constraint on the *world*, not on the players.
+The rules above describe what's called **Epic 10**: the highest level of achievement a person can reach through ordinary means is level 10. This is a constraint on the *world*, not on the players' characters — and that distinction is what makes it exciting.
 
-In an Epic 10 world, no spell above 5th level exists in everyday use. That means teleportation is limited, resurrection is hard to come by, advanced scrying is restricted, and wishes are extraordinarily rare.
+Because the world's ceiling is level 10, the players' characters become increasingly rare and remarkable as they grow. Every level gained, every magic item found, every feat accomplished sets them further apart from everyone around them. Other adventurers exist, but they are few, and none are destined for what these characters are. The world is the stage, and these characters are the ones the story is about.
+
+In an Epic 10 world, no spell above 5th level exists in everyday use. That means teleportation is limited, resurrection is hard to come by, advanced scrying is restricted, and wishes are extraordinarily rare. This isn't just a mechanical constraint — it means the players will encounter wonders that the rest of the world can barely imagine.
 
 #### Higher Level Magic
 
 Spells above 5th level do still exist — they're just not quick or convenient. Rather than a single caster spending a few seconds or minutes, powerful magic typically requires a coven of witches, a circle of druids, or an order of wizards working together over weeks of planning, preparation, and concentration.
 
 Think of commissioning high-level magic like commissioning a major construction project: it's possible, but it takes time, resources, and coordination — and things can go wrong.
+
 
 <img src='https://www.gmbinder.com/images/vXXUhrW.png' style='position:absolute;bottom:25px;right:-60px;width:550px; mix-blend-mode:multiply;filter:brightness(100%)saturate(100%);transform:rotate(0deg)scaleX(1)scaleY(1);' />
 
@@ -248,10 +249,9 @@ D&D is a **collaborative** game — you're here to **tell a story together**. Th
 \pagebreakNum
 
 
-
 # Dying
 
-These rules replace Death Saving Throws. Falling unconscious and rolling one die every turn to see if the player will continue playing is actually not that fun. Allowing the character **continued freedom to act** and make interesting choices is engaging to the player. This makes for a slightly grittier game, but not as unforgiving as 1e rules where 0 HPs means immediate death. These rules also add some realism without adding a lot of complexity.
+These rules replace Death Saving Throws. Falling unconscious and rolling a single die each turn isn't particularly fun — it sidelines a player and turns them into a spectator. These rules keep the character **free to act and make meaningful choices** even at the brink of death, which is far more engaging. The result is a grittier game than standard 5e, but far more forgiving than older editions where 0 HP meant instant death. It adds realism without adding complexity.
 
 > #### Dying Summary
 > - Death Saves are no longer used
@@ -265,62 +265,73 @@ These rules replace Death Saving Throws. Falling unconscious and rolling one die
 >   - **Suffer Damage:** +1 Exhaustion
 >   - **Suffer Crit Hit:** +2 Exhaustion
 >   - **Damage >= HP max:** instant death
-> - **Regain HP:** **Dying** removed (Exhaustion remains)
+> - **Regain HP:** **Dying** condition removed (Exhaustion remains)
 > - **Stabilized:** actions to stabilize **restore 1 HP**
-> - **First Aid:** Medicine check to stabilize any creature you can touch **DC = 10 + targets exhaustion level**
+> - **First Aid:** Medicine check to stabilize any creature you can touch **DC = 10 + target's exhaustion level**
 
 ### Zero Hit Points
 
-When a character drops to zero hit points the character **does not fall unconscious**, rather he gains the **Dying** condition, concentration is broken, and they gain 1 level of Exhaustion. **The character can still perform actions on their turn.** Note that the _Instant Death_ (PHB, p. 197) rules still apply as per RAW when massive damage is taken.
+When a character drops to zero hit points, they **do not fall unconscious**. Instead, they gain the **Dying** condition, concentration is broken, and they gain 1 level of Exhaustion. **The character can still act on their turn.** Note that the *Instant Death* rule (PHB p. 197) still applies when massive damage is taken.
 
 ### Dying Condition
 
-_The Dying condition indicates a character is on their way to death and allows multiple rounds to do something about it before they expire. By imposing Exhaustion, urgency is created without removing the characters ability to act. The closer a character gets to death (Exhaustion level 6) the longer it takes for him to recover from the shell shock of that situation—potentially multiple days to remove all levels of Exhaustion. These lingering effects (as per the Exhaustion levels) are realistic as the character has had a brush with death._
+*The Dying condition means a character is on their way to death — but there are still rounds left to do something about it. Exhaustion creates urgency without removing the character's ability to act. The closer a character gets to death (Exhaustion level 6), the longer recovery takes — potentially multiple days to shake off the physical and mental toll. These lingering effects are intentional: a brush with death leaves a mark.*
 
-**Dying** is a special condition that simply means a creature has 0 hit points and is not dead yet. A creature obtains the **Dying** condition immediately when they drop to 0 hit points and looses the condition as soon as they gain any hit points.
+**Dying** simply means a creature has 0 hit points and is not yet dead. A creature gains the **Dying** condition immediately upon dropping to 0 hit points, and loses it as soon as they regain any hit points.
 
-The **Dying** condition causes the creature to suffer **+1 Exhaustion** level 1) immediately, 2) at the end of their turn, 3) when they take damage.
+While **Dying**, a creature suffers **+1 Exhaustion** in three circumstances: 1) immediately upon gaining the condition, 2) at the end of each of their turns, and 3) whenever they take damage.
 
-**Dying** creatures are conscious. As such spells like _Sleep_ will still affect them. 
+**Dying** creatures remain conscious. Spells like *Sleep* can still affect them.
 
-Exhaustion gained from **Dying** does not end when the **Dying** condition is lost unless the healing method specifically describes also removing levels of exhaustion. Exhaustion gained from **Dying** is like all other exhaustion. As per RAW if a creature gains the sixth level of exhaustion, it is dead. See _Exhaustion_ in _Conditions_ (PHB p. 291) for complete information.
+Exhaustion gained from the **Dying** condition does not automatically end when the condition is removed — it persists like any other Exhaustion unless the healing method specifically removes it. If a creature reaches the sixth level of Exhaustion, it dies. See *Exhaustion* in *Conditions* (PHB p. 291) for full details.
 
-#### Damage while Dying.
+#### Damage while Dying
 
-If you take any damage while you are **Dying**, you suffer **+1 Exhaustion** level. If you receive a critical hit, you suffer **+2 Exhaustion** levels. If the damage equals or exceeds your hit point maximum, you suffer instant death.
+Taking any damage while **Dying** causes **+1 Exhaustion**. A critical hit causes **+2 Exhaustion**. If the damage equals or exceeds your hit point maximum, you die instantly.
 
-#### Stabilizing a Dying Creature.
+#### Stabilizing a Dying Creature
 
-Effects that invoke the ***stabilize*** result on a **Dying** creature now do so by healing for one hit point. Stabilization via Medicine is possible (see [Medicine Skill](#dying-medicine-and-healer-medicine-skill)).
+Any effect that would normally *stabilize* a **Dying** creature instead restores 1 hit point. Stabilization through Medicine is also possible (see [Medicine Skill](#dying-medicine-and-healer-medicine-skill)).
 
 ### Optional Rules
 
-**Falling Prone Instead:** When the **Dying** condition imposes suffering **+1 Exhaustion** levels the player may choose that their character instead falls prone. This option is only available if the character has not already been prone this turn.
+**Falling Prone Instead:** When the **Dying** condition would impose **+1 Exhaustion**, the player may choose to have their character fall prone instead. This option is only available if the character hasn't already fallen prone this turn.
 
-**"Dying" Survivor Injury:** Creatures that have been stabilized from **Dying** have been at deaths door, which is a very traumatic situation. It may be appropriate to roll on the "Lingering Injuries Table" (DMG ch9) for the creature.
+**Survivor Injury:** A creature pulled back from the brink has been through something traumatic. It may be appropriate to roll on the Lingering Injuries Table (DMG ch. 9) for any creature stabilized from the **Dying** condition.
 
 ### Note: Exhaustion Removal
-Levels of Exhaustion can be removed in the following ways:
 
-- Greater Restoration spell reduces the target's exhaustion level by one (RAW)
-- Potion of Vitality: removes all exhaustion (RAW)
-- Finishing a long rest reduces a creature's exhaustion level by one, provided that the creature has also ingested some food and drink (RAW)
-- You can use a Healer’s Kit and a Medicine check to remove an extra Exhaustion (see [Healer’s Kit](#dying-medicine-and-healer)) during a long rest (HBR)
-- You may spend Inspiration (see [Pool Inspiration](#pool-inspiration)) to reduce Exhaustion (HBR)
+Exhaustion levels can be removed in the following ways:
+
+- *Greater Restoration* reduces the target's exhaustion level by one (RAW)
+- *Potion of Vitality* removes all exhaustion (RAW)
+- Finishing a long rest reduces exhaustion by one level, provided the creature has eaten and drunk (RAW)
+- A Healer's Kit and a Medicine check can remove an additional Exhaustion level during a long rest (see [Healer's Kit](#dying-medicine-and-healer)) (HBR)
+- Spending Inspiration (see [Pool Inspiration](#pool-inspiration)) can reduce Exhaustion (HBR)
 
 <div class='descriptive'>
 
-##### Exhaustion 
-* 1 - Disadvantage on ability checks
-* 2 - Speed halved
-* 3 - Disadvantage on attack rolls and saving throws
-* 4 - Hit point maximum halved
-* 5 - Speed reduced to 0
-* 6 - Death
+##### Exhaustion
+* 1 — Disadvantage on ability checks
+* 2 — Speed halved
+* 3 — Disadvantage on attack rolls and saving throws
+* 4 — Hit point maximum halved
+* 5 — Speed reduced to 0
+* 6 — Death
 
 Reference (PHB p. 291)
 
 </div>
+
+---
+
+### Example: Farideh at the Bridge of Ashford
+
+The battle at the Bridge of Ashford has gone badly. Farideh, a tiefling warlock, takes a devastating blow from a hill giant's club and drops to 0 HP. Under normal rules she'd crumple to the ground, her turn over, her fate in the dice's hands. Instead, she gains the **Dying** condition and 1 level of Exhaustion — and she is still standing.
+
+On her turn, battered and bleeding, Farideh uses her action to hurl an *Eldritch Blast* at the giant, buying her allies precious seconds. But the cost is steep: at the end of her turn, she suffers another level of Exhaustion — now at 2, her speed is halved. The giant swings again and connects, pushing her to Exhaustion 3. Her attack rolls are now at Disadvantage. She is fading fast.
+
+Sensing the urgency, her companion Tam rushes to her side and uses his action to cast *Cure Wounds*, restoring 7 HP. The **Dying** condition is immediately removed. Farideh is back — bruised, exhausted, moving at half speed, and attacking with Disadvantage — but she is back. The Exhaustion won't vanish with a night's rest; the toll of nearly dying lingers. But she is alive, and the bridge still needs defending.
 
 
 
