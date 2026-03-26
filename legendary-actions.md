@@ -21,9 +21,9 @@ Upgrading a creature to one of these tiers grants it Legendary Actions and the L
 | Elite     | 0-1                 | 0-1                       | +1          |
 | Boss      | 1                   | 1                         | +2          |
 | Epic      | 2                   | 2                         | +3          |
-| Legendary | 3                   | 3                         | +4–5†       |
-| Mythic    | 4–5                 | 4–5                       | +6–8†       |
-| Godly     | 6–8                 | 6–8                       | +9–12†      |
+| Legendary | 3                   | 3-4                       | +4–5†       |
+| Mythic    | 4–5                 | 4–5                       | +6–7†       |
+| Godly     | 6–7                 | 5–6                       | +8–10†      |
 
 \* Per **round** &nbsp;&nbsp; \*\* Per **day** &nbsp;&nbsp; † Higher CR increases apply to already-powerful monsters.
 
