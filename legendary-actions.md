@@ -1,35 +1,37 @@
 ## Legendary Template
 
-Legendary Actions, when a creature acts out-of-turn, are one of the best-regarded mechanics of D&D 5e, providing DMs the tools to accurately portray the deadliness of higher-level creatures. You know you are in trouble when the dragon simply retaliates your sword slash with a tail sweep without even waiting for its own turn.
+Legendary Actions—when a creature acts outside its turn—are one of the most beloved mechanics in D&D 5e. They give DMs a powerful tool for portraying the deadliness of high-level creatures. You know you're in trouble when the dragon retaliates your sword slash with a tail sweep without even waiting for its own turn.
 
-This feature along with Legendary Resistance however is restricted to very powerful monsters, those we call--quite appropriately--legendary. These rules allow a way to incorporate such mechanics to lesser threats, making them more interesting and providing the DM with more options.
+However, Legendary Actions and Legendary Resistance are restricted to only the most powerful monsters. These rules extend those mechanics to lesser threats, making a wider range of encounters more dynamic and challenging.
 
-### What is Legendary?
-One of the first things to consider is the fact that not all creatures that receive some Legendary Actions need to be stuff of legends. Lesser creatures can be made into better specimens posing a higher challenge to adventuring groups.
+---
+
+### What Makes a Creature Legendary?
+
+Not every creature that gains Legendary Actions needs to be the stuff of myth. These templates can be applied to ordinary monsters to make them exceptional specimens and more worthy adversaries.
 
 ### Tiers
 
-Therefore five tiers are presented: **Elite**, **Boss**, **Epic**, **Legendary**, and beyond legendary: **Godly**. These tiers are relative--an **Epic goblin** might still be an easy kill for a group, but an **Boss troll** will probably prove a worthier foe.
+Six tiers are available: **Elite**, **Boss**, **Epic**, **Legendary**, **Mythic**, and **Godly**. These tiers are relative—an **Epic** goblin might still fall quickly against a seasoned party, but a **Boss** troll will be a far more dangerous encounter.
 
-Modifying a creature to one of the five tiers allows them the capability of taking Legendary Actions (or Elite, Boss, or Epic Actions if you will) a number of times as shown in the following table. The creature also acquires the Legendary Resistance trait, usable a number of times per day, also expressed in the table.
+Upgrading a creature to one of these tiers grants it Legendary Actions and the Legendary Resistance trait, as shown in the table below.
 
-| Tier      | Legendary Actions<sup>\*</sup> / Resistances<sup>\*\*</sup> | CR |
-|:----------|:---:|:-----:|
-| Elite     | 1 or the other | +1 |
-| Boss      | 1   | +2 |
-| Epic      | 2   | +3 |
-| Legendary | 3   | +4-5<sup>†</sup> |
-| Godly     | 4-5 | +6-8<sup>†</sup> |
+| Tier      | Legendary Actions\* | Legendary Resistances\*\* | CR Increase |
+|:----------|:-------------------:|:-------------------------:|:-----------:|
+| Elite     | 0-1                 | 0-1                       | +1          |
+| Boss      | 1                   | 1                         | +2          |
+| Epic      | 2                   | 2                         | +3          |
+| Legendary | 3                   | 3                         | +4–5†       |
+| Mythic    | 4–5                 | 4–5                       | +6–8†       |
+| Godly     | 6–8                 | 6–8                       | +9–12†      |
 
-\* Legendary Actions per **round**
+\* Per **round** &nbsp;&nbsp; \*\* Per **day** &nbsp;&nbsp; † Higher CR increases apply to already-powerful monsters.
 
-\*\* Legendary Resistances per **day**
-
-† Higher CR probably applies to more powerful monsters
+---
 
 #### Legendary Resistance
 
-If the creature fails a saving throw it can choose to succeed instead.
+When the creature fails a saving throw, it may choose to succeed instead. It can do this a number of times per day as shown in the table above.
 
 <img src='https://www.gmbinder.com/images/XMIprRV.jpg' style='position:absolute;bottom:-3px;left:5px;width:420px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);transform:rotate(0deg)scaleX(1.1)scaleY(1);' />
 
@@ -42,26 +44,34 @@ ___
 
 #### Legendary Actions
 
-Modified creatures can perform the following Legendary Actions after another creature’s turn (i.e. not on it's turn, or out-of-turn), provided they can “pay” the action cost for them. It may act out-of-turn more than once, between its turns, as long as long as it has the Legendary Actions to do so. For example, an elite creature will not be able to perform Legendary Actions that cost 2 actions because they can only take 1 such action per round. The creature regains spent Legendary Actions at the start of its regular turn.
+A modified creature may take Legendary Actions after any other creature's turn—not on its own turn. It may act multiple times between its own turns, as long as it has Actions remaining to spend. Actions are replenished at the start of the creature's regular turn.
 
-* **Attack:** The creature makes a single melee or ranged attack.
-* **Move:** The creature moves up to its speed without provoking attacks of opportunity.
-* **Cast a Cantrip:** The creature casts a cantrip, provided it is able to cast spells.
-* **Special Ability (Costs 2 Actions):** The creature uses one of its special abilities that require an action, provided that it has such an ability.
-* **Cast a Spell (Costs 2 Actions):** The creature casts a spell, provided it is able to cast spells.
-* **Multiattack (Costs 2 Actions):** The creature uses its multiattack, provided it already has such an action option.
-* **All-Out (Costs 3 Actions):** The creature moves up to its speed without provoking attacks of opportunity and uses its special ability, spell, or multiattack, provided it already has such an action option.
+A creature can only use Actions whose cost is within its tier's limit. For example, an **Elite** creature has only 1 Legendary Action per round and cannot use any Action that costs 2.
 
-#### Challenge Rating
+**Available Legendary Actions:**
 
-Increase the creature's CR by the number shown in the table. Consider any creature of CR ½ or lower as having a CR of 0 for the purpose of this calculation. Therefore an **Elite kobold** becomes a CR 1 opponent (with +10 HPs, see below), while a **Legendary kobold** is a CR 4 challenge (with +40 HPs).
+- **Attack.** The creature makes one melee or ranged attack.
+- **Move.** The creature moves up to its speed without provoking opportunity attacks.
+- **Cast a Cantrip.** The creature casts a cantrip (requires spellcasting ability).
+- **Special Ability *(costs 2 actions)*.** The creature uses one of its action-activated special abilities.
+- **Cast a Spell *(costs 2 actions)*.** The creature casts a spell (requires spellcasting ability).
+- **Multiattack *(costs 2 actions)*.** The creature uses its Multiattack action (requires Multiattack).
+- **All-Out *(costs 3 actions)*.** The creature moves up to its speed without provoking opportunity attacks, then uses a special ability, spell, or Multiattack.
 
-### Increasing Hit Points
+---
 
-A creature with a Legendary Template gets a boost on hit points to help it make a stand against prepared adventurers. Use the table to determine the creatures new CR, and then multiply the new CR by 10 and add that many HPs to the creatures HP pool.
+### Challenge Rating
 
-* **HP bonus = new CR x 10**
+Increase the creature's CR by the amount shown in the table. Treat any creature of CR ½ or lower as CR 0 for this calculation.
 
-_For Example: A troll is CR 5, so a **Boss troll** would be CR 7 and get +70 HPs. A fire giant is CR 9, and so a **Godly fire giant** becomes a CR 16 and thus gets +160 HPs._
+> *An **Elite** kobold (base CR ¼ → treated as CR 0) becomes a CR 1 opponent. A **Legendary** kobold becomes a CR 4 challenge.*
 
-If this seems overly complex then just simply give the creature however many HPs you want.
+### Hit Points
+
+Upgraded creatures gain bonus hit points to help them survive against prepared parties. Once you've determined the creature's new CR, multiply that number by 10 and add the result to its hit point total.
+
+> **HP Bonus = New CR × 10**
+
+> *A troll is CR 5. A **Boss** troll becomes CR 7, gaining +70 HP. A fire giant is CR 9. A **Mythic** fire giant becomes CR 16, gaining +160 HP.*
+
+If this feels overly complicated, simply add however many hit points feel appropriate for your game.
