@@ -368,6 +368,7 @@ You are an able physician, capable of mending wounds quickly and getting allies 
 * **Skilled practitioner.** You have advantage on all Medicine checks (HBR).
 * **Responsive stabilization.** When you use a Healer's Kit to stabilize a Dying creature, you may do so as a **bonus action**. That creature also regains 1d6 + your Medicine skill bonus in HP (HBR).
 * **Rapid treatment.** As an action, expend one use of a Healer's Kit to restore 1d6 + your Medicine skill bonus in HP to a creature, plus additional HP equal to the creature's maximum number of Hit Dice. A creature cannot benefit from this feature again until it finishes a short or long rest (RAW).
+  * **NOTE: Hit Dice coordination.** A character with the Healer Feat may spend their own Hit Dice to restore hit points to an ally during a rest (see Hit Dice: Assisting Your Allies rule) in addition to — and on the same rest as — any Healer's Kit uses. These are separate resources and do not interfere with one another.
 * **Extended Exhaustion recovery.** As an action during a short rest, expend one use of a Healer's Kit and make a Medicine check (DC 23 + the target's Exhaustion level) to remove one level of Exhaustion from a creature. Once per short rest per creature (HBR).
 * **Efficient kit use.** Your Healer's Kit has additional uses equal to your proficiency bonus (HBR).
 * **Expert care.** When treating a poisoned or diseased creature during downtime, your treatment automatically succeeds on mild or moderate conditions (DM's discretion), and reduces the recuperation period from three days to one (HBR).
@@ -404,7 +405,7 @@ These are slightly adjusted rules for Hit Dice. Hit points represent both a char
 
 ### Long Rest
 
-At the end of a long rest, a character **does not** automatically regain any lost hit points. During a short or long rest, a character can spend one or more Hit Dice to regain hit points. After a long rest, a character regains all spent Hit Dice.
+At the end of a long rest, a character **does not** automatically regain any lost hit points. During a short or long rest, a character can spend one or more Hit Dice to regain hit points. After a long rest, a character regains all spent Hit Dice and also heals a small amount naturally, regaining hit points equal to their **Constitution modifier × proficiency bonus** (minimum 1).
 
 Removing the automatic full heal introduces more grit into the game. Characters should weigh the lasting consequences of their decisions rather than simply surviving the day and waking up fresh. Hit Dice at the start of a day represent all the natural healing and vitality available — regardless of how long the rest was.
 
@@ -418,7 +419,7 @@ Removing the automatic full heal introduces more grit into the game. Characters 
 
 ### Spending a Hit Die
 
-To spend a Hit Die, roll the character's appropriate die and add their Constitution modifier, **exploding** on a maximum result (see Glossary). The total is applied to the purpose for which the die was spent. That Hit Die is then considered spent.
+To spend a Hit Die, roll the character's appropriate die and add their Constitution modifier, **exploding** on a maximum result (if you roll the maximum value on the die, roll it again and add the result; see Glossary). The total is applied to the purpose for which the die was spent. That Hit Die is then considered spent.
 
 \columnbreak
 
@@ -448,7 +449,6 @@ When spending Hit Dice to restore hit points during a rest, you may only benefit
 > - Give Hit Dice more uses while preserving their theme.
 
 \pagebreakNum
-
 
 
 # Pool Inspiration
