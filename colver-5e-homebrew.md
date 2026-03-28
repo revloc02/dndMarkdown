@@ -390,66 +390,62 @@ Rules based on [a blog post by not-the-famous Chris Perkins](https://scruffygrog
 
 \pagebreakNum
 
-
-
 # Hit Dice
 
-____
-These are slightly adjusted rules for Hit Dice. Hit points represent both a character's life blood and their general vitality. Healing does not always necessarily mean the closing and mending of wounds and injuries. The loss of hit points can also mean fatigue and thus healing can represent rejuvenation.
+These are slightly adjusted rules for Hit Dice. Hit points represent both a character's lifeblood and their general vitality — and healing doesn't always mean closing wounds. Losing hit points can reflect fatigue just as much as injury, and regaining them can represent rest and rejuvenation as much as recovery.
 
 > #### Hit Dice Summary:
 > - Spending HD is **1HD+CON (exploding)**
-> - After **long rest** characters do **not** get a **full heal**
-> - After **long rest** characters **regain all HD**
-> - During a rest spend **HD to regain HPs**
-> - Use a **Reaction** and **spend HD as a bonus die** to the d20 roll for an attack, save, or check
+> - After a **long rest** characters do **not** get a **full heal**
+> - After a **long rest** characters **regain all HD**
+> - During a rest, spend **HD to regain HP**
+> - Use a **Reaction** to **spend HD as a bonus die** on an attack, save, or check
 > - Can spend **HD to assist** another creature
 
 ### Long Rest
 
 At the end of a long rest, a character **does not** automatically regain any lost hit points. During a short or long rest, a character can spend one or more Hit Dice to regain hit points. After a long rest, a character regains all spent Hit Dice.
 
-Removing a full character health reset introduces more grit into the game. Characters should consider the lasting consequences of their decisions instead of merely surviving the day. Thus the Hit Dice at the beginning of the day represent all the natural healing and vitality for the entire day regardless of the length of the rest.
+Removing the automatic full heal introduces more grit into the game. Characters should weigh the lasting consequences of their decisions rather than simply surviving the day and waking up fresh. Hit Dice at the start of a day represent all the natural healing and vitality available — regardless of how long the rest was.
 
-_**Example:** Wendy is a level 5 Wizard. She has a total of 5d6 Hit Dice. Currently they are all available. The party just survived a few encounters, in which she got a bit beat up, and is now taking a short rest. Alice is spending the time bandaging wounds. At the end of the short rest she spends a Hit Die (1HD+CON) to regain hit points. It was a low roll so she decides to spend another. Much better. After regaining the hit points she is feeling more confident for the next encounter. Wendy now has two spent Hit Dice and three available Hit Dice. If all goes well in the next encounter she plans to spend the final three Hit Dice after her long rest._
+*__Example:__ Wyndra the Wily Wizard is 5th level with 5d6 Hit Dice, all currently available. The party has just survived a few rough encounters and is taking a short rest while Alice tends to wounds. At the end of the rest, Wyndra the Wily spends a Hit Die (1HD+CON) to regain hit points. The roll is low, so she spends another — much better. She heads into the next encounter feeling more confident, with two spent Hit Dice and three remaining. If the next fight goes smoothly, she plans to spend those final three during her long rest.*
 
 <div class='descriptive'>
 
-**DM Note:** It is expected that you should be pushing for 6-8 encounters between long rests. Also worth noting is the existing _Long Rest_ rule that states characters can only benefit from 1 long rest every 24 hours (PHB p. 186).
+**DM Note:** The expectation is 6–8 encounters between long rests. Also worth noting: the existing Long Rest rule states that characters can only benefit from one long rest every 24 hours (PHB p. 186).
 
 </div>
 
 ### Spending a Hit Die
 
-To spend a Hit Die roll the character's appropriate die and add their Constitution modifier, **exploding** a maximum result (see Glossary). This total number will be applied to the purpose of spending the die. This Hit Die is now considered spent.
+To spend a Hit Die, roll the character's appropriate die and add their Constitution modifier, **exploding** on a maximum result (see Glossary). The total is applied to the purpose for which the die was spent. That Hit Die is then considered spent.
 
 \columnbreak
 
 #### Rejuvenation
 
-During a short or long rest a Hit Die can be used to recover hit points.
+During a short or long rest, a Hit Die can be spent to recover hit points.
 
 #### Push Yourself
 
-You can use your Reaction to Push Yourself to your character's limits thus incurring some stress to vitality. The added stress limits your ability to quickly be rejuvenated later. Spend a Hit Die as a bonus die to the d20 roll of an attack roll, saving throw, or ability check.
+You can use your Reaction to push yourself to your limits — drawing on reserves of energy at the cost of future vitality. Spend a Hit Die as a bonus die added to a d20 roll for an attack roll, saving throw, or ability check.
 
-_**Example:** Bob the Barbarian is in front line combat against a hoard of lizard folk. Bob uses Action Surge for more attacks in an attempt to finally defeat the lizard king. On his last blow Bob rolls a 2. Sure that he was a single hit away from victory he decides to use his Reaction to push himself. He spends a Hit Die (1HD+CON) getting 13 which he adds to the attack roll making it 15 total. A hit! The lizard king in fact is defeated and the other lizard folk run away on their turn. Bob is unable to take attacks of opportunity on them this round because his Reaction was spent, and it was worth it._
+*__Example:__ Brok the Brutal Barbarian is in the thick of combat against a horde of lizardfolk. He uses Action Surge to push for more attacks, hoping to finish off the lizard king. His final blow comes up a 2. Convinced the fight is one hit away from over, Brok the Brutal uses his Reaction to Push Yourself, spending a Hit Die and rolling a 13 — bringing the total to 15. A hit. The lizard king falls, and the remaining lizardfolk scatter. Brok can't take attacks of opportunity as they flee since his Reaction is spent — but it was worth every bit of it.*
 
-### Assisting your Allies
+### Assisting Your Allies
 
-In an attempt to encourage group collaboration, reliance, and planning you can spend Hit Dice to assist any other creature. This assistance includes Rejuvenation for an ally and Pushing Yourself to assist others during encounters. This turns all the individual Hit Dice pools into one large party Hit Dice pool that the players coordinate.
+To encourage collaboration, planning, and reliance on one another, you can spend Hit Dice to assist other creatures. This includes both restoring hit points for an ally during a rest and using Push Yourself to aid another creature during an encounter. In effect, this turns every character's individual Hit Dice pool into a shared party resource to be coordinated together.
 
-When spending Hit Dice to rejuvenate hit points during a rest you may only benefit a single creature that your character can touch. Activities of this nature may include applying pressure, wrapping wounds, removing a spearhead from their buttocks, or a good pep talk.
+When spending Hit Dice to restore hit points during a rest, you may only benefit a single creature that your character can touch. This might mean applying pressure to a wound, wrapping injuries, pulling a spearhead from somewhere unpleasant, or simply offering an encouraging word at the right moment.
 
-_**Example:** Carla is a Cleric in a bad spot. The red wizard just threw a fireball at her and Frank the Fighter. If she does not succeed at this saving throw she may drop to 0 hit points which would be bad for the entire party. She rolled very low. A Cleric Hit Die is 1d8 and Carla's Constitution modifier is +1. A Fighter Hit Die is 1d10 and Franks Constitution modifier is +3. Frank knows that he has a greater chance of helping Carla and he happens to still have his Reaction available. He Pushes Himself using his Reaction to spend a Hit Die granting Carla a bonus to her Dexterity save. It worked, she made her save and only took half of the damage. In narrative, as the fireball comes crashing down Frank covers Carla shielding her from much of the blast. Its now Franks turn and he uses his Bonus Action to use Second Wind. Everybody is going to make it._
+*__Example:__ Cress the Courageous Cleric is in trouble. The red wizard just hurled a fireball at her and Foryn the Fearless Fighter, and a bad saving throw could drop her to 0 HP — bad news for the whole party. She rolls very low. Foryn still has his Reaction available, and he knows his Fighter Hit Die (1d10+3 CON) gives Cress a better shot than her own (1d8+1 CON). He Pushes Himself, spending a Hit Die to give Cress a bonus on her Dexterity save. It works — she makes it, taking only half damage. In the narrative, Foryn throws himself in front of Cress as the fireball hits, shielding her from the worst of the blast. On his turn, Foryn uses his Bonus Action for Second Wind. Everyone's going to make it.*
 
-___
+---
+
 > #### Hit Dice Goals:
-> - Provide collaboration, interesting player choice
-> - Prevent a full character reset during long rest
-> - Give more uses for Hit Dice and still keep the theme
-
-
+> - Provide collaboration and interesting player choice.
+> - Prevent a full character reset after a long rest.
+> - Give Hit Dice more uses while preserving their theme.
 
 \pagebreakNum
 
