@@ -409,7 +409,7 @@ At the end of a long rest, a character **does not** automatically regain any los
 
 Removing the automatic full heal introduces more grit into the game. Characters should weigh the lasting consequences of their decisions rather than simply surviving the day and waking up fresh. Hit Dice at the start of a day represent all the natural healing and vitality available — regardless of how long the rest was.
 
-*__Example:__ Wyndra the Wily Wizard is 5th level with 5d6 Hit Dice, all currently available. The party has just survived a few rough encounters and is taking a short rest while Alice tends to wounds. At the end of the rest, Wyndra the Wily spends a Hit Die (1HD+CON) to regain hit points. The roll is low, so she spends another — much better. She heads into the next encounter feeling more confident, with two spent Hit Dice and three remaining. If the next fight goes smoothly, she plans to spend those final three during her long rest.*
+*__Example:__ Wyndra the Wily Wizard is 5th level with 5d6 Hit Dice, all currently available. The party has just survived a few rough encounters and is taking a short rest while Alysha tends to wounds. At the end of the rest, Wyndra the Wily spends a Hit Die (1HD+CON) to regain hit points. The roll is low, so she spends another — much better. She heads into the next encounter feeling more confident, with two spent Hit Dice and three remaining. If the next fight goes smoothly, she plans to spend those final three during her long rest.*
 
 <div class='descriptive'>
 
@@ -431,7 +431,7 @@ During a short or long rest, a Hit Die can be spent to recover hit points.
 
 You can use your Reaction to push yourself to your limits — drawing on reserves of energy at the cost of future vitality. Spend a Hit Die as a bonus die added to a d20 roll for an attack roll, saving throw, or ability check.
 
-*__Example:__ Brok the Brutal Barbarian is in the thick of combat against a horde of lizardfolk. He uses Action Surge to push for more attacks, hoping to finish off the lizard king. His final blow comes up a 2. Convinced the fight is one hit away from over, Brok the Brutal uses his Reaction to Push Yourself, spending a Hit Die and rolling a 13 — bringing the total to 15. A hit. The lizard king falls, and the remaining lizardfolk scatter. Brok can't take attacks of opportunity as they flee since his Reaction is spent — but it was worth every bit of it.*
+*__Example:__ Brok the Brutal Barbarian is in the thick of combat against a horde of lizardfolk. He uses Action Surge to push for more attacks, hoping to finish off the lizard king. His final attack roll comes up a 2. Convinced the fight is one hit away from over, Brok the Brutal uses his Reaction to Push Yourself, spending a Hit Die and rolling a 13 (1HD+CON) — bringing the total to 15. A hit. The lizard king falls, and the remaining lizardfolk scatter. Brok can't take attacks of opportunity as they flee since his Reaction is spent — but it was worth every bit of it.*
 
 ### Assisting Your Allies
 
@@ -439,7 +439,7 @@ To encourage collaboration, planning, and reliance on one another, you can spend
 
 When spending Hit Dice to restore hit points during a rest, you may only benefit a single creature that your character can touch. This might mean applying pressure to a wound, wrapping injuries, pulling a spearhead from somewhere unpleasant, or simply offering an encouraging word at the right moment.
 
-*__Example:__ Cress the Courageous Cleric is in trouble. The red wizard just hurled a fireball at her and Foryn the Fearless Fighter, and a bad saving throw could drop her to 0 HP — bad news for the whole party. She rolls very low. Foryn still has his Reaction available, and he knows his Fighter Hit Die (1d10+3 CON) gives Cress a better shot than her own (1d8+1 CON). He Pushes Himself, spending a Hit Die to give Cress a bonus on her Dexterity save. It works — she makes it, taking only half damage. In the narrative, Foryn throws himself in front of Cress as the fireball hits, shielding her from the worst of the blast. On his turn, Foryn uses his Bonus Action for Second Wind. Everyone's going to make it.*
+*__Example:__ Cress the Courageous Cleric is in trouble. The red wizard just hurled a fireball at her and Foryn the Fearless Fighter, and a bad saving throw could drop her to 0 HP — bad news for the whole party. She rolls very low. Foryn still has his Reaction available, and he knows his Fighter Hit Die (1d10+3 CON) gives Cress a better shot than her own (1d8+1 CON). He Pushes Himself, spending a Hit Die to give Cress a bonus on her Dexterity save. It works — she makes it, taking only half damage. In the narrative, Foryn throws himself and his shield in front of Cress as the fireball hits, protecting her from the worst of the blast. On his turn, Foryn uses his Bonus Action for Second Wind. Everyone's going to make it.*
 
 ---
 
