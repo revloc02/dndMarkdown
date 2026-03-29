@@ -451,176 +451,142 @@ When spending Hit Dice to restore hit points during a rest, you may only benefit
 \pagebreakNum
 
 
-# Pool Inspiration
+# Heroic Favor
 
-Using these rules, Inspiration is a resource shared between all of the characters of the party. When Inspiration is awarded to a character, the point of Inspiration goes into a party Pool of Inspiration that can be used by any of the players whenever they want or as agreed upon by the group. This encourages the party to work together as a team.
+Heroic Favor — also known as Hero Points — works like Inspiration, except points can accumulate beyond one. Heroic Favor is a **shared party resource**: when a character earns a point, it goes into a communal pool that any player can draw from at any time, or as agreed upon by the group. This encourages the party to function as a team rather than a collection of individuals.
 
-Ideally Inspiration points in the pool should be represented at the table by some physical object such as poker chips, tokens, or counter beads, and kept where all can view and utilize the pool.
+Heroic Favor points in the pool should be represented by a physical object at the table — poker chips, tokens, or beads work well — kept somewhere visible to all players.
 
 <div class='descriptive'>
 
-**DM Note:** The limit as to how much Inspiration can be in the pool is up to the DM. A rough rule of thumb is 1 to 3 times the number of characters in the party.
+**DM Note:** The pool's maximum size is up to the DM. A good rule of thumb is 1 to 3 times the number of characters in the party.
 
 </div>
 
-## Acquiring Inspiration
+## Acquiring Heroic Favor
 
 ### Player Request
 
-Inspiration can be **requested by the player** at any time by having their character do any of the following:
-* Invoking any of their **Personal Characteristics** or **Aspects**, by acting in accordance with one of them in a way that creates tension, drama, or authenticity
-* Acting **heroically** or taking a significant **risk**
-* Being **creative** or clever or **ingenious**
+Heroic Favor can be **requested by the player** at any time by having their character do any of the following:
 
-A player **announces** their intent to **receive Inspiration** when doing one of these actions, i.e. they **lobby for Inspiration**. This is **negotiated** with the DM. The player should narrate how their character is performing the deed, and should attempt to make their case more compelling with thrilling drama that is **ultimately entertaining**.  If the act is intense enough, the DM can even occasionally grant 2 Inspiration for the activity.
+* Invoke a **Personal Characteristic** or **Aspect** by acting in accordance with it in a way that creates tension, drama, or authenticity
+* Act **heroically** or take a significant **risk**
+* Do something **creative**, clever, or **ingenious**
+
+When a player does one of these things, they **announce their intent to receive Heroic Favor** — in other words, they **lobby for it**. This is then **negotiated with the DM**. The player should narrate what their character is doing and make their case as compelling as possible. The more thrilling and entertaining the narration, the better the odds. An especially impressive act may earn **2 Heroic Favor** at the DM's discretion.
 
 ### Momentum
 
-**Momentum:** As motivation to have the party experience more encounters in a game day, the DM can reward the group, after an encounter, a number of Inspiration points equal to that encounter number for this day. E.g. the party receive 1 Inspiration to their pool after the first encounter of the day, 2 Inspiration after the second, 3 after the third, and so forth.
+As an incentive to push through more encounters in a single day, the DM can reward the party after each encounter with Heroic Favor equal to that encounter's number for the day. For example: 1 point after the first encounter, 2 after the second, 3 after the third, and so on.
 
 ### DM Decision
 
-* The DM should also freely compel players to invoke Personality Traits on their characters.
-* The DM can give out Inspiration whenever he wants for any reason.
+* The DM should freely encourage players to invoke their Personality Traits when appropriate.
+* The DM may award Heroic Favor at any time, for any reason.
 
 \columnbreak
 
-> #### Pool Inspiration Summary
-> * Inspiration is a resource shared by the party
-> * The Pool of Inspiration can hold lots of points
-> * Inspiration is obtained by:
+> #### Pool Heroic Favor Summary
+> * Heroic Favor is a resource shared by the party
+> * The Pool of Heroic Favor can hold lots of points
+> * Heroic Favor is obtained by:
 >   * Invoking **Personal Characteristics**
 >   * **Heroic risks**
 >   * **Ingenuity**
->   * **Momentum** - more encounters per day
+>   * **Momentum** — more encounters per day
 >   * DM's decision
-> * Inspiration can be used to:
->   * Get **Advantage/Disadvantage** (1)
->   * **Reroll** (1)
->   * **Act Out of Turn** (1)
+> * Heroic Favor can be used to:
+>   * Get **Advantage** (1)
 >   * Do a **Stunt** (1+)
+>   * **Act Out of Turn** (2)
 >   * Get **Revelation** (2+)
->   * Take an **Extra Action** (3)
->   * **Remove Exhaustion** (4)
->   * **Cheat Death** (5+)
+>   * Take an **Extra Action** (4)
+>   * **Remove Exhaustion** (5)
+>   * **Cheat Death** (6+)
 >   * **Recall** a Spell or Special Ability (Lvl x2)
 >   * Something **Special** (X)
 
 <img src='https://www.gmbinder.com/images/mkSmfJp.jpg' style='position:absolute;bottom:0px;right:-10px;width:430px; mix-blend-mode:multiply;filter:brightness(110%)saturate(140%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
-
-
 \pagebreakNum
 
 ---
 
+## Spending Heroic Favor
 
-## Spending Inspiration / Hero Points
-
-These rules allow players to bend the limits of reality through inspired, heroic, or dramatic action. When spending Inspiration (also known as Hero Points), players are encouraged to narrate how their character's actions are inspired, inspiring, or otherwise heroic.
+These rules let players bend the limits of reality through inspired, heroic, or dramatic action. When spending Heroic Favor, players are encouraged to narrate how their character's actions are heroic, inspiring, or exceptional.
 
 ### General Guidelines
-- **Spending Inspiration**: Players use points from the shared or individual Inspiration Pool.
-- **Narration**: Each use should be accompanied by a short, thematic description that fits the moment.
-- **Timing**: Unless otherwise stated, Inspiration must be spent before the result of a roll is known.
 
-### Inspiration Options
+- **Spending Heroic Favor:** Points are drawn from the shared party pool.
+- **Narration:** Each use should be accompanied by a short, thematic description that fits the moment.
+- **Timing:** Unless otherwise stated, Heroic Favor must be spent before the result of a roll is known.
 
-* **1 Inspiration**
+### Heroic Favor Options
+
+* **1 Heroic Favor**
 	* **Advantage:** Gain Advantage on any attack roll, saving throw, or ability check.
-	* **Reroll:** Reroll a damage roll that used **1 or 2 dice** (e.g., 1d8, 2d6). You must keep the result of the second roll, even if it’s worse.
-	* **Stunt (1+ Inspiration):** Declare a **Stunt** to modify any action, adding flair or extraordinary effect.
-		- Must be declared before attempting the action.  
-		- Inspiration is spent regardless of success.  
-		- If part of an Attack action and the attack hits, apply **one additional effect** (e.g., trip, disarm, daze).  
-		- Multiple Stunts may be applied to a single action (1 point each).  
-		- Final outcome is subject to DM approval. See [Appendix E](#appendix-e-stunt-examples) for ideas.  
-		- **Exceptional success** (e.g., natural 20 + high damage) may result in a **refunded point** at the DM's discretion.
-* **2 Inspiration**
-	* **Act Out of Turn:** Take your turn immediately, out of normal initiative order, for this round only. Treated as a **Readied Action**.
-	* **Reroll:** Reroll a single **Attack Roll** or **Skill Check**, or a damage roll with up to 6	dice. You must keep the new result.
-	* **Impose Skill Check Disadvantage:** Before a creature makes a **Skill Check**, impose **Disadvantage** on their roll.  
-	* **Revelation (2+ Inspiration):** If the party is stuck, spend **2 Inspiration (or more)** to request a helpful clue or hint from the DM. If no clue is possible, some or all points may be refunded. Intended for significant narrative progression.
-* **3 Inspiration**
+	* **Reroll:** Reroll a damage roll using **1 or 2 dice** (e.g., 1d8, 2d6). You must keep the new result, even if it's worse.
+	* **Stunt (1+ Heroic Favor):** Declare a **Stunt** to modify any action with flair or extraordinary effect.
+		- Must be declared before attempting the action.
+		- Heroic Favor is spent regardless of success.
+		- If part of an Attack action and the attack hits, apply **one additional effect** (e.g., trip, disarm, daze).
+		- Multiple Stunts may be applied to a single action (1 point each).
+		- Final outcome is subject to DM approval. See [Appendix E](#appendix-e-stunt-examples) for examples.
+		- An **exceptional success** (e.g., natural 20 + high damage) may result in a **refunded point** at the DM's discretion.
+
+* **2 Heroic Favor**
+	* **Act Out of Turn:** Take your turn immediately, outside of normal initiative order, for this round only.
+	* **Reroll:** Reroll a single **Attack Roll**, **Skill Check**, or a damage roll using up to **6 dice**. You must keep the new result.
+	* **Impose Skill Check Disadvantage:** Before a creature makes a **Skill Check**, impose **Disadvantage** on their roll.
+	* **Revelation (2+ Heroic Favor):** If the party is stuck, spend **2 or more Heroic Favor** to request a helpful clue or hint from the DM. If no clue is available, some or all points may be refunded. Intended for significant narrative moments.
+
+* **3 Heroic Favor**
 	* **Reroll 7+ Damage Dice or Saving Throw:** Reroll a damage roll using **7 or more dice**, or reroll a **Saving Throw**. You must keep the new result.
 	* **Impose Attack Roll Disadvantage:** Before a creature makes an **Attack Roll**, impose **Disadvantage**.
-* **4 Inspiration**
+
+* **4 Heroic Favor**
 	* **Extra Action:** Gain an extra **Move, Action, Bonus Action, Interaction, or Reaction** during your turn. May not be used to cast an additional spell.
-	* **Impose Saving Throw Disadvantage:** Before a creature makes a **Saving Throw**, impose **Disadvantage**.  
-* **5 Inspiration**
+	* **Impose Saving Throw Disadvantage:** Before a creature makes a **Saving Throw**, impose **Disadvantage**.
+
+* **5 Heroic Favor**
 	* **Remove Exhaustion:** Remove **one level of Exhaustion** from yourself or another creature.
 
 ---
 
-### **Cheat Death (6+ Inspiration)**
+### Cheat Death (6+ Heroic Favor)
+
 Escape certain death. The DM describes how you survive against all odds:
 
-- Typically, you drop to **0 HP but stable**, or to **1 HP and unconscious**.  
-- May be used to save a familiar, animal companion, eidolon, or special mount.  
-- **Cannot** be used to save other characters or NPCs.
+- Typically, you drop to **0 HP but stable**, or to **1 HP and unconscious**.
+- May be used to save a familiar, animal companion, eidolon, or special mount.
+- **Cannot** be used to save other player characters or NPCs.
 
-**Example**: A fatal arrow critically strikes your chest. Spending 6 Inspiration, the DM rules it pierces your holy symbol, reducing the damage. You fall unconscious, but live.
+**Example:** A fatal arrow strikes your chest. Spending 6 Heroic Favor, the DM rules it pierces your holy symbol instead, deflecting the killing blow. You collapse unconscious — but you're alive.
 
 ---
 
-### **Recall (Spell Level × 2 Inspiration)**
-Regain the ability to cast a spell you’ve already used:
+### Recall (Spell Level × 2 Heroic Favor)
 
-- Cost is **2 Inspiration per spell level** (e.g., 2 for a 1st-level spell, 18 for a 9th-level spell).  
-- May also be used to regain a **daily-limited class feature**. The DM determines its spell-level equivalency.  
+Regain the ability to cast a spell you've already used:
+
+- Cost is **2 Heroic Favor per spell level** (e.g., 2 points for a 1st-level spell, 18 for a 9th-level spell).
+- May also be used to regain a **daily-limited class feature**. The DM determines its spell-level equivalency.
 - Cannot be used for short-rest abilities.
 
 ---
 
-### **Special (Variable Cost)**
-Attempt the extraordinary. Petition the DM to try something wild and powerful:
+### Special (Variable Cost)
 
-- Examples: cast a spell above your usual limit, attack to **blind** or **bypass resistance**, or persuade a raging dragon.  
-- DM decides difficulty, cost, and whether the action is feasible.  
-- Only **one Special Action** attempt may be made per scenario per character (or party), no matter how much Inspiration is available.
+Attempt something extraordinary. Petition the DM to try something wild and powerful:
+
+- Examples: cast a spell above your normal limit, make an attack that **blinds** or **bypasses resistance**, or attempt to persuade a raging dragon.
+- The DM decides feasibility, difficulty, and cost.
+- Only **one Special Action** may be attempted per scenario per character (or party), regardless of how much Heroic Favor is available.
 
 ---
 
-
-
-## Spending Inspiration/Hero Points
-
-These options allow PCs an incredible amount of flexibility to bend the rules. When a player spends Inspiration (a.k.a. Hero Points) from the Pool they should narrate how their character's actions are inspired, inspiring or heroic.
-
-* **Advantage (1 Inspiration):**
-Must be declared before any character makes an attack roll, saving throw, or ability check. That character then rolls with Advantage at the player's choosing.
-* **Reroll 1-2 Damage Dice:**
-You may reroll any one damage dice roll you just made that used 1 or 2 dice. You must take the results of the second roll, even if it is worse.
-* **Stunt (1+ Inspiration):**
-Player may modify any action by declaring that action a Stunt. It must be declared before the attempt is made, and the inspiration is spent regardless of if the attempt succeeds or not. If used as part of an Attack action, if the attack hits, in addition to the normal effects, you may also cause an additional effect. Only one additional effect may be applied per Stunt, but multiple Stunts may be applied to a single action. Final effects, including duration of status conditions, are at the DM's discretion. See [Appendix E](#appendix-e-stunt-examples) for example stunts. If the stunt turns out to be a particularly spectacular success (because of favorable dice rolls) the DM may choose to refund an Inspiration point.
-* **Act Out of Turn (2 Inspiration):**
-Take your turn immediately (i.e. out of initiative order). Treat this as a readied action, moving your initiative for this round to just before the currently acting creature.
-* **Reroll (2 Inspiration):**
-You may reroll an Attack roll, a Skill Check roll, or any one damage dice roll you just made that used 3 to 6 dice. You must take the results of the second roll, even if it is worse.
-* **Impose Skill Check Disadvantage (2 Inspiration):**
-You may impose Disadvantage on a creature that is making any Skill Check. This must be declared before the DM rolls the dice.
-* **Revelation (2+ Inspiration):**
-If you feel stuck at one point in the adventure, you can spend 2 Inspiration (or more, DM's fiat) and petition the DM for a hint about what to do next. If the DM feels that there is no information to be gained, the Inspiration can be fully or partially refunded.
-* **Reroll (3 Inspiration):**
-You may reroll a Saving Throw, or any one damage dice roll you just made that used 7 or more dice. You must take the results of the second roll, even if it is worse.
-* **Impose Attack Roll Disadvantage (3 Inspiration):**
-You may impose Disadvantage on a creature that is making an Attack roll. This must be declared before the DM rolls the dice.
-* **Extra Action (4 Inspiration):**
-Gain an additional Move, Action, Bonus Action, Interaction, or Reaction this turn.
-* **Impose Saving Throw Disadvantage (4 Inspiration):**
-You may impose Disadvantage on a creature that is making a Saving Throw. This must be declared before the DM rolls the dice.
-* **Remove Exhaustion (5 Inspiration):**
-You may remove one level of Exhaustion from a character.
-* **Cheat Death (6+ Inspiration):**
-How this plays out is up to the DM, but generally the character is left alive, with 1 hit point, Unconscious, but stable. For example, a character is about to be slain by a critical hit from an arrow. If the character spends the required Inspiration points, the DM decides that the arrow pierced the character’s holy symbol, reducing the damage enough to prevent him from being killed, and that he made his stabilization roll at the end of his turn. The character can spend Inspiration points in this way to prevent the death of a familiar, animal companion, eidolon, or special mount, but not another character or NPC.
-* **Recall (Spell-Level x 2 Inspiration):**
-You may recall a spell you have already cast at the cost of 2 Inspiration for every spell level. 1st spells cost 2 Inspiration to recall, 2nd cost 4 Inspiration, and so forth up to 9th level spells costing 18 Inspiration to recall. Additionally, Recall can be used to gain another use of a special ability that is otherwise limited. This should only be used on feats and abilities possessed by your character that recharge on a daily basis. The DM will determine the approximate equivalent spell level for the ability so Inspiration cost can be calculated.
-* **Special (Inspiration costs varies):**
-You can petition the DM to attempt nearly anything that would normally be almost impossible. Such uses are not guaranteed and should be considered carefully by the DM. Possibilities include casting a single spell that is one level higher than you could normally cast (or a 1st-level spell if you are not a spell-caster), making an attack that blinds a foe or bypasses its damage reduction entirely, or attempting to use Diplomacy to convince a raging dragon to give up its attack. Regardless of the desired action, the attempt should be accompanied by a difficult check or penalty on the attack roll. No additional attempts may be made for such a special action by the character or his allies regardless of the amount of Inspiration points available, and the cost is determined by the DM.
-
 <img src='https://www.gmbinder.com/images/kGJBrmw.jpg' style='position:absolute;bottom:15px;right:-25px;width:460px; mix-blend-mode:multiply;filter:brightness(105%)saturate(120%);transform:rotate(0deg)scaleX(-1)scaleY(1.1);' />
-
-
 
 \pagebreakNum
 
