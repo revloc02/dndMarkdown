@@ -590,147 +590,133 @@ Attempt something extraordinary. Petition the DM to try something wild and power
 
 \pagebreakNum
 
-
-
 # Dynamic Initiative
 
-Dynamic Initiative is an initiative variant with the goal of creating extra layers of choice in combat by making different actions take different speeds, and at the same time being as quick and painless a system as possible.
+Dynamic Initiative is an initiative variant designed to add meaningful choices to combat by making different actions take different amounts of time — while keeping the system as fast and painless as possible at the table.
 
 ## Rules
 
-The Dynamic initiative variant institutes the following rules, which replace the standard initiative system.
+The following rules replace the standard initiative system.
 
 ### Overview
 
 #### Variable Turn Order
 
-Each round a new initiative is rolled for every creature involved in the battle. Thus, order in which creatures take their turns changes from round to round, making it impossible to predict how events in combat will unfold.
+At the start of each round, every creature in the battle rolls a new initiative. Turn order changes from round to round, making combat genuinely unpredictable.
 
 #### Initiative Dice
 
-The d20 is no longer generally used to roll for initiative.
+The d20 is no longer used for initiative.
 
 ##### PC Initiative
 
-PCs refer to the Dynamic Initiative dice chart to determine which die or dice you should use for Initiative. If you roll more than one initiative die, you add the results together to determine your initiative. The number and type of initiative dice you roll depend on the types of activities you want your character to undertake during the next round.
+Players consult the Dynamic Initiative dice chart to determine which die or dice to roll. If you roll more than one initiative die, add the results together. The number and type of dice you roll depend on the actions you intend to take that round.
 
 ##### Monster Initiative
 
-The DM will use the creature Hit Die size as the Initiative die. No matter the action the creature is going to take, they simply roll that one die. Intuitively, this means that the bigger and more powerful the monster, the slower they tend to act in Initiative. The DM should make adjustments as desired (zombies should probably have a negative modifier, a Coatul should get a bonus) and you're done.
+The DM uses each creature's Hit Die size as its initiative die, regardless of the action it takes. Intuitively, bigger and more powerful monsters tend to act later. The DM should apply adjustments as appropriate — zombies might carry a negative modifier, while a Couatl might get a bonus.
 
 #### Initiative Count
 
-With this variant Dynamic Initiative, initiative runs from low to high, with the best initiative score being a 1.
+Initiative runs **low to high**. The best possible initiative result is a **1**.
 
 #### Tie Breakers
 
-The creature with the higher Dexterity Ability Score (NOT their Ability Score Modifier) gets to choose whether to go before or after the other creature(s) it tied with. In the event that the Dexterity Scores are also tied, the creatures act simultaneously.
+When two creatures tie, the one with the higher Dexterity **score** (not modifier) chooses whether to act before or after the other. If Dexterity scores are also tied, the creatures act simultaneously.
 
 \columnbreak
 
 #### Durations
 
-Any effect that normally lasts until the end of a creature's turn instead lasts until the end of the round during which that turn takes place. Similarly, any effect that normally lasts until the start of a creature's turn now lasts until the start of the round during which that turn takes place. (This rule avoids situations where a spell that lasts until the next turn cast at the end of round one, only lasting until the beginning of round two, and having the spell end before the benefits were reaped.)
+Any effect that normally lasts until the **end** of a creature's turn instead lasts until the end of the round in which that turn takes place. Any effect that normally lasts until the **start** of a creature's turn instead lasts until the start of the round in which that turn takes place. This prevents situations where a spell cast at the end of one round expires at the beginning of the next before its benefits are felt.
 
 ### Initiative Modifiers
 
 #### Dexterity
 
-Dexterity no longer modifies the initiative roll. The Bard's _Jack of all Trades_ ability also no longer affects initiative rolls. The _Alert_ feat allows you to roll your initiative dice with Advantage.
+Dexterity no longer modifies initiative rolls. The Bard's *Jack of All Trades* ability no longer applies to initiative. The *Alert* feat allows you to roll initiative dice with Advantage.
 
-#### Bonuses or Penalties
+#### Bonuses and Penalties
 
-Though this system does not apply a creature’s Dexterity modifier to its initiative rolls, other effects can alter initiative. If an effect grants you a bonus to your initiative, such as the Alert feat, reduce the size of one die you roll for initiative by one size, so that a d6 becomes a d4, a d4 becomes a d3, and so on. In the case of a penalty to your initiative, you apply the reverse process, increasing the size of one die rolled instead.
+When an effect grants a **bonus** to initiative, reduce the size of one die by one step (d6 → d4 → d3, and so on). When an effect imposes a **penalty**, increase the size of one die by one step.
 
-#### Advantage or Disadvantage
+#### Advantage and Disadvantage
 
-If an effect would grant you advantage or disadvantage on your initiative roll under the standard system, you apply that to the largest initiative die you roll (or to one of those initiative dice if you roll more than one of the same type). Roll the initiative die twice, using the lowest roll if you have advantage or the highest roll if you have disadvantage.
+When an effect grants Advantage or Disadvantage on initiative, apply it to the largest die in your roll. Roll that die twice — use the **lower** result for Advantage, or the **higher** result for Disadvantage.
 
 #### Surprise
 
-A surprised creature adds +10 to its initiative result and cannot take Reactions while it is surprised. A creature is surprised until the end of the round during which it is surprised.
+A surprised creature adds **+10** to its initiative result and cannot take Reactions. A creature remains surprised until the end of the round in which it was surprised.
 
 <img src='https://www.gmbinder.com/images/q0fYsnL.jpg' style='position:absolute;bottom:0px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(120%)saturate(150%);' />
 
-
-
 \pagebreakNum
-
-
 
 ### Other Rules
 
 #### Creatures Unable to Act
 
-Any creature that is unable to take actions (most likely because it is incapacitated) does not roll initiative. Any effects that such creatures must resolve, such as death saving throws, are resolved at the end of the round.
+Creatures that cannot take actions — most commonly due to being incapacitated — do not roll initiative. Any effects they must resolve, such as death saving throws, are handled at the end of the round.
 
 #### Delaying
 
-You cannot use the _Ready Action_ under these rules, but you can instead choose to delay your turn. Instead of taking your turn on your initiative count, you simply act on a later initiative count, before or after other creatures actin later than you as you choose.
+The *Ready Action* is not available under these rules. Instead, you may **delay your turn**: rather than acting on your initiative count, you choose to act on any later count, before or after other creatures acting at that count as you see fit.
 
 #### Multiple Actions
 
-If an effect grants you an additional action without the use of a bonus action (like Fighter's Action Surge), choose which action you will perform first, and then roll the appropriate initiative dice for each of your chosen actions except apply a +10 to the second action's initiative roll. The creature will perform each action on the appropriate initiative count.
+If an effect grants you an additional action without a bonus action (such as a Fighter's Action Surge), choose which action you will perform first and roll the appropriate initiative dice for each action separately, applying a **+10** to the second action's initiative roll. Each action is then resolved on its respective initiative count.
 
-#### Changing your Action
+#### Changing Your Action
 
-If your turn comes around and you discover that the battlefield has changed, you may wish to take a different action. Roll new Initiative Dice in accordance to what you want to do. This number is then added to your current Initiative Score, and becomes your new Initiative Score.
+If the battlefield changes before your turn and you want to take a different action, roll new initiative dice for the new action. Add that result to your current initiative score to get your new initiative count.
 
 \columnbreak
 
-#### Actions not contributing to Initiative
+#### Actions Not Contributing to Initiative
 
-If you are *only* moving during your turn, and not taking any other Actions, your initiative score is 1. **Bonus Action** and **Reaction** do not contribute to Initiative Score.
+If you are **only moving** and taking no other actions, your initiative score is **1**. **Bonus Actions** and **Reactions** do not contribute to your initiative score.
 
 #### Optional: Spell Disruption
- 
-For added AD&D flavor, you can introduce the spell disruption rule. This variant rule greatly reduces the effectiveness of all casters, so use with caution.
 
-If a creature that wants to cast a spell takes damage during the round before it can act, it must make a Constitution Check. Make a Constitution saving throw. The DC equals 10 or half the damage it takes, whichever number is higher. On a failure, the creature is restricted to casting cantrips on its turn.
+For an AD&D-style flavor, this optional rule can be added. Note that it significantly reduces the effectiveness of all casters — use with caution.
 
-If it takes damage from multiple sources, such as an arrow and a dragon’s breath, it must make a separate saving throw for each source of damage.
+If a creature intending to cast a spell takes damage before it can act, it must make a **Constitution saving throw**. The DC is 10 or half the damage taken, whichever is higher. On a failure, the creature is restricted to casting cantrips on its turn. If the creature takes damage from multiple sources — such as an arrow and a dragon's breath — it makes a separate saving throw for each.
 
 <img src='http://dndspeak.com/wp-content/uploads/2017/12/basic-dnd.jpg' style='position:absolute;bottom:40px;right:0px;width:820px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />
 
-
-
 \pagebreakNum
 
-
-
 # Dynamic Initiative: Lifecycle
-___
-Each round consists of the following phases that are progressed through in the following order.
 
-### Enemy Indication Phase
+Each round of combat moves through the following phases in order.
 
-During this phase, the DM examines the battlefield and **indicates the apparent intent of the creatures** under his control. This description should be brief and dramatic, "The gaping skeletons all turn their silent attention on the Warlock," or "The devious dragon looks like he's going to ignore the party and attack the church," or "The bandits are shifting as if to try to block your escape, while the archers continue to pepper you from out of range," etc.
+### Omen Phase
+
+The DM examines the battlefield and **briefly describes the apparent intentions of all creatures** under their control. This should be dramatic and evocative: *"The skeletons all turn their hollow gaze toward the Warlock,"* or *"The dragon seems completely uninterested in the party — it's eyeing the church,"* or *"The bandits are shifting to cut off your escape while the archers keep their distance."*
 
 <div class='descriptive'>
 
-**DM Note:** This is not meant to be a free Insight check, rather it presents a stage in each round that prompts the DM to create drama and intensity. It is a catalyst for narrative flavor to dovetail into the midst of D&D's Combat game play. "With rage blazing in his eyes the dragon draws a really deep breath," or "The knave looks around for an escape route, as if he's about to bolt," and thus hinting a possible transition to a chase scene. Here surprising twists can be revealed, or DM hints can be dropped (i.e. the party is in over their heads). It isn't that this couldn't otherwise be done, rather Enemy Indication is a gaming mechanic that allows the characters to make educated decisions during their planning phase. Ultimately it is about telling a story together.
+**DM Note:** This is not a free Insight check. It is a structured moment in each round that prompts the DM to build drama and tension — a narrative catalyst woven into the mechanics of combat. *"Rage blazing in its eyes, the dragon draws a slow, deep breath,"* or *"The knave's eyes dart toward the alley — he looks like he's about to run."* Use this phase to hint at surprises, signal that the party may be in over their heads, or foreshadow a shift in the scene. The Omen Phase gives players the information they need to make interesting decisions in the Planning Phase. It is, at its core, about telling a story together.
 
 </div>
 
 ### Player Planning Phase
 
-Now that the players have a broad idea of what the enemy's indication is, they come up with a plan themselves, and **declare their own intentions**. At this stage, actions do not need any more detail than what is needed to determine the initiative roll. Working together is encouraged.
+With a sense of what the enemy intends, players **discuss and declare their own intentions**. Actions don't need more detail than what's required to determine the initiative roll. Coordination is encouraged.
 
 ### Roll Initiative Phase
 
-The players and the DM all **roll initiative**. Players roll the largest dice corresponding to their actions (see Dynamic Initiative chart for dice). The lower the number, the earlier the action.
+All players and the DM **roll initiative**. Players roll the dice corresponding to their declared actions (see the Dynamic Initiative chart). Lower results act earlier.
 
 ### Resolve Actions Phase
 
-Each creature **takes its turn** in order starting with the lowest initiative roll. The DM announces "Initiative Count 1" to the table and any creatures that rolled a 1 for their Initiative take their turn. After all creatures on Initiative Count 1 act, the DM continues counting, "Initiative Count 2", "Initiative Count 3", etc. This process continues until all creatures have acted.
+Creatures **take their turns** in order from lowest initiative to highest. The DM calls out each count — *"Initiative Count 1... Initiative Count 2..."* — and any creature with that result acts before moving on. This continues until all creatures have taken their turns.
 
 ### End Phase
 
-Anything that needs to be **resolved at the end of a round** of combat including status effects or magic durations.
+Any effects that resolve at the **end of a round** are handled here, including status effects and spell durations.
 
 <img src='https://www.gmbinder.com/images/I1dFekv.png' style='position:absolute;bottom:0px;right:0px;width:800px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);' />
-
-
 
 \pagebreakNum
 
@@ -749,8 +735,6 @@ Anything that needs to be **resolved at the end of a round** of combat including
 <img src='https://www.gmbinder.com/images/sHMA5Qq.png' style='position:absolute;top:-10px;right:0px;width:814px; mix-blend-mode:multiply;' />
 
 \pagebreak
-
-
 
 # Character Creation
 
