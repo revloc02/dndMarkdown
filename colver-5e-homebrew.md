@@ -736,28 +736,30 @@ Any effects that resolve at the **end of a round** are handled here, including s
 
 \pagebreak
 
+
 # Character Creation
 
 ## Character Additions
-During the process of creating your character here are some additional items to do.
+
+When creating your character, include the following additions alongside the standard process.
 
 ### Select an Additional Feat
 
-Adventurers are exceptional specimens, and they have the talent to prove it. All characters may select one additional feat at first level.
+Adventurers are exceptional individuals, and their talents reflect that. All characters may select one additional feat at 1st level.
 
-### Advantage on HP rolls
+### Double Advantage on HP Rolls
 
-Whenever you go up a level and are rolling for HPs, roll with advantage with your DM. (Depending on your results the DM may choose to give you another additional reroll.)
+Whenever you level up and roll for hit points, roll 3 Hit Dice and take the highest score. Depending on the results, the DM may offer an additional reroll.
 
 \columnbreak
 
 ### Optional: Ancestry
- 
-Players may choose an Ancestry for their characters. Functionally, this is almost identical to choosing a Race, with the distinction being largely conceptual.
 
-By choosing an ancestry, you are not determining your parentage, but what racial, cultural and societal forces shaped you. A human raised by Dwarves may claim Dwarven ancestry, and a half-elf may choose to take Human, Elf, or Half-Elf ancestry, depending on what forces shaped them into the person they became.
+Players may choose an Ancestry for their character. Functionally this is almost identical to choosing a Race, but the distinction is conceptual rather than mechanical.
 
-***Ability Score Increases.*** As a result of this more flexible approach to race, all racial Ability Score Increases may be distributed to ability scores of your choice. For example, choosing a Half-Orc ancestry allows you to increase one ability score of your choice by 2, and one ability score by 1. These must be different ability scores.
+Choosing an Ancestry means selecting the racial, cultural, and societal forces that shaped your character — not necessarily their parentage. A human raised by dwarves may claim Dwarven ancestry. A half-elf might choose Human, Elf, or Half-Elf ancestry depending on what influences defined who they became.
+
+***Ability Score Increases.*** As a result of this flexible approach, all racial Ability Score Increases may be distributed to ability scores of your choice. For example, choosing a Half-Orc ancestry lets you increase one ability score by 2 and a different ability score by 1.
 
 <img src='https://www.gmbinder.com/images/NfOj7S5.jpg' style='position:absolute;bottom:0px;right:48px;width:720px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1.07)scaleY(1);' />
 
@@ -770,208 +772,192 @@ By choosing an ancestry, you are not determining your parentage, but what racial
    transform:scaleX(1)scaleY(1);'
 />
 
-
-
 \pagebreakNum
-
-
 
 ## Personal Characteristics
 
 ### Standard
 
-This is a review and summary of the standard Personality Characteristics.
+The following is a review of the standard Personality Characteristics.
 
-* **Personality Traits** describe the things your character likes, past accomplishments, things your character dislikes or fears, your character’s self-attitude or mannerisms
-* **Ideals** are things that you believe in most strongly, the fundamental moral and ethical principles that compel you to act as you do. Ideals encompass everything from your life goals to your core belief system. What are the principles that you will never betray? What would prompt you to make sacrifices? What drives you to act and guides your goals and ambitions? What is the single most important thing you strive for?
-* **Bonds** are character’s connections to people, places, and events in the world. They tie you to things from your background. They might inspire you to heights of heroism, or lead you to act against your own best interests if they are threatened. They can work very much like ideals, driving a character’s motivations and goals. Whom do you care most about? To what place do you feel a special connection? What is your most treasured possession?
-* **Flaws** are some vice, compulsion, fear, or weakness—in particular, anything that someone else could exploit to bring you to ruin or cause you to act against your best interests. What enrages you? What’s the one person, concept, or event that you are terrified of? What are your vices?
+* **Personality Traits** describe what your character likes, past accomplishments, things they dislike or fear, and their general attitude and mannerisms.
+* **Ideals** are the fundamental moral and ethical principles that drive your character. They encompass life goals, core beliefs, and the values you would never betray. What compels you to act? What would move you to sacrifice? What is the single most important thing you strive for?
+* **Bonds** are your character's connections to people, places, and events in the world. They tie you to your background and can inspire acts of great heroism — or lead you to act against your own interests when threatened. Whom do you care most about? What place holds special meaning? What is your most treasured possession?
+* **Flaws** are vices, compulsions, fears, or weaknesses — anything that could be exploited to bring you to ruin or cause you to act against your own interests. What enrages you? What are you terrified of? What are your vices?
 
 \columnbreak
 
 ### Aspects
 
-Aspects are additional Personality Characteristics that add **detail, depth, and breadth** to a character. They can be additional Traits, Ideals, Bonds or Flaws, or something entirely different. They provide a resource to **spark player creativity** as they play their character and a foundation as they act in character. Mechanically they can be used by a player to make in game situations more potent or authentic to petition the DM for Inspiration. The more Aspects a character has the easier it will be to find one to invoke.
+Aspects are additional Personality Characteristics that add **detail, depth, and breadth** to a character. They can be additional Traits, Ideals, Bonds, or Flaws — or something else entirely. They give players a creative resource to draw from when roleplaying and a foundation for acting in character. Mechanically, a player can invoke an Aspect to make an in-game moment more potent or authentic, and to petition the DM for Heroic Favor. The more Aspects a character has, the easier it is to find one worth invoking.
 
 #### Creating Aspects
 
-Aspects are a word or phrase that describes something **unusual or special** about a character. They describe personality traits, important details about your past, relationships you have with others, titles you possess, madness and sanity, reputations you have, obligations to others, problems you're dealing with, goals you're working towards and more.
+An Aspect is a word or phrase that describes something **unusual or special** about a character — a personality trait, an important detail from their past, a relationship, a title, a reputation, a problem they're dealing with, or a goal they're working toward.
 
-An Aspect is a phrase that defines a truth about a character. A good aspect should:
-* **Clear:** Be worded so that the meaning is clear, others should be able to understand it
-* **Usable:** Be worded so that it can be invoked
-* **Compelling:** Reveal something interesting about the character, something they may not even know
-* **Double-Edged:** Have elements that are potentially both positive and negative
+A good Aspect should be:
+* **Clear:** Worded so that its meaning is immediately understood by others at the table.
+* **Usable:** Worded so that it can actually be invoked in play.
+* **Compelling:** Revealing something interesting about the character — perhaps something even they don't fully know.
+* **Double-Edged:** Containing elements that are potentially both positive and negative.
 
-Additional advice on creating an excellent Aspect can be found in the [FATE SRD](https://fate-srd.com/fate-core/making-good-aspect "Making A Good Aspect"). See [Appendix B](#appendix-b-example-aspects) for some example Aspects.
+Additional guidance on crafting excellent Aspects can be found in the [FATE SRD](https://fate-srd.com/fate-core/making-good-aspect "Making A Good Aspect"). See [Appendix B](#appendix-b-example-aspects) for examples.
 
 #### Gaining Aspects
 
-Your character should pick up an additional Aspect about **once per level**, but there really is no limit. While core Aspects to your character may never change, other Aspects will be gained and lost as the game is played.
+Characters should gain a new Aspect roughly **once per level**, though there is no hard limit. Core Aspects may never change, while others will come and go naturally as the story unfolds.
 
 <img src='https://www.gmbinder.com/images/DT40zzU.jpg' style='position:absolute;bottom:38px;left:-15px;width:896px; mix-blend-mode:multiply;filter:brightness(110%)saturate(130%);transform:rotate(0deg)scaleX(-1)scaleY(1);' />
 
-
-
 \pagebreakNum
-
-
 
 ## Character Depth
 
-Be sure to go through _Chapter 4: Personality and Background_ of the PHB and flesh out your character. **This does not all need to be done before you begin playing**, but it should be done at some point early in your character's career. Be sure not to skip over anything. Determine your _Height and Weight_, and _Other Physical Characteristics_. Select an _Alignment_. Choose a _Background_ and _Personal Characteristics_.
+Work through *Chapter 4: Personality and Background* of the PHB to flesh out your character. **This does not all need to be done before play begins**, but it should be completed early in your character's career. Don't skip anything — determine Height and Weight, Other Physical Characteristics, Alignment, Background, and Personal Characteristics.
 
 ### Additional Character Details
 
-As you work on that, also consider the following elements of your character. In order to be truly effective **this should be written down** on your character sheet. Take time to do that. Feel free to make changes or adjustments to these character depth details as you go along so that they are more congruent (they compliment and enhance each other).
+As you work through those elements, also consider the following. To get the most out of these details, **write them down** on your character sheet. Feel free to revise and adjust them over time so that they complement and enhance one another.
 
 #### Personality Quirks
 
-Personality Quirks are unusual characteristics, weird behaviors, or peculiar habits that add much flavor to a character and are meant to be mechanically benign. Give your character one to three Personality Quirks. Either choose or roll 1-3 times on the Personality Quirk Table (see [Appendix C: Quirks Tables](#appendix-b-example-aspects-appendix-c-quirks-tables)), or you can choose to roll on this [DndSpeak Personality Quirks](http://dndspeak.com/2017/12/100-personality-quirks/ "100 Personality Quirks")  table, or make up your own personality quirk(s).
+Personality Quirks are unusual characteristics, weird behaviors, or peculiar habits that add flavor to a character without mechanical impact. Give your character one to three Personality Quirks by choosing, rolling on the Personality Quirk Table (see [Appendix C](#appendix-b-example-aspects-appendix-c-quirks-tables)), rolling on this [DndSpeak Personality Quirks](http://dndspeak.com/2017/12/100-personality-quirks/ "100 Personality Quirks") table, or inventing your own.
 
 #### Character History
 
-Tell your character's story. Here's some questions to get you started:
+Tell your character's story. Use these questions as a starting point:
+
 * What are the important details from your past?
-* Where did you grow up or where are you from?
-* What is your family like and who are the members of it?
-* What relationships do you have and with whom?
-* What was your occupation and/or hobby? What is your father's occupation?
-* What are some of the interesting things that have happened to you in your life?
-* How did you discover your special powers (from your Class)?
-* How did you obtain some of the skills and abilities you are proficient in?
-* You got an extra feat, how did you learn that ability?
-* What are the explanations of your Personality traits, ideals, bonds, and flaws?
+* Where did you grow up, and where are you from?
+* What is your family like? Who are its members?
+* What relationships do you have, and with whom?
+* What was your occupation or hobby? What did your father do?
+* What interesting things have happened to you?
+* How did you discover your special powers?
+* How did you acquire the skills and abilities you're proficient in?
+* You received an extra feat — how did you learn that ability?
+* What shaped your Personality Traits, Ideals, Bonds, and Flaws?
 * What are some of your past accomplishments?
-* Who are people that have influenced you, or that you looked up to?
+* Who has influenced you or inspired you?
 * Do you have a title, reputation, or position?
-* What are some things that you dislike or that really bother you?
+* What do you dislike or find intolerable?
 * What personal problems are you dealing with?
-* Do you have other character flaws or shortcomings?
 * What are your aspirations, dreams, or goals?
 
-As you play this game some of the answers to these questions may change. Flesh them out as your character gains experiences and builds character. You may not have the details for some of the answers now, but as they come continue to write them down.
+Not all of these need answers right away. As your character gains experience, continue filling in the details and writing them down.
 
 \columnbreak
 
 #### Call to Adventure
 
-Why are you an adventurer? Here are some ideas:
-* Searching for someone or something:
-   * Missing family member
-   * Orphan looking for parents
-   * A missing family heirloom
-   * An artifact
-   * Trying to figure out who you are
-   * Understanding of why you have special powers
-* Quest:
-   * Destroy something evil
-   * Performing a task for the king, chief, or leader
-   * Solve a puzzle or mystery
-   * Helping someone desperate or in need
-   * Uncovering an important piece of knowledge
-* Revenge:
-   * Recapture homeland
-   * Hunt down a Big Bad Evil Guy
-* Outcast or lost:
-   * Amnesia
-   * Slave
-   * Refugee
-* Other
-   * Fulfilling your duty
-   * Running away
+Why are you an adventurer? Consider one of the following:
+
+* **Searching for someone or something:**
+  * A missing family member
+  * An orphan seeking their parents
+  * A lost family heirloom or artifact
+  * Understanding of who you are or why you have special powers
+* **Quest:**
+  * Destroy something evil
+  * Complete a task for a king, chief, or leader
+  * Solve a puzzle or mystery
+  * Help someone desperate or in need
+  * Uncover an important piece of knowledge
+* **Revenge:**
+  * Recapture a lost homeland
+  * Hunt down a great enemy
+* **Outcast or lost:**
+  * Amnesia
+  * Escaped slavery
+  * Refugee
+* **Other:**
+  * Fulfilling a duty
+  * Running away from something
 
 ___
-What were the events that happened leading up to your character's Call to Adventure?
+What were the events that led up to your character's Call to Adventure?
 
 #### Party Connections
 
-It is not necessary to find connections between the characters in the party, but doing so makes the game much more rich and meaningful. See if you can find ways your character is connected to the other characters in your group, and intertwining their backgrounds is even better.
+It isn't required to find connections between party members, but doing so makes the game richer and more meaningful. Look for ways your character is connected to others in the group — and if you can intertwine your backstories, even better.
 
 #### Dynamic History
 
-Remember to adjust and add to these details as you go on your adventure. Talk to the DM if you feel you need to make some changes so they better fit you and your character.
-   
+Remember to adjust and add to these details as your adventure unfolds. Talk to the DM if you feel changes are needed to better fit your character's evolving story.
+
 ### Player Long-Term Goals
 
-Think about what you, as the player, want to do with your character over a long period of time.
-* What do you (the player) want to do with the character after completing the initial call to adventure?
-* What do you want your character to be when he or she is 20th level?
-* As a player, what are you trying to do in the world on a grand scale?
+Think about what you — as the player — want to accomplish with your character over the long arc of the campaign:
 
-Examples: rule a dominion as king or emperor, create a major artifact, explore worlds beyond this world, become a demigod, discover lost magical secrets, destroy some great specific evil, get fabulously rich and retire, build a great city or empire
+* What do you want to do with your character after completing the initial Call to Adventure?
+* What do you envision your character becoming at 20th level?
+* On a grand scale, what are you trying to accomplish in the world?
+
+*Examples: rule a dominion as king or emperor, forge a legendary artifact, explore planes beyond this world, become a demigod, uncover lost magical secrets, destroy a great evil, retire fabulously wealthy, or build a city or empire from nothing.*
 
 <img src='https://www.gmbinder.com/images/hpAsAVH.png' style='position:absolute;bottom:20px;right:100px;width:155px; mix-blend-mode:multiply;filter:brightness(120%)saturate(100%);transform:rotate(0deg)scaleX(1.2)scaleY(1);' />
 
-
-
 \pagebreakNum
-
-
-
 
 ### Quests
 
-A Character Quest is an immediate goal for the character to be actively attempting to accomplish. Ideally quests should enhance and/or develop the character's depth, back-story, or personality.
+A Character Quest is an immediate, active goal the character is working to accomplish. Quests should ideally enhance and develop the character's depth, backstory, or personality.
 
-_It is not typical for a player in D&D to invent storylines, this is almost always left to the DM. But Quests encourage players to participate in the creation of the story and story arcs. Embrace this._
-
+*In standard D&D, players rarely invent storylines — that's the DM's domain. But Quests invite players to participate in shaping the story and its arcs. Embrace this.*
 
 #### Purpose
-The purpose of a quest is so that the DM can regularly reward the player with XP for something other than killing monsters. Quests should be something related to the Character's Background so that non-mechanical character development continues.
+
+Quests give the DM a regular opportunity to reward players with XP for something other than combat. They should connect to the character's Background, ensuring that non-mechanical character development continues throughout the campaign.
 
 #### Rewards
-Rewards should be negotiated with the DM. Quest rewards can simply be XP, or they can be anything the DM would like to award, i.e. Feats, Class Features, magic items, or other abilities. The DM can freely hand out rewards even if only steps were taken in advancing a Quest or the storyline of one of a character's Quests.
+
+Rewards are negotiated with the DM. They can be as simple as XP, or as meaningful as Feats, Class Features, magic items, or other abilities. The DM may award rewards even when only partial progress has been made on a Quest.
 
 #### Example Quests
-* A settlement has fallen under the unjust rule of a cruel leader. What leverage do they hold over these people? What is your connection to the community? What can be done to overthrow this tyrant?
-* You have come across or learned of a rich unclaimed resource. What hazards must be overcome before a claim can be established? What force opposes you?
-* Your dreams are haunted by visions of a pillar which stands in an unfamiliar landscape. What do you see? Why are you sworn to seek it out?
-* You have vivid reoccurring dreams of a city. It has strong stone walls, bustling markets, and a keep on a high hill. And so many people! Nowhere in the land does such a city exist. In your dreams, you are the ruler of this city. Somehow, no matter how long it takes, you must make this vision a reality.
-* You come upon a dying warden. She tells you of an important mission, and charges you with its completion. “Swear to me,” she says, reaching out with a bloodied hand to give you an object crucial to the quest. What is it?
-* Someone you love walked the paths of power, and succumbed to it. Who are they? Why did they fall into darkness? Where are they now? Do you seek to save them or defeat them?
-* You bear the mark of a god. What is it? The priests declare this as a sign you are chosen to fulfill a destiny. Do you accept this fate, and swear to see it through, or are you determined to see it undone? What force opposes you?
-* You were witness to an attack by what you thought was an animal of monstrous proportions. No one believes you. In fact, you are accused of the murder you blame on this beast. How can you prove your innocence? Can you even trust your own memories of the event?
-* You are consumed with the need to bring vengeance upon a specific monster, why? What makes this creature distinctive? Is the creature still causing harm or is it fleeing your vengeance so you now have to hunt it? Is your rage so blind that you overlook the needs of others?
-* You bear the scars of an attack by a horror. What was it? Are those scars physical, emotional, or both? How do you seek to make yourself whole again?
-* An elder wolf (or some other beast), white as snow, appears to you in a dream. When you wake, the memory of its piercing gaze lingers. Is the vision a dark portent or a promise? Why are you compelled to seek this beast out?
-* Two prominent families are at odds. What is the source of the conflict? What is your relationship to them? What danger threatens to destroy their community if they can’t put aside their petty squabble?
+
+* A settlement suffers under the rule of a cruel leader. What leverage does that leader hold? What is your connection to this community? What must be done to overthrow them?
+* You have discovered a rich, unclaimed resource. What hazards stand between you and claiming it? Who opposes you?
+* Your dreams are haunted by visions of a lone pillar standing in an unfamiliar landscape. What do you see? Why are you compelled to seek it out?
+* You have vivid, recurring dreams of a great walled city — bustling markets, a keep on a high hill, thousands of people. Nowhere in the land does such a place exist. In your dreams, you are its ruler. Somehow, you must make this real.
+* You come upon a dying warden. She charges you with completing a vital mission. *"Swear to me,"* she says, pressing something into your hand. What is it?
+* Someone you love walked the paths of power and was consumed by them. Who are they? Why did they fall? Where are they now? Do you seek to save them — or stop them?
+* You bear the mark of a god. The priests declare it a sign of destiny. Do you accept this fate, or fight to undo it? What force stands in your way?
+* You witnessed an attack by a creature of monstrous size. No one believes you — in fact, you are accused of the very murders you blame on this beast. How do you prove your innocence? Can you even trust your own memories?
+* You are consumed by the need for vengeance against a specific monster. What makes it distinctive? Is it still causing harm, or fleeing your pursuit? Does your rage ever cause you to overlook the needs of others?
+* You bear the scars of a horror's attack. What was it? Are those scars physical, emotional, or both? How do you seek to make yourself whole?
+* An ancient white wolf appears to you in a dream. When you wake, the memory of its gaze lingers. Is the vision a dark portent or a promise? Why are you compelled to find it?
+* Two prominent families are at odds. What caused the conflict? What is your relationship to them? What danger threatens their community if they cannot put aside their quarrel?
 
 <img src='https://www.gmbinder.com/images/hpAsAVH.png' style='position:absolute;bottom:20px;right:20px;width:415px; mix-blend-mode:multiply;filter:brightness(120%)saturate(120%);transform:rotate(0deg)scaleX(1.2)scaleY(1);' />
 
-
-
 \pagebreakNum
-
-
-
 
 ## Optional: Pre-Levels
 
-The concept of pre-levels is adding one or more character levels before level 1. In general, abilities and feats that a character class has at level 1, would then be divided among the pre-levels to generate a gradual progression leading up to level 1.
+Pre-Levels add one or more character levels before 1st level, gradually introducing class abilities across several early stages rather than all at once. This creates a slower, more grounded progression leading into full character play.
 
 #### Choose a Race
 
-Choose a race, but do not take any racial ability score adjustments.
+Choose a race, but do not apply any racial Ability Score Increases yet.
 
 #### Choose an Aptitude (Class)
 
-Do not choose a class, you are a peasant. But do choose a Target Class, an aptitude, that you are working towards.
+You are not yet a member of a class — you are a peasant with potential. Choose a Target Class representing the aptitude you are working toward.
 
 #### Determine Ability Scores
 
-Roll ability scores in order (Str, Dex, Con, Int, Wis, Cha) by using the following formula: 8 + 1d4 - 1d4 (average 8). Alternatively you can roll 7 + 2d4 - 2d4 (average 7, but greater potential).
+Roll ability scores in order (Str, Dex, Con, Int, Wis, Cha) using the formula: **8 + 1d4 − 1d4** (average 8). For greater variance, use **7 + 2d4 − 2d4** (average 7, but higher ceiling and lower floor).
 
 ### Level Advancement
 
-To advance from level A to B is 50 XP, from B to C is 100 XP, from C to D is 150 XP, and from D to level 1 is 200 XP.
+Advancement costs are as follows: Pre-Level A to B costs 50 XP, B to C costs 100 XP, C to D costs 150 XP, and D to 1st level costs 200 XP.
 
 <div class='classTable'>
 
 ##### Peasant Pre-Levels
 | XP   | Pre-Level | HD  | Proficiency Bonus | New Features |
 |:----:|:-----:|:---:|:--------------:|:-----------:|
-| -500 | A     | 1d4 | +0  | none |
+| -500 | A     | 1d4 | +0  | None |
 | -450 | B     | 2d4 | +0  | 1 Class Skill, and 1 Class Weapon or Cantrip |
 | -350 | C     | 3d4 | +1  | 1 Class Saving Throw, and 1 Class Armor or Tool |
 | -200 | D     | 4d4 | +1  | 1 Class Feature (from 1st level) |
@@ -980,34 +966,34 @@ To advance from level A to B is 50 XP, from B to C is 100 XP, from C to D is 150
 
 #### Hit Points
 
-Roll a d4 for each pre-level, but do not add (or subtract) CON.
+Roll a d4 for each pre-level. Do not add or subtract your CON modifier at this stage.
 
-#### At 1st Level:
+#### At 1st Level
 
-Once you advance through the pre-levels move on to 1st level.
+Once you advance through the pre-levels, move on to 1st level with the following:
 
-* **Keep pre-level HPs:** Do not take max HPs for level 1, rather roll your class's HD die normally adding CON and then add this sum onto your pre-level HPs.
-* **Background target:** Choose a background that you would like to work towards, but do not take any of the mechanical features. You will work on the Background features during your downtime. The DM will facilitate the skills, proficiencies, and equipment you receive from this.
-* **Racial Ability Scores:** Take your race's Ability Score Increases.
-* **Class Features:** Finish taking all 1st level class features that you have not received yet.
+* **Keep pre-level HP:** Do not take maximum HP for 1st level. Instead, roll your class's Hit Die normally, add your CON modifier, and add the result to your pre-level HP total.
+* **Background:** Choose a Background to work toward, but do not take any of its mechanical features yet. You will earn those features through downtime. The DM will facilitate which skills, proficiencies, and equipment you receive.
+* **Racial Ability Scores:** Apply your race's Ability Score Increases now.
+* **Class Features:** Take all remaining 1st level class features you have not yet received.
 
-#### After 1st level
+#### After 1st Level
 
-As you continue advance through levels **do not** take any Ability Score Improvements as indicated on the Class Table. These will be facilitated generously by the DM during game play.
+As you continue to level up, **do not** take Ability Score Improvements as listed on the Class Table. These will be awarded by the DM organically during play.
 
-Pre-levels will never count towards any features or abilities that use levels as part of the calculation.
+Pre-levels never count toward any feature or ability that uses character level as part of its calculation.
 
 ### DM Notes
 
-* **Fragile:** During Pre-Levels, make sure the players aware that their characters are very fragile, one successful attack against them could be the end. Player creativity and ingenuity should be top priorities for encounters, and running away is usually a good option.
-* **HD:** Pre-level characters can use their HD to heal (like normal). The DM can decide if Pre-level HD are kept once a character gets to 1st level (not recommended).
-* **Background Proficiencies:** Have the characters "earn" the mechanical features from the Background they chose, as a part of downtime activities. They should probably have all of these by level 2 or 3.
-* **ASI:** During Pre-Levels, look for every opportunity to pass out ability score increases. Any natural 20 should be an ASI of the associated ability **during game play**. Successful skill checks that were either creative or entertaining should also be strong candidates for an ASI. Create as many opportunities as possible for non-lethal dice rolls. (See [Appendix D](#appendix-d-game-play-asi-examples) for examples.)
-* **Career ASI:** ASIs are no longer part of the normal character level advancement. The DM should continue to look for opportunities to pass out ASIs during game play throughout the character's **entire career**. Characters should earn about 3 ASIs per pre-level and per normal level up to around level 5, and then about 2 per level after that. The DM can choose to give any ASIs upon any character level advancement.
+* **Fragile:** Pre-level characters are extremely vulnerable — a single successful attack could be fatal. Emphasize that player creativity and ingenuity are their greatest assets, and that running away is often the right call.
+* **Hit Dice:** Pre-level characters may use their HD to heal normally. The DM decides whether pre-level HD carry over to 1st level (not recommended).
+* **Background Proficiencies:** Have characters earn their Background's mechanical features through downtime activities. They should have all of them by level 2 or 3.
+* **ASI:** Look for every opportunity to award Ability Score Increases during play. A natural 20 should trigger an ASI in the associated ability. Creative or entertaining skill checks are also strong candidates. Create as many opportunities as possible for non-lethal dice rolls. (See [Appendix D](#appendix-d-game-play-asi-examples) for examples.)
+* **Career ASI:** ASIs are no longer part of standard level advancement. The DM should continue awarding them throughout the entire campaign. Characters should earn roughly 3 ASIs per level up through level 5, and about 2 per level after that. The DM may award ASIs at any level-up milestone.
 
-#### Guideline for ASI
+#### ASI Guideline
 
-| Level | ~ Ability Scores Total<sup>*</sup> | ~ ASI During Level |
+| Level | ~ Total Ability Scores<sup>*</sup> | ~ ASI During Level |
 |:-----:|:-----:|:-----:|
 | A     | 48 | 3 |
 | B     | 51 | 3 |
@@ -1022,8 +1008,7 @@ Pre-levels will never count towards any features or abilities that use levels as
 | 15    | 92 | 2 |
 | 20    | 102 | 2 |
 
-\* The sum of the six ability scores
-
+\* The sum of all six ability scores
 
 
 \pagebreakNum
